@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A4C155632ECAB8CD00973075 /* Parasitology.json in Resources */ = {isa = PBXBuildFile; fileRef = A4C155622ECAB8CD00973075 /* Parasitology.json */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A47934272ECA9B4600E03E15 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,25 +28,26 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A47934192ECA9B4400E03E15 /* Flashcards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flashcards.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A47934262ECA9B4600E03E15 /* FlashcardsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlashcardsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A47934302ECA9B4600E03E15 /* FlashcardsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlashcardsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A47934192ECA9B4400E03E15 /* VTNEFlashcards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VTNEFlashcards.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A47934262ECA9B4600E03E15 /* VTNEFlashcardsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VTNEFlashcardsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A47934302ECA9B4600E03E15 /* VTNEFlashcardsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VTNEFlashcardsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4C155622ECAB8CD00973075 /* Parasitology.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Parasitology.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A479341B2ECA9B4400E03E15 /* Flashcards */ = {
+		A479341B2ECA9B4400E03E15 /* VTNEFlashcards */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Flashcards;
+			path = VTNEFlashcards;
 			sourceTree = "<group>";
 		};
-		A47934292ECA9B4600E03E15 /* FlashcardsTests */ = {
+		A47934292ECA9B4600E03E15 /* VTNEFlashcardsTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = FlashcardsTests;
+			path = VTNEFlashcardsTests;
 			sourceTree = "<group>";
 		};
-		A47934332ECA9B4600E03E15 /* FlashcardsUITests */ = {
+		A47934332ECA9B4600E03E15 /* VTNEFlashcardsUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = FlashcardsUITests;
+			path = VTNEFlashcardsUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,9 +80,10 @@
 		A47934102ECA9B4400E03E15 = {
 			isa = PBXGroup;
 			children = (
-				A479341B2ECA9B4400E03E15 /* Flashcards */,
-				A47934292ECA9B4600E03E15 /* FlashcardsTests */,
-				A47934332ECA9B4600E03E15 /* FlashcardsUITests */,
+				A4C155622ECAB8CD00973075 /* Parasitology.json */,
+				A479341B2ECA9B4400E03E15 /* VTNEFlashcards */,
+				A47934292ECA9B4600E03E15 /* VTNEFlashcardsTests */,
+				A47934332ECA9B4600E03E15 /* VTNEFlashcardsUITests */,
 				A479341A2ECA9B4400E03E15 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,9 +91,9 @@
 		A479341A2ECA9B4400E03E15 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A47934192ECA9B4400E03E15 /* Flashcards.app */,
-				A47934262ECA9B4600E03E15 /* FlashcardsTests.xctest */,
-				A47934302ECA9B4600E03E15 /* FlashcardsUITests.xctest */,
+				A47934192ECA9B4400E03E15 /* VTNEFlashcards.app */,
+				A47934262ECA9B4600E03E15 /* VTNEFlashcardsTests.xctest */,
+				A47934302ECA9B4600E03E15 /* VTNEFlashcardsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +101,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A47934182ECA9B4400E03E15 /* Flashcards */ = {
+		A47934182ECA9B4400E03E15 /* VTNEFlashcards */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A479343A2ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "Flashcards" */;
+			buildConfigurationList = A479343A2ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "VTNEFlashcards" */;
 			buildPhases = (
 				A47934152ECA9B4400E03E15 /* Sources */,
 				A47934162ECA9B4400E03E15 /* Frameworks */,
@@ -108,18 +114,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A479341B2ECA9B4400E03E15 /* Flashcards */,
+				A479341B2ECA9B4400E03E15 /* VTNEFlashcards */,
 			);
-			name = Flashcards;
+			name = VTNEFlashcards;
 			packageProductDependencies = (
 			);
 			productName = Flashcards;
-			productReference = A47934192ECA9B4400E03E15 /* Flashcards.app */;
+			productReference = A47934192ECA9B4400E03E15 /* VTNEFlashcards.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A47934252ECA9B4600E03E15 /* FlashcardsTests */ = {
+		A47934252ECA9B4600E03E15 /* VTNEFlashcardsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A479343D2ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "FlashcardsTests" */;
+			buildConfigurationList = A479343D2ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "VTNEFlashcardsTests" */;
 			buildPhases = (
 				A47934222ECA9B4600E03E15 /* Sources */,
 				A47934232ECA9B4600E03E15 /* Frameworks */,
@@ -131,18 +137,18 @@
 				A47934282ECA9B4600E03E15 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				A47934292ECA9B4600E03E15 /* FlashcardsTests */,
+				A47934292ECA9B4600E03E15 /* VTNEFlashcardsTests */,
 			);
-			name = FlashcardsTests;
+			name = VTNEFlashcardsTests;
 			packageProductDependencies = (
 			);
 			productName = FlashcardsTests;
-			productReference = A47934262ECA9B4600E03E15 /* FlashcardsTests.xctest */;
+			productReference = A47934262ECA9B4600E03E15 /* VTNEFlashcardsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A479342F2ECA9B4600E03E15 /* FlashcardsUITests */ = {
+		A479342F2ECA9B4600E03E15 /* VTNEFlashcardsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A47934402ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "FlashcardsUITests" */;
+			buildConfigurationList = A47934402ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "VTNEFlashcardsUITests" */;
 			buildPhases = (
 				A479342C2ECA9B4600E03E15 /* Sources */,
 				A479342D2ECA9B4600E03E15 /* Frameworks */,
@@ -154,13 +160,13 @@
 				A47934322ECA9B4600E03E15 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				A47934332ECA9B4600E03E15 /* FlashcardsUITests */,
+				A47934332ECA9B4600E03E15 /* VTNEFlashcardsUITests */,
 			);
-			name = FlashcardsUITests;
+			name = VTNEFlashcardsUITests;
 			packageProductDependencies = (
 			);
 			productName = FlashcardsUITests;
-			productReference = A47934302ECA9B4600E03E15 /* FlashcardsUITests.xctest */;
+			productReference = A47934302ECA9B4600E03E15 /* VTNEFlashcardsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +192,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A47934142ECA9B4400E03E15 /* Build configuration list for PBXProject "Flashcards" */;
+			buildConfigurationList = A47934142ECA9B4400E03E15 /* Build configuration list for PBXProject "VTNEFlashcards" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -195,14 +201,16 @@
 			);
 			mainGroup = A47934102ECA9B4400E03E15;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = A479341A2ECA9B4400E03E15 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A47934182ECA9B4400E03E15 /* Flashcards */,
-				A47934252ECA9B4600E03E15 /* FlashcardsTests */,
-				A479342F2ECA9B4600E03E15 /* FlashcardsUITests */,
+				A47934182ECA9B4400E03E15 /* VTNEFlashcards */,
+				A47934252ECA9B4600E03E15 /* VTNEFlashcardsTests */,
+				A479342F2ECA9B4600E03E15 /* VTNEFlashcardsUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -212,6 +220,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4C155632ECAB8CD00973075 /* Parasitology.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,12 +267,12 @@
 /* Begin PBXTargetDependency section */
 		A47934282ECA9B4600E03E15 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A47934182ECA9B4400E03E15 /* Flashcards */;
+			target = A47934182ECA9B4400E03E15 /* VTNEFlashcards */;
 			targetProxy = A47934272ECA9B4600E03E15 /* PBXContainerItemProxy */;
 		};
 		A47934322ECA9B4600E03E15 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A47934182ECA9B4400E03E15 /* Flashcards */;
+			target = A47934182ECA9B4400E03E15 /* VTNEFlashcards */;
 			targetProxy = A47934312ECA9B4600E03E15 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -410,7 +419,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sound-architect.Flashcards";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sound-architect.vtneflashcards";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -442,7 +451,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sound-architect.Flashcards";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sound-architect.vtneflashcards";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -472,7 +481,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Flashcards.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Flashcards";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VTNEFlashcards.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/VTNEFlashcards";
 			};
 			name = Debug;
 		};
@@ -494,7 +503,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Flashcards.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Flashcards";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VTNEFlashcards.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/VTNEFlashcards";
 			};
 			name = Release;
 		};
@@ -541,7 +550,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A47934142ECA9B4400E03E15 /* Build configuration list for PBXProject "Flashcards" */ = {
+		A47934142ECA9B4400E03E15 /* Build configuration list for PBXProject "VTNEFlashcards" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A47934382ECA9B4600E03E15 /* Debug */,
@@ -550,7 +559,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A479343A2ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "Flashcards" */ = {
+		A479343A2ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "VTNEFlashcards" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A479343B2ECA9B4600E03E15 /* Debug */,
@@ -559,7 +568,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A479343D2ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "FlashcardsTests" */ = {
+		A479343D2ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "VTNEFlashcardsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A479343E2ECA9B4600E03E15 /* Debug */,
@@ -568,7 +577,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A47934402ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "FlashcardsUITests" */ = {
+		A47934402ECA9B4600E03E15 /* Build configuration list for PBXNativeTarget "VTNEFlashcardsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A47934412ECA9B4600E03E15 /* Debug */,
