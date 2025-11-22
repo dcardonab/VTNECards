@@ -67,6 +67,7 @@ extension View {
 // MARK: - Themed Title
 struct ThemedTitle: View {
     let text: String
+    let enableEmoji: Bool
     var body: some View {
         HStack(alignment: .firstTextBaseline, spacing: 8) {
             Text(text)
@@ -74,9 +75,11 @@ struct ThemedTitle: View {
                 .fontWeight(.heavy)
                 .fontDesign(.rounded)
                 .foregroundStyle(MiffyTheme.charcoal)
-            Text(AnimalEmoji.random())
-                .font(.system(size: 26))
-                .opacity(0.95)
+            if (enableEmoji) {
+                Text(AnimalEmoji.random())
+                    .font(.system(size: 26))
+                    .opacity(0.95)
+            }
         }
     }
 }
@@ -87,7 +90,7 @@ struct ThemedTitle: View {
         MiffyTheme.pastelBackground
             .ignoresSafeArea()
         VStack(spacing: 20) {
-            ThemedTitle(text: "Miffy Theme 🐰")
+            ThemedTitle(text: "Miffy Theme", enableEmoji: true)
             VStack(alignment: .leading, spacing: 8) {
                 Text("This is a card styled area with soft edges and a gentle shadow.")
                 Text("Use it for flashcards, drills, and highlights.")
