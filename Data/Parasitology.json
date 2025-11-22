@@ -1,7 +1,7 @@
 [
   {
     "title": "Dirofilaria imitis",
-    "detail": "• Heartworm (important for dogs, possible in cats)\n  • Microfilariae is the prelarval stage found in peripheral blood\n• Located in the heart\n• Transmission from mosquito bites\n• Diagnosed by modified Knott, Millipore filtration, ELISA antigen test\n• Clinical signs include lethargy, exercise intolerance, right sided cardiac enlargement; acute or chronic in cats; acute may result in death\n• Treated with melarsomine (for adults) and a microfilaricide like ivermectin (for microfilariae), along with doxycycline and prednisone for side effects like lung congestion and pain/swelling at injection site, and cage rest for 1 month\n• Controlled by preventives, reducing exposure to mosquitos"
+    "detail": "• Heartworm (important for dogs, possible in cats)\n\t• Microfilariae is the prelarval stage found in peripheral blood\n• Located in the heart\n• Transmission from mosquito bites\n• Diagnosed by modified Knott, Millipore filtration, ELISA antigen test\n• Clinical signs include lethargy, exercise intolerance, right sided cardiac enlargement; acute or chronic in cats; acute may result in death\n• Treated with melarsomine (for adults) and a microfilaricide like ivermectin (for microfilariae), along with doxycycline and prednisone for side effects like lung congestion and pain/swelling at injection site, and cage rest for 1 month\n• Controlled by preventives, reducing exposure to mosquitos"
   },
   {
     "title": "Toxoplasma gondii",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Dipylidium caninum",
-    "detail": "• Tapeworm (cats and dogs)\n  • Proglottids: Segments contain eggs; break off from the body and expelled in feces\n• Located in the small intestines\n• Infected by ingestion of larvae in intermediate host (i.e., flea or lice)\n• Diagnosed by proglottids identification, or fecal or centrifugal flotation\n• Usually no clinical signs\n• Treated with PO praziquantel (Droncit)\n• Control intermediate hosts to control spread; treat all pets for tapeworm and fleas\n• Taenia spp. and Echinococcus spp. also tapeworms of cats and dogs; infection from eating other animals and usually no signs"
+    "detail": "• Tapeworm (cats and dogs)\n\t• Proglottids: Segments contain eggs; break off from the body and expelled in feces\n• Located in the small intestines\n• Infected by ingestion of larvae in intermediate host (i.e., flea or lice)\n• Diagnosed by proglottids identification, or fecal or centrifugal flotation\n• Usually no clinical signs\n• Treated with PO praziquantel (Droncit)\n• Control intermediate hosts to control spread; treat all pets for tapeworm and fleas\n• Taenia spp. and Echinococcus spp. also tapeworms of cats and dogs; infection from eating other animals and usually no signs"
   },
   {
     "title": "Cystoisospora spp.",
@@ -45,7 +45,7 @@
   },
   {
     "title": "Cestode",
-    "detail": "• Tapeworm (adult stage)\n  • TW parts: Scolex, neck, strobila (composed of proglottids)\n• Usually found in the intestinal tract"
+    "detail": "• Tapeworm (adult stage)\n\t• TW parts: Scolex, neck, strobila (composed of proglottids)\n• Usually found in the intestinal tract"
   },
   {
     "title": "Metacestode",
@@ -81,7 +81,7 @@
   },
   {
     "title": "Common parasites",
-    "detail": "• Protozoa\n  • One-celled, microscopic parasites like ameba and flagellates (e.g., giardia); diseases include malarias, coccidioses\n• Helminths\n  • Multi-celled, usually macroscopic parasites like flat-, round-, tapeworms, flukes; diseases include heartworm\n• Ectoparasites and arthropods\n  • Live on or in the skin, transmit infective organisms (flea, mosquito"
+    "detail": "• Protozoa\n\t• One-celled, microscopic parasites like ameba and flagellates (e.g., giardia); diseases include malarias, coccidioses\n• Helminths\n\t• Multi-celled, usually macroscopic parasites like flat-, round-, tapeworms, flukes; diseases include heartworm\n• Ectoparasites and arthropods\n\t• Live on or in the skin, transmit infective organisms (flea, mosquito"
   },
   {
     "title": "Trematode",
@@ -96,7 +96,7 @@
     "detail": "• A single cell formed by the fusion of an egg and a sperm, containing the complete genetic material needed to develop into a new individual"
   },
   {
-    "title": "Baermann technique",
+    "title": "Baermann technique [[image:Parasitology_Image01.png]]",
     "detail": "• Used to recover nematode (roundworm) larvae from feces or soil\n• Warm water stimulates larvae, which sinks to the bottom of a funnel\n• After 24 hours, a drop of liquid is removed from the bottom of the funnel and placed on microscope slide"
   },
   {

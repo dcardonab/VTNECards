@@ -4,13 +4,4 @@
    <FileRef
       location = "self:">
    </FileRef>
-   <FileRef
-      location = "group:MiffyTheme1.swift">
-   </FileRef>
-   <FileRef
-      location = "group:MiffyTheme 2.swift">
-   </FileRef>
-   <FileRef
-      location = "group:MiffyTheme 3.swift">
-   </FileRef>
 </Workspace>

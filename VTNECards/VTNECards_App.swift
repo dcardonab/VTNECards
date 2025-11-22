@@ -1,6 +1,6 @@
 //
-//  FlashcardsApp.swift
-//  Flashcards
+//  VTNECards_App.swift
+//  VTNECards
 //
 //  Created by David Cardona on 11/16/25.
 //
