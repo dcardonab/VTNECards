@@ -17,6 +17,13 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Configure git and pull latest
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          # git config pull.rebase false
+          git pull origin main
+
       - name: Debug repo layout
         run: |
           echo "PWD:"
@@ -48,14 +55,8 @@ jobs:
           echo "Contents of data/images:"
           ls -R data/images || echo "data/images not found"
 
-      - name: Pull latest changes
-        run: git pull origin main
-
       - name: Commit and push generated content
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-
           # Stage JSON, images, and manifest if they exist
           git add data/json/*.json data/json/manifest.json data/images/* 2>/dev/null || true
 
