@@ -17,11 +17,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Ensure branch is up to date
-        run: |
-          git config pull.rebase false
-          git pull origin "${GITHUB_REF_NAME}"
-
       - name: Debug repo layout
         run: |
           echo "PWD:"
@@ -60,9 +55,6 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-          git fetch origin "$BRANCH_NAME"
-          git pull --rebase origin "$BRANCH_NAME"
-
           # Stage JSON, images, and manifest if they exist
           git add data/json/*.json data/json/manifest.json data/images/* 2>/dev/null || true
 
@@ -74,6 +66,10 @@ jobs:
           fi
 
           git commit -m "Update flashcard content from DOCX"
+
+          # Rebase our new commit(s) onto the latest remote branch
+          git fetch origin "$BRANCH_NAME"
+          git rebase "origin/$BRANCH_NAME"
 
           # Push back to the same branch that triggered the workflow
           git push origin HEAD:"$BRANCH_NAME"
