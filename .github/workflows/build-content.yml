@@ -1,0 +1,48 @@
+name: Build Flashcard Content
+
+on:
+  push:
+    paths:
+      - 'data/*.docx'   # Only run when DOCX files in data/ change
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to push changes
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install python-docx
+
+      - name: Run parser
+        run: |
+          python tools/parse_docx_to_json.py \
+            --docx-dir data \
+            --output-dir data
+
+      - name: Commit and push generated content
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          # Stage JSON, images, and manifest if they exist
+          git add data/*.json data/*Image* data/manifest.json 2>/dev/null || true
+
+          # If nothing changed, exit quietly
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update flashcard content from DOCX"
+          git push

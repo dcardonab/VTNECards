@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A4D02C552ED29D90002137BC /* .gitignore in Sources */ = {isa = PBXBuildFile; fileRef = A4D02C542ED29D8C002137BC /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A47934272ECA9B4600E03E15 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		A47934192ECA9B4400E03E15 /* VTNECards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VTNECards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A47934262ECA9B4600E03E15 /* VTNECardsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VTNECardsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A47934302ECA9B4600E03E15 /* VTNECardsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VTNECardsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4D02C542ED29D8C002137BC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -80,6 +85,7 @@
 		A47934102ECA9B4400E03E15 = {
 			isa = PBXGroup;
 			children = (
+				A4D02C542ED29D8C002137BC /* .gitignore */,
 				A4CF89512ECB6B0700E7BB29 /* Data */,
 				A479341B2ECA9B4400E03E15 /* VTNECards */,
 				A47934292ECA9B4600E03E15 /* VTNECardsTests */,
@@ -245,6 +251,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4D02C552ED29D90002137BC /* .gitignore in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
