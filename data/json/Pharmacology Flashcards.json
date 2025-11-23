@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Pharmacokinetics",
+    "detail": "• Movement of drugs in the body\n\t• Absorption: Movement of drug from administration site to circulating blood\n\t• Distribution: Movement of absorbed drug from blood to tissues\n\t• Metabolism (biotransformation): Chemical modification of drug to active, inactive, or toxic metabolite; mostly in the liver\n\t• Excretion (elimination): Removal of drug by kidney or liver in urine, bile, feces, expired air, sweat, saliva, and tears"
+  },
+  {
+    "title": "Pharmacodynamics",
+    "detail": "• Biochemical and physiologic effects of drugs\n\t• Mechanism of action (MOA): Drugs often “act” by interacting with a target protein like a receptor in a specific cell; agonists activate and antagonists block (exception are drugs that produce effects on the basis of their physical characteristics)\n\t• Side effects (adverse reactions): Commonly linked to MOA and result from the interaction of the drug with other cells than the target cell/tissue, alteration of patient’s physiology, or pharmacokinetics\nDose dependent reactions: Predictable, affects all, increase w dose\nIdiosyncratic drug reactions: Unpredictable, dose independent although risk increases w dose, often ass. w an immune system response"
+  },
+  {
+    "title": "Therapeutic drug monitoring",
+    "detail": "• Periodic measurement of the amount of a drug in the blood"
+  },
+  {
+    "title": "Veterinarian-client-patient relationship (VCPR)",
+    "detail": "• Must be established before prescription of drugs\n\t• Veterinarian has assumed responsibility for making medical judgments and client has agreed to follow his instructions\n\t• Veterinarian has sufficient knowledge of the animal to make a preliminary diagnosis\n\t• Veterinarian is available for follow-up in case of adverse reactions\n\t• Veterinarian provides oversight of treatment, compliance, and outcome\n\t• Patient records are maintained"
+  },
+  {
+    "title": "Controlled substances",
+    "detail": "• Prescription drugs with potential for addiction and abuse by humans\n• Five schedules based on potential for abuse\n\t• I: High abuse potential, not used in vet med (heroine, LSD)\n\t• II:  High abuse potential, physical/psychic dependence (morphine, codeine, methadone, fentanyl, pentobarbital)\n\t• III:  Moderate abuse potential, more psychological dependence (buprenorphine, ketamine, tiletamine)\n\t• IV: Low abuse potential (phenobarbital, butorphanol, alfaxalone, diazepam)\n\t• V:  Low abuse potential, no DEA limit on prescriptions (antitussives (codeine))"
+  },
+  {
+    "title": "Parenteral",
+    "detail": "• Administration of drugs by injection (vs. oral/nonparenteral route)"
+  },
+  {
+    "title": "Dosage",
+    "detail": "• Amount of drug per body weight (mg/kg, mL/kg, tablets/kg)"
+  },
+  {
+    "title": "Dose",
+    "detail": "• Amount of drug that will be given with each administration (mg, mL, units [U])\nDose (mg) = Weight (kg) x Dosage (mg/kg)\nDose (mL) = Dose (mg) ÷ Concentration (mg/mL)"
+  },
+  {
+    "title": "Bioavailability",
+    "detail": "• Fraction of a drug dose that reaches the bloodstream\n• Drugs administered IV are 100% bioavailable (i.e., bioavailability of 1)\n• Bioavailability is influenced by dosage form of the drug, vascularity of administration site, mechanism of absorption, and metabolism of the drug\n• Bioavailability of same drug can change with route—butorphanol is 100% bioavailable IV but 20% bioavailable PO"
+  },
+  {
+    "title": "First-pass effect",
+    "detail": "• Portion of a drug that is lost during the process of absorption, which typically happens in the intestinal wall and liver\n• May cause large portions of drug to be readily metabolized before entering general circulation, necessitating a higher dose to be effective"
+  },
+  {
+    "title": "Bound and unbound drugs",
+    "detail": "• Portion of the drug is bound to proteins in the blood, mostly albumin\n• Bound portions are too large to move through fenestrations and into tissues, so only unbound portions will be distributed\n• Important when highly protein-bound drugs are administered to patients with hypoproteinemia since less protein will mean more of the drug will be distributed, making side effects more likely"
+  },
+  {
+    "title": "Drug clearance (Cl)",
+    "detail": "• A pharmacokinetic value describing drug elimination\n• Rate at which a drug is removed from an organ or the body\n• Expressed as volume of plasma cleared of drug per unit time (mL/minute)\n• Used to measure efficiency of elimination and determine dosage regimen necessary to achieve a stable concentration in the blood (i.e., steady state—amount of drug administered equals amount of drug eliminated)"
+  },
+  {
+    "title": "Half-life (t1/2)",
+    "detail": "• Time required for the amount of a drug in the body to decrease by 50%\n• Each half-life lowers drug concentration by half of the level it was at the beginning of that half-life\n• Estimates the duration of a drug’s effect, so used to estimate dosing interval\n• Also used to establish withdrawal time in food-producing animals (i.e., period when food products contain unacceptable amounts of the drug—may cause allergies, antibiotic resistance)\n• Time needed to reach steady state, or time required for 97% of the drug to be removed, is approximately 5x the half-life"
+  },
+  {
+    "title": "Classes of drugs",
+    "detail": "• Antimicrobial drugs\n• Antiparasitic drugs\n• Endocrine drugs\n• GI drugs\n• Cardiovascular drugs\n• Respiratory drugs\n• Anticonvulsants\n• Immunosuppressants\n• Anti-inflammatory drugs\n• Dietary supplements / Nutraceuticals"
+  },
+  {
+    "title": "Antimicrobial drugs",
+    "detail": "• Antibacterial drugs (antibiotics)\n\t• Vomiting and diarrhea most common side effect due to effects on GI flora and irritation of stomach\n• Antifungal drugs\n\t• Systemic (ketoconazole) or topical antifungals"
+  },
+  {
+    "title": "Antibiotics",
+    "detail": "• Penicillins (G, V, Amoxicillin)\n• Cephalosporins (Cefazolin, Cephalexin)\n• Aminoglycosides (Gentamicin, Neomycin)\n• Sulfonamides (Sulfadiazine)\n• Fluoroquinolones (Enrofloxacin)\n• Macrolides (Erythromycin)\n• Linosamides (Clindamycin)\n• Tetracyclines (Doxycycline)\n• Nitromidazoles (Metronidazole)\n• Macrolides (Chloramphenicol)"
+  },
+  {
+    "title": "Bacteriostatic",
+    "detail": "• Antibiotics that inhibit growth/replication of bacteria (vs. bactericidal)"
+  },
+  {
+    "title": "Antiparasitics",
+    "detail": "• Bemzimidazoles (Fenbendazole) – nematodes, lungworms, cestodes, giardia\n• Tetrahydropyrimidines (Pyrantel) – nematodes\n• Prazinquantel – cestodes, trematodes\n• Avermectins (Ivermectin, Sekamection) and Milbemycins – nematodes, arthropods\n• Metronidazole – giardia, balantidium coli"
+  },
+  {
+    "title": "Macrocyclic lactones",
+    "detail": "• Avermectins and milbemycins\n• Broad spectrum; various nematodes and arthropods, also as heartworm preventive in dogs\n• Some species are sensitive (Collies) so used with caution in dogs"
+  },
+  {
+    "title": "Ectoparasiticides",
+    "detail": "• Contact insecticides (pyrethrins, indoxacarb, lime sulfur)\n• Drugs that target parasite’s nervous system (amitraz, avermectins)\n• Insect growth regulators (lufeneron, pyripoxifen)"
+  },
+  {
+    "title": "Heartworm treatment",
+    "detail": "• Multimodal treatment—an adulticide to kill off the adult HWs, ivermectin to eliminate larvae, an anti-inflammatory to minimize inflammation associated w HW presence, and a doxycycline to reduce numbers of Wolbachia\nCase: Ivermectin + Melarsomine + Glucocorticoid + Prednisone + Doxycycline\n• Exercise restriction is essential since pulmonary embolism from dead worms is a risk"
+  },
+  {
+    "title": "Endocrine drugs",
+    "detail": "• Thyroid drugs:\n\t• Hypothyroidism: Common in dogs and horses, treated w levothyroxine (T4)\n\t• Hyperthyroidism: Common in cats, treated w methimazole or radioactive iodine\n• Adrenal drugs: Manage cortisol\n\t• Hyperadrenocorticism (Cushing): In dogs and horses, treated w mitotane or trilostane\n\t• Hypoadrenocorticism (Addison): Can be spontaneous in dogs, or result from Cushing treatment, treated w fludrocortisone or prednisone+desoxycorticosterone pivalte\n• Insulin"
+  },
+  {
+    "title": "Diabetes",
+    "detail": "• Insulin: Hormone produced by the pancreas; responsible for cellular uptake of glucose\n• Diabetes mellitus: Disease of impaired carbohydrate, protein, and fat metabolism due to insulin deficiency or resistance; treated w diet and activity modification"
+  },
+  {
+    "title": "GI Drugs",
+    "detail": "• Antiemetics: metoclopramide, maropitant citrate, mirtazapine\n• Emetics: xylazine, apomorphine\n• Antidiarrheals: loperamide, pectin, probiotics\n• Laxatives: lactulose, magnesium sulfate/hydroxide, castor oil, psyllium, petroleum products\n• Prokinetics: Increase peristalsis in constipation or ileus; cisapride, metoclopramide\n• Antiacids, antiulcers: omeprazole, sucralfate, ranitidine\n• Appetite stimulants: mirtazapine\n• Digestive enzyme supplements: pancrealipase"
+  },
+  {
+    "title": "Cardiovascular drugs",
+    "detail": "• Diuretics: Reduce fluid accumulation (edema) by increasing sodium and water excretion (furosemide, spironolactone)\n• Inotropic agents (+ive intotropes): Improve contractility of heart muscle (pimobendan (also vasodilator), digoxine)\n• Antihypertensives: Modulate BP by dilating blood vessels (ACE inhibitors (enalapril), calcium channel blockers, etc.)\n• Antiarrhythmics: Control rhythm abnormalities; I-IV (I: blockade of fast sodium channels-lidocaine; 2: beta-adrenergic blockade-propranolol, atenolol; 3: potassium channel blockers-sotalol; 4: calcium channel blockade-diltiazem)\n+ Anticoagulants: Heparin, aspirin (slow metabolism in cats), clopidogrel"
+  },
+  {
+    "title": "Respiratory drugs",
+    "detail": "• Antitussives: butorphanol, hydrocodone, dextromethorphan\n• Expectorants: guaifenesin\n• Mucolytics: acetylcysteine\n• Decongestants: pseudoephedrine\n• Bronchodilators: albuterol, aminophylline, diphenhydramine\n• Respiratory stimulants: doxampram"
+  },
+  {
+    "title": "Anticonvulsants",
+    "detail": "• Most common for long-term control of epileptic seizures are phenobarbital (first-line), potassium bromide (added if first-line not sufficient, but not in cats), and levetiracetam; all work by influencing NT release and decreasing seizure-related neuronal activity\n• Status epilepticus and cluster seizures require immediate treatment—IV diazepam (a benzo tranq) is used to stop seizure"
+  },
+  {
+    "title": "Immunosuppressants",
+    "detail": "• Glucocorticoids: May be short- (hydrocortisone), intermediate- (prednisone/prednisolone), or long-acting (betamethasone/dexamethasone)\n• Cyclosporine A\n• Azathioprine\n• Tacrolimus\n• Chlorambucil"
+  },
+  {
+    "title": "Anti-inflammatory drugs",
+    "detail": "• Glucocorticoids: cortisone, hydrocortisone, prednisone, etc.\n• NSAIDs: carprofen, robenacoxib, meloxicam, etc.\n• Using glucorticoids w NSAIDs is contraindicated due to GI risks (bleeding, ulceration, perforation)"
+  },
+  {
+    "title": "Dietary supplements and nutraceuticals",
+    "detail": "• Nutraceutical: Nondrug substance produced in purified or extracted form and administered orally\n• Include S-adenosylmethionine, milk thistle, glucosamine, chondroitin"
+  },
+  {
+    "title": "Extra-label use",
+    "detail": "• Allowed in 1994 under Animal Medicinal Drug Use Clarification Act (AMDUCA), illegal prior\n• “Use of a drug in a manner that is not in accordance with the approved labeling”\n• Includes use in another species, use for other indications, use at other dosage levels/frequencies/routes of administration\n• Conditional upon a valid VCPR, absence of new approved drug w same active ingredient, documentation, and giving long withdrawal time\n• FDA can prohibit ELU of some drugs (e.g., on food producing animals)\n• Includes human drugs too"
+  },
+  {
+    "title": "Drug compounding",
+    "detail": "• Manipulation of a drug other than as described on the label\n• Classified as extra-label use\n• Cannot be done from bulk chemicals (raw ingredients) or to produce a new drug\n• Typically not legal to dispense compounded medications to be taken home by the client"
+  },
+  {
+    "title": "Elements of a prescription (required by law)",
+    "detail": "• Vet’s name, address, phone number\n• Vet’s DEA registration number\n• Vet’s signature\n• Drug name, concentration, quantity\n• Directions for use\n• Client’s name and address\n• Pet’s identify information (name and species)\n• Any cautionary statements\n• Number of refills (not allowed for Schedule II, limited to 5 times or 6 months (whichever comes first) for Schedule III and IV)\n• For controlled drugs, vet’s name must be printed"
+  },
+  {
+    "title": "Information on labels for drug dispensed to owners",
+    "detail": "• Name, address, phone number of dispensing clinic/pharmacy\n• Name of prescribing veterinarian\n• Client’s name\n• Pet’s identifying information (name and species)\n• Date dispensed\n• Directions for use\n• Drug name, concentration, quantity\n• Following statement for controlled drugs: “Fed. law prohibits transfer of this drug to any person other than the patient…”\nMust be provided in a child-resistant container"
+  },
+  {
+    "title": "",
+    "detail": "F = C x 9/5 + 32"
+  },
+  {
+    "title": "Solution vs. Dilution",
+    "detail": "• Solution: Mixture of substances made by dissolving solids or liquids in liquids\n• Dilution: Reduction of a concentration of a substance\n• Concentration of the substance is the amount of solute dissolved in the solvent. Concentration can be expressed as v/v (liquids), w/v, or w/w (solids).\n• Strength of a solution (w/v) = Concentration (g/mL) = mass (g) ÷ volume (mL)\n(multiple by 100 to find percent solution)\n• Concentration (w/v) of 1:100 = 1 g / 100 mL = 1% = 10 mg/mL"
+  },
+  {
+    "title": "Pure vs. Stock solution",
+    "detail": "• Pure solution (w/v) is 100%, or 100 g in 100 mL\n• Stock solution (v/v) is a diluted pure solution (can be diluted w solvent to make weaker solution, but making it stronger requires making new solution or adding pure solution\nC2 x V2 = C1 x V1\nEx. Prepare 2 L of a 25% solution given a 50% solution and saline.\nC2 = Concentration of desired solution = 25%\nV2 = Volume of desired solution = 2 L\nC1 = Concentration of stock solution = 50%\nV1 = ?"
+  },
+  {
+    "title": "ppm",
+    "detail": "• Parts per million\n• Number of parts of solute contained in 1 million parts of solution\n• 1 part per million is 1 g in 1,000,000 mL (1 part/106)\nEx. What is the ppm for a 0.6% solution?\n0.6 g in 100 mL = x in 1,000,000 mL\nx = 6000 ppm"
+  },
+  {
+    "title": "Drip rates",
+    "detail": "Drip Rate = Volume of solution (mL) x Drops (ggt)/mL\nTime (seconds)\nEx. 1 L is to be administered over 4 hours using a 20-dr/mL set.\nVolume of solution = Amount to be administered = 1000 mL\nDrops/mL = 20\nTime = 4 x 60\nDrip Rate = 1000 x 20 / 240\n+ Macrodrip 10 or 15; Microdrip 60"
+  },
+  {
+    "title": "CRI",
+    "detail": "• Used to administer IV drugs over long periods of time or when the drug has a short half-life\n• Added to a base solution; often IV fluids\nM = (D x W x V) ÷ R\nM = Amount of drug (mcg or mg) to be added to base solution\nD = Dosage (mcg/kg/min or mg/kg/min)\nW = weight (kg)\nV = Volume of base solution (mL)\nR = Infusion rate (mL/min"
+  }
+]
