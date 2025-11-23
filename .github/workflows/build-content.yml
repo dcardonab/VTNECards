@@ -51,6 +51,8 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
+          git config pull.rebase false
+
           # Stage JSON, images, and manifest if they exist
           git add data/json/*.json data/json/manifest.json data/images/* 2>/dev/null || true
 
@@ -60,5 +62,7 @@ jobs:
             exit 0
           fi
 
+          git pull origin "${GITHUB_REF_NAME}" --no-edit || true
+
           git commit -m "Update flashcard content from DOCX"
-          git push
+          git push origin HEAD:"${GITHUB_REF_NAME}"
