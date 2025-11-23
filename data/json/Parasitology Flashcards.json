@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Dirofilaria imitis",
+    "detail": "• Heartworm (important for dogs, possible in cats)\n\t• Microfilariae is the prelarval stage found in peripheral blood\n• Located in the heart\n• Transmission from mosquito bites\n• Diagnosed by modified Knott, Millipore filtration, ELISA antigen test\n• Clinical signs include lethargy, exercise intolerance, right sided cardiac enlargement; acute or chronic in cats; acute may result in death\n• Treated with melarsomine (for adults) and a microfilaricide like ivermectin (for microfilariae), along with doxycycline and prednisone for side effects like lung congestion and pain/swelling at injection site, and cage rest for 1 month\n• Controlled by preventives, reducing exposure to mosquitos"
+  },
+  {
+    "title": "Toxoplasma gondii",
+    "detail": "• Located in the small intestines (cats)\n• Infected by ingestion of cysts in meat or sporulated oocysts; transplacental or during nursing in kittens\n• Diagnosed by fecal or centrifugal flotation\n• Mostly asymptomatic in cats; kittens show signs of lethargy, depression, ascites, fever, death\n• Treated with clindamycin\n• Remove feces from environment, cook meat to control spread; pregnant women most at risk due to transplacental transmission"
+  },
+  {
+    "title": "Toxacaris leonina",
+    "detail": "• Roundworm (cats and dogs)\n• Located in the small intestines\n• Infected by ingestion of infective egg or paratenic host\n• Diagnosed by fecal or centrifugal flotation\n• Clinical signs include weakness, dehydration, poor condition (in heavy worm burdens)\n• Clean environment to control spread"
+  },
+  {
+    "title": "Ancylostoma braziliense",
+    "detail": "• Hookworm (cats and dogs)\n• Located in the small intestines\n• Infected by ingestion of infective larvae, skin penetration\n• Diagnosed by fecal or centrifugal flotation\n• Clinical signs include emaciation, diarrhea, anemia, melena, weakness\n• Treated with fenbendazole, moxidectin, pyrantel\n• Clean environment to control spread\n• Zoonotic potential—cutaneous larva migrans (CLM) through skin penetration"
+  },
+  {
+    "title": "Dipylidium caninum",
+    "detail": "• Tapeworm (cats and dogs)\n\t• Proglottids: Segments contain eggs; break off from the body and expelled in feces\n• Located in the small intestines\n• Infected by ingestion of larvae in intermediate host (i.e., flea or lice)\n• Diagnosed by proglottids identification, or fecal or centrifugal flotation\n• Usually no clinical signs\n• Treated with PO praziquantel (Droncit)\n• Control intermediate hosts to control spread; treat all pets for tapeworm and fleas\n• Taenia spp. and Echinococcus spp. also tapeworms of cats and dogs; infection from eating other animals and usually no signs"
+  },
+  {
+    "title": "Cystoisospora spp.",
+    "detail": "• Coccidia (cats and dogs)\n• Located in the small intestines\n• Infected by ingestion of sporulated oocyst\n• Diagnosed by fecal or centrifugal flotation\n• Clinical signs include persistent diarrhea (may lead to emaciation and death)\n• Clean environment to control spread"
+  },
+  {
+    "title": "Parascaris equorum",
+    "detail": "• Equine roundworm\n• Located in the small intestines\n• Infected by ingestion of egg\n• Diagnosed by fecal or centrifugal flotation\n• No clinical signs in adults, may retard growth or cause colic in foals"
+  },
+  {
+    "title": "Strongylus spp.",
+    "detail": "• Large strongyles (bloodworms) (horses)\n• Located in the large intestines\n• Infected by ingestion of larvae\n• Diagnosed by fecal or centrifugal flotation\n• Clinical signs include colic, fever, diarrhea, weight loss, death\n• Strategic deworming to control spread"
+  },
+  {
+    "title": "Giardia duodenalis",
+    "detail": "• Giardia (dogs, cats, cattle, horses, sheep, goats, pigs)\n• Located in the small intestines\n• Infected by ingestion of cyst\n• Diagnosed by fecal or centrifugal flotation, ELISA antigen, or direct smear\n• Clinical signs include diarrhea\n• Treated with fenbendazole, praziquantel, pyrantel, febantel\n• Zoonotic (fecal-oral route)"
+  },
+  {
+    "title": "Acariasis",
+    "detail": "• Any infestation with acarines (mites or ticks)\n• Mange is a general term for cutaneous acariasis"
+  },
+  {
+    "title": "Arthropod",
+    "detail": "• Parasites with jointed feet (insects, mites, ticks, as well as crustaceans and insects)"
+  },
+  {
+    "title": "Cestode",
+    "detail": "• Tapeworm (adult stage)\n\t• TW parts: Scolex, neck, strobila (composed of proglottids)\n• Usually found in the intestinal tract"
+  },
+  {
+    "title": "Metacestode",
+    "detail": "• Larvae of a tapeworm"
+  },
+  {
+    "title": "Erythema",
+    "detail": "• Redness of skin or mucus membranes"
+  },
+  {
+    "title": "Hexacanth",
+    "detail": "• A six-hooked larval stage of a tapeworm (cestode)"
+  },
+  {
+    "title": "Nematode",
+    "detail": "• Roundworm\n• Ascarids are a genus of nematodes"
+  },
+  {
+    "title": "Oocyst",
+    "detail": "• Egg-like offspring of coccidial parasites such as Cystoiosospora"
+  },
+  {
+    "title": "Operculum",
+    "detail": "• A body part that acts as a lid to cover other more sensitive body parts\n• Operculated eggs have a cap-like door at one pole (found in digenetic trematodes and pseudotapeworms)"
+  },
+  {
+    "title": "Paratenic host",
+    "detail": "• Transport host; not necessary for the parasite’s life cycle\n• Parasite doesn’t undergo further development but remains encysted (in suspended animation) until ingested by definitive host"
+  },
+  {
+    "title": "Piriform",
+    "detail": "• Pear-shaped"
+  },
+  {
+    "title": "Common parasites",
+    "detail": "• Protozoa\n\t• One-celled, microscopic parasites like ameba and flagellates (e.g., giardia); diseases include malarias, coccidioses\n• Helminths\n\t• Multi-celled, usually macroscopic parasites like flat-, round-, tapeworms, flukes; diseases include heartworm\n• Ectoparasites and arthropods\n\t• Live on or in the skin, transmit infective organisms (flea, mosquito"
+  },
+  {
+    "title": "Trematode",
+    "detail": "• Digenetic fluke; has two intermediate hosts in addition to the definitive host\n• Class of flatworms"
+  },
+  {
+    "title": "Volvulus",
+    "detail": "• An obstruction caused by twisting of the stomach or intestine"
+  },
+  {
+    "title": "Zygote",
+    "detail": "• A single cell formed by the fusion of an egg and a sperm, containing the complete genetic material needed to develop into a new individual"
+  },
+  {
+    "title": "Baermann technique [[image:Parasitology Flashcards_Image01.png]]",
+    "detail": "• Used to recover nematode (roundworm) larvae from feces or soil\n• Warm water stimulates larvae, which sinks to the bottom of a funnel\n• After 24 hours, a drop of liquid is removed from the bottom of the funnel and placed on microscope slide"
+  },
+  {
+    "title": "Sarcoptes scabei",
+    "detail": "• Scabies mite (most species)\n• Spread by direct contact\n• Diagnosed by skin scrapings\n• Clinical signs include extreme pruritus and alopecia\n• Treated with antiseborrheic shampoo and parasiticidal like Selamectin\n• Controlled by cleaning environment (e.g. pyrethrins)\n• Zoonotic"
+  },
+  {
+    "title": "Otodectes cynotis",
+    "detail": "• Ear mite (cats, dogs, ferrets)\n• Clinical signs include head shaking and tilt, scratching, dark odorous cerumen in outer ears\n• Diagnosed from ear samples under the microscope\n• Treated with pyrethrin compounds and rotenone\n• Controlled by treating all pets living together"
+  },
+  {
+    "title": "Demodex",
+    "detail": "• Skin mite, mange mite (cats and dogs)\n• Transmitted only by intimate contact\n• Clinical signs include alopecia, but nonpruritic unless there is secondary bacterial infection\n• Diagnosed by deep skin scraping or plucked hair\n• Rare but may be zoonotic\n• Treated by parasiticidal shampoo followed by dipping (Amitraz (Mitaban))."
+  },
+  {
+    "title": "Ticks",
+    "detail": "• Dermacentor, ixodes, etc. are species\n• Clinical signs include anemia and flaccid motor paralysis\n• May also serve as intermediate hosts for protozoan parasites and as vectors for bacteria, viruses, etc.\n• May be one-, two-, three-, or many-host ticks depending on how many hosts they feed on during different life cycles\n• Zoonotic\n• Fipronil and selamectin used as preventive in cats and dogs; pyrethrins, permethrins used in dogs (tick products for dogs should never be used in cats)"
+  },
+  {
+    "title": "Ctenocephalides canis, felis, pulex",
+    "detail": "• Fleas\n• Diagnosed visually\n• Treated by monthly preventives to kill eggs, larvae, and adult fleas\n• Controlled by cleaning environment\n• Cat flea can cause cat scratch fever in humans by spreading Bartonella henselae in the feces\n• Bubonic, septicemic, and pneumonic plagues are caused by fleaborne Yersinia pestis"
+  },
+  {
+    "title": "Trematodes",
+    "detail": "• Flukes\n• Fasciola hepatica is found in sheep, cattle, horses, pigs, etc.; snail is intermediate host that is ingested"
+  }
+]

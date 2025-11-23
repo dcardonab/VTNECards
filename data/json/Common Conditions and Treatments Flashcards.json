@@ -9,7 +9,7 @@
   },
   {
     "title": "Congestive heart failure",
-    "detail": "• Occurs when heart disease causes poor cardiac output, which leads to poor venous return to the heart\n• Left-sided CHF leads to pulmonary edema, dyspnea, tachypnea, abnormal respiratory sounds, cough\n• Right-sided CHF leads to edema in the thoracic and abdominal cavities and jugular"
+    "detail": "• Occurs when heart disease causes poor cardiac output, which leads to poor venous return to the heart\n• Left-sided CHF leads to pulmonary edema, dyspnea, tachypnea, abnormal respiratory sounds, cough\n• Right-sided CHF leads to edema in the thoracic and abdominal cavities and jugular\n• Causes of right-sided heart failure include pulmonic stenosis, neoplasia, and myocarditis\n• Causes of left-sided heart failure include mitral valve dysplasia, aortic stenosis, endocardiosis, cardiomyopathy, obstruction of aorta, and dysrhythmias"
   },
   {
     "title": "Sinus bradycardia",
@@ -53,11 +53,11 @@
   },
   {
     "title": "Feline lower urinary tract disease (FLUTD) (feline urologic syndrome)",
-    "detail": "• Lower urinary tract consists of the bladder, ureters, urethra\n• Common signs are polyuria, hematuria, stranguria; may be caused by urolithiasis, neoplasia, trauma, feline interstitial or idiopathic cystitis, UTI\n• Mostly in cats 2-6 years old\n• Obstructive FLUTD (urethra obstruction) is an emergency; most common in male cats"
+    "detail": "• Lower urinary tract consists of the bladder, ureters, urethra\n• Common signs are polyuria, hematuria, stranguria; may be caused by urolithiasis, neoplasia, trauma, feline interstitial or idiopathic cystitis, UTI\n• Mostly in cats 2-6 years old\n• Obstructive FLUTD (urethra obstruction) is an emergency; most common in male cats\n• Most common cause of FLUTD in cats younger than 10 is feline idiopathic cystitis (FIC), and in cats more than 10 is a UTI or struvite uroliths"
   },
   {
     "title": "Hyperthyroidism",
-    "detail": "• Occurs when the thyroid gland is overactive and produces too much thyroxine (T4) and triiodothyronine (T3), leading to increased metabolic rate\n• Thyroid gland is wrapped around the front of the trachea, below the larynx\n• Most common in middle-aged and geriatric cats; uncommon in other species\n• Signs include weight loss, increased appetite, increased excitability or activity, PU/PD, V/D\n• Elevated T4 serum levels, tachycardia, heart murmur, hypertension, enlarged thyroid gland or tumor, dyspnea, CHF possible\n• Treatment includes thyroidectomy, radioactive iodine medication, antithyroid drugs, and low-iodine diet"
+    "detail": "• Occurs when the thyroid gland is overactive and produces too much thyroxine (T4) and triiodothyronine (T3), leading to increased metabolic rate\n• Thyroid gland is wrapped around the front of the trachea, below the larynx\n• Most common in middle-aged and geriatric cats; uncommon in other species\n• Signs include weight loss, increased appetite, increased excitability or activity, PU/PD, V/D\n• Elevated T4 serum levels, tachycardia, heart murmur, hypertension, enlarged thyroid gland or tumor, dyspnea, CHF possible\n• Treatment includes thyroidectomy, radioactive iodine medication, antithyroid drugs, and low-iodine diet—surgery and radioactive therapy provide solution; daily oral meds manage disease\n• 90% of hyperthyroid cats remain euthyroid when fed <0.32 ppm iodine DMB (limited-iodine diet on a dry matter basis) as the sole nutrition"
   },
   {
     "title": "Hypothyroidism",
@@ -73,15 +73,15 @@
   },
   {
     "title": "Hyperadrenocorticism (Cushing)",
-    "detail": "• Elevated cortisol levels; hard to diagnose, progressive\n• Signs include PU/PD, increased appetite and weight gain, lethargy, alopecia, muscle atrophy, enlarged pot-belly abdomen, secondary UTIs\n• Most cases occur due to pituitary-dependent hyperadrenocorticism, which is caused by and ACTH-secreting pituitary tumor (mostly in dogs, rare in cats); treated by treating symptoms of hypercortisolemia\n• Adrenal-dependent version is much less common and caused by adrenal tumors; treated by removing tumors"
+    "detail": "• Elevated cortisol levels; hard to diagnose, progressive\n• Signs include PU/PD, increased appetite and weight gain, lethargy, alopecia, muscle atrophy, enlarged pot-belly abdomen, skin and hair coat abnormalities, secondary UTIs\n• Most cases occur due to pituitary-dependent hyperadrenocorticism, which is caused by and ACTH-secreting pituitary tumor (mostly in dogs, rare in cats); treated by treating symptoms of hypercortisolemia\n• Adrenal-dependent version is much less common and caused by adrenal tumors; treated by removing tumors"
   },
   {
     "title": "Hypoadrenocorticism (Addison’s)",
-    "detail": "• Deficiency in adrenal hormones, especially cortisol and aldosterone\n• Most commonly in dogs, sometimes in horses\n• Signs include anorexia, V/D, PU/PD, weight loss, bradycardia, weakness, collapse, anemia, hypoglycemia, hyperkalemia, hyponatremia"
+    "detail": "• Deficiency in adrenal hormones, especially cortisol and aldosterone\n• Most commonly in dogs, sometimes in horses\n• Hallmarks are hyperkalemia, hyponatremia; other signs include anorexia, V/D, PU/PD, weight loss, bradycardia, weakness, collapse, anemia, hypoglycemia,"
   },
   {
     "title": "IMHA",
-    "detail": "• Most common cause of hemolytic anemia\n• Hemolysis: Rupturing of RBCs\n• Idiopathic in dogs—immune system develops antibodies that react w self-antigens of RBCs w no known cause; secondary to a blood parasite in cats\n• 20-75% mortality rate\n• Signs include lethargy, exercise intolerance, icterus (jaundice), tachycardia, heart murmur, splenomegaly, hepatomegaly\n• Pulmonary embolism is a risk in dogs\n• Diagnosed by checking for evidence of autoimmune disease, like autoagglutination (i.e. clumping of erythrocytes due to antibodies)\n• Treated w immunosuppressants, blood transfusions, hydration therapy, anticoagulants\n• Omega-3 fatty acids have a significant effect on survival times (also for chronic valvular disease) attributed to anti-inflammatory effects, cachexia prevention, improved appetite, or antiarrhythmic effects"
+    "detail": "• Most common cause of hemolytic anemia\n• Hemolysis: Rupturing of RBCs\n• Idiopathic in dogs—immune system develops antibodies that react w self-antigens of RBCs w no known cause; secondary to a blood parasite in cats\n• 20-75% mortality rate\n• Signs include lethargy, exercise intolerance, icterus (jaundice), tachycardia, heart murmur, splenomegaly, hepatomegaly\n• Pulmonary embolism is a risk in dogs\n• Diagnosed by checking for evidence of autoimmune disease, like autoagglutination (i.e. clumping of erythrocytes due to antibodies)\n• Diagnosis based on CBC, autoagglutination, Coombs (antibody) test\n• Treated w immunosuppressants, blood transfusions, hydration therapy, anticoagulants; omega-3 fatty acids effect survival times (also for chronic valvular disease) due to anti-inflammatory effects, cachexia prevention, improved appetite, or antiarrhythmic effects"
   },
   {
     "title": "Myasthenia gravis (MG)",
@@ -101,7 +101,7 @@
   },
   {
     "title": "Tetanus",
-    "detail": "• Caused by the Clostridium tetani bacteria found in soil; neurotoxins created by the bacteria affect the nervous system\n• Typically enters body through puncture wound\n• Highly fatal neurologic disease characterized by a stiff, stilted gait, hyperexcitability, seizure, and coma\n• Other signs include stiffness (sawhorse stance), decrease in water and food consumption, hypersensitivity to noise and light, muscle fasciculations\n• Treatment includes cleansing of wound site, topical penicillin along w IV penicillin and other fluids\n• Dogs and cats not susceptible; annual vaccine recommended for dogs"
+    "detail": "• Caused by the Clostridium tetani bacteria found in soil; neurotoxins created by the bacteria affect the nervous system\n• Typically enters body through puncture wound\n• Highly fatal neurologic disease characterized by a stiff, stilted gait, hyperexcitability, seizure, and coma\n• Other signs include stiffness (sawhorse stance), decrease in water and food consumption, hypersensitivity to noise and light, muscle fasciculations\n• Treatment includes cleansing of wound site, topical penicillin along w IV penicillin and other fluids\n• Dogs and cats not susceptible; annual vaccine recommended for dogs, horses"
   },
   {
     "title": "Ringworm (dermatophytosis)",
@@ -144,12 +144,16 @@
     "detail": "• Endotoxin is a cell-wall component of gram-negative bacteria, which can enter the bloodstream and cause illness\n• Horses are very sensitive, require aggressive treatment including surgical excision of compromised intestine\n• Can occur secondary to enterocolitis when GI microbiome is altered and bacteria proliferate, or due to retained placenta, uterine infection (metritis), pneumonia, peritonitis, or large wounds\n• Signs include fever, tachycardia, hyperemic mucous membranes, leukopenia, laminitis, depression"
   },
   {
+    "title": "Uroliths (aka stones, calculi)",
+    "detail": "• Urolithiasis (presence of stones) is common in dogs, cats (w different morphology), cattle, sheep, goats; uncommon in horses\n• Made up of organic matrix (constant) plus one of 20 minerals (struvite, calcium oxalate, urate, etc.)\n• Struvites are the most common stones in dogs\n• Calcium carbonate, struvite, calcium oxalate are the common stones in ruminants\n• Strutives precipitate in alkaline urine, urate crystals precipitate in acid urine"
+  },
+  {
     "title": "Colic (Horses)",
-    "detail": "• Number 1 cause of premature equine fatality\n• Caused by poor feed quality or feeding/hydration patterns, intestinal tears/torsions/hernias, disproportionate gas, sporadic cramps, ileus (GI atony), parasitic infections, volvulus (bowel obstruction from intestinal torsion), intussusception, obstructions, displacement, inguinal hernias, ulcers\n• Treated w fluids, anti-inflammatory drugs, mineral oil, antiflatulence drugs, antiulcer drugs, corrective surgery"
+    "detail": "• Number 1 cause of premature equine fatality and most common emergency in equine medicine\n• Includes any condition that causes abdominal pain\n• Caused by poor feed quality or feeding/hydration patterns, intestinal tears/torsions/hernias, disproportionate gas, sporadic cramps, ileus (GI atony), parasitic infections, volvulus (bowel obstruction from intestinal torsion), intussusception, obstructions, displacement, inguinal hernias, ulcers\n• Colic due to gas and spasmodic colic go away on their own; other cases mostly respond to analgesics (flunixin meglumine), hand walking, sedation (xylazine, detomidine) and laxatives (mineral oil) given thru nasogastric tube\n• Once resolved, horses should be fed soft feed (bran mash, fresh grass, small amounts of hay) frequently in small quantities rather than in two large daily meals"
   },
   {
     "title": "Colitis (Horses)",
-    "detail": "• Not clear, but may be due to dietary changes, excessive carbohydrate consumption, Potomac horse fever, antibiotics, overuse of NSAIDs\n• Acute colitis signs include inappetence, listlessness, depression, abdominal pain, hyper- or hypomotility, increased HR and RR, discolored mucous membranes, increased CRT, diarrhea, dehydration, hypoproteinemia, electrolyte imbalance metabolic acidosis, and shock (mostly due to endotoxemia)\n• Treated w fluids (balanced electrolyte solution), possibly a vasodilator like nitroglycerin"
+    "detail": "• Acute inflammation of large colon and cecum\n• Not clear, but may be due to dietary changes, excessive carbohydrate consumption, Potomac horse fever, antibiotics, overuse of NSAIDs\n• Acute colitis signs include inappetence, listlessness, depression, abdominal pain, hyper- or hypomotility, increased HR and RR, discolored mucous membranes, increased CRT, diarrhea, dehydration, hypoproteinemia, electrolyte imbalance metabolic acidosis, and shock (mostly due to endotoxemia)\n• Treated w fluids (balanced electrolyte solution LRS), possibly a vasodilator like nitroglycerin; grain is withheld"
   },
   {
     "title": "Salmonellosis (Horses)",
@@ -184,15 +188,55 @@
     "detail": "• Spread by blood-feeding insects; all body fluids and tissues of infective animals are infectious\n• Iatrogenic spread via needles and medical supplies common\n• Can penetrate placental barrier\n• Infection is for life with recurring remission and exacerbation\n• Signs include fever, depression, weight loss, anorexia, anemia\n• No cure—infected animals are usually euthanized, or totally isolated (even from insects) for life"
   },
   {
-    "title": "Laminitis (Horses)",
-    "detail": "• Irritation and inflammation of the epidermal (insensitive) and dermal (sensitive) laminae, which are the layers that hold the distal phalanx within the hoof wall; most common in front feet\n• Can cause irregular gait, severe lameness, detachment of hoof wall\n• Can result from high fever, endotoxemia, sepsis, equine metabolic syndrome (from grain overconsumption or sudden exposure to lush pasture), road founder (trauma to feet)\n• Signs include lameness, depression, lethargy, apprehension, pyrexia, anorexia, hoof sensitivity, increased digital pulse and temperature\n• Radiographs detect extent\n• Treated w anti-inflammatory drugs, acepromazine, fluids like LRS, trimming hoof"
+    "title": "Laminitis/Founder (Horses)",
+    "detail": "• A diffuse, aseptic inflammation of the corium (sensitive lamina) of the feet; irritation and inflammation of the epidermal (insensitive) and dermal (sensitive) laminae, which are the layers that hold the distal phalanx within the hoof wall; most common in front feet\n• Can result from high fever, endotoxemia, sepsis, equine metabolic syndrome (from grain overconsumption or sudden exposure to lush pasture), road founder (trauma to feet); chronic laminitis is more associated w constant high-grain diet\n• Can cause irregular gait, severe lameness, detachment of hoof wall; other signs are depression, lethargy, apprehension, pyrexia, anorexia, hoof sensitivity, increased digital pulse and temperature\n• Radiographs detect extent\n• Treated w anti-inflammatory drugs, acepromazine, fluids like LRS, trimming hoof"
   },
   {
     "title": "Navicular disease (Horses)",
     "detail": "• Chronic, degenerative; produces lameness and deterioration of the navicular bone (a small bone in the foot)\n• May present w stumbling, shorter strides, intermittent lameness, hoof pain\n• Flexion tests, nerve blocking, and radiograph confirm diagnosis\n• Treated w anti-inflammatory drugs, vasodilators, corrective hoof trimming and shoeing, and if all else fails surgical neurectomy (nerve cut above the fetlock)"
   },
   {
-    "title": "White muscle disease (Cattle)",
+    "title": "Equine recurrent uveitis (moon blindness)",
+    "detail": "• Most common cause of blindness in horses\n• Immune-mediated condition due to heredity, parasites, leptospirosis, etc.\n• Episodes of intraocular inflammation w eyelid swelling, corneal edema, leading to permanent damage\n• Can’t be cured but controlled w long-term anti-inflammatory therapy"
+  },
+  {
+    "title": "White muscle disease (Ruminants)",
     "detail": "• Aka nutritional myodegeneration\n• Occurs in young calves, lambs, and kids born to dams receiving diets deficient in selenium during gestation\n• Deficiency of selenium or vitamin E may cause degeneration of cardiac or skeletal muscle\n• If skeletal muscles are affected, muscular weakness or stiffness followed by eventual recumbency and death may occur"
+  },
+  {
+    "title": "Grain overload (Ruminants)",
+    "detail": "• aka carbohydrate engorgement or lactic acidosis\n• Consuming excessive amounts of carbohydrate-rich feed leads to production of large quantities of lactic acid in the rumen, lowering rumen pH, and decreasing rumen motility; this leads to proliferation of Streptococcus bovis, which produce large amounts of lactic acid, further lowering pH, and of acid-resistant Lactobacillus spp, which produce more lactic acid—leads to splashy sounds, severe dehydration, metabolic acidosis, (if untreated) shock/death\n• Signs include depression, anorexia, bloat, diarrhea, dehydration, incoordination, recumbency; rumen pH < 5\n• Treated by removing rumen contents (lavaging or rumenotomy in large cattle, rumenotomy in small ruminants), oral antacids, antibiotics, anti-inflammatories\n• Rumen transfaunation helpful to reestablish normal microflora"
+  },
+  {
+    "title": "Rumen tympany (bloat) (Ruminants)",
+    "detail": "• Abnormal distention of rumen\n• Free gas bloat if resulting from failure to eructate normally due to e.g. foreign bodies in the esophagus, motor function abnormalities in rumen, lateral recumbency, hypocalcemia, etc.; treated w orogastric tubing, forced exercise; rumen trocarization if orogastric tube too stressful or bloat is critical\n• Frothy bloat if large amounts of legumes or other grains are ingested; treated first by dissipating froth by reducing its surface tension by administering poloxalene, detergent, mineral oil, dioctyl sodium sulfosuccinate, and then orogastric tubing\n• Signs include distention of the left paralumbar fossa, discomfort, dyspnea w open mouth breathing, anorexia, salivation, anxiety, depression, sudden death"
+  },
+  {
+    "title": "Bovine viral diarrhea virus",
+    "detail": "• BVD is highly contagious and common in 6 mo-2 yo cattle\n• Signs are sudden onset of fever, depression, oral and GI ulcers, diarrhea (sometimes w mucus and blood), abortion or birth defects\n• Can cause immunosuppression and susceptibility to secondary bacterial pathogens—important role in respiratory diseases\n• No treatment so vaccine important"
+  },
+  {
+    "title": "Retained placenta (Cattle)",
+    "detail": "• Affects dairy cattle\n• Placenta should be passed 2-4 hours after calving; considered retained after 12 hours\n• More likely after birth of twins, abortion during last half of pregnancy, and in cases of dystocia\n• Not as critical in cattle as in mares\n• Selenium, vit A, vit E deficiency may be the cause\n• Treated w systemic antibiotics"
+  },
+  {
+    "title": "Infectious keratoconjunctivitis (pinkeye) (Ruminants)",
+    "detail": "• Caused by Moraxella bovis in cattle (vectors are flies), Chlamydia psitacci in sheep, and Mycoplasma conjunctivae in goats\n• In cattle signs include lacrimation, blepharospasm, photophobia; cornea may rupture if ulceration is deep; treated w subconjunctival injection of penicillin, eye patches, surgery in severe cases (suturing lids closed) in individual cases, systemic antibiotics like tetracycline for herds\n• In sheep and goats signs include conjunctival hyperemia, ocular discharge, light sensitivity, blepharospasm, corneal edema, cornea vascularization; self-limiting, recovering in weeks but systemic/local tetracycline recommended to prevent spread"
+  },
+  {
+    "title": "Caseous lymphadenitis (Ruminants)",
+    "detail": "• Most common cause of lymph node abscess in small ruminants; major cause of carcass condemnation in sheep\n• Caused by Corynebacterium pseudotuberculosis\n• Highly contagious; can become endemic in a herd and difficult to eradicate due to poor response to therapeutics and ability to persist up to 8 months in soil\n• Spread by contact w contaminated purulent material (entry thru broken skin or inhalation or ingestion)"
+  },
+  {
+    "title": "Milk fever (Cattle)",
+    "detail": "• Disease seen in lactating cattle that results from hypocalcemia, which occurs due to the overwhelming of the hypocalcemia-preventing action of parathyroid hormone by loss of milk\n• Signs include muscle weakness, tremors, staggering gait, and inability to stand; often lie in sternal recumbency w heads turned into the flank (downer cow), have a dry nose, rumen atony w bloat, no urine or feces production\n• Deadly if untreated, but responds to oral calcium in early stages or slow administration of IV calcium gluconate in later stages; will begin to lacrimate, eructate, urinate, and defecate during treatment\n• Similar to eclampsia in dogs and cats"
+  },
+  {
+    "title": "Calf scours",
+    "detail": "• Diarrhea of young dairy and beef calves\n• May be infectious or noninfectious—viral (rotavirus, coronavirus, BVD virus), bacterial (E. coli, Salmonella), or poor nutrition, improper sanitation\n• Watery diarrhea; leads to severe dehydration, metabolic acidosis, hypoglycemia, shock, and hypothermia\n• Treated by correcting fluid loss, acidosis, and electrolyte abnormalities"
+  },
+  {
+    "title": "Pasteurella multocida (Multispecies)",
+    "detail": "• Most common bacteria of the upper airway causing upper respiratory tract signs including sinusitis, rhinitis, excessive tearing, snorting, sniffling, and nasal exudate\n• Zoonotic, esp. from cat bites"
   }
 ]
