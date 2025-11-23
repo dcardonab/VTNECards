@@ -3,7 +3,7 @@ name: Build Flashcard Content
 on:
   push:
     paths:
-      - 'data/*.docx'   # Only run when DOCX files in data/ change
+      - 'data/docx/*.docx'   # Only run when DOCX files in data/ change
 
 jobs:
   build:
@@ -36,7 +36,7 @@ jobs:
           git config user.email "actions@github.com"
 
           # Stage JSON, images, and manifest if they exist
-          git add data/*.json data/*Image* data/manifest.json 2>/dev/null || true
+          git add data/json/*.json data/images/*Image* data/manifest.json 2>/dev/null || true
 
           # If nothing changed, exit quietly
           if git diff --cached --quiet; then
