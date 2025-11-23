@@ -3,7 +3,7 @@ name: Build Flashcard Content
 on:
   push:
     paths:
-      - 'data/docx/*.docx'   # Only run when DOCX files in data/ change
+      - 'data/docx/*.docx'   # run when DOCX in data/docx change
 
 jobs:
   build:
@@ -14,6 +14,13 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
+      - name: Debug repo layout
+        run: |
+          echo "PWD:"
+          pwd
+          echo "Repo contents:"
+          ls -R
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,9 +33,18 @@ jobs:
 
       - name: Run parser
         run: |
+          echo "Running parser on data/docx/*.docx"
           python tools/parse_docx_to_json.py \
-            --docx-dir data \
-            --output-dir data
+            --docx-dir data/docx \
+            --json-dir data/json \
+            --image-dir data/images
+
+      - name: Show data directories after parser
+        run: |
+          echo "Contents of data/json:"
+          ls -R data/json || echo "data/json not found"
+          echo "Contents of data/images:"
+          ls -R data/images || echo "data/images not found"
 
       - name: Commit and push generated content
         run: |
@@ -36,7 +52,7 @@ jobs:
           git config user.email "actions@github.com"
 
           # Stage JSON, images, and manifest if they exist
-          git add data/json/*.json data/images/*Image* data/manifest.json 2>/dev/null || true
+          git add data/json/*.json data/json/manifest.json data/images/* 2>/dev/null || true
 
           # If nothing changed, exit quietly
           if git diff --cached --quiet; then

@@ -168,13 +168,17 @@ def extract_images_from_docx(docx_path, output_folder, doc_basename):
     return image_map, sorted(all_final_names)
 
 
-def parse_docx_table_with_images(path, output_folder, doc_basename,
+def parse_docx_table_with_images(path, image_output_folder, doc_basename,
                                  table_index=0, has_header=True):
     """
     Parse a .docx file into JSON with images extracted.
     Returns (cards, image_files)
     """
-    image_map, image_files = extract_images_from_docx(path, output_folder, doc_basename)
+    image_map, image_files = extract_images_from_docx(
+        docx_path=path,
+        output_folder=image_output_folder,
+        doc_basename=doc_basename,
+    )
     doc = Document(path)
 
     if table_index >= len(doc.tables):
@@ -270,51 +274,72 @@ def main():
         type=str,
         default=None,
         help=(
-            "Directory where JSON, images, and manifest.json will be written. "
-            "Default (if omitted): ../VTNECards/Data relative to docx-dir "
-            "(for your legacy local workflow)."
+            "Legacy: single directory where JSON, images, and manifest.json will be written. "
+            "If --json-dir / --image-dir are omitted, this is used instead."
         )
+    )
+    parser.add_argument(
+        "--json-dir",
+        type=str,
+        default=None,
+        help="Directory where JSON and manifest.json will be written (e.g. data/json)"
+    )
+    parser.add_argument(
+        "--image-dir",
+        type=str,
+        default=None,
+        help="Directory where image files will be written (e.g. data/images)"
     )
 
     args = parser.parse_args()
 
     # Where to look for .docx files
-    current_dir = os.path.abspath(args.docx_dir)
+    docx_dir = os.path.abspath(args.docx_dir)
 
-    # Where to write JSON / images / manifest
-    if args.output_dir:
-        output_dir = os.path.abspath(args.output_dir)
+    # Where to write JSON / manifest
+    if args.json_dir:
+        json_dir = os.path.abspath(args.json_dir)
+    elif args.output_dir:
+        json_dir = os.path.abspath(args.output_dir)
     else:
         # Preserve your old behavior when running locally without flags
-        output_dir = os.path.abspath(os.path.join(current_dir, "..", "VTNECards", "Data"))
+        json_dir = os.path.abspath(os.path.join(docx_dir, "..", "VTNECards", "Data"))
 
-    os.makedirs(output_dir, exist_ok=True)
+    # Where to write images
+    if args.image_dir:
+        image_dir = os.path.abspath(args.image_dir)
+    else:
+        # If not specified, co-locate images with JSON
+        image_dir = json_dir
 
-    manifest_path = os.path.join(output_dir, "manifest.json")
+    os.makedirs(json_dir, exist_ok=True)
+    os.makedirs(image_dir, exist_ok=True)
+
+    manifest_path = os.path.join(json_dir, "manifest.json")
     manifest_data, manifest_index = load_manifest(manifest_path)
 
     docx_files = sorted(
-        f for f in os.listdir(current_dir)
+        f for f in os.listdir(docx_dir)
         if f.lower().endswith(".docx") and not f.startswith("~$")
     )
 
     if not docx_files:
-        print(f"No .docx files found in {current_dir}.")
+        print(f"No .docx files found in {docx_dir}.")
         return
 
     total_cards = 0
 
     for filename in docx_files:
-        input_path = os.path.join(current_dir, filename)
+        input_path = os.path.join(docx_dir, filename)
         base, _ = os.path.splitext(filename)  # doc base name (with spaces)
         output_json_name = base + ".json"
-        output_json_path = os.path.join(output_dir, output_json_name)
+        output_json_path = os.path.join(json_dir, output_json_name)
 
         print(f"\nProcessing {filename} ...")
         try:
             cards, image_files = parse_docx_table_with_images(
                 path=input_path,
-                output_folder=output_dir,
+                image_output_folder=image_dir,
                 doc_basename=base,
                 table_index=args.table_index,
                 has_header=not args.no_header,
@@ -333,14 +358,14 @@ def main():
         parsed_at = datetime.now(timezone.utc).isoformat()
         source_docx = filename
 
-        # JSON entry
+        # JSON entry (path is just the filename; your client knows JSON lives in data/json)
         json_entry = manifest_index.get(output_json_name, {"path": output_json_name})
         json_entry["type"] = "json"
         json_entry["source_docx"] = source_docx
         json_entry["parsed_at"] = parsed_at
         manifest_index[output_json_name] = json_entry
 
-        # Image entries
+        # Image entries (paths are filenames; client knows they live in data/images)
         for img_name in image_files:
             img_entry = manifest_index.get(img_name, {"path": img_name})
             img_entry["type"] = "image"
@@ -352,7 +377,7 @@ def main():
 
     print(
         f"\nDone. Exported a total of {total_cards} flashcards "
-        f"from {len(docx_files)} file(s) into {output_dir}"
+        f"from {len(docx_files)} file(s) into JSON dir: {json_dir} and image dir: {image_dir}"
     )
     print(f"Manifest updated at: {manifest_path}")
 
