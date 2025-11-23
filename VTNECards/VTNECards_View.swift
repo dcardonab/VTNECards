@@ -22,8 +22,21 @@ struct LandingView: View {
 
 
 struct CategoriesView: View {
-    let categoryFiles = categoryJSONFileNames()
-    
+    @EnvironmentObject var dataSync: DataSyncManager
+
+    // Categories to show
+    var categoryFiles: [String] {
+        if let manifest = dataSync.currentManifest {
+            // ✅ Remote manifest is truth
+            return manifest.jsonFiles
+                .map { ( $0.path as NSString ).deletingPathExtension } // "Animal Care and Nursing Flashcards.json" -> "Animal Care and Nursing Flashcards"
+                .sorted()
+        } else {
+            // ✅ No manifest yet (first launch offline, etc.) – fall back to bundle
+            return bundleCategoryJSONFileNames()
+        }
+    }
+
     var body: some View {
         ZStack {
             List(categoryFiles, id: \.self) { fileName in
@@ -316,8 +329,6 @@ struct FlashcardView: View {
 }
 
 
-
-
 struct FlashcardRowTitleView: View {
     let text: String
     let imageProvider: (String) -> Image?
@@ -561,6 +572,7 @@ struct BulletListView: View {
 
 }
 
+
 // MARK: - Zoomable Image Infrastructure
 
 struct ZoomableScrollView<Content: View>: UIViewRepresentable {
@@ -648,6 +660,6 @@ extension String: @retroactive Identifiable {
 
 
 #Preview("Landing") {
-    NavigationStack { LandingView() }
+    LandingView()
+        .environmentObject(DataSyncManager.shared)
 }
-

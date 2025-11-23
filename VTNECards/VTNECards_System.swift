@@ -18,12 +18,29 @@ struct Flashcard: Codable {
     }
 }
 
+
 struct FlashcardCategory: Codable {
     let name: String
     let cards: [Flashcard]
 }
 
+
 func loadFlashcards(from filename: String) -> [Flashcard]? {
+    let fm = FileManager.default
+
+    // 1. Prefer sandbox JSON
+    let localURL = AppPaths.jsonFolder.appendingPathComponent("\(filename).json")
+    if fm.fileExists(atPath: localURL.path) {
+        do {
+            let data = try Data(contentsOf: localURL)
+            let flashcards = try JSONDecoder().decode([Flashcard].self, from: data)
+            return flashcards
+        } catch {
+            print("Error decoding local \(filename).json: \(error)")
+        }
+    }
+
+    // 2. Fall back to bundled JSON
     guard let url = Bundle.main.url(forResource: filename, withExtension: "json") else {
         print("Couldn't find \(filename).json in bundle: \(Bundle.main.bundlePath)")
         return nil
@@ -34,10 +51,11 @@ func loadFlashcards(from filename: String) -> [Flashcard]? {
         let flashcards = try JSONDecoder().decode([Flashcard].self, from: data)
         return flashcards
     } catch {
-        print("Error decoding \(filename).json: \(error)")
+        print("Error decoding bundled \(filename).json: \(error)")
         return nil
     }
 }
+
 
 /// Loads flashcards for production and previews, falling back to sample data if the JSON is missing.
 func loadFlashcardsSafe(from filename: String) -> [Flashcard] {
@@ -51,8 +69,37 @@ func loadFlashcardsSafe(from filename: String) -> [Flashcard] {
     ]
 }
 
+
 /// Returns all JSON file names in the main bundle (without .json extension) to use as categories.
 func categoryJSONFileNames() -> [String] {
+    var names = Set<String>()
+    let fm = FileManager.default
+
+    // 1. Bundle JSONs
+    if let resourcePath = Bundle.main.resourcePath {
+        let allFiles = (try? fm.contentsOfDirectory(atPath: resourcePath)) ?? []
+        for filename in allFiles where filename.hasSuffix(".json") {
+            let base = (filename as NSString).deletingPathExtension
+            names.insert(base)
+        }
+    }
+
+    // 2. Sandbox JSONs
+    let localJSONPath = AppPaths.jsonFolder.path
+    if fm.fileExists(atPath: localJSONPath) {
+        let localFiles = (try? fm.contentsOfDirectory(atPath: localJSONPath)) ?? []
+        for filename in localFiles where filename.hasSuffix(".json") {
+            let base = (filename as NSString).deletingPathExtension
+            names.insert(base)
+        }
+    }
+
+    return names.sorted()
+}
+
+/// Returns all JSON file names in the *bundle* (without .json extension),
+/// used only as a fallback when no manifest is available.
+func bundleCategoryJSONFileNames() -> [String] {
     guard let resourcePath = Bundle.main.resourcePath else {
         print("Bundle.main.resourcePath is nil for bundle: \(Bundle.main.bundlePath)")
         return []
@@ -67,55 +114,87 @@ func categoryJSONFileNames() -> [String] {
     }
 }
 
+
+
 /// Creates an imageProvider that loads images from the same folder as the JSON file for this category.
 /// Assumes `categoryFile` is the JSON base name without extension, e.g., "AnimalCare" -> "AnimalCare.json".
 func makeImageProvider(forCategoryFile categoryFile: String) -> (String) -> Image? {
-    guard let jsonURL = Bundle.main.url(forResource: categoryFile, withExtension: "json") else {
-        print("⚠️ Could not find \(categoryFile).json in bundle")
-        return { _ in nil }
-    }
+    // Where remote images live:
+    let sandboxImagesFolder = AppPaths.imagesFolder
 
-    let directory = jsonURL.deletingLastPathComponent()
+    // Where bundled JSON (and possibly bundled images) live:
+    let bundleJSONURL = Bundle.main.url(forResource: categoryFile, withExtension: "json")
+    let bundleDirectory = bundleJSONURL?.deletingLastPathComponent()
 
     return { filename in
-        let fileURL = directory.appendingPathComponent(filename)
+        let fm = FileManager.default
 
+        // 1. Sandbox image
+        let sandboxURL = sandboxImagesFolder.appendingPathComponent(filename)
         #if canImport(UIKit)
-        if let uiImage = UIImage(contentsOfFile: fileURL.path) {
+        if fm.fileExists(atPath: sandboxURL.path),
+           let uiImage = UIImage(contentsOfFile: sandboxURL.path) {
             return Image(uiImage: uiImage)
         }
         #elseif canImport(AppKit)
-        if let nsImage = NSImage(contentsOf: fileURL) {
+        if fm.fileExists(atPath: sandboxURL.path),
+           let nsImage = NSImage(contentsOf: sandboxURL) {
             return Image(nsImage: nsImage)
         }
         #endif
 
-        print("⚠️ Could not load image at \(fileURL.path)")
+        // 2. Fallback: bundle "next to JSON" (your original behavior)
+        if let directory = bundleDirectory {
+            let fileURL = directory.appendingPathComponent(filename)
+            #if canImport(UIKit)
+            if let uiImage = UIImage(contentsOfFile: fileURL.path) {
+                return Image(uiImage: uiImage)
+            }
+            #elseif canImport(AppKit)
+            if let nsImage = NSImage(contentsOf: fileURL) {
+                return Image(nsImage: nsImage)
+            }
+            #endif
+        }
+
+        print("⚠️ Could not load image \(filename) from sandbox or bundle")
         return nil
     }
 }
+
 
 /// Creates a UIImage provider that loads images from the same folder as the JSON file for this category.
 /// Useful for zoomable views that need UIKit images.
 func makeUIImageProvider(forCategoryFile categoryFile: String) -> (String) -> UIImage? {
-    guard let jsonURL = Bundle.main.url(forResource: categoryFile, withExtension: "json") else {
-        print("⚠️ Could not find \(categoryFile).json in bundle for UIImage provider")
-        return { _ in nil }
-    }
-
-    let directory = jsonURL.deletingLastPathComponent()
+    let sandboxImagesFolder = AppPaths.imagesFolder
+    let bundleJSONURL = Bundle.main.url(forResource: categoryFile, withExtension: "json")
+    let bundleDirectory = bundleJSONURL?.deletingLastPathComponent()
 
     return { filename in
-        let fileURL = directory.appendingPathComponent(filename)
+        let fm = FileManager.default
 
+        // 1. Sandbox
+        let sandboxURL = sandboxImagesFolder.appendingPathComponent(filename)
         #if canImport(UIKit)
-        return UIImage(contentsOfFile: fileURL.path)
-        #else
-        return nil
+        if fm.fileExists(atPath: sandboxURL.path),
+           let uiImage = UIImage(contentsOfFile: sandboxURL.path) {
+            return uiImage
+        }
         #endif
+
+        // 2. Bundle fallback
+        if let directory = bundleDirectory {
+            let fileURL = directory.appendingPathComponent(filename)
+            #if canImport(UIKit)
+            if fm.fileExists(atPath: fileURL.path) {
+                return UIImage(contentsOfFile: fileURL.path)
+            }
+            #endif
+        }
+
+        return nil
     }
 }
-
 
 
 /// Formats a file name into a user-friendly category display name.
@@ -124,6 +203,7 @@ func categoryDisplayName(forFile fileName: String) -> String {
         .replacingOccurrences(of: "_", with: " ")
         .capitalized
 }
+
 
 /// Parses `[[image:filename.png]]` tokens out of the text.
 /// Returns the plain text (with tokens removed) and a list of filenames.

@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct FlashcardsApp: App {
+struct VTNECardsApp: App {
     var body: some Scene {
         WindowGroup {
             LandingView()
