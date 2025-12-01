@@ -7,6 +7,7 @@
 
 import SwiftUI
 import Foundation
+import Combine
 
 struct Flashcard: Codable {
     let title: String
@@ -256,6 +257,72 @@ func parseTextAndImageTokens(_ text: String) -> (plainText: String, images: [Str
     let plainText = plainParts.joined()
     return (String(plainText), images)
 }
+
+// MARK: - Favorites
+struct FavoriteKey: Hashable, Codable {
+    let categoryFile: String   // e.g. "ParasitologyFlashcards"
+    let title: String          // flashcard.title (assumed unique per category)
+}
+
+@MainActor
+final class FavoritesManager: ObservableObject {
+    static let shared = FavoritesManager()
+
+    @Published private(set) var favorites: Set<FavoriteKey> = []
+
+    private let storageKey = "Favorites.v1"
+
+    private init() {
+        load()
+    }
+
+    // MARK: - Public API
+
+    func isFavorite(categoryFile: String, title: String) -> Bool {
+        let key = FavoriteKey(categoryFile: categoryFile, title: title)
+        return favorites.contains(key)
+    }
+
+    func toggleFavorite(categoryFile: String, title: String) {
+        let key = FavoriteKey(categoryFile: categoryFile, title: title)
+        if favorites.contains(key) {
+            favorites.remove(key)
+        } else {
+            favorites.insert(key)
+        }
+        save()
+    }
+
+    func removeFavorite(_ key: FavoriteKey) {
+        favorites.remove(key)
+        save()
+    }
+
+    // MARK: - Persistence
+
+    private func load() {
+        let defaults = UserDefaults.standard
+        guard let data = defaults.data(forKey: storageKey) else { return }
+
+        do {
+            let decoded = try JSONDecoder().decode(Set<FavoriteKey>.self, from: data)
+            favorites = decoded
+        } catch {
+            print("⚠️ Failed to decode favorites: \(error)")
+            favorites = []
+        }
+    }
+
+    private func save() {
+        do {
+            let data = try JSONEncoder().encode(favorites)
+            UserDefaults.standard.set(data, forKey: storageKey)
+        } catch {
+            print("⚠️ Failed to encode favorites: \(error)")
+        }
+    }
+}
+
 
 
 #if DEBUG

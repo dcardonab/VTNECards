@@ -23,6 +23,7 @@ struct LandingView: View {
 
 struct CategoriesView: View {
     @EnvironmentObject var dataSync: DataSyncManager
+    @EnvironmentObject var favorites: FavoritesManager
 
     // Categories to show
     var categoryFiles: [String] {
@@ -40,20 +41,43 @@ struct CategoriesView: View {
 
     var body: some View {
         ZStack {
-            List(categoryFiles, id: \.self) { fileName in
-                NavigationLink("\(categoryDisplayName(forFile: fileName)) \(AnimalEmoji.random())") {
-                    CategoryDetailView(categoryFile: fileName)
+            Theme.pastelBackground.ignoresSafeArea()
+
+            VStack(spacing: 16) {
+                List(categoryFiles, id: \.self) { fileName in
+                    NavigationLink("\(categoryDisplayName(forFile: fileName)) \(AnimalEmoji.random())") {
+                        CategoryDetailView(categoryFile: fileName)
+                    }
+                    .ListRow()
                 }
-                .ListRow()
+                .font(.system(size: 20))
+                .listStyle(.insetGrouped)
+                .scrollContentBackground(.hidden)
+
+                // Favorites button outside the list, toward the bottom
+                NavigationLink {
+                    FavoritesView()
+                } label: {
+                    HStack {
+                        Image(systemName: "star.fill")
+                        Text("Favorites")
+                    }
+                    .font(.system(size: 20, weight: .semibold, design: .rounded))
+                    .foregroundColor(.white)
+                    .padding()
+                    .frame(maxWidth: .infinity)
+                    .background(
+                        RoundedRectangle(cornerRadius: 18, style: .continuous)
+                            .fill(Theme.accent)
+                            .shadow(color: Theme.softBlue.opacity(0.35), radius: 10, x: 0, y: 6)
+                    )
+                }
+                .padding(.horizontal)
+                .padding(.bottom, 12)
             }
-            .font(.system(size:20))
-            .listStyle(.insetGrouped)
-            .scrollContentBackground(.hidden)
-            .background(Theme.pastelBackground.ignoresSafeArea())
         }
     }
 }
-
 
 
 struct CategoryDetailView: View {
@@ -121,7 +145,16 @@ struct CategoryFlashcardsView: View {
 }
 
 
+private struct DrillProgress: Codable {
+    var currentIndex: Int
+    var remainingIndices: [Int]
+    var cardCount: Int
+}
+
+
 struct RandomDrillView: View {
+    @EnvironmentObject var favorites: FavoritesManager
+
     let cards: [Flashcard]
     let categoryTitle: String
     let categoryFile: String
@@ -172,6 +205,16 @@ struct RandomDrillView: View {
                         .font(.subheadline)
                 }
             }
+
+            ToolbarItem(placement: .topBarTrailing) {
+                Button {
+                    favorites.toggleFavorite(categoryFile: categoryFile, title: currentCard.title)
+                } label: {
+                    Image(systemName: isCurrentFavorite ? "star.fill" : "star")
+                        .foregroundColor(isCurrentFavorite ? .yellow : Theme.charcoal)
+                }
+                .accessibilityLabel(isCurrentFavorite ? "Remove from favorites" : "Add to favorites")
+            }
         }
         .sheet(item: $zoomImageName) { name in
             if let uiImage = uiImageProvider(name) {
@@ -213,14 +256,22 @@ struct RandomDrillView: View {
     }
 
     // MARK: - Logic
-
     private func startIfNeeded() {
         guard !cards.isEmpty else { return }
+
+        // Try to restore previous progress
+        if let saved = loadProgress() {
+            currentIndex = saved.currentIndex
+            remainingIndices = saved.remainingIndices
+            showingDetail = false  // always come back to front of card
+            return
+        }
+
+        // No saved progress → start a fresh shuffled cycle
         prepareNewDeck(avoiding: nil)
         showingDetail = false
     }
 
-    
     // Build a new shuffled deck of indices.
     // If `avoiding` is provided, try not to put that index first (to avoid immediate repeats between cycles).
     private func prepareNewDeck(avoiding indexToAvoid: Int? = nil) {
@@ -237,21 +288,19 @@ struct RandomDrillView: View {
 
         currentIndex = indices.first ?? 0
         remainingIndices = Array(indices.dropFirst())
-    }
 
+        saveProgress(currentIndex: currentIndex, remaining: remainingIndices)
+    }
 
     private func advance() {
         guard !cards.isEmpty else { return }
 
         if showingDetail {
-            // We are on the back → go to the next *new* card in the deck
             if remainingIndices.isEmpty {
-                // All cards in this cycle have been shown → start a new shuffled cycle
                 let lastIndex = currentIndex
                 prepareNewDeck(avoiding: lastIndex)
                 withAnimation(.easeInOut) {
                     showingDetail = false  // new card starts on front
-                    // currentIndex was set in prepareNewDeck
                 }
             } else {
                 let next = remainingIndices.removeFirst()
@@ -259,13 +308,62 @@ struct RandomDrillView: View {
                     showingDetail = false  // new card starts on front
                     currentIndex = next    // triggers slide transition
                 }
+                
+                saveProgress(currentIndex: currentIndex, remaining: remainingIndices)
             }
         } else {
-            // We are on the front → just reveal the detail, don't advance the deck
             withAnimation(.easeInOut) {
                 showingDetail = true
             }
         }
+    }
+
+    // MARK: - Persistence
+    private var progressDefaultsKey: String {
+        "RandomDrillProgress.\(categoryFile)"
+    }
+
+    private func loadProgress() -> DrillProgress? {
+        let defaults = UserDefaults.standard
+        guard let data = defaults.data(forKey: progressDefaultsKey) else { return nil }
+
+        do {
+            let progress = try JSONDecoder().decode(DrillProgress.self, from: data)
+            // If the deck size changed (e.g. new JSON), reset
+            guard progress.cardCount == cards.count else { return nil }
+            return progress
+        } catch {
+            print("Failed to decode drill progress for \(categoryFile): \(error)")
+            return nil
+        }
+    }
+
+    private func saveProgress(currentIndex: Int, remaining: [Int]) {
+        let progress = DrillProgress(
+            currentIndex: currentIndex,
+            remainingIndices: remaining,
+            cardCount: cards.count
+        )
+
+        do {
+            let data = try JSONEncoder().encode(progress)
+            UserDefaults.standard.set(data, forKey: progressDefaultsKey)
+        } catch {
+            print("Failed to encode drill progress for \(categoryFile): \(error)")
+        }
+    }
+
+    private func clearProgress() {
+        UserDefaults.standard.removeObject(forKey: progressDefaultsKey)
+    }
+    
+    // MARK: - Favorites
+    private var currentCard: Flashcard {
+        cards[currentIndex]
+    }
+
+    private var isCurrentFavorite: Bool {
+        favorites.isFavorite(categoryFile: categoryFile, title: currentCard.title)
     }
 
 }
@@ -275,6 +373,8 @@ struct FlashcardView: View {
     let flashcard: Flashcard
     let categoryFile: String
 
+    @EnvironmentObject var favorites: FavoritesManager
+
     private var imageProvider: (String) -> Image? {
         makeImageProvider(forCategoryFile: categoryFile)
     }
@@ -283,7 +383,11 @@ struct FlashcardView: View {
         makeUIImageProvider(forCategoryFile: categoryFile)
     }
 
-    @State private var zoomImageName: String?   // <-- stays
+    @State private var zoomImageName: String?
+
+    private var isFavorite: Bool {
+        favorites.isFavorite(categoryFile: categoryFile, title: flashcard.title)
+    }
 
     var body: some View {
         ZStack {
@@ -312,6 +416,16 @@ struct FlashcardView: View {
             ToolbarItem(placement: .principal) {
                 let (plainTitle, _) = parseTextAndImageTokens(flashcard.title)
                 ThemedTitle(text: plainTitle, enableEmoji: false)
+            }
+
+            ToolbarItem(placement: .topBarTrailing) {
+                Button {
+                    favorites.toggleFavorite(categoryFile: categoryFile, title: flashcard.title)
+                } label: {
+                    Image(systemName: isFavorite ? "star.fill" : "star")
+                        .foregroundColor(isFavorite ? .yellow : Theme.charcoal)
+                }
+                .accessibilityLabel(isFavorite ? "Remove from favorites" : "Add to favorites")
             }
         }
         .sheet(item: $zoomImageName) { name in
@@ -504,7 +618,6 @@ struct BulletListView: View {
     }
 
     // MARK: - Parsing
-
     private func parseLines(from raw: String) -> [Line] {
         var result: [Line] = []
         for rawLine in raw.components(separatedBy: .newlines) {
@@ -574,8 +687,63 @@ struct BulletListView: View {
 }
 
 
-// MARK: - Zoomable Image Infrastructure
+struct FavoritesView: View {
+    @EnvironmentObject var favorites: FavoritesManager
 
+    // categoryFile → [Flashcard]
+    private var favoritesByCategory: [String: [Flashcard]] {
+        var result: [String: [Flashcard]] = [:]
+
+        for key in favorites.favorites {
+            let cards = loadFlashcardsSafe(from: key.categoryFile)
+            if let card = cards.first(where: { $0.title == key.title }) {
+                result[key.categoryFile, default: []].append(card)
+            }
+        }
+
+        return result
+    }
+
+    private var sortedCategoryFiles: [String] {
+        favoritesByCategory.keys.sorted()
+    }
+
+    var body: some View {
+        ZStack {
+            Theme.pastelBackground.ignoresSafeArea()
+
+            if favorites.favorites.isEmpty {
+                Text("No favorites yet.\nTap the ☆ on a card to save it here.")
+                    .multilineTextAlignment(.center)
+                    .padding()
+                    .Card()
+                    .padding()
+            } else {
+                List {
+                    ForEach(sortedCategoryFiles, id: \.self) { categoryFile in
+                        if let cards = favoritesByCategory[categoryFile] {
+                            Section(header: Text(categoryDisplayName(forFile: categoryFile))) {
+                                ForEach(cards, id: \.title) { card in
+                                    NavigationLink {
+                                        FlashcardView(flashcard: card, categoryFile: categoryFile)
+                                    } label: {
+                                        Text(card.title)
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                .listStyle(.insetGrouped)
+                .scrollContentBackground(.hidden)
+            }
+        }
+        .navigationTitle("Favorites")
+    }
+}
+
+
+// MARK: - Zoomable Image Infrastructure
 struct ZoomableScrollView<Content: View>: UIViewRepresentable {
     let content: Content
 
@@ -663,4 +831,5 @@ extension String: @retroactive Identifiable {
 #Preview("Landing") {
     LandingView()
         .environmentObject(DataSyncManager.shared)
+        .environmentObject(FavoritesManager.shared)
 }
