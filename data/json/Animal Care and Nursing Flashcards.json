@@ -1,5 +1,13 @@
 [
   {
+    "title": "Classification of bones by shape",
+    "detail": "• Long bones: Primarily grow thru lengthening of the diaphysis (shaft), which has two rounded ends (epiphyses) and a marrow/medullar cavity (e.g. radius, femur)\n• Short bones: No medullar cavity (e.g. carpal)\n• Flat bones: Thin horizontal bones formed from two layers of compact bone w a middle layer of cancellous bone (e.g. skull bones, pelvis, ribs, scapula)\n• Pneumatic bones: Have an air-filed cavity (e.g. sinuses)\n• Sesamoid bones: Small, short bones of an irregular spherical or sesame seed like shape that alleviate some of the stress caused by friction on joints or tendons (e.g. patella)\n• Irregular bones: Irregular shapes (e.g. hip bones, vertebrae)"
+  },
+  {
+    "title": "Classification of bone tissue",
+    "detail": "• Compact bones: Provides structural strength, allows movement and weight bearing; composed of tightly grouped osteons (aka haversian systems)\n• Each osteon is comprised of a solid matrix of osseous lamellae surrounding a central canal containing blood vessels that nurture the bone\n• Osteocytes are bw the lamellar rings inside lacunae\n• Canaliculi (channels) extend from lacunae to the haversian canal—nutrition is brought in thru the canaliculi and was is removed out\n• Cancellous/spongy/trabecular bones: Protects bone marrow and provides internal structural support; found inside and at the end of rounded ends of long bones, pelvis, and breast bones\n• Honeycomb appearance w trabeculae (the bony ridges w/in honeycomb), which provides support against strength and can change shape as result of it; trabecular spaces filled w red marrow where blood is produced\n• Trabeculae is made up of bone or collagen (a connective tissue made up of fibrous proteins)\n• Nutrition received not thru haversian systems but thru canaliculi"
+  },
+  {
     "title": "Bone conditions",
     "detail": "• Osteomalacia: Softening of bones\n• Osteopetrosis: Hardening of bones\n• Osteoporosis: Weakening and brittling of bones\n• Multiple myeloma: Collection of abnormal cells that accumulate within bones"
   },
@@ -68,12 +76,16 @@
     "detail": "• Mental activity or level of consciousness; should be documented for each patient\n• Normal: Bright, alert, responsive to stimuli/surroundings\n• Dull: Interactive by nudging or walking up, depressed but interested in people\n• Obtunded: Reactive to stimuli but not interested, slower moving, more depressed\n• Stuporous: Disconnected, only responsive to painful stimuli\n• Unresponsive: No response to any stimuli"
   },
   {
+    "title": "Blood",
+    "detail": "• Make up 7% of body weight\n• Whole blood: Blood in the cardiovascular system\n• Peripheral blood: Whole blood circulating in blood vessels"
+  },
+  {
     "title": "Blood composition",
-    "detail": "• Make up 7% of body weight\n• Whole blood: Blood in the cardiovascular system\n• Peripheral blood: Whole blood circulating in blood vessels\n• Cellular components: RBCs, WBCs, platelets (thrombocytes)\n• Plasma: All components of blood minus cells; made up of 91% water, 7% proteins, 2% others; clear liquid at the top if blood w anticoagulant is left to sit and components settle\n• Buffy coat: Layer of WBCs and platelets between the top plasma and bottom RBC layers\n• Serum: Blood after blood cells and clotting factors are removed; fluid that rises to the top when blood is centrifuged with no anticoagulant; forms a larger percentage of blood than plasma"
+    "detail": "• Cellular components: RBCs, WBCs, platelets (thrombocytes)\n• Plasma: All components of blood minus cells; made up of 91% water, 7% proteins, 2% others; clear liquid at the top if blood w anticoagulant is left to sit and components settle\n• Buffy coat: Layer of WBCs and platelets between the top plasma and bottom RBC layers\n• Serum: Blood after blood cells and clotting factors (i.e. fibrinogen proteins) are removed; fluid that rises to the top when blood is centrifuged with no anticoagulant; forms a larger percentage of blood than plasma"
   },
   {
     "title": "Blood vessels",
-    "detail": "• Arteries: Carry blood away from the heart; oxygenated blood except for pulmonary artery; thicker/stronger than veins and with more pressure; aorta is the main, leaving the heart at the left ventricle, subclavian artery is a branch of the aorta that supplies blood to the cranial portion of the body into the forelimbs, carotid artery is the branch traveling up the neck, celiac artery supplies the stomach\n• Arterioles: Small arteries that lead to capillaries\n• Capillaries (smallest arteries): Site of carbon-dioxide/oxygen exchange; microscopic diameter w one layer of endothelium; porous so substances can move freely bw extracellular fluid and blood\n• Venules (smallest veins): Emerge from capillaries and enlarge into veins\n• Veins: Carry blood back to the heart; larger than arteries w thinner walls and lower pressure; backflow is prevented by valves; largest two are the vena cavas"
+    "detail": "• Arteries (arterial vessels): Carry blood away from the heart; oxygenated blood except for pulmonary artery; thicker/stronger than veins and with more pressure; aorta is the main, leaving the heart at the left ventricle, subclavian artery is a branch of the aorta that supplies blood to the cranial portion of the body into the forelimbs, carotid artery is the branch traveling up the neck, celiac artery supplies the stomach\n• Arterioles: Small arteries that lead to capillaries\n• Capillaries (smallest arteries): Site of carbon-dioxide/oxygen exchange; microscopic diameter w one layer of endothelium; porous so substances can move freely bw extracellular fluid and blood\n• Venules (smallest veins): Emerge from capillaries and enlarge into veins\n• Veins (venous vessels): Carry blood back to the heart; carry deoxygenated blood other than the pulmonary vein; larger than arteries w thinner walls and lower pressure; backflow is prevented by valves; largest two are the vena cavas"
   },
   {
     "title": "Hepatic portal vein",
@@ -81,7 +93,7 @@
   },
   {
     "title": "Vena cavas",
-    "detail": "[[image:Animal Care and Nursing Flashcards_Image10.png]]"
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image11.png]]"
   },
   {
     "title": "Blood pressure",
@@ -133,7 +145,7 @@
   },
   {
     "title": "Joints",
-    "detail": "• Formed where bones are united by fibrous, elastic, or cartilaginous tissue\n• Synarthrosis: Immovable; united by fibrous tissue; no joint cavity; e.g. skull\n• Amphiarthrosis: Slightly movable; cartilaginous tissue (united by cartilage); no joint cavity; e.g. intervertebral discs or pubic symphysis\n• Diarthrosis: Movable; joint cavity filled with synovial fluid"
+    "detail": "• Skeletal articulation; found wherever bones come together for movement\n• Formed where bones are united by fibrous, elastic, or cartilaginous tissue\n• Synarthrosis: Immovable; united by fibrous tissue; no joint cavity; e.g. suture joints of the skull\n• Amphiarthrosis: Slightly movable; cartilaginous tissue (united by cartilage); no joint cavity; e.g. intervertebral discs or pubic symphysis\n• Diarthrosis: Movable; joint cavity filled with synovial fluid; e.g. shoulder"
   },
   {
     "title": "Synovial joints",
@@ -224,8 +236,16 @@
     "detail": "• Lymph from the digestive system\n• After a meal, it contains microscopic particles of fat (chylomicrons) that cause the lymph to appear white or pale yellow"
   },
   {
-    "title": "Ear",
-    "detail": "• Pinna: Outer portion of the ear seen from the outside; a cartilaginous funnel that collects sound waves and directs them medially into the external auditory canal\n• Eustachian tube: Connection of the middle cavity (middle ear) to the pharynx\n• Tympanic membrane: Ear drum; air-filled middle ear cavity; transmits vibrations to the inner ear\n• Ossicles: Bones of the middle ear that transmit vibrations to the cochlea (malleus/hammer, incus/anvil, stapes/stirrup)\n+ Columella bone: Middle ear bone in birds, amphibians, and reptiles; transmits sound to the inner ear\n• Cochlea: Snail-shaped, fluid filled cavity in the temporal bone of the skull; contains the hearing portion of the inner ear; absorbs vibrations of the sound waves"
+    "title": "Parts of the ear",
+    "detail": "• Outer ear: Pinna, Auditory canal, tympanic membrane\n• Middle ear: Ossicles (malleus, incus, stapes or hammer, anvil, stirrup)\n• Inner ear: Cochlea, semicircular canals\n• Liquid in inner ear helps w balance"
+  },
+  {
+    "title": "Sound",
+    "detail": "• Sound is transmitted from outer via the middle ear’s ossicles, which vibrate to amplify and relay sound waves from the eardrum to the inner ear\n• Hair cells in the cochlea of the inner ear moves in response to sound waves, generating auditory nerve impulses\n• Corti, principal section of the cochlea, translates neural impulses to sounds"
+  },
+  {
+    "title": "Ear parts in detail",
+    "detail": "• Pinna: Outer portion of the ear seen from the outside; a cartilaginous funnel that collects sound waves and directs them medially into the external auditory canal\n• Eustachian tube: Connection of the middle cavity (middle ear) to the pharynx (connect middle ear to nasal cavity)\n• Tympanic membrane: Ear drum; air-filled middle ear cavity; transmits vibrations to the inner ear\n• Ossicles: Bones of the middle ear that transmit vibrations to the cochlea (malleus/hammer, incus/anvil, stapes/stirrup)\n+ Columella bone: Middle ear bone in birds, amphibians, and reptiles; transmits sound to the inner ear\n• Cochlea: Snail-shaped, fluid filled cavity in the temporal bone of the skull; contains the hearing portion of the inner ear; absorbs vibrations of the sound waves"
   },
   {
     "title": "Trochlear notch",
@@ -252,20 +272,20 @@
     "detail": "• Includes all lumps, bumps, and other projections on a bone\n• Condyles are on the distal end of the humerus and femur and on the occipital bone of the skull\n• Heads are found on the proximal ends of humerus, femur, and ribs\n• Tuberosity is a rough projection on a bone (e.g. maxillary tuberosity)\n• Greater trochanter is a process on the lateral part of the proximal extremity of femur\n• Wing is a transverse process on the first cervical vertebrae"
   },
   {
-    "title": "[[image:Animal Care and Nursing Flashcards_Image08.png]]",
+    "title": "[[image:Animal Care and Nursing Flashcards_Image09.png]]",
     "detail": "[[image:Animal Care and Nursing Flashcards_Image04.png]]"
   },
   {
     "title": "[[image:Animal Care and Nursing Flashcards_Image01.png]]",
-    "detail": "[[image:Animal Care and Nursing Flashcards_Image14.png]]"
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image15.png]]"
   },
   {
-    "title": "[[image:Animal Care and Nursing Flashcards_Image12.png]]",
+    "title": "[[image:Animal Care and Nursing Flashcards_Image13.png]]",
     "detail": "• Equine hoof is divided into wall, sole, and frog\n• Wall: Convex, external portion divided into toe, quarters, and heels\n• Sole: Plantar surface; thin strip called white line is formed at the junction of sole and hoof wall\n• Frog: Insensitive; triangular and horny structure w point/apex facing the toe and a centraldepression known as central sulcus or cleft"
   },
   {
     "title": "Anatomical planes",
-    "detail": "[[image:Animal Care and Nursing Flashcards_Image09.png]]"
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image10.png]]"
   },
   {
     "title": "Anatomical planes (Planes of reference)",
@@ -280,7 +300,7 @@
     "detail": "• Interparietal bones (2): Located on the dorsal midline b/w occipital bone and the parietal bones; visible in young animals, fuse together to parietal bones when older\n• Occipital bone: Forms the caudoventral portion (base) of the skull where spinal cord exits and skull articulates w the first cervical vertebra; most caudal skull bone\n• Parietal bones (2): Form the dorsolateral walls; relatively small in horses and cattle\n• Temporal bones (2): Below/ventral to parietal bones; form lateral walls of the cranium, contain the middle and inner ear structures, and form the TMJs with the mandible\n• Frontal bones: Form the forehead/rostrolateral portion; contains the the paranasal sinus, frontal sinus"
   },
   {
-    "title": "External (landmark) bones of the face [[image:Animal Care and Nursing Flashcards_Image15.png]]",
+    "title": "External (landmark) bones of the face [[image:Animal Care and Nursing Flashcards_Image16.png]]",
     "detail": "• Incisive (premaxillary) bones (2): Most rostral skull bones; house the upper incisors if animal has them\n• Nasal bones (2): Form the bridge of the nose; size depends on breed/species (e.g. whether brachy- or dolichocephalic)\n• Maxillary bones (2): Make up the upper jaw along w incisive bones; house upper canines, cheek teeth, and maxillary sinuses; form the hard palate along w palatine bones (roof of the mouth)\n• Lacrimal bones (2): Form part of the medial portion of eye’s orbit; houses lacrimal sac\n• Zygomatic (malar) bones (2): Form part of the orbit\n• Mandible: Lower jaw; only movable part of the skull; made up of 2 bones joined by a cartilaginous joint (mandibular symphysis) in dogs, cats, and cattle"
   },
   {
@@ -305,7 +325,7 @@
   },
   {
     "title": "Eye",
-    "detail": "[[image:Animal Care and Nursing Flashcards_Image11.png]]"
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image12.png]]"
   },
   {
     "title": "Tear production and draining",
@@ -340,8 +360,20 @@
     "detail": "• Diffuse: Placental attachment sites are diffused over the whole surface of placenta and lining of uterus; loose attachment so easy to detach and pass after delivery (pigs, horses, camelids)\n• Cotyledonary: Small, discrete, numerous areas of attachment sites known as placentome; hard to detach, may cause metritis (ruminants)\n• Zonary: Placenta attaches to uterus in a belt-shaped zone that encircles the placenta; detaches easily (cats, dogs)\n• Discoid: Single, discrete attachment site that is disc-shaped (primates, rabbits, rodents)"
   },
   {
-    "title": "Ruminant stomach",
-    "detail": "• Ruminants have a true stomach (abomasum) and have three forestomachs (rumen, reticulum, and omasum)\n• Rumen (aka paunch) is where fermentation occurs due to microorganisms that assist in breaking down carbohydrates; occupies most of the left side, from diaphragm to pelvis when expanded (can reach 100 L in adult cow)\n• Reticulum (aka honeycomb due to mucosa) lies against the diaphragm; contents can enter and exit rumen easily so reticulum is essentially one unit w rumen (reticulorumen)\n• Omasum connects reticulorumen to abomasum"
+    "title": "Mastication",
+    "detail": "• Chewing\n• Starting point of digestion\n• Salivary amylase is the first digestive enzyme; primarily breaks down carbohydrates"
+  },
+  {
+    "title": "Monogastric digestion",
+    "detail": "• Relatively small glandular stomach where the ingesta is physically mixed by the walls w hydrochloric acid (pH 1.5 to 3.5) and pepsin, which is an enzyme that breaks down protein"
+  },
+  {
+    "title": "Ruminant stomach [[image:Animal Care and Nursing Flashcards_Image07.png]]",
+    "detail": "• Ruminants have a true stomach (abomasum) and have three forestomachs (rumen, reticulum, and omasum)\n• Rumen (aka paunch) is where fermentation occurs due to microorganisms that assist in breaking down carbohydrates; occupies most of the left side, from diaphragm to pelvis when expanded (can reach 100 L in adult cow)\n• Reticulum (aka honeycomb due to mucosa) lies against the diaphragm; contents can enter and exit rumen easily so reticulum is essentially one unit w rumen (reticulorumen); acts as a garbage-cage for nonfood items and absorbs volatile fatty acids produced in the rumen as carbohydrates are digested by microbes\n• Omasum connects reticulorumen to abomasum; absorbs water, magnesium, bicarbonate, and further grinds feed\n• Abomasum: Glandular stomach that is responsible for acid and enzymatic digestion"
+  },
+  {
+    "title": "Chyme",
+    "detail": "• Ingesta after gastric juices act upon it\n• Softened, semi-solid mass w water, hydrochloric acid, and digestive enzymes\n• Passed from the stomach to the duodenum, where it blends w pancreatic enzymes trypsin and pancreatic lipase\n• It then travels to the jejunum and ileum, and then to the large intestine where excess water is absorbed"
   },
   {
     "title": "Reticular/esophageal groove",
@@ -360,7 +392,7 @@
     "detail": "• Space between the incisors and the cheek teeth (premolars) in rabbits, between the canine teeth and the first premolar of a horse"
   },
   {
-    "title": "[[image:Animal Care and Nursing Flashcards_Image07.png]]",
+    "title": "[[image:Animal Care and Nursing Flashcards_Image06.png]]",
     "detail": "• Interventricular septum: Stout wall separating the left and right ventricles; continuation of the atrioventricular septum\n• Interventricular groove (sulcus): The area of the interventricular septum visible on the outside of the heart; contains coronary blood vessels, filled w fat\n• Interatrial septum: Continuation of the myocardium that separates the right and left atria\n• Auricles: The flaps that lie on top of the heart on the outside of the atria (part of the atria)\n• AV valves: Located bw atria and ventricles; 3 cusps on the right (tricuspid valve), 2 cusps on the left (bicuspid valve)\n• Semilunar valves: Control blood flow out of the ventricles into arteries; right is pulmonary valve, left is aortic valve"
   },
   {
@@ -369,7 +401,7 @@
   },
   {
     "title": "Skeleton",
-    "detail": "• Axial skeleton (bones of the head and trunk)\n• Appendicular skeleton (bones of the limbs)\n• Visceral skeleton\n[[image:Animal Care and Nursing Flashcards_Image06.png]]"
+    "detail": "• Axial skeleton (bones of the head and trunk)\n• Appendicular skeleton (bones of the limbs)\n• Visceral skeleton\n[[image:Animal Care and Nursing Flashcards_Image03.png]]"
   },
   {
     "title": "Appendicular skeleton",
@@ -380,8 +412,16 @@
     "detail": "• Consists of bones that form in soft organs (viscera) found only in some animals\n• Os cordis: Bone in the heart of cattle and sheep; helps support valves\n• Os penis: Bone in the penis of dogs, cats, beavers, raccoons, walruses; partially surrounds the penile portion of urethra\n• Os rostri: Bone in the nose of swine; strengthens the snout for rooting behavior"
   },
   {
+    "title": "Ureters",
+    "detail": "• Urinary ducts that transport urine away from the kidneys and into the bladder\n• Smooth muscle"
+  },
+  {
     "title": "Functions of the kidney",
     "detail": "• Produce urine and help maintain homeostasis by manipulating the composition of blood plasma through the following processes:\n• Blood filtration, reabsorption, and secretion\n• Fluid balance regulation (amount of urine produced is determined by antidiuretic hormone (ADH) and aldosterone, production of which is influenced by kidneys)\n• Acid-base regulation (maintains blood pH by removing acidic hydrogen or basic bicarbonate as needed)\n• Hormone production\n• Blood pressure regulation (kidneys monitor BP by internal receptors and secrete the hormone renin which starts a cascade of reactions that result in vasoconstriction and retention of sodium and water, increasing BP)"
+  },
+  {
+    "title": "Urine production",
+    "detail": "• Three phases:\n• Filtration: Pressure from the renal artery forces water, salt, and other molecules out of the glomerulus (a cluster of capillaries); this glomerular filtrate is then filtered thru the Bowman’s capsule where waste products, inorganic salts, and excess water are removed\n• Reabsorption: Nutrients left over from filtration are reabsorbed into the body thru renal tubules in the proximal convoluted tubules\nConcentrating and absorbing of salts happen in loop of Henle\n• Secretion: Some substances are released into the distal convoluted ducts from the peritubular capillaries, thereby regulating blood pH during secretion"
   },
   {
     "title": "Symptoms of urinary tract dysfunction",
@@ -401,7 +441,19 @@
   },
   {
     "title": "CNS",
-    "detail": "• Brain and spinal cord\n• Also includes gray matter (neurons) and white matter (myelinated nerve fibers)\n[[image:Animal Care and Nursing Flashcards_Image03.png]]"
+    "detail": "• Brain and spinal cord\n• Also includes gray matter (neurons) and white matter (myelinated nerve fibers)\n[[image:Animal Care and Nursing Flashcards_Image14.png]]"
+  },
+  {
+    "title": "Glial cells (neuroglia)",
+    "detail": "• Network of tissues and fibers that provide support, protection, and nutrition to neurons\n• Found in the brain and the spinal cord"
+  },
+  {
+    "title": "Meninges",
+    "detail": "• Three layers of dense, fibrous connective tissue membranes that enclose the brain and the spinal cord to protect the CNS\n• Dura mater\n• Arachnoid matter\n• Pia matter"
+  },
+  {
+    "title": "Cerebrospinal fluid",
+    "detail": "• The clear, water-like fluid that is in and around the brain and the spinal cord\n• Works as a cushion to the CNS when jostled\n• Source of nourishment for the brain; contains protein, glucose, and ions"
   },
   {
     "title": "Brain",
@@ -456,7 +508,7 @@
     "detail": "• Cardiac cycle: One cycle of atrial and ventricular contraction and relaxation; produces one heartbeat\n• Structures of the primary cardiac conduction system are:\n• SA node: Impulse comes from the sinoatrial node in the right atrium; called pacemaker\n• AV node: Next stop; causes contraction w minor delay so that atria can contract before ventricles so ventricles can fill); located in the atrioventricular septum\n• Bundle of His: Fibers of boH travel down the septum to the apex, delivering impulse\n• Purkinje fiber system: Carries impulse up into left and right ventricular myocardium; located in the septum (wall)\n• Impulse from SA node leads to depolarization, which causes the myocardium to contract (repolarization causes it to relax)"
   },
   {
-    "title": "Electrocardiogram [[image:Animal Care and Nursing Flashcards_Image13.png]]",
+    "title": "Electrocardiogram [[image:Animal Care and Nursing Flashcards_Image08.png]]",
     "detail": "• P wave: Time it takes the wave of depolarization (contractions) to travel from SA node to the atria; corresponds to the mechanical activity of atrial contractions\n• QRS complex: Time of ventricular depolarization (contraction); corresponds to the mechanical activity of ventricular contraction; composed of 3 waves:\n• Q wave corresponds to depolarization of the interventricular septum\n• R wave corresponds to depolarization of the main mass of ventricles (so it’s the largest)\n• S wave corresponds to final part of depolarization of the ventricles at the base of the heart\n• T wave: Time of ventricular repolarization (relaxation); corresponds to the time taken by ventricles to get ready for the next contraction by filling with blood from the atria"
   },
   {
@@ -674,6 +726,10 @@
   {
     "title": "Serum colors",
     "detail": "• Serum centrifuged in a microhematocrit tube:\n• Icterus manifests as yellow-to-orange serum because of increased bilirubin levels in serum\n• Hemolyzed serum is red because of increased hemoglobin levels in serum\n• Hyperproteinemia results in increased total protein readings and presents as yellow fluid w high viscosity if severe (e.g. feline infectious peritonitis)\n• Lipemia manifests as turbid, white serum due to increased triglyceride level"
+  },
+  {
+    "title": "Bilirubin",
+    "detail": "• Brownish-yellow substance found in bile\n• By-product of hemoglobin breakdown; formed by the metabolism of heme, which is the deep red iron-containing pigment\n• Responsible for yellowish appearance in bruises, as well as in jaundice"
   },
   {
     "title": "Core vaccines",
@@ -901,7 +957,7 @@
   },
   {
     "title": "Cat vs. dog transfusions",
-    "detail": "• Cats have naturally occurring circulating alloantibodies to the blood type they do not have, so transfusion of type A blood into a type B cat could result in severe, potentially fatal hemolytic transfusion reaction\n• Although rare, transfusion reactions in cats are much more severe than in dogs\n• May occur with the first transfusion, which does not occur in dogs\n• Dogs use the Dog Erythrocyte Antigen (DEA) system (DEA 1 (most common), 3, 4, 5, 6, 7, 8)\n• Cats use the AB system w blood types A (most common), B, AB"
+    "detail": "• Cats have naturally occurring circulating alloantibodies to the blood type they do not have, so transfusion of type A blood into a type B cat could result in severe, potentially fatal hemolytic transfusion reaction\n• Although rare, transfusion reactions in cats are much more severe than in dogs\n• May occur with the first transfusion, which does not occur in dogs\n• Dogs use the Dog Erythrocyte Antigen (DEA) system (DEA 1 (most common), 3, 4, 5, 6, 7, 8)\n• Cats use the AB system w blood types A (most common), B (purebreds), AB"
   },
   {
     "title": "Antebrachium",
