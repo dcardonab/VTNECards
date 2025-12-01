@@ -80,6 +80,7 @@ func categoryJSONFileNames() -> [String] {
         let allFiles = (try? fm.contentsOfDirectory(atPath: resourcePath)) ?? []
         for filename in allFiles where filename.hasSuffix(".json") {
             let base = (filename as NSString).deletingPathExtension
+            guard base.lowercased() != "manifest" else { continue }
             names.insert(base)
         }
     }
@@ -90,12 +91,14 @@ func categoryJSONFileNames() -> [String] {
         let localFiles = (try? fm.contentsOfDirectory(atPath: localJSONPath)) ?? []
         for filename in localFiles where filename.hasSuffix(".json") {
             let base = (filename as NSString).deletingPathExtension
+            guard base.lowercased() != "manifest" else { continue }
             names.insert(base)
         }
     }
 
     return names.sorted()
 }
+
 
 /// Returns all JSON file names in the *bundle* (without .json extension),
 /// used only as a fallback when no manifest is available.
@@ -110,9 +113,16 @@ func bundleCategoryJSONFileNames() -> [String] {
 
     return allFiles.compactMap { filename in
         guard filename.hasSuffix(".json") else { return nil }
-        return (filename as NSString).deletingPathExtension
+
+        let base = (filename as NSString).deletingPathExtension
+
+        // Never treat manifest.json as a category
+        guard base.lowercased() != "manifest" else { return nil }
+
+        return base
     }
 }
+
 
 
 

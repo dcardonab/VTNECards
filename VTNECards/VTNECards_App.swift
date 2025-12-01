@@ -9,9 +9,15 @@ import SwiftUI
 
 @main
 struct VTNECardsApp: App {
+    @StateObject private var dataSync = DataSyncManager.shared
+
     var body: some Scene {
         WindowGroup {
             LandingView()
+                .environmentObject(dataSync)
+                .task {
+                    await dataSync.syncIfNeeded()
+                }
         }
     }
 }

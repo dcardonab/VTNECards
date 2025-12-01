@@ -27,12 +27,13 @@ struct CategoriesView: View {
     // Categories to show
     var categoryFiles: [String] {
         if let manifest = dataSync.currentManifest {
-            // ✅ Remote manifest is truth
+            // Remote manifest is truth
             return manifest.jsonFiles
-                .map { ( $0.path as NSString ).deletingPathExtension } // "Animal Care and Nursing Flashcards.json" -> "Animal Care and Nursing Flashcards"
+                .map { ($0.path as NSString).deletingPathExtension }
+                .filter { $0.lowercased() != "manifest" }
                 .sorted()
         } else {
-            // ✅ No manifest yet (first launch offline, etc.) – fall back to bundle
+            // No manifest yet (first launch offline, etc.) – fall back to bundle
             return bundleCategoryJSONFileNames()
         }
     }
@@ -52,6 +53,7 @@ struct CategoriesView: View {
         }
     }
 }
+
 
 
 struct CategoryDetailView: View {
@@ -92,7 +94,6 @@ struct CategoryFlashcardsView: View {
         loadFlashcardsSafe(from: categoryFile)
     }
 
-    // Use the same helper you already defined in VTNECards_System.swift
     private var imageProvider: (String) -> Image? {
         makeImageProvider(forCategoryFile: categoryFile)
     }
