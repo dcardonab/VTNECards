@@ -505,7 +505,7 @@
   },
   {
     "title": "Cardiac conduction system",
-    "detail": "• Cardiac cycle: One cycle of atrial and ventricular contraction and relaxation; produces one heartbeat\n• Structures of the primary cardiac conduction system are:\n• SA node: Impulse comes from the sinoatrial node in the right atrium; called pacemaker\n• AV node: Next stop; causes contraction w minor delay so that atria can contract before ventricles so ventricles can fill); located in the atrioventricular septum\n• Bundle of His: Fibers of boH travel down the septum to the apex, delivering impulse\n• Purkinje fiber system: Carries impulse up into left and right ventricular myocardium; located in the septum (wall)\n• Impulse from SA node leads to depolarization, which causes the myocardium to contract (repolarization causes it to relax)"
+    "detail": "• Cardiac cycle: One cycle of atrial and ventricular contraction and relaxation; produces one heartbeat\n• Structures of the primary cardiac conduction system are:\n• SA node: Impulse comes from the sinoatrial node in the right atrium; called pacemaker\n• AV node: Next stop; causes contraction w minor delay so that atria can contract before ventricles so ventricles can fill; located in the atrioventricular septum\n• Bundle of His: Fibers of boH travel down the septum to the apex, delivering impulse\n• Purkinje fiber system: Carries impulse up into left and right ventricular myocardium; located in the septum (wall)\n• Impulse from SA node leads to depolarization, which causes the myocardium to contract (repolarization causes it to relax)"
   },
   {
     "title": "Electrocardiogram [[image:Animal Care and Nursing Flashcards_Image08.png]]",
@@ -900,6 +900,10 @@
     "detail": "• Indicates relative acidity or alkalinity, ranging from 0 to 14\n• Lower the pH more, more acidic the environment\n• pH 1 is most acidic, pH 14 is most alkaline\n• pH 7 is neutral\n• Alkaline solutions are basic, have fewer hydrogen ions (more hydroxide ions) than water\n• Tissues and blood function best at 7.4 (slightly basic)\n• Arterial blood is slightly more alkaline because of acidic waste products in venous blood\n• Digestive enzymes function optimally when pH is more alkaline; release of bicarbonate from the pancreas and liver (and cattle saliva) neutralizes the acids leaving the stomach to help digestion\n• Alkalemia occurs if vomiting patients lose hydrogen and chloride ions in excess of sodium and bicarbonate; acidemia occurs if vomited gastric fluid is low in hydrogen and chloride content (e.g. during fasting) or if concurrent loss of intestinal sodium and bicarbonate occurs"
   },
   {
+    "title": "Buffer",
+    "detail": "• A substance that keeps a solution close to the neutral zone of pH 7\n• Carbonic acid is an example\n• Lemon and vinegar are acidic solutions\n• Ammonia is an alkaline solution"
+  },
+  {
     "title": "Bounding pulse",
     "detail": "• Indicates elevated pulse pressure, which is the difference bw systolic and diastolic pressure (indicates a large difference between the two)\n• Can occur whether MAP is high or low\n• More likely to occur when diastolic pressure is low\n• Doesn’t in itself have an indication regarding cardiovascular function"
   },
@@ -978,6 +982,10 @@
   {
     "title": "Panosteitis",
     "detail": "• Inflammation of all bones or inflammation of every part of one bone\n• Especially in growing dogs\n• Causes sudden lameness\n• Recurrent episodes until 2-2.5 years of age, at which time it will spontaneously resolve"
+  },
+  {
+    "title": "Equine viral arteritis",
+    "detail": "• Contagious viral disease\n• Signs include limb swelling, conjunctivitis, abortion, and respiratory disease\n• Limb swelling is painful and results from vasculitis (inflammation of blood vessels)"
   },
   {
     "title": "Horse tail language",

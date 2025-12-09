@@ -1,0 +1,706 @@
+[
+  {
+    "title": "Therapeutic index",
+    "detail": "• Measures relative safety of a drug—ratio of the dose that exerts toxicity in 50% of the population\n• Most anesthetic agents have a very narrow therapeutic index"
+  },
+  {
+    "title": "Controlled substance schedules",
+    "detail": "• Schedule I—no use in vet med\n• Schedule II—narcotics like fentanyl, hydromorphone, morphine; barbiturates (pentobarbital) [needs licensed vet to supervise drawing into a syringe]\n• Schedule III—narcotics like buprenorphine; dissociatives like ketamine; barbiturates like thiopental\n• Schedule IV—narcotics like butorphanol; benzodiazepines like diazepam, alfaxalone\n• Schedule V—no commonly used anesthetic drugs"
+  },
+  {
+    "title": "Preanesthetic medications",
+    "detail": "• Anticholinergics (parasympatholytics): Atropine and glycopyrrolate; used to prevent and treat bradycardia, decrease salivatory secretions arising from parasympathetic stimulation\n• Tranquilizers and sedatives: Phenothiazines (acepromazine, triflupromazine, chlorpromazine), benzodiazepines, alpha2-adrenoreceptor agonists (dexmedetomidine, xylazine, detomidine, romifidine)\n• Opioids: Morphine, hydromorphone, oxymorphone, fentanyl, meperidine (agonists); buprenorphine (partial agonist); butorphanol, nalbuphine (agonist-antagonists); naloxone (antagonist); used for analgesia, sedation, and when combined with others anesthetic induction"
+  },
+  {
+    "title": "Injectable anesthetics",
+    "detail": "• Propofol: Ultra-short acting for small animals, small ruminants, exotics, all domestic neonates\n• Etomidate: Induction in dogs, cats, exotics; high cost and adverse effects, so used rarely\n• Alfaxalone: IV induction and maintenance w repeated bolus or CRI\n• Barbiturates: Not in use anymore, except pentobarbital (short-acting) for euthanasia, general anesthetic for small lab animals, and treatment of intractable seizures, and phenobarbital (long-acting) for seizure control and sedation"
+  },
+  {
+    "title": "Metabolism of anesthetic drugs",
+    "detail": "• Liver handles the metabolism and clearance of most anesthetic drugs\n• Kidneys also play a role\n• Lungs are involved in clearance of inhalants and propofol"
+  },
+  {
+    "title": "Benzodiazepines",
+    "detail": "• Controlled substance (Schedule IV)\n• Muscle relaxant and anticonvulsant during anesthesia; used for epilepsy, anxiety otherwise\n• Diazepam (Valium), zolazepam, midazolam (Versed), lorazepam (Ativan)\n• May cause cardiovascular and respiratory depression\n• Good induction agent if used alongside ketamine"
+  },
+  {
+    "title": "Phenothiazines",
+    "detail": "• Sedative, anti-emetic\n• Acepromazine, chlorpromazine\n• Approved for cats, dogs, horses\n• Acepromazine contraindicated for convulsion, epilepsy, head injuries (reduces seizure threshold), depression, liver or kidney disease\n• Not recommended for very young/old patients (benzos preferred)\n• May cause hypotension in shock/hypothermia patients due to peripheral vasodilation\n• Adverse effects include abnormal heartbeat, excitability, unexpected antihistamine effects"
+  },
+  {
+    "title": "Alpha-2 agonists",
+    "detail": "• Sedation, analgesia (15-20 min), muscle relaxation, anxiolysis\n• Used for general sedation, not as premed due to potential side effects\n• Xylazine (Rompun, Anased), romifidine, detomidine (Dermosedan), medetomidine (Domitor)\n• Xylazine can be used on horses and ruminants\n• Detomidine can be used on horses\n• Adverse effects include nausea (50% in dogs, 90% in cats)"
+  },
+  {
+    "title": "Phencyclidines (cycloheximide)",
+    "detail": "• Controlled substance (Schedule II)\n• Preanesthetic when used on mucous membranes in the oral cavity\n• Ketamine (Ketaset), Ketelean, Vetalar\n• Only cats can use it in solitary form; not a good preanesthetic for dogs\n• Contraindicated in hx of seizure, suspected brain herniation, suspected perforation of the eye chamber\n• Recovery times can be long or unpredictable"
+  },
+  {
+    "title": "Opioids",
+    "detail": "• Controlled substance of different schedules\n• Analgesia, sedation\n• Morphine, oxymorphone, butorphanol (Torbugesic), buprenorphine, Torbutrol, hydromorphone, meperidine (Demerol), fentanyl\n• Effects can be reversed by a pure antagonist agent (Naloxone—slowly titrating naloxone to effect reverses dysphoria caused by the opioids w/out removing analgesic effects)\n• Can cause dysphoria, euphoria, excitability; morphine and hydromorphone can cause vomiting so contraindicated if esophagus or GI tract is obstructed or if there are eye issues\n• Buprenorphine has long duration but less analgesic effect, but preferred due to less respiratory/cardiovascular depression"
+  },
+  {
+    "title": "Classes of opioids",
+    "detail": "• Pure mu agonists: Morphine, hydromorphone fentanyl\n• Partial mu agonists: Buprenorphine\n+ Agonist-antagonist butorphanol—prevents activation (antagonist) at the mu receptor, and activates kappa receptor (agonist), which means it partially reverses effects of full agonists"
+  },
+  {
+    "title": "Alpha2 antagonists",
+    "detail": "• Yohimbine x xylazine in dogs, cats, horses, and exotics\n• Tolazoline x xylazine in ruminants\n• Atipamezole x dexmedetomidine and medetomidine in dogs, cats, and exotics"
+  },
+  {
+    "title": "Dissociative agents",
+    "detail": "• Do not cause unconsciousness by themselves\n• Animal appears awake but is immobile and unaware of surroundings\n• Ketamine is used in cats, dogs, birds, horses, exotics; rapid onset of action; highly lipid soluble\n• Tiletamine is sold only in combination with zolazepam (benzodiazepine) in a product called Telazol"
+  },
+  {
+    "title": "NSAIDs",
+    "detail": "• Musculoskeletal pain\n• Work by inhibiting prostaglandin synthesis, mostly by inactivating COX enzyme (cyclooxygenase), which catalyzes a step in the production of PGs (PGs are involved in mediation of pain and inflammation, maintaining normal GI, homeostatic/housekeeping processes)\n• Aspirin, acetaminophen, carprofen, ketoprofen, meloxicam\n• Can be used in combination w opioids\n• Liver and kidney damage, and GI ulcers are common\n• Long-term use contraindicated in chronic kidney disease; meloxicam is the best option (has lower risk of nephrotoxicity)\n• A washout period of 4 – 10 days suggested when switching from one NSAID to another to reduce occurrence of GI ulceration\n• Acetaminophen is toxic to cats"
+  },
+  {
+    "title": "Barbiturates",
+    "detail": "• Sedative-hypnotic agents; sedative, anticonvulsant, general anesthetic, induction\n• Phenobarbital, pentobarbital\n• Can be used as maintenance in inhalant form\n• Can be used to depress respiration and cardiovascular system\n• Not reversible\n• Work by binding to proteins, so effects and duration can change depending on the level of plasma protein"
+  },
+  {
+    "title": "Neuroleptanalgesics",
+    "detail": "• Analgesic + neuroleptic tranquilizer\n• Oxymorphone + acepromazine\n• Used when deep sedative effect is desired; smaller doses for shorter duration (e.g. suture removal)\n• Used for cardiac stress and shock\n• Reversed by naloxone and nalbuphine\n• Side effects include hyperactivity, auditory stimuli, defecating, vomiting, panting, bradycardia\n• Fentanyl is usually classified as a neuroleptanalgesic\n• Usually used w a tranquilizer, sedative, or benzodiazepine\n• No apnea, but can cause cardiac contractility and output changes"
+  },
+  {
+    "title": "Propofol (Diprivan, Rapinovet)",
+    "detail": "• Sedation, induction, maintenance, anticonvulsant\n• Short-acting\n• Preferred induction agent for sight hounds and patients w low body mass index (not retained in muscle or fat, rapidly metabolized by liver)\n• Because of solubility, it should only be administered IV\n• Adverse effects include tachycardia, bradycardia, temporary arterial or venous dilation, depressed cardiac contractility\n• To lessen respiratory depression, initial bolus is given over 1-2 min, titrating the dose to effect"
+  },
+  {
+    "title": "Guaifenesin (glycerol guaiacolate)",
+    "detail": "• Decongestant, antitussive\n• CNS and muscle relaxant\n• Used in induction and recovery, mostly in large animals\n• Can cross placental barrier, but no harmful effects on fetus"
+  },
+  {
+    "title": "Etomidate (amidate)",
+    "detail": "• Induction agent\n• Fast acting; repeated bolus or CRI necessary\n• No changes to HR, BP, cardiac output\n• Adverse effects include vomiting, diarrhea, excitement, apnea\n• May cause muscle rigidity and seizures in horses and cattle\n• Can cross placental barrier, but no harmful effects on fetus\n• IV administration can be painful, given w lidocaine"
+  },
+  {
+    "title": "Anticholinergics",
+    "detail": "• Premed for small animals to avoid the effects of parasympathetic reflexes\n• Work by blocking vagal reflexes thereby preventing cardiac arrythmias, drying out secretions, reducing gastric reflux\n• Atropine, glycopyrrolate\n• Contraindicated w preexisting tachycardia, cardiac disease, GI stasis"
+  },
+  {
+    "title": "Acetylcholine",
+    "detail": "• Primary NT in the parasympathetic nervous system (PNS)\n• Responsible for parasympathetic (cholinergic) effects\n• PNS has two types of receptors for acetylcholine—nicotinic receptors and muscarinic receptors\n• Nicotinic receptors are faster acting than muscarinic receptors\n• Anticholinergics competitively block binding of acetylcholine at muscarinic receptors"
+  },
+  {
+    "title": "Doxapram",
+    "detail": "• Respiratory stimulant\n• Used to stimulate breathing in neonates after emerging from the uterus\n• No longer recommended because it increases cerebral oxygen demand"
+  },
+  {
+    "title": "Detomidine",
+    "detail": "• Used in horses to produce sedation, analgesia, and muscle relaxation\n• Similar to xylazine in beneficial and adverse effects, but it has approximately twice the duration of action\n• Much more potent sedative on a volume-per-volume basis."
+  },
+  {
+    "title": "Reversal agents",
+    "detail": "• Yohimbine x xylazine\n• Tolazoline x xylazine\n• Atipamezole x dexmedetomidine/medetomidine\n• Naloxone x opioids\n• Epinephrine x anaphylaxis\n• Atropine x organophosphates, some nerve gases"
+  },
+  {
+    "title": "Double drip",
+    "detail": "• 500 mL bag of 5% dextrose in water containing 5% guaifenesin to which 5 mL of ketamine has been added\n• Used in IV induction of ruminants and camelids, administered to effect"
+  },
+  {
+    "title": "Advantages of inhalation anesthesia over injectable anesthesia",
+    "detail": "• Ease of regulation of anesthetic depth\n• Both analgesic and muscle relaxant effects\n• More rapid recovery due to faster elimination\n• Metabolism at a nominal rate due to the body’s ability to expel excess medication thru respiration; no accumulation in body tissues"
+  },
+  {
+    "title": "Minimal alveolar concentration (MAC)",
+    "detail": "• Level of anesthetic vapor concentration in the lungs that is needed to prevent a motor response to surgical pain in 50% of all patients\n• Potency level rises and MAC decreases\n• 1.5×MAC will maintain surgical anesthesia for any inhalation anesthetic\n• Age, temperature, stress, drugs, disease process, species, and circadian rhythm affect MAC\n• MAC is not affected by the intensity of stimulation or the length of the procedure"
+  },
+  {
+    "title": "Vapor pressure",
+    "detail": "• Measure of the tendency of a liquid anesthetic to evaporate; rate at which a liquid will turn into gas at a given temp\n• Determines whether a precision or nonprecision vaporizer should be used—isoflurane is a volatile agent, meaning it has high vapor pressure (readily evaporates), so a precision vaporizer is needed for safe use\n• For nonvolatile agents (like methoxyflurane), even a jar with a wick can act as the (nonprecision) vaporizer"
+  },
+  {
+    "title": "Partition coefficient",
+    "detail": "• Measure of the solubility of an inhalant anesthetic in blood, alveoli, lipids, tissue\n• Blood-gas partition coefficient is the ratio of the concentration of an inhalation agent in blood compared w alveolar gas\n• Indicates the speed of induction and recovery—the lower the coefficient, faster the induction/recovery (e.g. a ratio of 0.5 means that at equilibrium, 2/3 of the anesthetic is in the alveolar gas, 1/3 is in the blood, creating a wide gradient between gas and blood, which means the agent will enter and leave blood rapidly)\n• Solubility coefficient is affected by body temperature—hypothermia (cooled blood) makes inhalants more soluble, leading to smaller amount needed maintain surgical plane"
+  },
+  {
+    "title": "Solubility",
+    "detail": "• Lower the solubility of an anesthetic, the more rapidly it will go from the alveoli and dissolve into the blood\n• Inhalants w higher solubility take longer to become effective and to be metabolized\n• Sevoflurane is twice as soluble as desflurane; isoflurane is twice as soluble as sevoflurane; halothane is twice as soluble as isoflurane\n• So, induction/recovery is fastest in desflurane, then sevoflurane, then iso, then haltohane"
+  },
+  {
+    "title": "Inhalants",
+    "detail": "• Diethyl ether\n• Halogenated organic compounds\n• Isoflurane and sevoflurane are most common\n• Desflurane, halothane, methoxyflurane, enflurane also available\n• Nitrous oxide"
+  },
+  {
+    "title": "Chamber induction",
+    "detail": "• Feasible only for animals less than 5 - 7 kg; primarily used for aggressive or difficult to handle patients\n• Almost impossible to assess most monitoring parameters\n• Risks include regurgitation and vomiting, aspiration (airway isn’t protected), exposure risk for personnel, epinephrine/catecholamines release, cardiac arrhythmias\n• Not used for patients w impaired respiratory function; methods allowing rapid intubation, including drugs w quick onset of action, preferred"
+  },
+  {
+    "title": "Isoflurane",
+    "detail": "• Rapidly induces anesthesia\n• Has a shorter recovery period than many other meds\n• Has low solubility, so dosage can be adjusted easily (quick dosage adjustment and response time)\n• MAC is 1.2% in dogs, 1.6% in cats, 1.31 to 1.64% in horses\n• Produces BP, costly, causes respiratory depression\n• RR decreases w time; concentration of 2-3 x MAC causes respiratory arrest in common domestic species"
+  },
+  {
+    "title": "Sevoflurane",
+    "detail": "• Very low solubility, so rapid induction and recovery\n• Also a muscle relaxant and analgesic\n• Doesn’t cause cardiac arrhythmias; less overpowering (less hangover effects)\n• More costly than iso; similar in causing respiratory depression\n• Preferred for birds\n• MAC is 2.4% in dogs, 2.6% in cats\n• Vaporizer should be set at 2.5% to 4%"
+  },
+  {
+    "title": "Halothane",
+    "detail": "• Modest respiratory depressant effects, not nephrotoxic\n• MAC is 0.8%\n• Can cause arrhythmias, hypotension due to cardiac depression, minimal analgesic effects, and hepatotoxicity"
+  },
+  {
+    "title": "Methoxyflurane",
+    "detail": "• Lower solubility than halothane, which means a faster induction and recovery as well as easier adjustments"
+  },
+  {
+    "title": "Desflurane",
+    "detail": "• Rapid induction and recovery due to low solubility, which leads to rapid dispersion\n• MAC is 7.2%\n• Not hepatotoxic or nephrotoxic\n• Has a very low boiling point (23°C) so must be contained in an electrically heated chamber that raises the temperature to 39°C for the gas to be used effectively by the vaporizer\n• The electrically heated vaporizer is costly\n• Has a pungent odor that leads to coughing or breath holding in patients\n• Risk of malignant hyperthermia in some species, and premature recovery"
+  },
+  {
+    "title": "Nitrous oxide (N2O)",
+    "detail": "• Very weak general anesthetic but very effective as a carrier gas\n• When used with other agents, speeds induction and recovery, provides additional analgesia, and reduces MAC of other anesthetics by 20%–30%, which reduces effects on cardiovascular, pulmonary, and other systems\n• Used at 50-65%\n• Present in the tank as liquid and gas; doesn’t need vaporizing\n• Mixed 2:1 w oxygen to increase the rate of inhalation induction\n• Body can’t metabolize it, so effects are immediate\n• Little respiratory and cardiovascular effect\n• MAC of over 100%, so must be used w another agent if to be used as a general anesthetic\n• Inspiration of oxygen drops to 33% alongside N2O, so not safe, especially if hx of hypoxia, or gastric dilation, intestinal obstruction, and pneumothorax (i.e. gas-occupying conditions)\n• Terminated 5–10 minutes before and oxygen provided during recovery to prevent diffusion hypoxia caused by the rapid outpouring of nitrous oxide into the alveoli, which can dilute oxygen levels within the alveoli and cause hypoxemia\n• Chronic exposure has been associated w increased risk of neurologic disease and reproductive issues"
+  },
+  {
+    "title": "Oxygen",
+    "detail": "• Preoxygenation for 3-5 min. increases alveolar oxygen concentration and thus the amount of oxygen transported by hemoglobin; most effective when using a mask with a fitted diaphragm"
+  },
+  {
+    "title": "Bucking",
+    "detail": "• Bucking the ventilator is an expression used when an animal is trying to breathe against the set respiratory rhythm and volume being delivered by the mechanical ventilator\n• When a mechanically ventilated patient's breathing efforts are out of sync (dyssynchronous) with the machine's settings, leading to distress and potentially dangerous complications"
+  },
+  {
+    "title": "NIOSH recommendations for anesthetic gases",
+    "detail": "• NIOSH (National Institute for Occupational Safety and Health) recommends\n• Concentration of any volatile gas anesthetic (including halothane, methoxyflurane, and isoflurane) not exceed 2 ppm when used alone and not exceed 0.5 ppm when used w nitrous oxide\n• Concentration of nitrous oxide concentration not exceed 25 ppm"
+  },
+  {
+    "title": "Balanced anesthesia",
+    "detail": "• Process of using various drugs to achieve multiple effects such as analgesia, sedation, amnesia, and muscle relaxation\n• Drugs are administered in smaller quantities than would be required if each was given alone; maximizes the benefits of each and minimizes the adverse effects"
+  },
+  {
+    "title": "Sedation",
+    "detail": "• Drug-induced CNS depression and drowsiness that varies in intensity from light to deep"
+  },
+  {
+    "title": "Preanesthetic blood work",
+    "detail": "• CBC, chem panel, electrolytes should be checked\n• CBC can detect clotting disorders or a high WBC count (indicating infection)\n• Chem panel shows any issues w kidney and liver function (BUN, creatinine, phosphorus and alanine, transaminase, alkaline phosphate, bilirubin), which may affect recovery times or require a change in the anesthetic plan\n• Electrolyte levels (potassium, sodium, chloride) and PCV show signs of dehydration\n• Glucose and fructosamine should be checked in diabetic patients"
+  },
+  {
+    "title": "Body fluid composition",
+    "detail": ""
+  },
+  {
+    "title": "Blood volume",
+    "detail": "• Average is 80–90 mL/kg in dogs\n• Average is 60–70 mL/kg in cats (another source says 40-60)"
+  },
+  {
+    "title": "vWF assay",
+    "detail": "• Adhesion of platelets to each other and the endothelium requires von Willebrand factor, which stabilizes the platelet plug\n• Deficiencies in von Willebrand factor can lead to prolonged bleeding times\n• Dobermans are predisposed to clotting disorders due to a decrease in von Willebrand factor; a vWF assay and a coagulation panel should be performed\n• A buccal mucosal bleeding time may also be useful"
+  },
+  {
+    "title": "Aspiration",
+    "detail": "• Vomit during anesthesia can go down the trachea and into the lung instead of the esophagus\n• Can lead to pneumonia\n• Fasting is important because of this"
+  },
+  {
+    "title": "Positive pressure ventilation (PPV)",
+    "detail": "• Any procedure where anesthetist assists or controls ventilation\n• Can be achieved by bagging or using a mechanical ventilator"
+  },
+  {
+    "title": "Mechanical ventilation",
+    "detail": "• Pressure-cycle ventilator supplies air until pressure reaches preset level\n• Time-cycled ventilator supplies gas according to a set inspiratory time\n• Volume-cycled ventilator delivers a preset tidal volume regardless of the pressure required\n• Peak inspiratory pressure between 15 and 20 cm H2O will provide adequate ventilation"
+  },
+  {
+    "title": "Intermittent positive pressure ventilation (IPPV)",
+    "detail": "• A form of mechanical ventilation that involves establishing a preset RR\n• It can help preserve normal acid-base levels by oxygenating and reduction CO2 retention\n• Usually needed for overweight patients, patients placed head-down, patients w hypothermia or pulmonary disease, patients having thoracic surgery, or w diaphragmatic hernia, gastric torsion, hypoventilation"
+  },
+  {
+    "title": "Overventilation",
+    "detail": "• Can cause damage to pulmonary alveoli\n• Can cause a decrease in preload that leads to a decrease in BP and cardiac output"
+  },
+  {
+    "title": "Underventilation",
+    "detail": "• Will decrease cardiac output\n• High CO2 levels can lead to respiratory alkalosis"
+  },
+  {
+    "title": "Tachypnea vs. hyperventilation",
+    "detail": "• Tacyhpnea: Increase in RR\n• Hyperventilation: Increase in respiratory depth (tidal volume)"
+  },
+  {
+    "title": "Cardiac arrest",
+    "detail": "• Sudden cessation of functional ventilation and systemic perfusion, resulting in reduced oxygen delivery to tissues and decreased removal of CO2\n• Epinephrine is the drug most commonly used for initial treatment of cardiac arrest (increases HR); recommended dose is 1 mL/10 kg administered every 3–5 minutes\n• Permanent brain damage may result if oxygen delivery to the brain is not reestablished in 4 minutes\n• Irreversible neurological damage occurs after 3 minutes"
+  },
+  {
+    "title": "CPR—preferred routes of drug administration",
+    "detail": "In order of preference:\n• Central venous catheters are ideal because of the proximity to the heart\n• Peripheral vessels are convenient since most anesthetized patients already have a catheter in place; should be flushed with few mLs of saline to help advance the drugs\n• IO administration is a good option when vessel administration is not possible"
+  },
+  {
+    "title": "Reservoir/rebreathing bag",
+    "detail": "• Correct size is important—too small means patient will use up the gas in the bag and deflate it before taking a full breath, too big means system volume is too large and any change in anesthetic concentration will take longer to take effect and breathing can’t be visualized\n• Correct size is calculated by multiplying patient’s tidal volume by 6—bag should hold at least 60 mL/kg\n• Calculation not always practical or necessary—bag should contain enough gas to fill the patient's lungs during inhalation"
+  },
+  {
+    "title": "Tidal volume",
+    "detail": "• Amount of inhaled/exhaled air w each breath\n• Normally around 10-20 mL/kg (or 10-15)\n• When tidal volume is reduced, alveoli don’t expand as fully as normal on inspiration, leading to some alveoli (esp those lower in the body) partially collapsing (aka atelectasis)"
+  },
+  {
+    "title": "Minute volume",
+    "detail": "• Sum of all gas volumes exhaled in 1 minute\n• Calculated by multiplying tidal volume and RR"
+  },
+  {
+    "title": "Functional residual capacity",
+    "detail": "• Amount of air left in the lungs after normal ventilation\n• Reservoir that supplies oxygen to the blood during apnea"
+  },
+  {
+    "title": "Planes and stages of anesthesia",
+    "detail": "• Stage I: Voluntary excitement; starts w the patient conscious (may display fight-or-flight) and encompasses the induction stage—altered consciousness possibly w dulled sensations, pain loss, BP elevation, vomiting, inspiratory struggling, coughing; pupils are dilated, RR is high and irregular\n• Stage II: Involuntary excitement; starts w loss of consciousness and lasts until steady breathing is established; patient may experience excitement or delirious activity or vocalization, involuntary struggling, physiological agitation; eyes will be closed and jaw will be set, reflexes are amplified, will respond to light and pupils will be dilated (possible to skip w smooth induction)\n• Stage III: Surgical stage; pupils are constricted further, palpebral is gradually lost, but breathing is full and regular\n• Plane 1: Light—patient can be intubated, palpebral and swallowing retained\n• Plane 2: Medium—no palpebral, fixed pupil response; surgery can be done\n• Plane 3: Deep—shallow breathing due to partial intercostal paralysis; not necessary for surgery\n• Plane 4: Cessation of breathing—unstable, potentially life-threatening stage\n• Stage IV: OD stage w prolonged apnea, cardiac arrest, brainstem/medullary paralysis"
+  },
+  {
+    "title": "Reflex arc",
+    "detail": "• Consists of sensory receptor, afferent/sensory neuron, interneuron, efferent/motor neuron, effector target"
+  },
+  {
+    "title": "Palpebral reflex",
+    "detail": "• Tested by touching the medial or lateral canthus of the eye to stimulate blinking\n• Medial palpebral reflex will face after lateral reflex becomes more intense\n• Grows weaker in Stage III Plane 2"
+  },
+  {
+    "title": "Corneal reflex",
+    "detail": "• Tested by tapping the lateral aspect of the cornea to induce eyelid closure\n• Should always be present—lack of corneal reflex indicates patient is overanesthetized"
+  },
+  {
+    "title": "Pupil size and pupillary light reflex",
+    "detail": "• Pupils are regularly sized in Stage I and Stage III Plane 1, they are dilated in Stage II, and slightly dilated in Stage III Plane 2\n• PLR will be intact all the way up to Stage III Plane 2 (light and medium anesthesia), and it will be delayed under surgical anesthesia (Plane 2)"
+  },
+  {
+    "title": "Pedal reflex",
+    "detail": "• Pinching/squeezing\n• Absent under surgical anesthesia"
+  },
+  {
+    "title": "Jaw tone",
+    "detail": "• Diminished under surgical plane (Plane 2)\n• Best guide for anesthetic depth because there should always be some tone—when jaw tone is absent, the patient is too deep"
+  },
+  {
+    "title": "Pharyngeal/laryngeal reflexes",
+    "detail": "• Pharyngeal reflexes trigger swallowing\n• Laryngeal reflexes cause epiglottis and vocal cords to close when the larynx is touched\n• Both lost in the surgical plane"
+  },
+  {
+    "title": "Best course of induction and maintenance",
+    "detail": "• IV induction with an ultra–short-acting agent and maintenance with an inhalant\n• rapid induction\n• good control over increases and decreases in anesthetic depth\n• relatively rapid recovery"
+  },
+  {
+    "title": "Fluid therapy under anesthesia",
+    "detail": "• Replacement crystalloids: Normosol R, Plasmalyte 148\n• Maintenance crystalloids: Normosol M, Plasmalyte 56\n• Similar to plasma due to high sodium and chloride levels and reduced potassium\n• Administered 5-10 mL/kg/hr for dogs, 1-5 mL/kg/hr for cats in routine surgery\n• Longer applications require no more than 10 mL/kg/hr given in the first hour followed by 5 mL/kg/hr\n• Standard shock doses can be up to 90 mL/kg/h in dogs; hypertonic saline is administered in small volumes\n• Colloids are given at lower administration rates than crystalloids"
+  },
+  {
+    "title": "Crystalloids",
+    "detail": "• Isotonic fluids have a similar sodium and chloride concentration to extracellular fluid and a similar osmolarity; does not produce a change in osmotic pressure and there is no fluid shift bw compartments\n• Include lactated Ringer’s solution, 0.9% saline, Normosol-R, and Plasma-Lyte 148\n• Isotonic, polyionic replacement crystalloids are first choice for fluid therapy for healthy patients undergoing routine and sick patients w PCV >20% and plasma protein >3.5 gm/dL\n• Hypertonic fluids have a higher osmolarity than extracellular fluids; they have more particles than plasma and increase osmotic pressure\n• Include 3% or 5% sodium chloride, and dextrose solutions like Dextrose 10% in Water (D10W)\n• Hypertonic saline acts rapidly but temporarily so used in emergencies\n• Hypotonic fluids have a lower osmolarity than extracellular fluids; they have fewer particles than plasma and decrease osmotic pressure\n• Include 0.45% sodium chloride (half-normal saline), 0.33% sodium chloride, and 2.5% dextrose in water"
+  },
+  {
+    "title": "Colloids",
+    "detail": "• Natural colloid: Whole blood\n• Synthetic colloids: Hetastarch, Hexstend, and VetStarch"
+  },
+  {
+    "title": "Hetastarch",
+    "detail": "• Synthetic colloid\n• Should be used w caution in patients w blood clotting abnormalities because it can interfere w clotting factor VIII and von Willebrand factor"
+  },
+  {
+    "title": "Fluid losses",
+    "detail": "• Sensible losses are losses that can be perceived/measured, like losses from urine output\n• Fecal waste and loss of fluid via the skin and respiratory tract are insensible losses"
+  },
+  {
+    "title": "Overhydration",
+    "detail": "• Signs include ocular and nasal discharge, chemosis (edema and swelling of the conjunctiva), subcutaneous edema, increased lung sounds, increased RR, and dyspnea"
+  },
+  {
+    "title": "Monitoring anesthetized patients",
+    "detail": "• Monitoring equipment for BP, EKG, capnography, pulse ox\n• Width of the BP cuff should be 30% of the circumference of the leg in cats\n• Manual check every 5 minutes of HR, RR, pulse strength and quality, MM color, CRT, temp, lung sounds\n• Vital signs (HR, RR, BP, SPO2, ETCO2) should be monitored and recorded every 5 min; MM color, eye position, and jaw tone should be observed but not necessarily recorded; temperature recorded every 15 min\n• Oxygen and vaporizer settings checked and adjusted as needed every 5 min"
+  },
+  {
+    "title": "Pulse",
+    "detail": "• Palpable arteries in dogs and cats include femoral, tibial, lingual, dorsal pedal, palmar digital, and buccal artery"
+  },
+  {
+    "title": "Measuring BP",
+    "detail": "• Direct or indirect\n• Direct monitoring uses a catheter inserted into an artery (common in horses)\n• Indirect reading is done via external sensors and cuffs\n• Doppler and oscillometer use a cuff to occlude and release blood flow in a major artery of a limb or tail\n• Doppler monitors HR and rhythm, as well as (only) systolic BP if cuff and sphygmomanometer (device consisting of pressure gauge and cuff) is used; probe must be placed over an artery (picks up the sound of RBCs circulating thru)\n• Oscillometer measures PSYS, PDIA, MAP, and HR (add 15 mmHg for PSYS in dogs), but inaccurate in patients weighing less than 5 kg\n• PhotoplethysmograBOuses infrared light to measure changes in volume caused by pulse pressure (used in human, uncommon but okay to use in dogs/cats smaller than 10 kg)\n• BP cuff is placed on the forelimb, followed by the hind limb and then tail"
+  },
+  {
+    "title": "Sphygmomanometer",
+    "detail": "• In a Doppler probe, sphygmomanometer is used to inflate the cuff until the heartbeat is no longer audible\n• Cuff is then slowly deflated until heartbeats are audible again\n• The number on the sphygmomanometer correlating to the first audible heartbeat is the systolic BP"
+  },
+  {
+    "title": "MM color on drugs",
+    "detail": "• Drugs causing vasodilation cause mucous membranes to become pink (despite this, cardiac output and BP may be decreased)\n• Drugs causing vasoconstriction often cause the mucous membranes to become pale"
+  },
+  {
+    "title": "Pulse oximetry",
+    "detail": "• During oxygen administration, oxygen saturation should be greater than 95%\n• Below 90% indicates need for therapy\n• Below 85% is hypoxemia\n• Hypoxemia for longer than 30 seconds indicates emergency"
+  },
+  {
+    "title": "Capnography",
+    "detail": "• Capnometer w continuous graphical display; reads how much CO2 is exhaled; gives estimate of partial pressure of CO2 in the arterial blood\n• Normal end-tidal carbon dioxide (ETCO2) is 35 to 45 mmHg in mammals; lower indicates hyperventilation, light plane of anesthesia, or impending cardiac arrest; higher indicates hypoventilation or a deep plane of anesthesia; 0 indicates apnea or esophageal intubation\n• A capnograph that does not return to baseline (0) with a normal waveform indicates rebreathing CO2; oxygen not being delivered, exhausted absorbent, or damaged flutter valve may be the cause\n• Good tool to assess effectiveness of CPR\n• Mainstream capnometer: Measuring chambers are placed directly in the airway and the measurement signal is generated there\n• Sidestream capnometer: Connected to the ET tube via an end piece that contains a sampling line that continuously samples 50 to 150 mL/min of respiratory gases"
+  },
+  {
+    "title": "ECG",
+    "detail": "• Used to assess rate and rhythm of the heart\n• Monitors electrical impulses using 6 leads (I, II, III, aVR, aVL, aVF), each w a different view, altogether giving a multidimensional assessment of heart muscle\n• Lead II is the most commonly used ECG lead bc waveforms are large and easy to read in this view"
+  },
+  {
+    "title": "[[image:Anesthesia Flashcards_Image05.png]]",
+    "detail": "• P wave: Time it takes the wave of depolarization (contractions) to travel from SA node to the atria; corresponds to the mechanical activity of atrial contractions\n• QRS complex: Time of ventricular depolarization (contraction); corresponds to the mechanical activity of ventricular contraction; composed of 3 waves:\n• Q wave corresponds to depolarization of the interventricular septum\n• R wave corresponds to depolarization of the main mass of ventricles (so it’s the largest)\n• S wave corresponds to final part of depolarization of the ventricles at the base of the heart\n• T wave: Time of ventricular repolarization (relaxation); corresponds to the time taken by ventricles to get ready for the next contraction by filling with blood from the atria"
+  },
+  {
+    "title": "Normal sinus rhythm, sinus arrhythmia, sinus bradycardia, sinus tachycardia",
+    "detail": "• Normal sinus rhythm: Regular rhythm—HR is normal and distance bw each heartbeat/QRS is equal\n• Sinus arrhythmia: Cyclic change in HR coordinated w respirations—HR decreases (distance bw QRS complexes decreases) during expiration and increases during inspiration; normal in dogs, horses, cattle; abnormal in cats\n• Sinus bradycardia: Normal-looking rhythm w abnormally slow HR; common during anesthesia\n• Sinus tachycardia: A regular beat w normal morphology, but HR is mora than 200 bpm in cats, 180 bpm in small dogs, and 160 bpm in large dogs"
+  },
+  {
+    "title": "AV blocks",
+    "detail": "• First-degree AV block: ECG shows a prolonged P-R interval; otherwise a normal, regular rhythm w normal morphology\n• Second-degree AV block: P wave w/out QRS complex following it; generally treated w atropine\n• Third-degree AV block: P wave and QRS complex occur completely independently; abnormal rhythm—loss of a normal relationship bw P waves and QRS complexes and randomly irregular PR intervals; indicates cardiac disease (decreases cardiac output), infrequent in anesthetized patients\n• + AV dissociation: A rhythm where ventricular rate is the same as or faster than the atrial rate"
+  },
+  {
+    "title": "Premature complexes",
+    "detail": "• Atrial premature complexes: Premature beats originating from the atria; beats look the same but come too early\n• Supraventricular premature complexes (SPCs): One or more QRS complexes that closely follow a previous QRS complex, interrupting an otherwise regular rhythm; P waves may or may not be present.\n• Supraventricular tachycardia: Series of 3 or more SPCs in a row\n• Ventricular premature complexes (PCVs): One or mode wide and bizarre QRS complexes that closely follow a previous QRS complex, interrupting an otherwise regular rhythm; isolated PCVs common in anesthetized animals, also caused by epinephrine in fearful animals\n• Hyperkalemia causes widened QRS complexes and absent P waves; anesthesia can lead to cardiac arrest (inability to urinate can cause electrolyte imbalances including increased potassium)\n• Ventricular tachycardia: Series of 3 or more PCVs in a row; significantly compromises cardiac output so intervention is necessary"
+  },
+  {
+    "title": "Fibrillation",
+    "detail": "• Fibrillation: Chaotic, uncoordinated contraction of small muscle bundles within the atria or ventricles; appears as an undulation baseline\n• Atrial fibrillation: Characterized by fine undulations (f waves), absence of P waves, high HR, normal QRS w irregular intervals; usually caused by heart disease; decreases output, requires treatment\n• Ventricular fibrillation: Characterized by irregular undulating baseline, complete absence of QRS; associated w cardiac arrest, requires emergency treatment"
+  },
+  {
+    "title": "Central venous pressure",
+    "detail": "• Obtained by placing a central catheter (generally via the jugular vein) w its tip sitting near the right atrium\n• Used to assess fluid load"
+  },
+  {
+    "title": "Arterial catheter",
+    "detail": "• Provides constant direct BP measurement, and access to quick blood collection for sampling, including to analyze blood gases\n• Can be placed on the medial pedal artery, auricular artery (in long eared dogs), or coccygeal artery"
+  },
+  {
+    "title": "Respirometer/spirometer",
+    "detail": "• Measures the ventilatory volume for each breath given to the patient, i.e. tidal volume and minute volume\n• Shows whether ventilation falls within acceptable range, but not indicate whether gas exchange is appropriate"
+  },
+  {
+    "title": "Hypothermia",
+    "detail": "• Anesthetic need decreases w body temp\n• Hypothermia decreases cardiovascular, respiratory, and metabolic systems (slowing drug metabolism and elimination and thus recovery), as well as immune function (leading to infection); blood thickness and PCV increases, which makes more work for the myocardium\n• Around 95 F leads to hypotension, and below body can’t thermoregulate\n• For dogs and cats, 99.9 to 98 is mild hypothermia, 98-96 is moderate hypothermia, 96-92 is severe hypothermia, and less than 92 is critical\n• 89.6 to 93.2 prolongs anesthetic recovery; <89.6 causes dangerous CNS depression and changes in heart function;\n• Circulating warm water blankets, convective warm air devices, bubble wrap are safe ways to warm a patient; electric blankets and heat lamps are not"
+  },
+  {
+    "title": "HR, RR, BP under anesthesia",
+    "detail": "• Dogs:\n• HR 70-140 bpm (as low as 60 in large dogs)\n• RR 8-12 bpm\n• Less than 6, greater than 20 should be reported\n• BP 90-140/50-80/60-100 mmHg\n• Cats:\n• HR 100-140 bpm\n• RR 8-12 bpm\n• BP 80-140/55-75/60-100 mmHg"
+  },
+  {
+    "title": "Potential problems under anesthesia",
+    "detail": "• Perioperative sinus bradycardia: Can be caused by heart issues, hypothyroidism, hyperkalemia; indicated by HR below 60/80 in large/small dogs and 100 in cats—usually due to low body temp and too deep anesthesia, can lead to hypotension and poor tissue perfusion, causing longer recovery; treated w atropine or glycopyrrolate\n• Perioperative sinus tachycardia: HR above 150/190 in dogs, 180 in cats; causes hypotension, increased O2 perfusion—due to inadequate anesthetic depth or drugs\n• Ventricular premature complexes (VPCs): Makes it harder to pump blood; treated w lidocaine bolus\n• Dyspnea and cyanosis: Deliver 100% O2, turn off gas, and ventilate until SpO2 is back above 95\n• Perioperative hypotension: MAP under 60; treated based on the cause (lower anesthetic, IV bolus, etc.)\n• Cardiac arrest: No pulse, heartbeat, apnea, loss of reflexes"
+  },
+  {
+    "title": "Ventricular premature complexes",
+    "detail": "• May be caused by hypoxia, pain, GDV, barbiturates, halothane, reperfusion injury, hypercarbia, or excitement/fear"
+  },
+  {
+    "title": "Blood gases",
+    "detail": "• Indicator of oxygenation, ventilation, and acid-base status\n• Measures pH, f dissolved oxygen and carbon dioxide gas in arterial (Pao or Pao2) or venous blood (Pvo or Pvco2)\n• Blood gas analysis is the gold standard to assess ventilation as it measures the actual oxygen and carbon dioxide content (MM color gives an idea, but underventilated patients may have pink MM; ETCO2 is a good estimate, but not as accurate)\n• More common in large animals"
+  },
+  {
+    "title": "PaO2 and PaCO2",
+    "detail": "• PaO2: Partial pressure of oxygen (\"a\" indicates sample is measured by using arterial blood); should be five times the percentage of oxygen delivered to the patient—a patient breathing 100% oxygen and ventilating properly should have a PaO2 of 500 mmHg\n• PaCO2: Partial pressure of carbon dioxide; normal range for a patient ventilating properly is 35–45 mmHg"
+  },
+  {
+    "title": "Alkalemia vs. acidemia",
+    "detail": "• Neutral pH ranges between 7.35 and 7.45\n• pH greater than 7.45 is alkalemia\n• pH less than 7.35 is acidemia\n• Sodium bicarbonate is used to increase blood pH; given via a syringe pump for several minutes"
+  },
+  {
+    "title": "Acidosis",
+    "detail": "• Metabolic acidosis: Can be caused by low ABE or HCO3- (less than 20), lactic acid gain, renal failure, diarrhea\n• Respiratory acidosis: Result of hypoventilation (less CO2 excreted than produced) due to deep anesthesia, pulmonary disease, or respiratory obstruction\n• Corrected by hyperventilation or IV alkalinizing solution if induced by anesthesia\n• Sodium bicarbonate helps in acute imbalances"
+  },
+  {
+    "title": "Alkalosis",
+    "detail": "• Respiratory alkalosis: Occurs when more CO2 is excreted than produced (may be due to mechanical hyperventilation or pain induced spontaneous hyperventilation)"
+  },
+  {
+    "title": "Anesthesia machine",
+    "detail": "• Made up of medical gas cylinders, a regulator, flowmeter, vaporizer, inhalation and exhalation flutter valves, check valves, y-connector, rebreathing or reservoir bag, carbon dioxide absorber, soda lime canister, exhaust/pop-off valve, manometer, oxygen flush valve, scavenger system, negative pressure relief valve"
+  },
+  {
+    "title": "Schematic of anesthesia machine",
+    "detail": "[[image:Anesthesia Flashcards_Image03.png]]"
+  },
+  {
+    "title": "Preop controls of the anesthesia machine",
+    "detail": "• Leak testing\n• Weighing the charcoal canister\n• Filling the vaporizer"
+  },
+  {
+    "title": "Low-pressure test",
+    "detail": "• Close the pop-off valve and place one hand over the y-piece to close off all avenues of gas escape\n• Turn on oxygen tank and adjust flowmeter to 2 L/min to fill reservoir bag w oxygen\n• When the bag is full and tight, reduce flow rate 200 mL/min or less\n• Squeeze the bag\n• Circuit should maintain a pressure of 30 cm for 30 seconds during the test at a flowmeter setting of 200 mL/min\n• Should be repeated every day"
+  },
+  {
+    "title": "Pressure checking",
+    "detail": "• When pressure checking a rebreathing circuit, releasing your thumb before releasing the pressure in the circuit can create a vacuum effect, causing some of the carbon dioxide absorbent to be sucked into the circuit, which can then flow into the patient’s airway"
+  },
+  {
+    "title": "Gas cylinders and regulator",
+    "detail": "• Oxygen is pressurized at 2,000 to 2,200 psi\n• A reading of 1100 psi indicates tank is half full (contains 330 L of oxygen)\n• Nitrous oxide is pressurized at 750 to 770 psi\n• A regulator is used to reduce the pressure of the gases exiting to around 50 psi"
+  },
+  {
+    "title": "Gas cylinder colors",
+    "detail": "• Oxygen is green\n• Nitrous oxide is blue\n• Medical air is yellow\n• Carbon dioxide is gray"
+  },
+  {
+    "title": "Oxygen tanks",
+    "detail": "• E tank is the small tank that attaches to the anesthesia machine; volume of oxygen in a full E cylinder is 650 L\n• H tank is much larger and generally located remotely from the machine; volume of oxygen in a full H cylinder is around 7,000 L"
+  },
+  {
+    "title": "Pin index safety system (PISS)",
+    "detail": "• Prevents delivery of the wrong gas to a patient under anesthesia\n• Only allows cylinders to operate if they are placed in the correct yoke; the gas will not be delivered to the patient w/out the proper fit\n[[image:Anesthesia Flashcards_Image02.png]]"
+  },
+  {
+    "title": "Flowmeter",
+    "detail": "• Sets the gas delivery at a certain rate\n• Further reduces pressure to 15 psi (from 50 psi)\n• Minimum gas volume requirements are around 60 mL/kg\n• If a ball is used instead of a bobbin, flow rate is read from the center of the ball"
+  },
+  {
+    "title": "Vaporizer",
+    "detail": "• Responsible for vaporizing the anesthetic liquid; regulates the quantity of anesthesia combined w carrier gas\n• Numbers on the dial indicate % concentration of gas\n• Precision vaporizer incorporates anesthetic vapor concentration that tis regulated independently based on time, temperature, and fresh gas flow rate; percentage is fixed and patient can’t extract gases out itself due to the device’s internal resistance\n• Simple/nonprecision vaporizer don’t accommodate for changes in temperature, fresh gas flow rates, ventilation, volume of liquid anesthetic, or liquid vs. wick surfaces, so no accurate calculation or consistent maintenance percentage"
+  },
+  {
+    "title": "vaporizer-out-of-circuit (VOC) vs. vaporizer-in-circuit (VIC)",
+    "detail": "• VOC: Oxygen from flowmeters flows into the vaporizer before entering the breathing circuit\n• VIC: Carrier gas (O2) enters the breathing circuit directly then goes into the vaporizer, which is located in the breathing circuit, often bw the expiratory breathing tube and the expiratory unidirectional valve; exhaled gases enter the vaporizer too\n• VOC vs. VIC is governed by resistance—when resistance to gas flow is high, respiratory drive is insufficient to push gases thru the vaporizer; precision vaporizers therefore must be VOC\n• Nonprecision vaporizers offer little resistance so can be placed in the breathing circuit (e.g. Ohio No. 8 or Stephens vaporizer)"
+  },
+  {
+    "title": "Pop-off valve (exhaust/pressure relief/adjustable pressure limiting/overflow valve)",
+    "detail": "• Point of exit of anesthetic gases from the breathing circuit and into the scavenging system; prevents buildup of excessive pressure\n• If pop-off valve is closed and oxygen flow rate is higher than the patient’s oxygen requirement, pressure will rapidly rise, reservoir bag will expand, along w the patient’s lungs, preventing exhalation and decreasing venous return to the heart—may lead to decreased cardiac output, rapid fall of BP, and death"
+  },
+  {
+    "title": "Manometer",
+    "detail": "• Detects the amount of pressure of gas in the lungs and airway\n• Measures using millimeters of mercury or centimeters of water (mmHg or cmH2O)"
+  },
+  {
+    "title": "Oxygen flush valve",
+    "detail": "• Delivers a burst of pure oxygen into the breathing system to cleanse it\n• Oxygen is delivered at a high flow of 30–70 L/min at a pressure of 400 kPa, bypassing the vaporizer\n• Can cause severe barotrauma and even death if a patient is attached to the system; even more dangerous if pop-off valve is closed"
+  },
+  {
+    "title": "Negative relief (air intake) valve",
+    "detail": "• Safety valve that admits room air in to the circuit when a negative pressure (a partial vacuum) is detected in the breathing circuit, which is indicated by a collapsed reservoir bag; ensures that patient receives some oxygen by thru room air (21% oxygen)\n• Without the valve, patient will be unable to fill lungs and will develop hypoxemia\n• May happen when machine is incorrectly assembled, when active scavenging system is exerting excessive suction, when flow rate is too low, or tank is out of oxygen\n• Found on some machines as a separate part or incorporated into the inspiratory unidirectional valve or the pop-off valve"
+  },
+  {
+    "title": "Common gas outlet",
+    "detail": "• Connects anesthetic machine to the breathing systems, ventilator, or oxygen supply device"
+  },
+  {
+    "title": "Rebreathing circuits",
+    "detail": "• For patients weighing 10+ lbs\n• Circulate a combination of expired and fresh gases—expired gases are pushed thru the soda lime canister, which absorbs CO2, and rebreathed by the patient (CO2 level of rebreathed gas depends on the flow rate of fresh air and condition of the canister)\n• Patient has to breathe against the resistance of the one-way valves, which require some effort\n• Fresh gas flow rate shouldn’t exceed the metabolic oxygen expenditure of the patient—5-10 mL/kg/min in closed rebreathing systems\n• Low-flow anesthesia can only be used w a rebreathing circuit\n• Circle systems have check valves to ensure unidirectional flow of gas; inspiration and expiration tubes are lined to ET tube w a y-connector\n• Universal F-circuit system has the inspiration hose inside the expiration to warm and humidify inspired gases"
+  },
+  {
+    "title": "Closed vs. semi-closed rebreathing system",
+    "detail": "• Closed (total) rebreathing system: Pop-off valve can be kept closed and flow of oxygen is low (provides only the amount the patient needs)\n• Semi-closed rebreathing system: Pop-off valve remains partially open—more oxygen is added than required by the patient and any amount that isn’t used by the patient exits through the pop-off valve into the scavenging system\n• The minimum fresh gas flow is determined by the patient’s metabolic rate; calculated at 22–44 mL/kg/min"
+  },
+  {
+    "title": "Nonrebreathing circuits",
+    "detail": "• Oxygen flows thru the flow meter and into the vaporizer, through the hose, and straight into the patient; exhaled gasses pass thru another hose and flow into the reservoir bag (not to a CO2 absorber) and then into the scavenger\n• No resistance for the patient to overcome\n• Higher fresh gas flow necessary because the gas has to push the expired gas away from the patient so that it is not rebreathed (there isn’t a CO2 absorber, so high flow rate is necessary to ensure patient doesn’t rebreathe expired CO2)\n• Mapleson, Bain, Modified Jackson Rees are examples\n• Bain system holds a tube for exhaled gasses within another tube that holds fresh gases (no CO2 absorber); utilizes fresh flow rate of 200-300 mL/kg/min; has min. amount of empty space so breathing is effortless; ideal for patients less than 15 lb and when head needs to be physically manipulated"
+  },
+  {
+    "title": "Nonrebreathing flow rates",
+    "detail": "• Require high flow rates during induction, maintenance, and recovery because removal of CO2 from the circuit is dependent on fresh gas flow\n• Recommended rates are based on weight and Mapleson circuit\n• Because the systems are used for patients weighing less than 7 kg, max. rates are based on this weight\n• With Mapleson A systems (Magill circuit), modified Mapleson A systems (Lack circuit), and modified Mapleson D systems (Bain coaxial circuit), carrier gas flow should be near the RMV (200 mL/kg/min), or about 0.5–1.5 L/min depending on patient size."
+  },
+  {
+    "title": "Soda lime/carbon dioxide absorbent",
+    "detail": "• Calcium hydroxide is the main component\n• Absorbs CO2\n• Contains ethyl violet, which turns purple when granules reach their CO2 absorption limit\n• Must be changed every 8-12 hours of use, or every week, or when 2/3 turns violet\n• Using expired soda lime can cause hypercapnia, requiring more oxygen and anesthetic gas to remain in the right plane, which can lead to hypotension, organ perfusion, renal failure, or death"
+  },
+  {
+    "title": "Scavenger system",
+    "detail": "• Collects, removes, disposes of 90% of waste anesthetic gases\n• Passive systems include floor drop, absorption via charcoal, scavenge hose directed out of a window—all work on the oxygen flow creating positive pressure during exhalation\n• F-air canisters are replaced every 12 hours of use or when they reach 50 grams\n• Active systems have a central vacuum that uses negative pressure and connects to an interface near the machine"
+  },
+  {
+    "title": "Laryngoscopes",
+    "detail": "[[image:Anesthesia Flashcards_Image01.png]]"
+  },
+  {
+    "title": "ET tubes",
+    "detail": "• Should be left inflated for 5-10 minutes to test slow leaks\n• Correct diameter/length improves efficiency of gas exchange by reducing anatomic dead space\n• Complications of improper intubation include overinflation of cuff or large tube, causing necrosis of tracheal mucosa\n• Low-volume high-pressure tubes like red rubber tubes require small volumes of air to form a complete seal, but high pressure of the cuff can cause tracheal necrosis; also no longer used bc inside can’t be seen if there’s occlusion\n• Obstructed tubes cause hypercarbia, hypoxia, and dyspnea, followed by respiratory arrest if not corrected\n• If tube is smaller than needed, diameter of the airway will be reduced, which will increase resistance to gas flow (or airway resistance) by four (Hagen–Poiseuille law).\n• Silicone tubes can be sterilized in autoclave using steam; red rubber and PVC tubes are gas sterilized w ethylene oxide or hydrogen peroxide gas plasma"
+  },
+  {
+    "title": "[[image:Anesthesia Flashcards_Image06.png]]",
+    "detail": "[[image:Anesthesia Flashcards_Image04.png]]"
+  },
+  {
+    "title": "Murphy eye",
+    "detail": "• Oval hole opposite the bevel of an ET tube\n• Allows gas to flow through the tube if the bevel edge is obstructed"
+  },
+  {
+    "title": "Dead space",
+    "detail": "• Mechanical dead space is caused by equipment such as a long ET tube\n• Anatomic dead space is portions of the breathing passages that contain air but in which no gas exchange can occur, like the mouth, nasal passages, pharynx, trachea, bronchi\n• Apparatus dead space is the volume of the breathing circuit and equipment, such as tubes and connectors, that does not participate in gas exchange (volume occupied by gases that are rebreathed without any change in composition)"
+  },
+  {
+    "title": "Anesthetic rates",
+    "detail": "• Low-flow anesthetic rates are greater than the patient’s oxygen consumption at 4–7 mL/kg/min but less than 22 mL/kg/min, which is the lower limit of flow for semi-closed systems"
+  },
+  {
+    "title": "Balanced vs. unbalanced solutions",
+    "detail": "• Crystalloids are considered balanced when they have a fluid composition that closely resembles extracellular fluid\n• LRS, Normosol-R, Plasma-Lyte 148\n• Unbalanced solutions don’t not have that\n• Normal 0.9% saline [9 grams of sodium chloride per liter of water]"
+  },
+  {
+    "title": "Nasotracheal intubation",
+    "detail": "• A lubricated tube is passed into the ventral nasal meatus; tube will be one to two sizes smaller than that would be used in orotracheal intubation\n• Possible in rabbits, foals/horses (if foal is too sick to react, if horse is to undergo dental or sinus surgery)"
+  },
+  {
+    "title": "Blood transfusions",
+    "detail": "• Regardless of the type of blood product, products must be given within 4 hours to avoid contamination (within 4 hours after collection of whole blood, defrosting fresh frozen plasma, or puncturing a collection bag of RBCs)"
+  },
+  {
+    "title": "Local anesthetics",
+    "detail": "• Cause complete loss of sensation of pain; block the transmission of pain from an injury or surgery site to the spinal cord\n• Result in antagonism/blockade of sodium channels, which results in the neuron not being able to generate electrical impulses\n• Help prevent wind-up pain\n• Lidocaine and bupivacaine\n• Hypotension, seizures, respiratory tract paralysis, muscle spasm and contraction, and hypothermia can occur if local anesthetics are administered into the wrong epidural space; cardiovascular collapse can occur w overdose"
+  },
+  {
+    "title": "Regional anesthesia",
+    "detail": "• Injection of a local anesthetic into the area around a peripheral nerve to block sensory and/or motor function (e.g. ring block before declaw)"
+  },
+  {
+    "title": "Neuromuscular block",
+    "detail": "• On affects skeletal muscles, not cardiac or smooth muscles\n• Sensory, motor, and autonomic neurons are all affected\n• Autonomic neurons convey impulses bw brain and blood vessels and internal organs"
+  },
+  {
+    "title": "Local blocks",
+    "detail": "• Epidural block: Used for anesthesia/analgesia for flank, abdomen, inguinal, and perineal regions\n• Caudal block: Used for obstetric procedures of the vagina and vulva, and for tail docking\n• Inferior alveolar nerve block: Local anesthesia to the tongue, lower dental arcade, and chin (lower dental arcade)\n• Infraorbital block: Local anesthesia to the rostral maxilla\n• Auriculotemporal block: Pain relief to the pinna and ear canal\n• Auriculopalpebral block: Prevents eyelid from closing (not analgesia); used in eye exam and surgery\n• Retrobulbar block: Desensitize nerves and add additional analgesia to an intraocular or enucleation procedure\n• Circumferential block: Used for declaw procedure\n• Peroneal block: Used for the hind limb below the hock\n• RUMM block: Limb distal to the elbow (radial, ulnar, median, and musculocutaneous nerves)\n• Cornual nerve block: Lacrimal and infratrochlear nerves of the cornual nerve supply the horn and must be blocked for dehorning ruminants"
+  },
+  {
+    "title": "Epidural block",
+    "detail": "• Morphine is the opioid most commonly used for epidural analgesia\n• In dogs and cats, administered bw L7 and S1\n• In large ruminants, administered bw Cy1 and Cy2 (first and second coccygeal)\n• Administering epidural injections in patients w skin infections and septicemia can introduce bacteria into the epidural space or CSF\n• Administering epidural in a patient w a coagulopathy can introduce bleeding into the epidural space"
+  },
+  {
+    "title": "Length of recovery",
+    "detail": "• The longer the patient is under anesthesia, the longer the expected recovery\n• Lengthy recoveries in patients w debilitating disease (particularly liver and kidney disease)\n• Lengthy recoveries are common if an injectable agent is given IM rather than IV\n• Hypothermic patients are slow to metabolize and excrete anesthetic drugs\n• Certain canine breeds like greyhounds, salukis, Afghan hounds, whippets, and Russian wolfhounds are slow to recover, especially from barbiturates"
+  },
+  {
+    "title": "Oxygenation during recovery",
+    "detail": "• Oxygen should be administered via ET tube at a rate of 50–100 mL/kg/min (0.5–1 L/10 kg body weight up to a maximum of 5 L/min) for 5 minutes after discontinuation of anesthetic or until animal swallows\n• Allows waste anesthetic gases to be scavenged and gives anesthetist the ability to bag the patient to help reinflate collapsed alveoli\n• Shivering leads to an increase in oxygen demands by up to 300%, so oxygenation is especially important for hypothermic patients"
+  },
+  {
+    "title": "Hypoxia",
+    "detail": "• Impaired oxygen delivery because of systemic delivery issues"
+  },
+  {
+    "title": "Monitoring during recovery",
+    "detail": "• Vital signs should be monitored every 15–20 minutes"
+  },
+  {
+    "title": "Regurgitation",
+    "detail": "• If a patient regurgitates during recovery, remove the regurgitation and lavage the esophagus w saline—gastric contents are highly acidic and can damage the lining of the esophagus and oral cavity"
+  },
+  {
+    "title": "Hypostatic congestion",
+    "detail": "• Pooling of blood in the dependent lung and tissues\n• Recovering patients should be turned every 10–15 minutes to prevent it"
+  },
+  {
+    "title": "Hypostatic pneumonia",
+    "detail": "• Complication in laterally recumbent patients, especially those that are geriatric or are seriously ill\n• Pooling of blood and fluids can occur in the lower lung, providing an ideal medium for bacterial growth, which reduces the viability of the lung, resulting in pneumonia\n• Clinical signs include coughing, tachypnea, and rapid shallow\n• Turning patient every 4 hours will prevent lower lung from becoming nonviable, or patient can be positioned sternal\n• Coupage may be performed to aid expulsion of secretions"
+  },
+  {
+    "title": "Aspiration pneumonia",
+    "detail": "• Lung infection from inhaling foreign material (food, vomit, liquids) into the airways\n• Causes inflammation, infection, and breathing difficulty\n• Seen after anesthesia, vomiting, or with neurological/esophageal issues\n• Extubating once the patient is fully awake and is able to protect its own airway can prevent it"
+  },
+  {
+    "title": "Thoracic surgery",
+    "detail": "• An intact thoracic cavity is under negative pressure, which allows the lungs to expand and contract properly\n• If thorax is opened via surgery or from trauma, negative pressure is lost\n• Leads to pneumothorax; lungs cannot expand and contract on their own, so assistance w ventilation is necessary"
+  },
+  {
+    "title": "Thoracic trauma",
+    "detail": "• Posttraumatic pulmonary lesions can continue to worsen for 24–36 hours\n• Radiographs should be used to monitor before surgery since manual or mechanical ventilation can lead to further damage, including pneumothorax"
+  },
+  {
+    "title": "Ophthalmic surgery",
+    "detail": "• Masking or boxing induction should be avoided because struggling and excitement can cause increase in intraocular pressure"
+  },
+  {
+    "title": "Insulinoma",
+    "detail": "• A tumor of the pancreas that results in excessive insulin production, leading to hypoglycemia"
+  },
+  {
+    "title": "Cleaning monitoring devices",
+    "detail": "• A clean soft cloth that is moistened with mild soap and water"
+  },
+  {
+    "title": "Airway obstruction",
+    "detail": "• Most risky during the preanesthetic and recovery periods when the patient has been administered drugs and the airway is not protected w ET tube"
+  },
+  {
+    "title": "Intracranial pressure",
+    "detail": "• Placing pressure on jugular vein can cause an increase, so it shouldn’t be used for blood\n• Leashes should not be placed around the necks\n• Keeping head slightly elevated helps decrease pressure\n• Mannitol increases blood volume and oxygen delivery to the brain leading to vasoconstriction and decreased intracranial pressure\n• Keeping ETCO2 in the low-normal range (35 mmHg) helps prevent pressure from increasing\n• Controlled hyperventilation is used to manage intracranial pressure and reduce brain size during neurosurgery\n• Inhalant anesthetics increase cerebral blood flow and therefore intracranial pressure"
+  },
+  {
+    "title": "Spinal cord",
+    "detail": "• In cats spinal cord extends caudally as far as S1, so this is the most caudal spot epidural can be administered\n• In dogs, spinal cord ends at L6"
+  },
+  {
+    "title": "CNS hypersensitivity (wind-up)",
+    "detail": "• Neurons of the spinal cord that are stimulated by constant nociceptive input from the periphery become hyperexcitable and sensitive to low-intensity stimuli that would not normally elicit a pain response\n• Occurs when the dorsal horn of the spinal cord is bombarded with the transmission of noxious stimuli, which activates the -methyl-D-aspartate (NMDA) receptors within the dorsal horn and amplifies the signal of pain to the brain\n• May manifest in an area away from initial injury, known as secondary hyperalgesia\n• Ketamine can block NMDA receptors and prevent wind-up pain"
+  },
+  {
+    "title": "Somatic vs. visceral pain",
+    "detail": "• Visceral pain: Dull, diffuse, achy pain caused by a disease process in the internal organs\n• Somatic pain: Deep burning sensations, throbbing pain, or superficial pain; occurs in the mucous membranes, skin, and SC tissues"
+  },
+  {
+    "title": "Acute vs. chronic pain",
+    "detail": "• Acute pain: Pain that has an immediate onset after tissue injury—adaptive/protective pain because it serves as a warning; has physiologic and inflammatory elements, resolves when healing is complete\n• Chronic pain: Long-lasting pain that persists after tissues are healed or when they won’t heal; serves no biological purpose, challenging to treat and may lead to wind-up pain"
+  },
+  {
+    "title": "Other types of pain",
+    "detail": "• Physiologic pain: Protective sensation of pain that occurs when there is a possibility tissue injury; adaptive pain, resolves when healing is complete\n• Pathologic pain: Pain caused by malfunction of or damage to the nervous system; tissue damage results in constant stimulation of nerves and amplified and persistent pain; maladaptive, difficult to treat.\n• Inflammatory pain: Occurs at the site of injury; caused by release of chemical mediators like histamine and prostaglandins\n• Neuropathic pain: Results from injury to the nervous system\n• Idiopathic pain: Pain with no apparent cause"
+  },
+  {
+    "title": "Adjuncts for pain management",
+    "detail": "• Weight loss, laser therapy, physical rehabilitation, and stem-cell therapy"
+  },
+  {
+    "title": "Miosis vs. mydriasis",
+    "detail": "• Miosis is the excessive constriction of the pupil\n• Mydriasis is the excessive dilation of the pupil"
+  },
+  {
+    "title": "% solutions",
+    "detail": "• 2% means 2 g/100 mL"
+  },
+  {
+    "title": "Body scoring",
+    "detail": "• Animals w little body fat are more sensitive to the effects of some anesthetics such as ultra–short-acting barbiturates, and more prone to hypothermia\n• Obese animals may have compromised cardiovascular function and decreased functional lung volume\n• When patients are significantly overweight, anesthetics should be dosed according to lean body weight (excluding body fat) bc fat doesn’t increase volume or weight of the nervous tissue on which anesthetics exert their effect"
+  },
+  {
+    "title": "Passive dosimeters",
+    "detail": "• Used to monitor waste gases (tubes also available)\n• May detect be sensitive to all or one halogenated anesthetic\n• Uncapped at the beginning of the exposure period and worn in the surgical preparation room, OR, or recovery area for a timed period when anesthetic gases are being used (usually 2–8); alternatively, placed in a room for area monitoring\n• Results are given as a time-weighted average in ppm"
+  },
+  {
+    "title": "Barotrauma",
+    "detail": "• Lung tissue trauma resulting from excessively high airway pressure associated w excessive inflation of the lungs and alveolar overdistension\n• Can result in alveolar and pleural rupture\n• Can be caused by excessive peak inspiratory pressure during ventilation\n• A closed pop-off valve increases the risk of barotrauma and leads to cardiac arrest\n• Patients that have severe collapse of the lung during anesthesia can experience barotrauma during the process of trying to reinflate the lung"
+  },
+  {
+    "title": "Catalepsy",
+    "detail": "• Trance-like state where patients are unaware of their surroundings\n• Dissociative anesthesia\n• Often seen w use of cyclohexamines (ketamine and tiletamine)\n• Sedated animals are still easily aroused and often aware of their surroundings when stimulated, so it’s not a cataleptic state"
+  },
+  {
+    "title": "Hyperkalemia",
+    "detail": "• 0.9% sodium chloride does not contain potassium, so ideal for patients w hyperkalemia"
+  },
+  {
+    "title": "Brachycephalic anesthesia",
+    "detail": "• Have lower SPO2 reading (93-95), so important to get reading in room air as baseline\n• Premed w anticholinergics to prevent bradycardia and dry oral secretions\n• Preoxygenate 5 min\n• Wait until swallowing and also alert to extubate"
+  },
+  {
+    "title": "Neonate (< 4 w) and pediatric (< 6 mo) anesthesia",
+    "detail": "• Cardiac output and BP rely solely on HR and stroke volume; bradycardia decreases both\n• Higher risk of hypoxia during apnea due to reduced pulmonary reserve\n• Airway collapse is a risk bc rib cage is weak and breathing takes more effort\n• Rib cage is more pliable than adults, which can lead to less efficient ventilation and respiratory fatigue\n• Prone to hypoglycemia due to limited glycogen stores; patients older than 6 weeks fasted for 3 hours; neonatals not be fasted; no withholding water\n• Prone to hypothermia\n• Because of large fleshy tongue and narrowed upper airway, they are at increased risk of airway obstruction, so intubation is necessary for general anesthesia\n• Chamber induction is the least suitable choice (compared to injectables) due to stress and cardiac compromise"
+  },
+  {
+    "title": "Geriatric anesthesia",
+    "detail": "• Drug dosages are lowered to decrease cardiovascular effects and elimination efforts of organs\n• Prone to hypothermia due to less body fat, can lead to hypotension and arrhythmias\n• Prone to hypoglycemia, so fasting is 8 hours"
+  },
+  {
+    "title": "Porcine stress syndrome (malignant hyperthermia)",
+    "detail": "• Metabolic condition associated w anesthesia, particularly inhalant anesthetics\n• Affected animals have a mutation in one of the genes that control calcium metabolism in the muscle\n• Signs include muscle rigidity, rapid rise in temperature, hypercapnia, hyperkalemia, and death\n• Tx includes termination of anesthesia, delivery of oxygen at high rates, and treatment w dantrolene"
+  },
+  {
+    "title": "Horse anesthesia",
+    "detail": "• Flow rate of 10–15 mL/kg/min is enough to wash out nitrogen and CO2 in the respiratory tract and fill the bag (also says ave. of 4–8 mL/kg/min)\n• Guaifenesin is a muscle relaxant used to increase muscle relaxation, facilitate intubation, and ease induction and recovery\n• In standing chemical restraint, the head must be supported in a normal position to avoid nasal congestion\n• Intubation is performed blindly\n• In general anesthesia, muscles and prominent nerves must be protected and not resting on hard surfaces to prevent myopathies and neuropathies\n• Nystagmus is commonly seen in very light plane of anesthesia\n• MAC of iso is 1.31%\n• Horses are more likely to develop hypoxemia, hypoventilation, and hypotension during maintenance, esp. w inhalants\n• Signs of neuropathy are facial nerve paralysis (drooping eyelid and lip) and radial nerve paralysis (inability to fully extend affected forelimb); signs of myopathy are hard, swollen muscles, stiff and painful gait\n• Dobutamine (positive inotrope) used to treat hypotension in horses"
+  },
+  {
+    "title": "Ferret anesthesia",
+    "detail": "• Ferrets have a fast metabolism; fasting for 4 to 6 hours is enough to clear GI tract, helps prevent excessive vomiting and regurgitation\n• Fasting longer than 6 hours is not recommended because of high metabolic rate\n• Premed in caudal lumbar muscles (IM) since they are large"
+  },
+  {
+    "title": "Rabbit and rodent anesthesia",
+    "detail": "• Position of the eye remains fixed and palpebral reflex may still be present at surgical plane\n• Low dead space pediatric connectors are used w small rabbits to attach the endotracheal tube to the circuit\n• Rabbits may stop eating and drinking when experiencing pain, have slower recovery, won’t groom\n• Lack of food intake can predispose to the development of hypoglycemia in small rodents\n• In rabbits, guinea pigs, and chinchillas, disturbances in food intake can lead to the development of life-threatening GI disturbances\n• Opioids must be given with care if a neuroleptanalgesic mixture has been used for anesthesia"
+  },
+  {
+    "title": "Swine anesthesia",
+    "detail": "• Sedative drugs administered by IM injection due to lack of access to peripheral veins; thick layer of SC fat requires needles of 1½ inches\n• Inaccessible peripheral veins mean blood samples are difficult and stressful to obtain, so no preanesthetic blood work\n• Oscillometric BP monitors do not work\n• Iso and sevoflurane are safe bc they are unlikely to cause malignant hyperthermia"
+  },
+  {
+    "title": "Ruminant anesthesia",
+    "detail": "• Alpha-2 adrenoceptor agonists xylazine or detomidine used for premed; guaifenesin (muscle relaxant) used to increase muscle relaxation, facilitate intubation, and ease induction and recovery\n• Most common protocol is premedication w butorphanol and using a standing position w local blocks to avoid adverse effects of heavy sedation\n• Anticholinergics not suggested due to increased viscosity of saliva\n• Nitrous oxide not used bc it may produce bloat and diffusion hypoxia (it is relatively insoluble in blood and diffuses rapidly into gas-filled compartments such as the rumen); halothane, iso, sevo in oxygen can be safely used\n• Food animals should not be given sedatives or tranquilizers\n• Adult cattle are intubated blind; tube must be lubricated w saliva or KY jelly\n• Food is withheld 24 hours, water for 6–12 hours\n• During general anesthesia, neck is elevated w head in a downward position to keep saliva and regurgitation from pooling\n• Recovered in sternal w mouth lower than pharynx to allow eructation\n• Jugular vein is used for IV catheters in cows; cephalic/saphenous veins used in smaller ruminants"
+  },
+  {
+    "title": "Avian anesthesia",
+    "detail": "• Avian trachea is made up of complete tracheal rings that lack elasticity, so cuffed ET tubes can cause damage and pressure necrosis\n• The syrinx (responsible for sound generation) lies beyond tracheal bifurcation, so vocalization is possible while intubated"
+  },
+  {
+    "title": "Amphibian anesthesia",
+    "detail": "• Tricaine methanesulfonate (MS-222) is the most commonly used drug to induce and maintain anesthesia\n• MS-222 is a powder that is weighed out and added to a calculated volume of water; it is buffered w baking soda"
+  }
+]
