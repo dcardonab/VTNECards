@@ -1,75 +1,111 @@
 [
   {
-    "title": "Pharmacokinetics",
-    "detail": "• Movement of drugs in the body\n\t• Absorption: Movement of drug from administration site to circulating blood\n\t• Distribution: Movement of absorbed drug from blood to tissues\n\t• Metabolism (biotransformation): Chemical modification of drug to active, inactive, or toxic metabolite; mostly in the liver\n\t• Excretion (elimination): Removal of drug by kidney or liver in urine, bile, feces, expired air, sweat, saliva, and tears"
+    "title": "Pharmacokinetic considerations for certain groups",
+    "detail": "• Ability to biotransform or eliminate drugs may be compromised in geriatric and younger patients, therefore drug doses are decreased or dose interval is increased"
   },
   {
     "title": "Pharmacodynamics",
-    "detail": "• Biochemical and physiologic effects of drugs\n\t• Mechanism of action (MOA): Drugs often “act” by interacting with a target protein like a receptor in a specific cell; agonists activate and antagonists block (exception are drugs that produce effects on the basis of their physical characteristics)\n\t• Side effects (adverse reactions): Commonly linked to MOA and result from the interaction of the drug with other cells than the target cell/tissue, alteration of patient’s physiology, or pharmacokinetics\nDose dependent reactions: Predictable, affects all, increase w dose\nIdiosyncratic drug reactions: Unpredictable, dose independent although risk increases w dose, often ass. w an immune system response"
+    "detail": "• Biochemical and physiologic effects of drugs\n\t• Mechanism of action (MOA): Drugs often “act” by interacting with a target protein like a receptor in a specific cell; agonists activate and antagonists block (exception are drugs that produce effects on the basis of their physical characteristics)\n\t• Side effects (adverse reactions): Commonly linked to MOA and result from the interaction of the drug with other cells than the target cell/tissue, alteration of patient’s physiology, or pharmacokinetics\nDose dependent reactions: Predictable, affects all, increase w dose\n• Idiosyncratic drug reactions: Unpredictable, dose independent although risk increases w dose, often ass. w an immune system response"
+  },
+  {
+    "title": "Therapeutic index (therapeutic ratio)",
+    "detail": "• Relative safety of a drug\n• Expressed as\nTI = LD50 / EC50\nLD50 is the lethal dosage for 50% of a population\nEC50 is the minimum effective concentration for 50% of the same population\n• Higher the TI, safer the drug\n• Low TI means the dosage range bw safe and toxic results is very small (few dosage options before adverse effects)"
   },
   {
     "title": "Therapeutic drug monitoring",
     "detail": "• Periodic measurement of the amount of a drug in the blood"
   },
   {
-    "title": "Veterinarian-client-patient relationship (VCPR)",
-    "detail": "• Must be established before prescription of drugs\n\t• Veterinarian has assumed responsibility for making medical judgments and client has agreed to follow his instructions\n\t• Veterinarian has sufficient knowledge of the animal to make a preliminary diagnosis\n\t• Veterinarian is available for follow-up in case of adverse reactions\n\t• Veterinarian provides oversight of treatment, compliance, and outcome\n\t• Patient records are maintained"
+    "title": "Loading dose",
+    "detail": "• Initial administration of a large dose followed by smaller doses\n• Brings serum concentration to a therapeutic level quickly\n• Common w phenobarbital (anticonvulsant)"
   },
   {
-    "title": "Controlled substances",
-    "detail": "• Prescription drugs with potential for addiction and abuse by humans\n• Five schedules based on potential for abuse\n\t• I: High abuse potential, not used in vet med (heroine, LSD)\n\t• II:  High abuse potential, physical/psychic dependence (morphine, codeine, methadone, fentanyl, pentobarbital)\n\t• III:  Moderate abuse potential, more psychological dependence (buprenorphine, ketamine, tiletamine)\n\t• IV: Low abuse potential (phenobarbital, butorphanol, alfaxalone, diazepam)\n\t• V:  Low abuse potential, no DEA limit on prescriptions (antitussives (codeine))"
+    "title": "Anaphylactic shock",
+    "detail": "• An allergic reaction severe enough to cause death\n• Low BP, itching, swelling, extreme respiratory problems\n• Treated w IV diphenhydramine (Benadryl)"
   },
   {
-    "title": "Parenteral",
-    "detail": "• Administration of drugs by injection (vs. oral/nonparenteral route)"
+    "title": "Antihistamines",
+    "detail": "• Drugs that block histamine release or reuptake\n• Can prevent or reduce allergic reactions\n• Multimodal therapy is common since allergy response involves multiple factors in the body\n• Usually produce drowsiness, dry mouth, thirst"
   },
   {
-    "title": "Dosage",
-    "detail": "• Amount of drug per body weight (mg/kg, mL/kg, tablets/kg)"
+    "title": "Mechanism of action for antihistamines",
+    "detail": "• Work by blocking H1 or H2 receptors\n• H1 receptors are responsible for pruritus and movement of inflammatory cells to a site\n• H2 receptors stimulate gastric acid secretion and regulate immune responses\n• H1 blockers antagonize histamine at receptor sites (don’t block its release) (Benadryl, Claritin)\n• Effective for anaphylaxis bc they stop bronchoconstriction and vasodilation\n• Less effective as anti-inflammatory response or allergy treatment since histamines aren’t the only cause of inflammation\n• H2 antagonists suppress gastric secretory effects and have mild anti-inflammatory effects (famotidine)"
   },
   {
-    "title": "Dose",
-    "detail": "• Amount of drug that will be given with each administration (mg, mL, units [U])\nDose (mg) = Weight (kg) x Dosage (mg/kg)\nDose (mL) = Dose (mg) ÷ Concentration (mg/mL)"
-  },
-  {
-    "title": "Bioavailability",
-    "detail": "• Fraction of a drug dose that reaches the bloodstream\n• Drugs administered IV are 100% bioavailable (i.e., bioavailability of 1)\n• Bioavailability is influenced by dosage form of the drug, vascularity of administration site, mechanism of absorption, and metabolism of the drug\n• Bioavailability of same drug can change with route—butorphanol is 100% bioavailable IV but 20% bioavailable PO"
-  },
-  {
-    "title": "First-pass effect",
-    "detail": "• Portion of a drug that is lost during the process of absorption, which typically happens in the intestinal wall and liver\n• May cause large portions of drug to be readily metabolized before entering general circulation, necessitating a higher dose to be effective"
-  },
-  {
-    "title": "Bound and unbound drugs",
-    "detail": "• Portion of the drug is bound to proteins in the blood, mostly albumin\n• Bound portions are too large to move through fenestrations and into tissues, so only unbound portions will be distributed\n• Important when highly protein-bound drugs are administered to patients with hypoproteinemia since less protein will mean more of the drug will be distributed, making side effects more likely"
-  },
-  {
-    "title": "Drug clearance (Cl)",
-    "detail": "• A pharmacokinetic value describing drug elimination\n• Rate at which a drug is removed from an organ or the body\n• Expressed as volume of plasma cleared of drug per unit time (mL/minute)\n• Used to measure efficiency of elimination and determine dosage regimen necessary to achieve a stable concentration in the blood (i.e., steady state—amount of drug administered equals amount of drug eliminated)"
-  },
-  {
-    "title": "Half-life (t1/2)",
-    "detail": "• Time required for the amount of a drug in the body to decrease by 50%\n• Each half-life lowers drug concentration by half of the level it was at the beginning of that half-life\n• Estimates the duration of a drug’s effect, so used to estimate dosing interval\n• Also used to establish withdrawal time in food-producing animals (i.e., period when food products contain unacceptable amounts of the drug—may cause allergies, antibiotic resistance)\n• Time needed to reach steady state, or time required for 97% of the drug to be removed, is approximately 5x the half-life"
-  },
-  {
-    "title": "Classes of drugs",
-    "detail": "• Antimicrobial drugs\n• Antiparasitic drugs\n• Endocrine drugs\n• GI drugs\n• Cardiovascular drugs\n• Respiratory drugs\n• Anticonvulsants\n• Immunosuppressants\n• Anti-inflammatory drugs\n• Dietary supplements / Nutraceuticals"
+    "title": "Antihistamine drugs",
+    "detail": "• Chlorpheniramine\n• Cyproheptadine (used to enhance appetite in cats as well)\n• Diphenhydramine (Benadryl)\n• Hydroxyzine\n• Clemastine"
   },
   {
     "title": "Antimicrobial drugs",
-    "detail": "• Antibacterial drugs (antibiotics)\n\t• Vomiting and diarrhea most common side effect due to effects on GI flora and irritation of stomach\n• Antifungal drugs\n\t• Systemic (ketoconazole) or topical antifungals"
+    "detail": "• Antibacterial drugs (antibiotics)\n\t• Vomiting and diarrhea most common side effect due to effects on GI flora and irritation of stomach\n• Antifungal drugs\n• Systemic (ketoconazole) or topical antifungals"
   },
   {
     "title": "Antibiotics",
+    "detail": "• Used to stop bacterial infections; bacteriostatic or bactericidal\n• Broad spectrum antibiotics are effective against gram-positive and gram-negative bacteria, but its overprescription is the reason for antibiotic resistance"
+  },
+  {
+    "title": "Classes of antibiotic drugs (book 1)",
+    "detail": "• Beta-lactams\n• Penicillins (end in -in)\n• Cephalosporins (start w cef- or ceph-)\n• Carbapenems\n• Monobactams\n• Chloramphenicol\n• Lincosamides (e.g. clindamycin)\n• Fluoroquinolones (end in -floxacin or -oxacin)\n• Aminoglycosides (e.g. gentamicin, neomycin)\n• Macrolides (e.g. erythromycin)\n• Tetracyclines (end in -cycline or -tetracycline)"
+  },
+  {
+    "title": "Classes of antibiotic drugs (book 2)",
     "detail": "• Penicillins (G, V, Amoxicillin)\n• Cephalosporins (Cefazolin, Cephalexin)\n• Aminoglycosides (Gentamicin, Neomycin)\n• Sulfonamides (Sulfadiazine)\n• Fluoroquinolones (Enrofloxacin)\n• Macrolides (Erythromycin)\n• Linosamides (Clindamycin)\n• Tetracyclines (Doxycycline)\n• Nitromidazoles (Metronidazole)\n• Macrolides (Chloramphenicol)"
   },
   {
-    "title": "Bacteriostatic",
-    "detail": "• Antibiotics that inhibit growth/replication of bacteria (vs. bactericidal)"
+    "title": "Beta-lactams",
+    "detail": "• Used in dogs, cats, poultry, and large animals to treat streptococcal and clostridial infections\n• Bactericidal\n• Inhibit bacterial cell wall synthesis by targeting penicillin-binding proteins\n• Penicillins and monobactams are narrow spectrum\n• Carbapenems are broad spectrum\n• Cephalosporins depend on generation—1st gen are narrow, 2nd to 4th are broad\n• 1st gen include cefazolin, cephalexin; should not be used in animals allergic to penicillin"
+  },
+  {
+    "title": "Chloramphenicol",
+    "detail": "• Used in pets to treat anaerobic infections including middle and inner ear and eye infections, and salmonellosis\n• Bacteriostatic\n• Broad spectrum\n• Inhibits protein synthesis\n• Illegal to use on food animals bc it’s known to cause aplastic anemia in humans\n• Side effects include V/D, anaphylaxis"
+  },
+  {
+    "title": "Lincosamides",
+    "detail": "• Bactericidal or bacteriostatic depending on species and severity of infection\n• Moderate spectrum\n• Inhibit protein synthesis\n• Effective against most anaerobes\n• Include clindamycin, lincomycin\n• Not used on horses"
+  },
+  {
+    "title": "Fluoroquinolones",
+    "detail": "• Used in cats, dogs, ruminants, pigs, horses\n• Can be used to treat infections of the skin, bladder, ears, kidneys, lungs (pneumonia), and prostate\n• Bactericidal\n• Inhibit nucleic acid synthesis\n• Mostly narrow spectrum, except 3rd gen broad spectrum\n• Include ciprofloxacin, enrofloxacin, etc."
+  },
+  {
+    "title": "Aminoglycosides",
+    "detail": "• Used to treat severe infection only bc they are nephrotoxic and ototoxic\n• Used to treat Enterobacteriaceae (e.g. E. coli)\n• Bactericidal\n• Inhibit protein synthesis\n• Broad spectrum, but not effective against anaerobic bacteria\n• Include gentamicin, amikacin, neomycin\n• Severely nephrotoxic when administered by injection, but not absorbed systemically when given PO and poorly absorbed when applied topically, so these routes used often"
+  },
+  {
+    "title": "Macrolides",
+    "detail": "• Used to treat respiratory issues, skin/soft tissue infections (staph/strep), GI infections (swine dysentery), and specific conditions like eye infections in cats\n• Bacteriostatic (unless at high concentrations)\n• Narrow spectrum (gram-positive)\n• Inhibit protein synthesis\n• Include erythromycin, which is used in case of penicillin allergy"
+  },
+  {
+    "title": "Tetracyclines",
+    "detail": "• Used to treat local and systemic infections, but resistance increased a lot\n• Bacteriostatic\n• Inhibit protein synthesis\n• Broad spectrum\n• Effective against mycoplasma, spirochetes, chlamydia, and rickettsial diseases like Rocky Mountain spotted fever\n• Include doxycycline, oxytetracycline, chlortetracycline"
+  },
+  {
+    "title": "Antifungals",
+    "detail": "• Work by distinguishing mammalian cells from fungi cells (mammalian cell walls contain cholesterol, fungi cell walls contain ergosterol)\n• Polyenes work by making fungi cell wall permeable, causing contents to spill out, resulting in cell death\n• Azoles work by blocking the essential enzyme for cell wall synthesis, resulting in the loss of cell wall integrity\n• Azoles include imidazole and triazole\n• Triazoles preferred due to less effects and better results; include flucanozole and itraconazole\n• Imidazoles include miconazole and ketoconazole\n• Allylamines are used to treat dermatophytosis (ringworm); include terbinafine"
+  },
+  {
+    "title": "Classes of antifungal drugs",
+    "detail": "• Polyenes\n• Azoles\n• Triazoles (flucanozole, itraconazole)\n• Imidazoles (miconazole, ketoconazole)\n• Allylamines (terbinafine)"
   },
   {
     "title": "Antiparasitics",
-    "detail": "• Bemzimidazoles (Fenbendazole) – nematodes, lungworms, cestodes, giardia\n• Tetrahydropyrimidines (Pyrantel) – nematodes\n• Prazinquantel – cestodes, trematodes\n• Avermectins (Ivermectin, Sekamection) and Milbemycins – nematodes, arthropods\n• Metronidazole – giardia, balantidium coli"
+    "detail": "• Bemzimidazoles (Fenbendazole) – nematodes, lungworms, cestodes, giardia\n• Tetrahydropyrimidines (Pyrantel) – nematodes\n• Prazinquantel – cestodes, trematodes\n• Avermectins (Ivermectin, Sekamection) and Milbemycins (moxidectin) – nematodes, arthropods\n• Metronidazole – giardia, balantidium coli"
+  },
+  {
+    "title": "Moxidectin",
+    "detail": "• Antiparasitic in the class milbemycin\n• Preventive for D. immitis in dogs; eliminates tissue stage of heartworm larvae; microfilaricide\n• Closely related to avermectins"
+  },
+  {
+    "title": "Ivermectin",
+    "detail": "• Monthly preventive for dogs and cats\n• Plus formula (Heartgard Plus) in dogs is effective against hookworms and roundworms\n• In cats, preventive for D. immitis and removal of hookworms"
+  },
+  {
+    "title": "Pyrantel",
+    "detail": "• Used in dogs to remove tapeworms, hookworms, roundworms, whipworms\n• Drug class tetrahydropyrimidines"
+  },
+  {
+    "title": "Microfilariae",
+    "detail": "• Immature heartworms"
   },
   {
     "title": "Macrocyclic lactones",
@@ -84,12 +120,228 @@
     "detail": "• Multimodal treatment—an adulticide to kill off the adult HWs, ivermectin to eliminate larvae, an anti-inflammatory to minimize inflammation associated w HW presence, and a doxycycline to reduce numbers of Wolbachia\nCase: Ivermectin + Melarsomine + Glucocorticoid + Prednisone + Doxycycline\n• Exercise restriction is essential since pulmonary embolism from dead worms is a risk"
   },
   {
+    "title": "Types of vaccines",
+    "detail": "• Live vaccines (aka modified or attuned vaccines): Strong immune response, most protection; strict storage and handling requirements\n• Killed (inactivated) vaccines: Lesser immune response due to killed pathogen; usually requires 2 doses initially, followed by annual vaccination; more stable and easier to store\n• Recombinant (DNA) vaccines: Non-disease-causing components produced by the pathogen are transmitted to a different organism that is introduced to the animal (immune system recognizes the same component in the pathogen and starts a response)\n• Toxoid vaccines: Short-lived humoral immune response resulting from attenuated toxins"
+  },
+  {
+    "title": "Antigens",
+    "detail": "• Protein molecules found on the outer surface of disease-causing pathogens\n• Cause the body to create antibodies to fight disease"
+  },
+  {
+    "title": "Anaphylactic reaction to vaccines",
+    "detail": "• Normally happen w/in 24 hours\n• Can happen on the 1st vaccine or later\n• Causes itching, weakness, apnea, sudden V/D, facial swelling, pale gums, seizures\n• If untreated, can lead to respiratory and heart failure, shock\n• Tx w epinephrine, antihistamines, oxygen therapy, IV fluids if needed"
+  },
+  {
+    "title": "Antiarrhythmic drugs",
+    "detail": "• Used to restore normal electrical activity in the heart\n• Sodium channel blockers (lidocaine and procainamide) limit the flow of sodium, slowing down conduction; used mainly for ventricular arrhythmias\n• Beta-adrenergic blockers (propranolol) obstruct beta-adrenergic receptors which reduces sympathetic stimulation of the heart, decreasing HR and AV conduction\n• Also negative inotropes (decrease contractility)\n• Calcium channel blockers (verapamil and diltiazem) slow down conduction and prolong refractory periods; used mainly for supraventricular arrhythmias\n• Also negative inotropes (decrease contractility)\n• Positive inotropes (digoxin and catecholamines) make heart contractions stronger, improving cardiac output"
+  },
+  {
+    "title": "Lidocaine",
+    "detail": "• Myocardium's response to lidocaine and other class 1 antiarrhythmic drugs depends on the presence of potassium; hypokalemia will decrease efficacy"
+  },
+  {
+    "title": "Anticoagulants and thrombolytics",
+    "detail": "• Blood clots are formed during coagulation by the protein thrombin, which is an enzyme that increases conversion rate of fibrinogen to fibrin (which induces the blood to clot)\n• Anticoagulants stop formation of blood clots\n• Thrombolytics break up and dissolve blood clots by activating plasmin, the enzyme that separates and disintegrates fibrin strands\n• Heparin inhibits clot formation by stopping thrombin, but doesn’t break up existing clots\n• Thrombolytics include t-PA (alteplase Activase), streptokinase, and urokinase\n• Anticoagulants are more effective in treating thromboembolism in animals"
+  },
+  {
+    "title": "Heparin",
+    "detail": "• Anticoagulant\n• Found in tissues; obtained from pig intestinal mucosa\n• Prevents conversion of prothrombin (factor II) to thrombin, w/out which fibrinogen won’t be converted to fibrin so clot won’t be formed\n• Unfractionated heparin blocks the activity of thrombin, low molecular weight heparin doesn’t"
+  },
+  {
+    "title": "Hemoglobin",
+    "detail": "• Iron-containing protein in RBCs\n• Crucial for transporting oxygen and carbon dioxide"
+  },
+  {
+    "title": "Hematics",
+    "detail": "• Blood-building products\n• Used to treat anemia (low hemoglobin)\n• Three types include erythropoietin (aka hematopoietin or hemopoietin), androgens, and blood substitutes\n• Androgens stimulate kidney’s production of erythropoietin but have secondary effects so use is limited"
+  },
+  {
+    "title": "Erythropoietin",
+    "detail": "• Hormone produced by the kidney, and to a lesser extent the liver if levels go down\n• Regulates production of RBCs; stimulates bone marrow to produce RBCs\n• Insufficient production will lead to anemia\n• Renal diseases causes a decrease in its production so supplementation may be beneficial"
+  },
+  {
+    "title": "Oxyglobin",
+    "detail": "• A blood substitute that can be given to anemic animals\n• Derived from chemically stabilized bovine hemoglobin\n• Short-term increase and maintenance of oxygen levels"
+  },
+  {
+    "title": "Use of crystalloid and colloid solutions",
+    "detail": "• Isotonic solutions are used to support perfusion and volume replacement\n• Hypertonic solutions are used to draw fluid from intracellular space to intravascular space; useful when large amounts of fluids are needed quickly\n• Hypotonic solutions are used to move fluid from intravascular space to intracellular space; mostly used to correct electrolyte imbalances\n• Colloids are used to restore organ perfusion; used in pulmonary contusions and head trauma; resuscitation is achieved w a lower rate since colloids stay in the vascular space longer than crystalloids"
+  },
+  {
+    "title": "Blood products",
+    "detail": "• Fresh whole blood: Used in hemorrhagic shock, anemia, excessive surgical hemorrhage, clotting disorders, non-IMHA, sometimes IMHA\n• Crystalloids combined w packed RBCs: Used when fluid balance and osmotic pressure need to be maintained (crystalloids used to expand blood volume)"
+  },
+  {
+    "title": "Analgesics",
+    "detail": "• NSAIDs (phenylbutazone, aspirin, ibuprofen, etodolac, carprofen, flunixin)\n• Opioids (morphine, meperidine, butorphanol, codeine)\n• Corticosteroids (prednisone, dexamethasone)"
+  },
+  {
+    "title": "Opioids",
+    "detail": "• Pure mu agonists: More effective analgesia, but side effects like vomiting, respiratory depression, sedation; include morphine, hydromorphone, fentanyl, meperidine\n• Simbadol is a high-concentration buprenorphine w 24-hour action if given sc (6 hrs if IM); used in cats but metabolized in the liver so not for liver disease\n• Partial mu agonists: Bind w the less effective analgesic receptor (k receptor); include buprenorphine\n• Mu antagonist: Reverses the effects of pure mu agonists, weakening analgesic effects; include butorphanol"
+  },
+  {
+    "title": "Common side effects of opioids",
+    "detail": "• Bradycardia\n• Respiratory depression\n• Hypotension\n• Excitement\n• Vomiting"
+  },
+  {
+    "title": "NSAIDs",
+    "detail": "• Block production of prostaglandins that promote pain and inflammation\n• Reduction of pain is thru reduction of inflammation that triggers the pain sensation\n• Also have antipyretic effects\n• Baseline and annual blood work to check kidney and liver function is necessary for long-term use\n• Side effects include kidney and liver toxicity, GI ulcers, stomach bleeding, V/D, loss of appetite, lethargy"
+  },
+  {
+    "title": "Benzodiazepines",
+    "detail": "• Sedatives w muscle relaxation\n• Provide sedation by depressing the limbic system, thalamus, and hypothalamus\n• Muscle-relaxing effects due to inhibition of neurons on the spinal cord\n• Some like diazepam are anticonvulsants too\n• Metabolized thru the liver and excreted thru urine, so caution in liver and kidney disease\n• Side effects include CNS depression, ataxia, weakness, disorientation, nausea, vomiting\n• Excitation right before depression possible"
+  },
+  {
+    "title": "Alpha 2 agonists",
+    "detail": "• Sedatives that provide analgesia and muscle relaxation\n• Cardiovascular effects like bradycardia, hypertension, and reduced cardiac output possible\n• Not to be used in cardiovascular, liver, and kidney disease\n• Include medetomidine (Domitor), dexmedetomidine, xylazine"
+  },
+  {
+    "title": "Medetomidine",
+    "detail": "• Domitor\n• Alpha 2 agonist\n• Potent anxiolytic, hypnotic, anticonvulsant, muscle relaxant, sedative, analgesic\n• Side effects include bradycardia, hypothermia, decreased respiration, urination, AV blocks, vomiting\n• Caution especially in very young/old animals\n• Reversed w atipamezole (Antisedan)"
+  },
+  {
+    "title": "Dexmedetomidine",
+    "detail": "• Dexdomitor\n• Alpha 2 agonist\n• Premed for general anesthesia\n• Side effects include bradycardia and hypertension—the hypertension results in a reflex bradycardia, which is why patients can have low HR coupled w normal BP\n• Reversed w atipamezole (Antisedan)"
+  },
+  {
+    "title": "Atipamezole",
+    "detail": "• Can cause transient behavioral problems like extreme nervousness\n• Can cause hypotension so BP should be monitored\n• HR and RR may increase\n• Nausea and vomiting possible\n• Diarrhea, hypersalivation, shivering, overstimulation possible\n• Not for pregnant and nursing animals"
+  },
+  {
+    "title": "Xylazine",
+    "detail": "• Rompun, Anased\n• Alpha 2 agonist\n• Analgesic, muscle relaxant, anesthesia, sedation\n• Side effects include bradycardia, cardiac conduction disturbances, myocardial depression, vomiting\n• Reversed w xylazine and yohimbine"
+  },
+  {
+    "title": "Anticonvulsants",
+    "detail": "• Phenobarbital for long-term seizure control (oral)\n• Potassium bromide and sodium bromide can be used in addition in dogs if phenobarbital alone isn’t enough or can’t be used\n• Common side effect of phenobarbital is hepatotoxicity, so can’t be used in pre-existing liver disease"
+  },
+  {
+    "title": "Antidepressants",
+    "detail": "• Clomipramine (Clomicalm) used for separation anxiety\n• Selegeline (Anipryl) used for canine cognitive dysfunction"
+  },
+  {
+    "title": "Cholinergic vs. adrenergic",
+    "detail": "• Adrenergic agents stimulate sympathetic processes, principally by releasing epinephrine and norepinephrine\n• Cholinergic agents engage the parasympathetic processes, principally by producing, altering, mimicking, or releasing acetylcholine\n• Adrenergic blockers and anticholinergics can be used to circumvent the agents"
+  },
+  {
+    "title": "Anticholinergics",
+    "detail": "• Used to bock nerve impulses from reaching the vagus nerve\n• Aminopentamide slows down GI motility\n• Atropine and glycopyrrolate increase HR, dilate pupils, dry up secretions\n• Can be used alongside opioids\n• Not in case of high risk for tachycardia (often geriatric patients), history of CHF, or patients w constipation or ileus"
+  },
+  {
+    "title": "Emetics",
+    "detail": "• Work by irritating the gastric mucosa, which stimulates the CNS and causes vomiting\n• Include apomorphine and hydrogen peroxide (avoided in cats bc can cause hemorrhagic gastritis)\n• Xylazine is the most effective emetic in cats\n• Syrup of ipecac is not effective in cats; can cause cardiotoxic arrhythmias"
+  },
+  {
+    "title": "Antiemetics",
+    "detail": "• Metoclopramide and aminopentamide for GI spasms\n• Chlorpromazine, diphenhydramine, aminopentamide for motion sickness\n• Maropitant citrate (Cerenia) is a NK-1 antagonist that works by blocking substance P in the chemoreceptor trigger zone, so used most commonly for motion sickness and many other instances of vomiting"
+  },
+  {
+    "title": "Antidiarrheals",
+    "detail": "• Loperamide\n• Diphenoxylate\n• Aminopentamide\n• Bismuth\n• Kaolin\n• Pectin\n• Activated charcoal"
+  },
+  {
+    "title": "Laxatives",
+    "detail": "• Bulk laxatives use insoluble, water-absorbing fiber that moves stool along once swollen by water\n• Emollient laxatives soften stool by using a surfactant like docusate\n• May take a week to take effect\n• Include lubricants like mineral oil, white petrolatum, glycerin, cod liver oil, which ease the friction between stool and intestinal tract"
+  },
+  {
+    "title": "Cathartics",
+    "detail": "• Osmotic (saline) cathartics induce movement of water into the small intestines, thereby draining lower intestines of content\n• Hyperosmotic cathartics draw water from surrounding tissues to soften the feces; include magnesium salts and some disaccharides like lactulose (not digestible)\n• Irritant cathartics irritate the bowel, thereby increasing peristalsis; include castor oil and bisacodyl\n• Contraindicated in obstructed bowel and tenesmus"
+  },
+  {
+    "title": "Antiulcer drugs",
+    "detail": "• Antacids\n• H2-receptor blockers\n• Proton pump inhibitors\n• Cytoprotective agents"
+  },
+  {
+    "title": "Antacids",
+    "detail": "• Reduce acidity in the stomach, lessening heartburn (pyrosis)\n• Usually produce a chemical buffer that results in a rise in gastric pH measurements, leading to reflux not burning\n• Commonly contain calcium, magnesium, aluminum"
+  },
+  {
+    "title": "H2-receptor blockers",
+    "detail": "• Reduce the amount of gastric acid\n• Histamine is the most important positive regulator of secretion of gastric acid (although not the only one, so acid will still be produced); w/out histamine proton pump can’t produce acid as readily and when acid levels fall ulcers can heal\n• Include cimetidine, ranitidine, famotidine (Pepsin)"
+  },
+  {
+    "title": "Famotidine",
+    "detail": "• Pepsin\n• H2-receptor blocker, so should be administered 1 hour after sucralfate to prevent changing the acidic environment of the stomach and inhibiting its binding to ulcers"
+  },
+  {
+    "title": "Proton pump inhibitors",
+    "detail": "• Gastric hydrogen potassium ATPase enzyme is an enzyme that functions to acidify the stomach; also called stomach’s proton pump bc acid is measured by the number of protons in the stomach\n• Proton pump inhibitors denature this enzyme and stop acid production by 99%\n• Indicated for animals that don’t respond to antacids and H2-receptor blockers\n• Include omeprazole"
+  },
+  {
+    "title": "Sucralfate (Carafate)",
+    "detail": "• Creates a protective lining along the surface of where the ulcer is formed"
+  },
+  {
     "title": "Endocrine drugs",
     "detail": "• Thyroid drugs:\n\t• Hypothyroidism: Common in dogs and horses, treated w levothyroxine (T4)\n\t• Hyperthyroidism: Common in cats, treated w methimazole or radioactive iodine\n• Adrenal drugs: Manage cortisol\n\t• Hyperadrenocorticism (Cushing): In dogs and horses, treated w mitotane or trilostane\n\t• Hypoadrenocorticism (Addison): Can be spontaneous in dogs, or result from Cushing treatment, treated w fludrocortisone or prednisone+desoxycorticosterone pivalte\n• Insulin"
   },
   {
-    "title": "Diabetes",
-    "detail": "• Insulin: Hormone produced by the pancreas; responsible for cellular uptake of glucose\n• Diabetes mellitus: Disease of impaired carbohydrate, protein, and fat metabolism due to insulin deficiency or resistance; treated w diet and activity modification"
+    "title": "Production of thyroid hormones",
+    "detail": "• Hypothalamus releases thyrotropin releasing hormone (TRH)\n• TRH stimulates the pituitary to release thyroid stimulating hormone (TSH)\n• TSH stimulates the thyroid to produce T3 (triiodothyronine) and T4 (thyroxin)"
+  },
+  {
+    "title": "Symptoms of hyperthyroidism",
+    "detail": "• Mostly in felines\n• Weight loss\n• Increased appetite\n• Thirst\n• Excessive urination\n• Heart murmur and elevated HR possible"
+  },
+  {
+    "title": "Hyperthyroidism drugs",
+    "detail": "• Antithyroid agents include methimazole (Tapazole)\n• Obstruct enzymatic processes in the thyroid so T3 and T4 aren’t produced\n• Side effects include vomiting, malaise, fatigue\n• Radioactive iodine treatments\n• Thyroid is the only organ that requires iodine to function, and absorbs radioactive iodine just like normal iodine (and in larger quantities bc it’s abnormal tissue)\n• Radiation then destroys the tumor and/or reduces the number of hormone-producing cells"
+  },
+  {
+    "title": "Hypothyroidism symptoms",
+    "detail": "• Mostly in dogs; more in large dogs\n• Excessive weight gain, leading to compromised joints and compromised cardiac and respiratory status\n• Thinning and dull fur\n• Flakey skin and nails\n• Alopecia\n• Skin hyperpigmentation\n• Anemia\n• High blood cholesterol\n• Constipation\n• Poor blood clotting\n• Susceptibility to infections\n• Depression and mental dullness\n• Cold intolerance\n• Mild bradycardia"
+  },
+  {
+    "title": "Hypothyroidism drugs",
+    "detail": "• Supplemental thyroid hormones\n• Natural from pigs, or synthetic\n• T3 dosage is hard to regulate, so T4 is common (thyroid will transform some of it to T3"
+  },
+  {
+    "title": "Reproductive drugs",
+    "detail": "• Estrogen: Steroid hormones that promote female characteristics\n• Estrogen diethylstilbestrol (DES): Synthetic; prevents pregnancy by causing reabsorption of fertilized egg; may cause bone marrow suppression, pyometra\n• Estradiol cypionate (ECP): Semi-synthetic; used in hormone replacement therapy, to prevent embryo implantation w/in 72 hr of mating, and treat urinary incontinence\n• Oxytocin: Facilitates birthing by contracting uterus and milk production\n• Prostaglandin: Controls length of time that corpus luteum exists (necessary to establish and maintain pregnancy); synthetic version dinoprost accelerates birthing process\n• Progestin: Suppresses estrous—prevents start of proestrus to diminish sexual activity; include megestrol acetate"
+  },
+  {
+    "title": "Megestrol acetate",
+    "detail": "• Progestin\n• Used for behavioral problems like inappropriate urination in cats and as a contraceptive in dogs"
+  },
+  {
+    "title": "Insulin",
+    "detail": "• Polypeptide hormone secreted by beta cells found in the islet of Langerhans (pancreas)\n• Responsible for moving glucose out of the blood and into the cells for it to be used in energy production and stored for later use"
+  },
+  {
+    "title": "Diabetes mellitus",
+    "detail": "• Type 1 (insulin-dependent DM) is caused by damage to pancreatic beta cells, which result in decreased insulin production; common in dogs\n• Type 2 (non-insulin-dependent DM) is a decreased sensitivity to the amount of insulin produced; common in cats"
+  },
+  {
+    "title": "Insulin drugs",
+    "detail": "• Fast-acting insulin (Vetsulin) is given when a patient needs blood sugars decreased rapidly\n• NPH is used for daily control of insulin; classified as an intermediate-acting hormone\n• Protamine zinc insulin is a combination of insulin and protamine, which results in an extended-release product\n• Insulin facilitators are used in animals that produce some natural insulin\n• Glipizide (Glucotrol) is a sulfonylurea-based antidiabetic (for type-1 DM)"
+  },
+  {
+    "title": "Insulin syringes",
+    "detail": "• Insulin can only be given by injection\n• Syringes are designed for administration of a given solution strength\n• U-40 is used if patient needs 40 units of insulin\n• U-100 is used if patient needs 100 units of insulin\n• Wrong syringe can result in death"
+  },
+  {
+    "title": "Administering insulin",
+    "detail": "• Should always be given after food to avoid hypoglycemia and seizures\n• Should be stored in the refrigerator\n• Only Vetsulin must be shaken, others should never be shaken bc shaking will damage the proteins and render insulin useless\n• Injection sites can be rotated to prevent formation of sores and anticipation of pain"
+  },
+  {
+    "title": "Tx of diabetic ketoacidosis",
+    "detail": "• DKA occurs when ketone bodies derived from fatty acids are used as an energy source instead of glucose (when glucose can’t be moved in and out of cells), which leads to acidic blood and rising levels of ketones that may lead to toxicity\n• Fruity smelling breath is a sign\n• IV fluids and insulin therapy necessary"
+  },
+  {
+    "title": "Immunosuppressants",
+    "detail": "• Used to diminish effects of an overactive immune system (e.g. due to autoimmune diseases) and to help body accept organ donation\n• Autoimmune diseases include IMHA, autoimmune thyroiditis, autoimmune adrenalitis, myasthenia gravis, skin autoimmune diseases"
+  },
+  {
+    "title": "Immunosuppressant drugs",
+    "detail": "• Glucocorticoids (prednisone)\n• Azathioprine\n• Cyclosporine\n• Mycophenolate mofetil\n• Leflunomide\n• Cyclophosphamide"
+  },
+  {
+    "title": "Immunostimulants",
+    "detail": "• Used to increase immune responses against viruses and cancer cells\n• Diseases most commonly treated w immunostimulants are feline leukemia virus, feline immunodeficiency virus, and canine lymphoma"
+  },
+  {
+    "title": "Immunostimulant drugs",
+    "detail": "• CL/Mab 321: Canine lymphoma monoclonal antibodies\n• Acemannan (Immunoregulin): For treatment of FIV, FLV, and some cancers"
   },
   {
     "title": "GI Drugs",
@@ -97,15 +349,35 @@
   },
   {
     "title": "Cardiovascular drugs",
-    "detail": "• Diuretics: Reduce fluid accumulation (edema) by increasing sodium and water excretion (furosemide, spironolactone)\n• Inotropic agents (+ive intotropes): Improve contractility of heart muscle (pimobendan (also vasodilator), digoxine)\n• Antihypertensives: Modulate BP by dilating blood vessels (ACE inhibitors (enalapril), calcium channel blockers, etc.)\n• Antiarrhythmics: Control rhythm abnormalities; I-IV (I: blockade of fast sodium channels-lidocaine; 2: beta-adrenergic blockade-propranolol, atenolol; 3: potassium channel blockers-sotalol; 4: calcium channel blockade-diltiazem)\n+ Anticoagulants: Heparin, aspirin (slow metabolism in cats), clopidogrel"
+    "detail": "• Diuretics: Reduce fluid accumulation (edema) by increasing sodium and water excretion (furosemide, spironolactone)\n• Inotropic agents (+ive intotropes): Improve contractility of heart muscle (pimobendan (also vasodilator), digoxine)\n• Antihypertensives: Modulate BP by dilating blood vessels (ACE inhibitors (enalapril), calcium channel blockers, etc.)\n• Antiarrhythmics: Control rhythm abnormalities; I-IV (I: blockade of fast sodium channels-lidocaine; 2: beta-adrenergic blockade-propranolol, atenolol; 3: potassium channel blockers-sotalol; 4: calcium channel blockade-diltiazem)\n• + Anticoagulants: Heparin, aspirin (slow metabolism in cats), clopidogrel"
+  },
+  {
+    "title": "Diuretics",
+    "detail": "• Remove excess extracellular fluid by increasing urine flow and sodium secretion and by reducing hypertension\n• Loop diuretics work fast—inhibit tubular reabsorption of sodium and promote excretion of chloride, potassium and water; used to treat CHF, pulmonary edema, udder edema (e.g. Furosemide (Lasix))\n• Osmotic diuretics exert high osmotic pressure in tubules thus limiting tubular absorption; used to treat oliguric acute renal failure and reduce intracranial pressure (e.g. Mannitol (Osmitrol))\n• Thiazide diuretics inhibit reabsorption of sodium, chloride, and water; ued to treat hypertension and nephrogonic diabetes in dogs (e.g. hydrochlorothiazide (HydroDIURIL))\n• Ppotassium-sparing diuretics are weaker; aka aldosterone antagonists, which allows them to excrete water and sodium and reduce excretion of potassium; used in CHF, hypertension, etc. (e.g. Spirolactone (Aldactone))"
   },
   {
     "title": "Respiratory drugs",
-    "detail": "• Antitussives: butorphanol, hydrocodone, dextromethorphan\n• Expectorants: guaifenesin\n• Mucolytics: acetylcysteine\n• Decongestants: pseudoephedrine\n• Bronchodilators: albuterol, aminophylline, diphenhydramine\n• Respiratory stimulants: doxampram"
+    "detail": "• Antitussives: butorphanol, hydrocodone, dextromethorphan\n• Expectorants: guaifenesin\n• Mucolytics: acetylcysteine\n• Decongestants: pseudoephedrine\n• Bronchodilators: albuterol, aminophylline, diphenhydramine; terbutaline, metaproterenol\n• Respiratory stimulants: doxampram"
+  },
+  {
+    "title": "Respiratory agents",
+    "detail": "• Antihistamines to limit histamine’s effect on respiration\n• Corticosteroids in case of severe lung inflammation\n• Diuretics in case of excess fluid in the lungs\n• Supplemental oxygen if breathing is compromised\n• Stimulants (Doxapram) to increase respiratory function"
+  },
+  {
+    "title": "Cough medications",
+    "detail": "• Antitussives: Used to reduce cough reflex in case of dry cough; contraindicated in productive coughs; include codeine\n• Also used to treat kennel cough (tracheobronchitis)\n• Include butorphanol, dextromethorphan, hydrocodone\n• Expectorants: Aids in clearing congestion in productive cough by increasing fluidity of mucus so it can be expelled\n• Mucolytics: Reduce the viscosity of mucus and improve airflow (e.g. acetylcysteine)"
+  },
+  {
+    "title": "Bronchodilators",
+    "detail": "• Stimulate beta-2 receptors in the lung, leading to the relaxation of the smooth muscle in the bronchiole, which results in better airflow\n• Include albuterol, terbutaline, aminophylline, theophylline"
+  },
+  {
+    "title": "Beta-receptor agonists",
+    "detail": "• Cause relaxation of smooth muscle, leading to bronchodilation\n• Decrease histamine release through stabilization of the mast cell\n• Albuterol is an example"
   },
   {
     "title": "Anticonvulsants",
-    "detail": "• Most common for long-term control of epileptic seizures are phenobarbital (first-line), potassium bromide (added if first-line not sufficient, but not in cats), and levetiracetam; all work by influencing NT release and decreasing seizure-related neuronal activity\n• Status epilepticus and cluster seizures require immediate treatment—IV diazepam (a benzo tranq) is used to stop seizure"
+    "detail": "• Most common for long-term control of epileptic seizures are phenobarbital (first-line), potassium bromide (added if first-line not sufficient, but not in cats), and levetiracetam; all work by influencing NT release and decreasing seizure-related neuronal activity\n• Status epilepticus and cluster seizures require immediate treatment—IV diazepam (a benzo tranq) is used to stop seizure; can also be administered rectally and nasally at home"
   },
   {
     "title": "Immunosuppressants",
@@ -116,8 +388,188 @@
     "detail": "• Glucocorticoids: cortisone, hydrocortisone, prednisone, etc.\n• NSAIDs: carprofen, robenacoxib, meloxicam, etc.\n• Using glucorticoids w NSAIDs is contraindicated due to GI risks (bleeding, ulceration, perforation)"
   },
   {
+    "title": "Glucocorticoids",
+    "detail": "• Cause immunosuppression\n• Commonly used to treat immune-mediated diseases in which the immune system attacks cells of the body\n• Can be used to treat inflammation in musculoskeletal problems\n• Can be used to shrink tumors\n• Allergies will also respond to glucocorticoids\n• Should not be used to treat infections due to immunosuppressant properties\n• Might induce hyperadrenocorticism unless treatment includes destruction of the adrenal gland, at which point glucocorticoids are used as supplementation to replace what the adrenal gland would have produced"
+  },
+  {
     "title": "Dietary supplements and nutraceuticals",
     "detail": "• Nutraceutical: Nondrug substance produced in purified or extracted form and administered orally\n• Include S-adenosylmethionine, milk thistle, glucosamine, chondroitin"
+  },
+  {
+    "title": "Keratoconjunctivitis sicca",
+    "detail": "• Inability to produce sufficient amount of tears\n• Tx w cyclosporine, which reduces inflammatory cells and increases number of mucin-secreting goblet cells"
+  },
+  {
+    "title": "Mydriatic and miotic agents",
+    "detail": "• Mydriatic (pupil dilating) agents\n• Tropicamide\n• Miotic (pupil constricting) agents\n• Pilocarpine and carbachol (given to glaucoma patients to transiently decrease intraocular pressure)"
+  },
+  {
+    "title": "Chelation therapy",
+    "detail": "• Tx of heavy metal toxicity from lead, mercury, arsenic\n• Incorporates binding (chelating) agents that bond w the metals so they can be discharged in urine\n• Include calcium EDTA, succimer, dimercaprol, penicillamine\n• Succimer can cross the blood-brain barrier, so able to bind to poison in the brain"
+  },
+  {
+    "title": "Acetylcysteine",
+    "detail": "• Used to treat acetaminophen overdose\n• Stimulates the production of glutathione and bind w NAPQI (the byproduct of acetaminophen metabolism), reducing toxic effects"
+  },
+  {
+    "title": "Atropine",
+    "detail": "• Used to treat organophosphate poisoning (found in insecticides)\n• Organophosphates interfere w breakdown of acetylcholine at cholinergic sites, causing muscarinic (salivation, lacrimation, urination, defecation, bradycardia, vomiting), nicotinic (weakness, paresis, stiffness, muscle tetany), and CNS signs (anxiety, hyperactivity, seizures, coma)\n• Atropine addresses muscarinic and some CNS signs, not nicotine signs\n• Atropine is an anticholinergic antidote—lowers secretions caused by the poisoning, expands airways that are constricted from its spasmodic effects\n• Cats are particularly susceptible to organophosphate poisoning\n• Can cause drooling, V/D, difficulty breathing due to spasms (laryngospasm, bronchospasm), tremors, muscle twitching, death"
+  },
+  {
+    "title": "Ethylene glycol poisoning",
+    "detail": "• Ethylene glycol is antifreeze\n• Signs include staggering, rapid pulse, abnormal behaviors, followed by vomiting, respiratory distress, agitation, seizures, acute renal failure, coma\n• Tx w ethanol (drinking alcohol) and 4-methylpyrazole (Antizol-Vet) w/in 8 hours for best chance of survival"
+  },
+  {
+    "title": "Rodenticide toxicity",
+    "detail": "• Rodenticides, like Warfarin, work by preventing recycling of vitamin K, which is used in the production of clotting factors II, VII, IX, and X\n• Tx w vitamin K supplementation\n• Should be continued until effects of rodenticide wear off"
+  },
+  {
+    "title": "Drugs for joint health in dogs",
+    "detail": "• Glucosamine: Produces glycosaminoglycan, which forms and repairs cartilage; supplements help replenish as it decreases w age\n• Chondroitin: Main glycosaminoglycan; responsible for shock absorption and joint tissue health by providing elasticity and water retention in the cartilage; normally used in conjunction w glucosamine\n• Chondroitin blocks the enzymes that try to destroy cartilage in the joints, glucosamine works to repair them"
+  },
+  {
+    "title": "Antineoplastic agents (cytotoxic chemotherapy drugs)",
+    "detail": "• Work by seeking out any cell (healthy or neoplastic) that can multiply rapidly\n• Starting dose based on blood volume, which is close to body surface in sq meters\n• Classified as\n• Alkylating agents\n• Antimetabolites\n• Plant alkaloids\n• Antibiotics\n• Hormonal agents"
+  },
+  {
+    "title": "Alkylating agents",
+    "detail": "• Formed by an alkyl group and carbon-hydrogen compounds\n• Can hinder growth by preventing DNA replication necessary for growth or by causing mispairing of nucleotides\n• Include cisplatin (not for cats), carboplatin, chlorambucil, cyclophosphamide"
+  },
+  {
+    "title": "Prodrugs",
+    "detail": "• Drugs that are inactive in their administered form\n• Need to be altered in a way to become active—byproducts of the drug’s biotransformation are the active form\n• Allows to increase bioavailability (usually improved GI absorption) and target specific cells (e.g. only a property unique to cancer cells activate it)\n• Cyclophosphamide is an example—must be changed by the liver to activate the drug’s alkylating agents\n• Enalapril becomes the active form enalaprilat\n• Benazepril becomes the active form benazeprilat"
+  },
+  {
+    "title": "Antimetabolites",
+    "detail": "• Interrupts normal metabolic processes like cell growth\n• Analogs of purine and pyrimidine take the place of real ones, which are organic nucleotides necessary to sustain cell division, resulting in failure to replicate\n• Include hydroxyurea (bone marrow or lymph node cancers), cytarabine (leukemia), methotrexate (breast, head, neck, lung, bone, blood cancers), 5-fluoroucil (bowel, breast, stomach, esophageal cancers; not for cats)\n• Can lead to bone marrow suppression"
+  },
+  {
+    "title": "Plant alkaloids",
+    "detail": "• Mitotic inhibitors (Vinca alkaloids) stop cellular mitosis\n• Not target-cell specific\n• Can be toxic—GI disturbances, bone marrow suppression, alopecia"
+  },
+  {
+    "title": "Antineoplastic antibiotics",
+    "detail": "• Actinomycin D, mitoxantrone, doxorubicin, bleomycin—all created from Streptomyces"
+  },
+  {
+    "title": "Antineoplastic hormonal agents",
+    "detail": "• Glucocorticosteroids (prednisone, dexamethasone)\n• Signs of toxicity include PU/PD, immunosuppression, glucose intolerance, peptic ulcers, pancreatitis, hypokalemia, osteopenia, muscle wasting, cataracts"
+  },
+  {
+    "title": "Safety data sheet",
+    "detail": "• Safety, handling, clean-up, and disposal criteria for every drug used in the clinic"
+  },
+  {
+    "title": "Controlled substances",
+    "detail": "• Prescription drugs with potential for addiction and abuse by humans\n• Five schedules based on potential for abuse\n\t• I: High abuse potential, not used in vet med (heroine, LSD)\n\t• II:  High abuse potential, physical/psychic dependence (morphine, codeine, methadone, fentanyl, pentobarbital)\n\t• III:  Moderate abuse potential, more psychological dependence (buprenorphine, ketamine, tiletamine)\n\t• IV: Low abuse potential (phenobarbital, butorphanol, alfaxalone, diazepam)\n• V:  Low abuse potential, no DEA limit on prescriptions (antitussives (codeine))"
+  },
+  {
+    "title": "Controlled substances log",
+    "detail": "• Shows the balance on hand of each controlled substance\n• Must be kept for 2 years\n• Must include:\n• Patient name\n• Client name\n• Date\n• Drug name\n• Drug amount used\n• For injectables, the actual amount administered as well as the drawn-up amount\n• Inventory must be checked regularly to make sure it matches the log"
+  },
+  {
+    "title": "Vaccine storage",
+    "detail": "• Refrigerated at 35 – 45 F\n• Dedicated refrigerator\n• Modified live vaccines are heat sensitive\n• Adjuvanted vaccines are sensitive to freezing—adjuvant and antigen will separate and form a precipitate that can cause inflammation at the admin site\n• When drawn up, must be administered w/in 30 min"
+  },
+  {
+    "title": "Veterinarian-client-patient relationship (VCPR)",
+    "detail": "• Must be established before prescription of drugs\n\t• Veterinarian has assumed responsibility for making medical judgments and client has agreed to follow his instructions\n\t• Veterinarian has sufficient knowledge of the animal to make a preliminary diagnosis\n\t• Veterinarian is available for follow-up in case of adverse reactions\n\t• Veterinarian provides oversight of treatment, compliance, and outcome\n• Patient records are maintained"
+  },
+  {
+    "title": "Prescription labels (information of labels for drugs dispensed to clients)",
+    "detail": "• Name, address, phone number of dispensing clinic/pharmacy\n• Name of prescribing veterinarian\n• Client’s name\n• Pet’s identifying information (name and species)\n• Date dispensed\n• Directions for use\n• Drug name, concentration, quantity\n• Following statement for controlled drugs: “Fed. law prohibits transfer of this drug to any person other than the patient…”\n• Must be provided in a child-resistant container"
+  },
+  {
+    "title": "Elements of a prescription (required by law)",
+    "detail": "• Vet’s name, address, phone number\n• Vet’s DEA registration number\n• Vet’s signature\n• Drug name, concentration, quantity\n• Directions for use\n• Client’s name and address\n• Pet’s identify information (name and species)\n• Any cautionary statements\n• Number of refills (not allowed for Schedule II, limited to 5 times or 6 months (whichever comes first) for Schedule III and IV)\n• For controlled drugs, vet’s name must be printed"
+  },
+  {
+    "title": "Drug disposal",
+    "detail": "• Controlled substances that have expired or been damaged are disposed thru reverse distributors authorized to dispose them"
+  },
+  {
+    "title": "Crash cart",
+    "detail": "• Catheters, tape, syringes, needles, fluid bag, Ambu-bag, and emergency drugs and dosage chart should be available\n• Emergency drugs include epinephrine, atropine, naloxone, lidocaine, doxapram\n• Epinephrine for anaphylaxis and stimulating the heart during CPR\n• Atropine for bradycardia and possibly CPR\n• Lidocaine for cardiac arrhythmias\n• Doxapram for stimulating breathing"
+  },
+  {
+    "title": "Dosage",
+    "detail": "• Amount of drug per kg body weight (mg/kg, mL/kg, tablets/kg)"
+  },
+  {
+    "title": "Dose",
+    "detail": "• Amount of drug that will be given with each administration (mg, mL, units [U])\nDose (mg) = Weight (kg) x Dosage (mg/kg)\n• Dose (mL) = Dose (mg) ÷ Concentration (mg/mL)"
+  },
+  {
+    "title": "Syrup",
+    "detail": "• Drug dissolved in liquid sugar"
+  },
+  {
+    "title": "Emulsion",
+    "detail": "• Suspension made w oil or fat"
+  },
+  {
+    "title": "Elixir Tincture",
+    "detail": "• Alcohol-based solutions"
+  },
+  {
+    "title": "Dilution vs. solution",
+    "detail": "• Dilution: Occurs when ratio of substance to dilutant is decreased when dilutant is added to the solution; reduction of concentration occurs\n• Solution: Mixture of substances made by dissolving solids or liquids in liquids; does not precipitate"
+  },
+  {
+    "title": "Concentration of a solution",
+    "detail": "• Amount of solute dissolved in the solvent\n• Expressed as v/v (liquids), w/v, or w/w (solids).\n• Concentration (w/vol) of 1:100 = 1 g / 100 mL = 1% = 10 mg/mL"
+  },
+  {
+    "title": "Strength of a solution",
+    "detail": "• Strength of a solution (w/v) = Concentration (g/mL) =\nmass (g) ÷ volume (mL)\n(multiply by 100 to find percent solution)"
+  },
+  {
+    "title": "Stock solution",
+    "detail": "• Product of combining pure solution (100%) w a solvent thru dilution—solvent is mixed in to reduce the concentration of the solution\nC2 x V2 = C1 x V1\nEx. Prepare 2 L of a 25% solution given a 50% solution and saline\nC2 = Concentration of desired solution = 25%\nV2 = Volume of desired solution = 2 L\nC1 = Concentration of stock solution = 50%\nV1 = ?"
+  },
+  {
+    "title": "Drip rates",
+    "detail": "Drip Rate = Volume of solution (mL) x Drops (ggt)/mL\nTime (seconds)\nEx. 1 L is to be administered over 4 hours using a 20-dr/mL set\nVolume of solution = Amount to be administered = 1000 mL\nDrops/mL = 20\nTime = 4 x 60\nDrip Rate = 1000 x 20 / 240"
+  },
+  {
+    "title": "Drop factor",
+    "detail": "• Number of drops per cc or mL of fluid\n• Dependent on the diameter of IV tubing\n• Common factors are 15 ggt/mL and 10 ggt/mL (macro drips), and 60 gtt/mL (micro drip)\n• gtt: guttae"
+  },
+  {
+    "title": "Fluid rate",
+    "detail": "• Determined based on percent dehydration (fluid deficit), ongoing losses, and maintenance requirement\n= %dehydration x weight in kg\n+\nvol of losses (estimated or actual)\n+\n40-60 mL x weight in kg"
+  },
+  {
+    "title": "CRI",
+    "detail": "• Used to administer IV drugs over long periods of time or when the drug has a short half-life\n• Added to a base solution; often IV fluids\nM = (D x W x V) ÷ R\nM = Amount of drug (mcg or mg) to be added to base solution\nD = Dosage (mcg/kg/min or mg/kg/min)\nW = weight (kg)\nV = Volume of base solution (mL)\nR = Infusion rate (mL/min"
+  },
+  {
+    "title": "",
+    "detail": "• F = C x 9/5 + 32"
+  },
+  {
+    "title": "Factors affecting drug absorption",
+    "detail": "• Solubility of the drug\n• Ionization tendency of the drug (pKa)\n• pH of tissues\n• Perfusion of tissues\n• Volume of distribution (Vd)\n• First pass effect"
+  },
+  {
+    "title": "Systemic drug absorption",
+    "detail": "• Any medication given IV, IM, or SQ will be absorbed systemically\n• Sucralfate is not absorbed systemically; it coats the esophagus and stomach and is not absorbed into the blood"
+  },
+  {
+    "title": "First-pass effect",
+    "detail": "• Portion of a drug that is lost during the process of absorption, which typically happens in the intestinal wall and liver\n• May cause large portions of drug to be readily metabolized before entering general circulation, necessitating a higher dose to be effective\n• Injections used to by-pass this effect"
+  },
+  {
+    "title": "Considerations for drug administration",
+    "detail": "• Vomiting patients should not be administered PO\n• Catheter should be placed w a clean stick to administer chemotherapeutics, and a different vein should be used if a vein is blown (instead of going higher up) to avoid risk of extravasation of the drug"
+  },
+  {
+    "title": "Bioavailability",
+    "detail": "• Fraction of a drug dose that reaches the bloodstream\n• Drugs administered IV are 100% bioavailable (i.e., bioavailability of 1)\n• Bioavailability is influenced by dosage form of the drug, vascularity of administration site, mechanism of absorption, and metabolism of the drug\n• Bioavailability of same drug can change with route—butorphanol is 100% bioavailable IV but 20% bioavailable PO\n• Drugs of plant origin (digoxin, atropine) are ineffective in cattle when administered orally because digestive microorganisms in the rumen, which will limit bioavailability"
+  },
+  {
+    "title": "Five rights of drug administration",
+    "detail": "• Right to be the proper recipient (not to administer the drug to wrong patient)\n• Right to receive proper medication (not to administer the wrong drug to the right patient)\n• Right to receive proper dosage\n• Right to receive drug via the proper route\n• Right to receive medication on time"
   },
   {
     "title": "Extra-label use",
@@ -128,35 +580,83 @@
     "detail": "• Manipulation of a drug other than as described on the label\n• Classified as extra-label use\n• Cannot be done from bulk chemicals (raw ingredients) or to produce a new drug\n• Typically not legal to dispense compounded medications to be taken home by the client"
   },
   {
-    "title": "Elements of a prescription (required by law)",
-    "detail": "• Vet’s name, address, phone number\n• Vet’s DEA registration number\n• Vet’s signature\n• Drug name, concentration, quantity\n• Directions for use\n• Client’s name and address\n• Pet’s identify information (name and species)\n• Any cautionary statements\n• Number of refills (not allowed for Schedule II, limited to 5 times or 6 months (whichever comes first) for Schedule III and IV)\n• For controlled drugs, vet’s name must be printed"
+    "title": "Elimination of drugs",
+    "detail": "• Liver is the primary organ\n• Uses enzymes to change or break down the drug, which is then called a metabolite\n• Disposal thru urine, feces, sweat"
   },
   {
-    "title": "Information on labels for drug dispensed to owners",
-    "detail": "• Name, address, phone number of dispensing clinic/pharmacy\n• Name of prescribing veterinarian\n• Client’s name\n• Pet’s identifying information (name and species)\n• Date dispensed\n• Directions for use\n• Drug name, concentration, quantity\n• Following statement for controlled drugs: “Fed. law prohibits transfer of this drug to any person other than the patient…”\nMust be provided in a child-resistant container"
+    "title": "Bound and unbound drugs",
+    "detail": "• Portion of the drug is bound to proteins in the blood, mostly albumin\n• Bound portions are too large to move through fenestrations and into tissues, so only unbound portions will be distributed\n• Important when highly protein-bound drugs are administered to patients with hypoproteinemia since less protein will mean more of the drug will be distributed, making side effects more likely"
   },
   {
-    "title": "",
-    "detail": "F = C x 9/5 + 32"
+    "title": "Drug clearance (Cl)",
+    "detail": "• A pharmacokinetic value describing drug elimination\n• Rate at which a drug is removed from an organ or the body\n• Expressed as volume of plasma cleared of drug per unit time (mL/minute)\n• Used to measure efficiency of elimination and determine dosage regimen necessary to achieve a stable concentration in the blood (i.e., steady state—amount of drug administered equals amount of drug eliminated)"
   },
   {
-    "title": "Solution vs. Dilution",
-    "detail": "• Solution: Mixture of substances made by dissolving solids or liquids in liquids\n• Dilution: Reduction of a concentration of a substance\n• Concentration of the substance is the amount of solute dissolved in the solvent. Concentration can be expressed as v/v (liquids), w/v, or w/w (solids).\n• Strength of a solution (w/v) = Concentration (g/mL) = mass (g) ÷ volume (mL)\n(multiple by 100 to find percent solution)\n• Concentration (w/v) of 1:100 = 1 g / 100 mL = 1% = 10 mg/mL"
+    "title": "Half-life (t1/2)",
+    "detail": "• Time required for the amount of a drug in the body to decrease by 50%\n• Each half-life lowers drug concentration by half of the level it was at the beginning of that half-life\n• Estimates the duration of a drug’s effect, so used to estimate dosing interval\n• Also used to establish withdrawal time in food-producing animals (i.e., period when food products contain unacceptable amounts of the drug—may cause allergies, antibiotic resistance)\n• Time needed to reach steady state, or time required for 97% of the drug to be removed, is approximately 5x the half-life"
   },
   {
-    "title": "Pure vs. Stock solution",
-    "detail": "• Pure solution (w/v) is 100%, or 100 g in 100 mL\n• Stock solution (v/v) is a diluted pure solution (can be diluted w solvent to make weaker solution, but making it stronger requires making new solution or adding pure solution\nC2 x V2 = C1 x V1\nEx. Prepare 2 L of a 25% solution given a 50% solution and saline.\nC2 = Concentration of desired solution = 25%\nV2 = Volume of desired solution = 2 L\nC1 = Concentration of stock solution = 50%\nV1 = ?"
+    "title": "Nervous system receptors",
+    "detail": "• Sympathetic (adrenergic) system receptors:\n• Alpha receptors are stimulatory\n• Beta receptors are inhibitory\n• Parasympathetic (cholinergic) system receptors:\n• Nicotinic receptors are found at the neuromuscular junction of skeletal muscles and at the ganglionic synapses; activated by acetylcholine and nicotine\n• Muscarinic receptors are found in the glands, heart, smooth muscle; activated by acetylcholine and muscarine"
   },
   {
-    "title": "ppm",
-    "detail": "• Parts per million\n• Number of parts of solute contained in 1 million parts of solution\n• 1 part per million is 1 g in 1,000,000 mL (1 part/106)\nEx. What is the ppm for a 0.6% solution?\n0.6 g in 100 mL = x in 1,000,000 mL\nx = 6000 ppm"
+    "title": "SLUD",
+    "detail": "• Muscarine effects—salivation, lacrimation, urination, defecation"
   },
   {
-    "title": "Drip rates",
-    "detail": "Drip Rate = Volume of solution (mL) x Drops (ggt)/mL\nTime (seconds)\nEx. 1 L is to be administered over 4 hours using a 20-dr/mL set.\nVolume of solution = Amount to be administered = 1000 mL\nDrops/mL = 20\nTime = 4 x 60\nDrip Rate = 1000 x 20 / 240\n+ Macrodrip 10 or 15; Microdrip 60"
+    "title": "Transporting molecules",
+    "detail": "• Pinocytosis: Cell drinking (active)\n• Phagocytosis: Cell eating (active)\n• Facilitated transport: Active transport w a carrier protein\n• Passive transport: Molecules freely crossing the cell membrane"
   },
   {
-    "title": "CRI",
-    "detail": "• Used to administer IV drugs over long periods of time or when the drug has a short half-life\n• Added to a base solution; often IV fluids\nM = (D x W x V) ÷ R\nM = Amount of drug (mcg or mg) to be added to base solution\nD = Dosage (mcg/kg/min or mg/kg/min)\nW = weight (kg)\nV = Volume of base solution (mL)\nR = Infusion rate (mL/min"
+    "title": "Nitrous oxide",
+    "detail": "• Diffuses into the alveoli and take the place of oxygen if used as an anesthetic\n• Patient should be maintained on 100% oxygen for 5–10 min after gas is shut off to allow time for nitrous oxide to leave the alveoli and oxygen to take its place to avoid diffusion hypoxia"
+  },
+  {
+    "title": "Halothane",
+    "detail": "• Risk of malignant hyperthermia"
+  },
+  {
+    "title": "Corticosteroid",
+    "detail": "• Corticosteroids have short-term side effects like polyuria, polyphagia, and immunosuppression, which can cause delayed healing\n• Long-term effects include osteoporosis\n• Corticosteroids mimic elevated cortisol levels in mares and cows, which are found at the beginning of parturition, leading to abortions if given during last weeks of gestation\n• Include dexamethasone"
+  },
+  {
+    "title": "Griseofulvin",
+    "detail": "• Fungistatic antibiotic\n• Used to treat dermatophyte fungal infections in dogs and cats, and ringworm in horses"
+  },
+  {
+    "title": "Clavamox",
+    "detail": "• Amoxicillin combined w clavulanic acid (combination is called a potentiated aminopenicillin)\n• Antibiotic to which beta-lactamase–producing bacteria are not resistant\n• Used to treat UTIs, skin and soft tissue infections in cats and dogs; canine periodontal disease, bacterial cystitis in female dogs, and hepatobiliary infections in cats and dogs"
+  },
+  {
+    "title": "Tramadol",
+    "detail": "• Mu-receptor opiate-like agonist\n• Inhibits reuptake of norepinephrine and serotonin\n• Schedule IV drug, more recently became controlled (2014)\n• Used as an alternative analgesic or adjunct for post-op or chronic pain in dogs and horses\n• May cause anxiety, tremors, V/D, sedation"
+  },
+  {
+    "title": "Blood-xxx barrier",
+    "detail": "• Brain\n• Prostate\n• Testicle\n• Eye\n• Joint\n• Placenta"
+  },
+  {
+    "title": "Induction in horses",
+    "detail": "• Detomidine, diazepam, and xylazine are commonly used\n• Acepromazine causes persistent paraphimosis, increasing risk of injury"
+  },
+  {
+    "title": "Cyclooxygenase (COX)",
+    "detail": "• Enzyme that synthesizes prostaglandin, which regulates inflammation, pain, blood clotting, and smooth muscle contraction to promote healing and homeostasis\n• COX-1 maintains physiologic functions like modulation of renal blood flow, platelet function, and gastric mucosal integrity\n• COX-2 is the induced form that is associated w tissue trauma and inflammation, as well as thermoregulation"
+  },
+  {
+    "title": "Dimethyl sulfoxide (DMSO)",
+    "detail": "• Solvent added to topical medications to allow penetration of the skin (carrier of drugs)\n• Causes vasodilation when applied topically\n• Also used to reduce acute swelling from trauma, and as an anti-inflammatory in otic preparations\n• Gloves should be worn to prevent penetration of the skin of the person applying the medication"
+  },
+  {
+    "title": "Methionine",
+    "detail": "• Urinary acifier\n• Decreases urine pH, making it more acidic, leading to dissolving of any struvite stones present and prevention of formation of new stones\n• Not used as much since acidifying diets"
+  },
+  {
+    "title": "Penicillin",
+    "detail": "• Bactericidal\n• Most gram-positive, some gram-negative bacteria\n• Has a beta-lactam ring that can be degraded by the beta lactamases, rendering it ineffective\n• Methicillin, cloxacillin, dicloxacillin, oxacillin are beta-lactamase-resistant\n• Doesn’t become available in cerebrospinal fluid, joints, and milk\n• Penicillin G is inactivated by stomach, so not given PO\n• Kills normal GI flora and allows overgrowth of Clostridium, which causes severe, life-threatening diarrhea in rabbits and guinea pigs"
+  },
+  {
+    "title": "Side effects of sulfonamides",
+    "detail": "• Crystal formation in kidneys leading to hematuria\n• Decreased tear production causing keratoconjunctivitis sicca (KCS)\n• Allergic reactions, especially in Doberman pinschers\n• Development of thrombocytopenia and leukopenia\n• So not commonly used"
   }
 ]

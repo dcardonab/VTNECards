@@ -88,6 +88,14 @@
     "detail": "• Arteries (arterial vessels): Carry blood away from the heart; oxygenated blood except for pulmonary artery; thicker/stronger than veins and with more pressure; aorta is the main, leaving the heart at the left ventricle, subclavian artery is a branch of the aorta that supplies blood to the cranial portion of the body into the forelimbs, carotid artery is the branch traveling up the neck, celiac artery supplies the stomach\n• Arterioles: Small arteries that lead to capillaries\n• Capillaries (smallest arteries): Site of carbon-dioxide/oxygen exchange; microscopic diameter w one layer of endothelium; porous so substances can move freely bw extracellular fluid and blood\n• Venules (smallest veins): Emerge from capillaries and enlarge into veins\n• Veins (venous vessels): Carry blood back to the heart; carry deoxygenated blood other than the pulmonary vein; larger than arteries w thinner walls and lower pressure; backflow is prevented by valves; largest two are the vena cavas"
   },
   {
+    "title": "Anterior (cranial) vena cava",
+    "detail": "• The major vein returning deoxygenated blood from the head, neck, forelimbs, and front chest to the heart's right atrium\n• Formed by the brachiocephalic veins"
+  },
+  {
+    "title": "Posterior (caudal) vena cava",
+    "detail": "• The major vein returning deoxygenated blood from the hindquarters and abdomen to the heart\n• Crucial for assessing hydration, cardiac function, and diagnosing issues like thrombi (clots) or congenital anomalies"
+  },
+  {
     "title": "Hepatic portal vein",
     "detail": "• The vein that drains blood from the stomach, intestine, and pancreas and flows directly to the liver\n• Takes blood straight from the digestive tract to the liver so that the product of digestion can be processed immediately\n• Liver also receives blood from the hepatic artery (branch of celiac artery)\n• Both veins go into the liver at the “triads”"
   },
@@ -194,6 +202,10 @@
   {
     "title": "Hilum",
     "detail": "• Indented area on the medial side of the kidney\n• Where blood vessels, nerves, and ureter enter and leave the kidney\n• The renal artery branches off the abdominal aorta and enters the kidney at the hilum\n• The renal vein leaves the hilum of the kidney to enter the vena cava"
+  },
+  {
+    "title": "Muscles",
+    "detail": "• Fixators: Muscles that provide support to joints\n• Agonist: Muscle that is the primary producer of a movement\n• Synergist: Muscle that assists the agonist in movement\n• Adductor: Muscle that draws the body part toward the median line\n• Abductor: Muscle that moves the body part away from the median line"
   },
   {
     "title": "Muscles moving the mouth",
@@ -309,7 +321,11 @@
   },
   {
     "title": "Visceral vs. parietal",
-    "detail": "• Visceral describes the serous membrane that covers all the organs within the cavity (i.e. visceral pleura overlays organs in the body)\n• Parietal describes the serous membrane that lines the boundaries or sides of the cavities"
+    "detail": "• Visceral describes the serous membrane that covers all the organs within the cavity (e.g. visceral pleura covers the lungs)\n• Parietal describes the serous membrane that lines the boundaries or sides of the cavities (e.g. parietal pleura is attached to the inner wall of the thorax)"
+  },
+  {
+    "title": "Pleural space",
+    "detail": "• Space between visceral and parietal pleura"
   },
   {
     "title": "Synthesis reaction",
@@ -648,6 +664,10 @@
     "detail": "• Make up the interior of the eyeball\n• Aqueous compartment is in front of the lens and ciliary body and contains the clear, watery fluid aqueous humor\n• Vitreous compartment in behind the lens and ciliary body and contains the clear, soft gelatin-like fluid vitreous humor\n• Basic mechanism of glaucoma is production of aqueous fluid faster than it is drained, usually due to insufficient drainage (as opposed to overproduction) which leads to intraocular pressure in the anterior chamber of the eye"
   },
   {
+    "title": "Ocular pressure",
+    "detail": "• Normal ocular pressure in cats and dogs is 15 – 25 mmHg\n• Ocular pressure below 10 mmHg indicates uveitis\n• Ocular pressure above 25 mmHg indicates glaucoma\n• At 80 mmHg, emergency intervention would be necessary—pain management, risk of vision loss, eye rupture"
+  },
+  {
     "title": "Monocular vs. Binocular vision",
     "detail": "• Depends on the location of the eyes\n• Monocular vision field: Lateral visual field of each eye; no input from the other eye\n• Herbivores have lateral orbits, meaning small frontal binocular field and two large lateral fields; helps to see predators\n• Horses and cattle have 280° monocular vision; only have blind areas right in front of the nose and directly behind\n• Binocular vision field: Frontal part of the visual field covered by both eyes; required for depth perception\n• Species with front-facing eyes have a large binocular visual field\n• Depth is important for predator species, larger blind spot is less of a concern (dogs, cats, raptors)"
   },
@@ -700,6 +720,10 @@
     "detail": "• Copulation: Natural act of reproduction\n• Artificial insemination: Injection of semen into the vagina or uterus by the use of a syringe\n• In vivo fertilization: Fertilization occurs naturally within the body; includes injection of the sperm and ovum into the uterus\n• In vitro fertilization: Injection of an embryo into the uterus"
   },
   {
+    "title": "Semen collection",
+    "detail": "• First (pre-sperm) fraction comes out before ejaculation of sperm; contains a thing fluid that cleanses the urethra\n• Second fraction is sperm-rich and milky; contains spermatozoa\n• Third (gel) fraction helps flush out remaining sperm in the urethra; gelatinous"
+  },
+  {
     "title": "Intestines",
     "detail": "Small intestine: Major site of digestion and absorption; produces digestive enzymes; divided into 3 regions: duodenum, jejunum, ileum\n• Duodenum is the shortest segment; gallbladder and pancreas attach to it (digestive enzymes produced by the pancreas and liver pass through the pancreas to mix w food in the duodenum)\n• Jejunum is the longest portion, where most nutrient absorption occurs through the villi (tiny fingerlike projections)\n• Ileum is also short, leads to the cecum\nLarge intestine: Absorbs water to maintain hydration and some electrolytes (esp sodium), stores waste for defecation; divided into ascending colon, transverse colon, descending colon\n• Begins at the ileocecocolic valve, continues as the cecum, ascending, transverse, and descending colon, rectum, and anus\n• Has no villi, circular folds, or secreted enzymes (unlike small intestine); large number of goblet cells secrete mucus\n• Absorbs vitamins B-K, propels waste toward rectum"
   },
@@ -745,7 +769,11 @@
   },
   {
     "title": "Hydration status",
-    "detail": "• Skin should be elastic snapping back into place after being tented at the thorax or lumbar region\n• Skin turgor is the speed at which skin returns to normal position after being pulled away; prolonged in dehydrated animals, shortened in overhydrated animals\n• Skin left standing after the skin tent test indicated dehydration\n• 5-6% dehydration (mild): Slight loss of skin elasticity\n• 7-10% dehydration (mild up to 8, moderate 8-10): More loss of skin elasticity, increased CRT, sunken eyes\n• 10-12% dehydration (moderate): No return of skin to original position, increased CRT, dry mucous membranes, sunken and dull eyes, tachycardia, rapid and weak pulses\n• 12-15% dehydration (severe) can lead to death\n• IV (central/peripheral) and IO preferred for severe dehydration; SC won’t enter intravascular space, especially due to lack of intravascular volume and blood flow to the tissues"
+    "detail": "• Skin should be elastic snapping back into place after being tented at the thorax or lumbar region\n• Skin turgor is the speed at which skin returns to normal position after being pulled away; prolonged/delayed in dehydrated animals, shortened in overhydrated animals\n• Skin left standing after the skin tent test indicated dehydration\n• 5-6% dehydration (mild): Slight loss of skin elasticity\n• 7-10% dehydration (mild up to 8, moderate 8-10): More loss of skin elasticity, increased CRT, sunken eyes\n• 10-12% dehydration (moderate): No return of skin to original position, increased CRT, dry mucous membranes, sunken and dull eyes, tachycardia, rapid and weak pulses\n• 12-15% dehydration (severe) can lead to death\n• IV (central/peripheral) and IO preferred for severe dehydration; SC won’t enter intravascular space, especially due to lack of intravascular volume and blood flow to the tissues"
+  },
+  {
+    "title": "Dehydration",
+    "detail": "• <5% dehydration: No signs—BAR w normal mentation, moist MM, CRT < 2 seconds, normal skin turgor of < 1 second\n• 5-7% dehydration: QAR, tacky gums, CRT of 2-3 seconds, delayed turgor of 1-2 seconds\n• 8-9% dehydration: Weak, lethargic, sternal or fully recumbent, dry MM, CRT and turgor of 3-4 seconds\n• 10-12% dehydration: Recumbent, barely conscious, weak and rapid pulses, sunken eyes, CRT of 4-5 seconds, turgor of 5-8 seconds\n• 12-15% dehydration: Unconscious, cardiovascular shock, rapid and thready pulse, severely sunken eyes, dry and contracted tongue and MM, CRT of 5-8 seconds, no turgor"
   },
   {
     "title": "Mucous membrane color",
@@ -844,6 +872,18 @@
     "detail": "• 3 layers of bandaging: Non-adhesive primary layer (over granulated tissue), secondary layer to soak up exudates, tertiary layer (like Vet Wrap) for reinforcement\n• 3 types of bandages/dressings for wounds:\n• Dry-to-dry: For loose necrotic tissue; dry gauze stays in place w application of dry, absorbent wrap; naturally debrides and removes necrotic tissue w bandage change\n• Wet-to-dry: For infected or open wounds; saline-moistened or medicated bandage is placed under dry; treats infection and absorbs exudates; removed when dry\n• Wet-to-wet: For chronic or larger, ulcerated wounds that require internal tissue growth before epidermal tissue can grow (e.g. deep pressure sores); removed when still wet"
   },
   {
+    "title": "Functions of bandaging in orthopedic injuries",
+    "detail": "• Stabilizing fractures or joints\n• Decreasing swelling\n• Preventing weight-bearing\n• Restricting range of motion\n• Maintaining the splint/cast in position\n• Protecting soft tissue from additional injury"
+  },
+  {
+    "title": "Bandages of the limb",
+    "detail": "• Should be applied from distal to proximal"
+  },
+  {
+    "title": "Medicinal honey",
+    "detail": "• Applied to bandages for second intention wound healing\n• Benefits include creating a hypertonic environment, providing a source of energy for healing cells, aiding in debridement and granulation formation, healing burns, acting like hydrogen peroxide, antibacterial and anti-inflammatory effects, antioxidant properties\n• Can be placed on the wound or on the bandage\n• Shouldn’t be used once granulation phase starts—it’s acidic (low in pH), so using honey in this phase can lead to overgranulation\n• Bandage must be changed every 24 hours"
+  },
+  {
     "title": "Fluid therapy",
     "detail": "• Fluid can be given through oral, SC, percutaneous, IV, or intramedullary routes\n• SC can’t be used in shock or severe dehydration because it is too slow, IV preferred\n• Intramedullary preferred in very small/young animals\n• Lost fluids (urine, vomit, etc.) should be measured to calculate rehydration, maintenance, and replacement (Normal urine output on fluids is 1–2 mL/kg/h)\n• Replacement solutions are Normosol R and LRS; maintenance solutions are Normosol M and normal saline w KCl\n• Contraindicated for pulmonary edema, pulmonary contusions, brain injury, severe ascites (fluid accumulation in abdomen), cerebral edema, CHF\n• Over-hydration symptoms include restlessness, high RR, wheezing or other lung sounds, rise in BP, chemosis (swelling of eye whites), pitting edema (dent when pressed)"
   },
@@ -864,12 +904,24 @@
     "detail": "• Remain in the blood vessel due to larger size (unable to cross vascular wall), allowing them to improve BP by holding fluid in the intravascular space\n• May contain proteins like albumin or synthetic molecules like Hetastarch, making them suitable or patients w low plasma protein levels or in cardiovascular shock\n• Hypertonic saline (a hypertonic crystalloid) and Hetastarch (colloid) expand vascular volume; useful in patients that won’t tolerate a large volume of fluids (head trauma, heart failure)"
   },
   {
+    "title": "Osmolality",
+    "detail": "• Concentration of dissolved particles in a fluid\n• Normal osmolality of blood is bw 280 – 310 mOsms/L\n• Isotonic fluids have the same osmolality as blood\n• Hypotonic fluids have osmolality less than 280 mOsms/L\n• Hypertonic fluids have osmolality more than 310 mOsms/L\n• Peripheral catheters are used for fluids w osmolality of up to 600 mOsms/L; any higher can cause phlebitis"
+  },
+  {
     "title": "Fluid replacement and maintenance volumes",
     "detail": "• Fluid replacement volume:\n• Hypovolemic shock or severe dehydration: 60-90 mL/kg/hr over 12 to 24 hours\n• Percent dehydration x weight in kg x 1,000 (to convert to mL)\n• Fluid maintenance volume:\n• 40-60 mL/kg/day"
   },
   {
+    "title": "Jugular catheters",
+    "detail": "• May be necessary if patient is severely debilitated (acid-base disturbances, multiple IV infusions and IVF concurrently, central venous pressure, too small)\n• Measured from insertion site to the caudal edge of the triceps or to the first rib—goal is to get the tip into the thoracic cavity just before the right atrium"
+  },
+  {
     "title": "Physical therapy",
     "detail": "• Cryotherapy: First 72 hours after surgery or acute injury (esp. to tendons, ligaments, bones), or for osteoarthritis; localized cryotherapy promotes vasoconstriction, helps manage pain, reduces cellular metabolism to prevent edema, muscle spasms, and immune response\n• Heat therapy: After 72 hours, next 5-7 days (promotes vasodilation and impulse conduction, so starting early can interfere w healing); useful in pain management, chronic inflammation, muscle tension, injury to tendons, ligaments, bones, osteoarthritis, intervertebral disk disease\n• Passive range of motion: Helps promote blood and lymph flow through tissues and synovial fluid production in joints; prevents stiffness, but not muscle atrophy"
+  },
+  {
+    "title": "Hydrotherapy",
+    "detail": "• Increases strength and proprioception\n• Maximum strengthening occurs when water is at the level of the stifle; animal bears 85% of its weight\n• Deeper water allows easier movement\n• Shallower than stifle provides little therapeutic gain"
   },
   {
     "title": "Phlebotomy tubes",
@@ -924,6 +976,14 @@
     "detail": "• Animal’s personal space\n• 0 for a tame horse, 2-4 feet for a dairy cow, 20 feet for beef cattle\n• Remaining in flight zone when animal is in the chute can cause agitation (tail swishing, defecation)\n• Tail swishing is an early warning sign for horses in general\n• 6-8 feet is a kill zone in cattle"
   },
   {
+    "title": "Developmental stages of dogs",
+    "detail": "• Neonatal (0-14 days)\n• Transitional (11-21 days): Startle response, learning via reinforcement, start of play\n• Socialization (3-4 weeks up to 12-14 weeks): Fear period around 7-10 weeks\n• Juvenile (3-4 months up to sexual maturity at 6-9 months): Activity and excitability heighten; fear responses increase\n• Adolescent (sexual to social maturity at 2-3 years): May become territorial\n• Adult (until 7-10 years): Tolerance of other dogs may lessen\n• Senior (7-10 years to life expectancy)\n• Geriatric (ave. life expectancy to death)"
+  },
+  {
+    "title": "Right to know",
+    "detail": "• OSHA’s rules on the right to be informed about the chemicals you may be exposed to"
+  },
+  {
     "title": "Apepsia",
     "detail": "• A lack of digestion\n• Bradypeptic refers to slow digestion"
   },
@@ -964,6 +1024,10 @@
     "detail": "• Cats have naturally occurring circulating alloantibodies to the blood type they do not have, so transfusion of type A blood into a type B cat could result in severe, potentially fatal hemolytic transfusion reaction\n• Although rare, transfusion reactions in cats are much more severe than in dogs\n• May occur with the first transfusion, which does not occur in dogs\n• Dogs use the Dog Erythrocyte Antigen (DEA) system (DEA 1 (most common), 3, 4, 5, 6, 7, 8)\n• Cats use the AB system w blood types A (most common), B (purebreds), AB"
   },
   {
+    "title": "Blood transfusion reactions",
+    "detail": "• Elevated HR and RR\n• Increased temperature\nHypersensitivity reactions\n• Hives\n• Collapse\n• Weakness\n• Pruritus\n• Sweating\n• Muscle fasciculations"
+  },
+  {
     "title": "Antebrachium",
     "detail": "• Two bones form the forearm; ulna and radius"
   },
@@ -974,6 +1038,10 @@
   {
     "title": "Landmarks for tubing",
     "detail": "• Endotracheal intubation: The thoracic inlet\n• Orogastric/nasogastric intubation: Tubes should be measured to the 13th rib to pass into the stomach\n• Esophagostomy/nasoesophageal tubes: 8th rib is the landmark if the tube is to end in the distal esophagus\n• Nasal oxygen cannula: The medial canthus"
+  },
+  {
+    "title": "Feeding tubes",
+    "detail": "Nasogastric intubation\n• Size 5 Fr for animals less than 5 kg\n• Size 8 Fr for animals 5 – 15 kg\nEsophagostomy or pharyngostomy\n• Size 8 to 16 Fr\nUrinary obstruction relief\n• Size 3.5 Fr for cats"
   },
   {
     "title": "Massage techniques",
@@ -1018,5 +1086,13 @@
   {
     "title": "Teeth",
     "detail": "• Monophyodont is one set of teeth throughout life—no deciduous teeth (e.g. dolphins)\n• Diphyodonts have two sets of teeth—deciduous and permanent teeth\n• Pleurodont teeth have no root and are attached to the jaw; replaced many times throughout lifetime (e.g. iguanas)\n• Elodont teeth increase in length throughout life (e.g. rabbits)\n• Hypsodont teeth are teeth and cusps that are elongated (e.g. horses)"
+  },
+  {
+    "title": "Medical waste",
+    "detail": "• Anything contaminated w primate blood or human pathogens (vials and devices contaminated w the blood of other animals can be disposed of in normal trash)\n• Vials and anything that comes into contact w chemotherapy drugs\n• Used needles and blades"
+  },
+  {
+    "title": "Antiseptic vs. disinfectant",
+    "detail": "• Antiseptic inhibits growth of microorganisms on living tissue by destroying them or inhibiting their development; include chlorhexidine, iodine, alcohols, phenols, quaternary ammonium\n• Disinfectant destroys or inactivates many organisms from inanimate objects"
   }
 ]

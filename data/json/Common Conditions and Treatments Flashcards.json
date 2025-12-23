@@ -37,7 +37,7 @@
   },
   {
     "title": "Chronic kidney disease",
-    "detail": "• Irreversible, progressive loss of renal function due to tissue damage, mostly due to another primary disease\n• Glomerular filtration rate (GFR) is an estimate of the glomerulus’ filtration function\n• Most common in geriatric animals\n• Symptoms may include azotemia, hypertension, proteinuria, PU/PD, V/D, lethargy, anorexia, dehydration, oral ulceration, anemia\n• Classified into 4 stages:\n• 1—subclinical, usually undetected\n• 2—GFR<25% of normal, azotemia w decreased ability to concentrate urine leading to PU/PD\n• 3—GFR decline, azotemia and clinical signs present, reevaluation needed every 3-6 mo\n• 4-- GFR decline, severe azotemia and clinical signs present, reevaluation needed every 1-3 mo\n• Treatment involves identifying and treating primary disease, slowing progression of disease, correcting electrolyte imbalances"
+    "detail": "• Irreversible, progressive loss of renal function due to tissue damage, mostly due to another primary disease\n• Glomerular filtration rate (GFR) is an estimate of the glomerulus’ filtration function\n• Most common in geriatric animals\n• Symptoms may include azotemia, hypertension, proteinuria, PU/PD, V/D, lethargy, anorexia, dehydration, oral ulceration, anemia\n• Classified into 4 stages:\n• 1—subclinical, usually undetected\n• 2—GFR<25% of normal, azotemia w decreased ability to concentrate urine leading to PU/PD\n• 3—GFR decline, azotemia and clinical signs present, reevaluation needed every 3-6 mo\n• 4-- GFR decline, severe azotemia and clinical signs present, reevaluation needed every 1-3 mo\n• Treatment involves identifying and treating primary disease, slowing progression of disease, correcting electrolyte imbalances\n• Low protein diet to minimize amount of work"
   },
   {
     "title": "Acute kidney injury (acute renal failure)",
@@ -148,8 +148,12 @@
     "detail": "• Urolithiasis (presence of stones) is common in dogs, cats (w different morphology), cattle, sheep, goats; uncommon in horses\n• Made up of organic matrix (constant) plus one of 20 minerals (struvite, calcium oxalate, urate, etc.)\n• Struvites are the most common stones in dogs\n• Calcium carbonate, struvite, calcium oxalate are the common stones in ruminants\n• Strutives precipitate in alkaline urine, urate crystals precipitate in acid urine"
   },
   {
+    "title": "Rodenticide toxicity",
+    "detail": "• Anticoagulant rodenticides use an enzyme that stop the recycling of Vit K, which functions in the coagulation cascade primarily by allowing blood clotting protein formation\n• Vit K is administered orally in cases of rodenticide toxicity"
+  },
+  {
     "title": "Colic (Horses)",
-    "detail": "• Number 1 cause of premature equine fatality and most common emergency in equine medicine\n• Includes any condition that causes abdominal pain\n• Caused by poor feed quality or feeding/hydration patterns, intestinal tears/torsions/hernias, disproportionate gas, sporadic cramps, ileus (GI atony), parasitic infections, volvulus (bowel obstruction from intestinal torsion), intussusception, obstructions, displacement, inguinal hernias, ulcers\n• Colic due to gas and spasmodic colic go away on their own; other cases mostly respond to analgesics (flunixin meglumine), hand walking, sedation (xylazine, detomidine) and laxatives (mineral oil) given thru nasogastric tube\n• Once resolved, horses should be fed soft feed (bran mash, fresh grass, small amounts of hay) frequently in small quantities rather than in two large daily meals"
+    "detail": "• Number 1 cause of premature equine fatality and most common emergency in equine medicine\n• Includes any condition that causes abdominal pain\n• Caused by poor feed quality or feeding/hydration patterns, intestinal tears/torsions/hernias, disproportionate gas, sporadic cramps, ileus (GI atony), parasitic infections, volvulus (bowel obstruction from intestinal torsion), intussusception, obstructions, displacement, inguinal hernias, ulcers\n• Colic due to gas and spasmodic colic go away on their own; other cases mostly respond to analgesics (flunixin meglumine), hand walking, sedation (xylazine, detomidine) and laxatives (mineral oil) given thru nasogastric tube\n• Once resolved, horses should be fed soft feed (bran mash, fresh grass, small amounts of grass hay) frequently in small quantities rather than in two large daily meals"
   },
   {
     "title": "Colitis (Horses)",
@@ -165,7 +169,7 @@
   },
   {
     "title": "Potomac horse fever (Monocytic ehrlichiosis or ehrlichial colitis)",
-    "detail": "• Infective organism is Ehrlichia risticii spread by flukes, ticks, helminths, and aquatic insects\n• Signs include depression, anorexia, pyrexia, decreased gut sounds, abdominal pain, watery diarrhea\n• Isolation necessary\n• Treated w oxytetracycline, fluids (balanced electrolytic solution)\n• Vaccines have high rate of effectiveness"
+    "detail": "• Bacterial infection that occurs when horses drink water that contains infected insects and snails\n• Infective organism is Ehrlichia risticii spread by flukes, ticks, helminths, and aquatic insects\n• Signs include colic, depression, anorexia, pyrexia, decreased gut sounds, abdominal pain, watery diarrhea\n• Isolation necessary\n• Diagnosed by PCR analysis, ELISA, or fecal culture\n• Treated w oxytetracycline, fluids (balanced electrolytic solution)\n• Vaccines have high rate of effectiveness"
   },
   {
     "title": "Hyperkalemic periodic paralysis (Horses)",
@@ -173,7 +177,7 @@
   },
   {
     "title": "Strangles (Horses)",
-    "detail": "• Caused by the bacteria Streptococcus equi equi\n• Leads to breathing and swallowing (dysphagia) issues, low survival rate\n• Highly contagious, requires isolation; spread through direct contact or shared items, anywhere a draining abscess has touched\n• Some horses are only carriers\n• Abscesses on lymph nodes will develop into empyema abscesses (pus-filled lesions), which hot packs or lancing can help drain\n• Feed slurries if dysphagia occurs\n• No cure, but constant fresh water access, warmth, antipyretics, antibiotics help symptoms\n• An intranasal vaccine reduces seriousness of symptoms"
+    "detail": "• Caused by the bacteria Streptococcus equi equi\n• Leads to breathing and swallowing (dysphagia) issues, low survival rate\n• Highly contagious (up to 6 weeks after recovery), requires isolation; spread through direct contact or shared items, anywhere a draining abscess has touched\n• Some horses are only carriers\n• Abscesses on lymph nodes will develop into empyema abscesses (pus-filled lesions), which hot packs or lancing can help drain\n• Feed slurries if dysphagia occurs\n• No cure, but constant fresh water access, warmth, antipyretics, antibiotics help symptoms\n• An intranasal vaccine reduces seriousness of symptoms"
   },
   {
     "title": "Equine herpesvirus 1 (EHV-1)",
@@ -193,7 +197,7 @@
   },
   {
     "title": "Navicular disease (Horses)",
-    "detail": "• Chronic, degenerative; produces lameness and deterioration of the navicular bone (a small bone in the foot)\n• May present w stumbling, shorter strides, intermittent lameness, hoof pain\n• Flexion tests, nerve blocking, and radiograph confirm diagnosis\n• Treated w anti-inflammatory drugs, vasodilators, corrective hoof trimming and shoeing, and if all else fails surgical neurectomy (nerve cut above the fetlock)"
+    "detail": "• Chronic, degenerative; produces lameness and deterioration of the navicular bone (a small bone in the foot)\n• May present w stumbling, shorter strides, intermittent lameness, hoof pain—weight shifts to take pressure off the heel\n• Can be caused by damage to the navicular bone or bone supply of the heel, underrun heels, low heel or long toe confirmation\n• Flexion tests, nerve blocking, and radiograph confirm diagnosis\n• Treated w anti-inflammatory drugs, vasodilators, corrective hoof trimming and shoeing, and if all else fails surgical neurectomy (nerve cut above the fetlock)"
   },
   {
     "title": "Equine recurrent uveitis (moon blindness)",
