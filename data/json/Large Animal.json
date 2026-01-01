@@ -4,6 +4,14 @@
     "detail": "• Deworming schedule depending on location\n• Hoof care important—pick daily, farrier work every 6-8 weeks\n• Teeth may need floating, i.e. rasping down sharp edges (buccal side on upper teeth, lingual side on lower teeth due to side to side grinding motion)"
   },
   {
+    "title": "Equine nutrition",
+    "detail": "• Hindgut fermenters, meaning most of digestion occurs in the cecum and continues in the large intestine\n• Access to roughage helps optimal digestion\n• Roughage includes grass hays, pasture; feed that is high in fiber, low in energy and protein, and coarse and bulky in nature\n• Can eat protein, but most of their energy is from carbs\n• Concentrates like cereal grains should be given in small quantities to avoid health issues like obesity and laminitis\n• Straw hay has little nutritional value and can be overconsumed, so avoiding is best"
+  },
+  {
+    "title": "Repetitive behavior in horses",
+    "detail": "• Displacement-type behaviors common in confined horses, may be called stable vices\n• Pawing at the stall, door, or ground (also when hungry or thirsty)\n• Wood chewing\n• Stall walking or weaving\n• Kicking at the stall\n• Cribbing is a stereotypy—a persistent, often purposeless movements to self-stimulate or cope; common in wild horses in captivity; involves grasping objects w incisors, arching the neck, leaning back, and gulping air which causes a grunting noise"
+  },
+  {
     "title": "Routes of medication administration in horses",
     "detail": "• Oral route\n• Nasogastric tube: Common route for administering water, electrolytes, dewormer, mineral oil, antigas meds, or refluxing stomach contents when assessing for colic; placed in the medial ventral meatus and passed into the esophagus when horse swallows (passing confirmed by observing and palpating it along the left jugular groove, and listening to gurgling from the open end and smelling for stomach contents once in the stomach)\n• IV injection: Jugular most common, thoracic, ceph, saph can be used for small amounts; perivascular inj leads to damage, esp. w common NSAID banamine"
   },
@@ -18,6 +26,10 @@
   {
     "title": "Catheter placement in horses",
     "detail": "• Into the jugular, except long-term Mila, which goes into lateral thoracic vein; sterile gloves\n• Catheter types:\n• Angiocath for short-term (1-2 days), catheter-over-stylet style\n• Mila and Arrow for long-term (3-4 weeks), catheter-over-guidewire style w butterfly extensions\n• Butterfly for regional perfusions of antibiotics\n• Insyte catheter w wings for arterial blood gas sample collection during anesthesia\n• Flushed w saline every 6 hours\n• Heparin 1 mL per 100 mL of saline may be used for patency"
+  },
+  {
+    "title": "Blood donation in horses",
+    "detail": "• Recommended volume is 20% or 16 mL/kg (some texts say 33%)\n• Replacement w crystalloids recommended after venipuncture"
   },
   {
     "title": "Equine vaccines",
@@ -56,8 +68,16 @@
     "detail": "• Cattle, sheep, goat\n• Herbivores; diet mainly consists of plants w high fiber (cellulose) content\n• Symbiotic relationship w protozoa and bacteria allow digestion of indigestible feed; byproducts of anaerobic fermentation are volatile fatty acids, amino acids, and vitamins, which are used for body maintenance, and methane and carbon dioxide, which are eructated\n• True ruminants like cattle have prehensile tongues to gather food\n• The hoof (aka ungula): 4 hooves per foot, two are weight-bearing (3rd and 4th digits)"
   },
   {
+    "title": "IV access in ruminants",
+    "detail": "• Jugular is most used for IV catheterization in small ruminants\n• Tail vein is used for blood draws or injecting non-irritating, small-volume drugs\n• Caudal auricular vein can be used for small blood draws\n• Milk vein isn’t used—it is under high pressure, meaning hematomas easily form"
+  },
+  {
     "title": "Ruminant digestion",
     "detail": "• Four-chamber stomach:\n• Rumen/paunch is the main fermentation vat; microbial products are available for digestion\n• Reticulum/honeycomb forces material into the rumen or omasum, or regurgitates ingesta during rumination\n• Omasum/many plies is filled w muscular laminae that squeezes fluid out of ingesta\n• Abomasum/true (grandular) stomach corresponds to stomachs of monogastrics; site for peptic digestion of proteins\n• Camelids are functional ruminants; have 3 chambers"
+  },
+  {
+    "title": "Orf",
+    "detail": "• Common small ruminant disease\n• Viral; caused by poxvirus\n• Signs include crusty lesions around the nose and mouth of nurshing juvenile and udders and teats; older adults may have lesions around coronary bands, conjunctiva, eyelids\n• Resolves w/in 3-6 weeks w/out intervention\n• Secondary bacterial infections must be addressed, if any\n• Zoonotic\n• Vaccines available"
   },
   {
     "title": "Abomasopexy",
@@ -66,5 +86,17 @@
   {
     "title": "Celiotomy",
     "detail": "• Exploratory abdominal surgery; performed for generalized abdominal disease, including colic\n• Mostly performed via a ventral midline incision under full anesthesia, but flank incision on a standing, sedate patient possible as well"
+  },
+  {
+    "title": "Blood collection in swine",
+    "detail": "• 18 g, 1.5-inch needles used for blood collection and IV injections\n• Jugular and anterior (cranial) vena cava preferred\n• Right side of the neck preferred to avoid the phrenic nerve (motor nerve for diaphragm, essential for breathing)\n• Marginal ear vein, cephalic, coccygeal, and milk veins can also be used\n• Pigs younger than 8 weeks should be placed in dorsal recumbency in a trough; older animals should be standing w the head restrained"
+  },
+  {
+    "title": "Swine nutrition",
+    "detail": "• Diet usually consists of sorghum, oats, wheat, corn, barley, soybeans, and other grains\n• Protein is also important\n• Lysine (amino acid) needs to be supplemented"
+  },
+  {
+    "title": "Swine diseases",
+    "detail": "• Porcine stress syndrome: Affects the musculoskeletal system\n• Leptospirosis: Affects the reproductive system\n• Erysipelas: Multisystemic disease\n• Sodium ion toxicosis: Salt poisoning or water depravation; affects the nervous system\n• Iron deficiency anemia: Piglets born in confinement w/out access to dirt must be given an iron dextran injection (200 mg) in the neck within 3 days of birth"
   }
 ]

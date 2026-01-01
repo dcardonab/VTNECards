@@ -5,6 +5,10 @@ on:
     paths:
       - 'data/docx/*.docx'
 
+concurrency:
+  group: build-flashcard-content-main
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,13 +20,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
 
       - name: Configure git and pull latest
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          # git config pull.rebase false
-          git pull origin main
+          git config pull.rebase true
 
       - name: Debug repo layout
         run: |
@@ -57,17 +61,38 @@ jobs:
 
       - name: Commit and push generated content
         run: |
+          set -e
+
+          # Make sure repo is up to date before staging/committing
+          git fetch origin main
+          git rebase origin/main
+
           # Stage JSON, images, and manifest if they exist
           git add data/json/*.json data/json/manifest.json data/images/* 2>/dev/null || true
 
           # If nothing changed, exit quietly
           if git diff --cached --quiet; then
             echo "No changes to commit."
-            echo "No generated changes to commit."
             exit 0
           fi
 
           git commit -m "Update flashcard content from DOCX"
 
-          # Push back to the same branch that triggered the workflow
-          git push origin main
+          # Rebase again in case another commit landed while generating
+          git fetch origin main
+          git rebase origin/main
+
+          # Push with retry
+          for i in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            echo "Push failed (attempt $i). Fetching/rebasing and retrying..."
+            git fetch origin main
+            git rebase origin/main
+            sleep 2
+          done
+
+          echo "Push failed after retries."
+          exit 1

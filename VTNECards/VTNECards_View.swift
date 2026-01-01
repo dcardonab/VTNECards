@@ -25,17 +25,22 @@ struct CategoriesView: View {
     @EnvironmentObject var dataSync: DataSyncManager
     @EnvironmentObject var favorites: FavoritesManager
 
-    // Categories to show
     var categoryFiles: [String] {
+        let files: [String]
+
         if let manifest = dataSync.currentManifest {
-            // Remote manifest is truth
-            return manifest.jsonFiles
+            files = manifest.jsonFiles
                 .map { ($0.path as NSString).deletingPathExtension }
                 .filter { $0.lowercased() != "manifest" }
-                .sorted()
         } else {
-            // No manifest yet (first launch offline, etc.) – fall back to bundle
-            return bundleCategoryJSONFileNames()
+            files = bundleCategoryJSONFileNames()
+        }
+
+        return files.sorted {
+            categoryDisplayName(forFile: $0)
+                .localizedCaseInsensitiveCompare(
+                    categoryDisplayName(forFile: $1)
+                ) == .orderedAscending
         }
     }
 
