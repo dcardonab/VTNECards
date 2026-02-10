@@ -1,0 +1,726 @@
+[
+  {
+    "title": "Crown",
+    "detail": "• Section of the tooth that erupts from the gingiva\n• Covered by enamel"
+  },
+  {
+    "title": "Enamel",
+    "detail": "• Function is to prevent bacteria from damaging the tooth\n• Inorganic; composed of 96% mineral and 4 % water and organic substances\n• Main mineral is hydroxyapatite—the hardest and most plentiful mineral in the body\n• Has two proteins, enamelins and amelogenins\n• No nerve endings\n• Thickness is 0.1-0.6 mm in dogs, 0.1-0.3 mm in cats\n• Not just covers but also exists in folds w/in the dentins of herbivores—increases durability so they can constantly chew hard cellulose-based feed (folds can be used to determine age)\n• Systemic factors like nutritional deficiencies, febrile disorders, hypocalcemia, and excessive fluoride intake during formation can affect enamel development"
+  },
+  {
+    "title": "Dentin",
+    "detail": "• Forms the bulk of the tooth, protects the pulp cavity\n• Extra protection against bacteria\n• Formed by odontoblasts thru dentinogenesis\n• Odontoblasts that line pulp chamber and root canal produce secondary (reparative) dentin thru life and fill in the canal, causing dentin to widen w/in the tooth body as it ages\n• Covered by enamel on the crown surface and cementum over the root surface\n• Softer than enamel and cementum; tends to decay rapidly\n• Can lead to severe cavities if exposed\n• Porous, so fluid can pass thru\n• Composed of 72% inorganic material, 18% collagen (absorbs shock) and other organic material, 10% water\n• Innervated, sensitive to heat, cold, touch, and changes in osmotic pressure"
+  },
+  {
+    "title": "Pulp cavity",
+    "detail": "• Made up of connective tissue, nerves, and vessels\n• Exposed pulp will lead to pain, inflammation, necrosis\n• Components of the pulp can be damaged but do not develop as the tooth ages"
+  },
+  {
+    "title": "Cementum",
+    "detail": "• Covers the root\n• Section of unerupted tooth that anchors it to the alveolar bone in the mandible and maxilla via periodontal ligaments"
+  },
+  {
+    "title": "Cementoenamel junction",
+    "detail": "• Base of the crown where enamel meets cementum (crown meets root)\n• Fastens the tooth w periodontal ligaments at the gingiva"
+  },
+  {
+    "title": "Periodontal ligaments",
+    "detail": "• Extend from the cementum\n• Anchor the tooth in the alveolus (socket) by fastening the cementum to the alveolar bone\n• Act as a support system strengthening the teeth against compression during chewing—teeth aren’t attached directly to bones, ligaments absorb shock so that bones aren’t damage, and also protect nerve endings\n• Carry nerve endings that act as pain and pressure sensors used by the brain to respond to changing pressure during chewing"
+  },
+  {
+    "title": "Alveolar bone",
+    "detail": "• Bone enveloping and sustaining teeth\n• Undergoes constant internal repair and regeneration"
+  },
+  {
+    "title": "Gingiva",
+    "detail": "• Soft mucosal tissue that envelops the jawbone\n• Protects teeth from bacteria\n• 3 sections—marginal, attached, interdental gingiva"
+  },
+  {
+    "title": "Gingival sulcus",
+    "detail": "• Space bw gingiva and enamel\n• Depths is 1-3 mm in dogs, 0.5-1 mm in cats"
+  },
+  {
+    "title": "Free (marginal) gingiva",
+    "detail": "• Most coronal portion of the gingiva\n• Lies closely around the tooth, slightly above the cementoenamel junction in healthy patient\n• Forms the sulcus"
+  },
+  {
+    "title": "Periodontal pocket",
+    "detail": "• Diagnosed when periodontal probe measures >3 mm in dogs and 0.5–1 mm cats\n• Measurement is taken from gingival margin to the bottom of the pocket\n• Normal location of gingival margin is slightly above the cementoenamel junction; if gingiva has shrunk away, two measurements are taken—from where the current gingival margin is to the cementoenamel junction (measures the amount of recession) and from where the current gingival margin is to the bottom of the pocket (to asses if there is an abnormal pocket depth)"
+  },
+  {
+    "title": "Pseudopocket (false periodontal pocket)",
+    "detail": "• Caused by gingival enlargement, not by periodontal disease\n• Gingiva becomes thickened or hyperplastic, so the gingival margin moves coronally; pocket measures deeper when probed, but not due to loss of bone or periodontal ligament"
+  },
+  {
+    "title": "Periodontium",
+    "detail": "• Supporting structure of the teeth\n• Includes the periodontal ligament, gingiva, cementum, and alveolar bone"
+  },
+  {
+    "title": "Apical delta",
+    "detail": "• Opening in the tooth root where nerves and blood vessels enter and exit the tooth"
+  },
+  {
+    "title": "Apical vs. coronal",
+    "detail": "• Apical: Toward the end portion or apex of the root\n• Coronal: Toward the crown portion of the tooth"
+  },
+  {
+    "title": "Distal (teeth)",
+    "detail": "• Refers to the direction moving toward the last tooth in each quadrant of the dental arch\n• vs. mesial (towards the midline)"
+  },
+  {
+    "title": "Mesial",
+    "detail": "• Refers to the surfaces closest to the midline of the dental arch\n• vs. distal (towards the last tooth of each quadrant)"
+  },
+  {
+    "title": "Furcation",
+    "detail": "• Junction where the roots of a multi-rooted tooth divide\n• Grade 0: No furcation\n• Grade 1: Initial furcation; furcation can be felt w probe/explorer, but horizontal tissue destruction is <⅓ of the horizontal width of the furcation\n• Grade 2: Partial furcation; possible to explore furcation, but the probe/explorer cannot be passed; horizontal tissue destruction is >⅓ of the horizontal width of the furcation.\n• Grade 3: Total furcation; probe/explorer can be passed thru from buccal to palatal/lingual"
+  },
+  {
+    "title": "Incisal",
+    "detail": "• Shearing edge of an incisor\n• Used for grooming, nibbling, and grasping"
+  },
+  {
+    "title": "Occlusal",
+    "detail": "• Surface of the molars and premolars that are used to chew or grind food\n• Chewing surface of the tooth"
+  },
+  {
+    "title": "Buccal vs. lingual vs. labial",
+    "detail": "• Surface of the tooth facing the cheek (buccal), tongue (lingual), and lip (labial)"
+  },
+  {
+    "title": "Palatal",
+    "detail": "• Oriented toward the palate in the maxilla\n• Used to indicate that a tooth is displaced inward from the normal labial position toward the midline of the upper oral cavity\n• Upper teeth → palatal / labial\n• Lower teeth → lingual / labial"
+  },
+  {
+    "title": "Types of teeth",
+    "detail": "• Incisors: Sharp edges ideal for cutting and shearing; single root\n• Canines: Grasping, anchoring, and tearing food; single root\n• Premolars: Cutting, severing, crushing, holding food; one, two, three roots, or two roots fused together\n• Molars: Masticating and grinding food\n• Carnassial teeth: Modified paired molars and premolars of carnivores; largest shearing teeth, used to cut and tear meat\n• Fourth maxillary premolars and first mandibular molars in dogs and cats (4P4 and 1M1)"
+  },
+  {
+    "title": "Elodont vs. anelodont vs. hypsodont",
+    "detail": "• Elodont: Teeth that grow continuously throughout life\n• Rabbit incisors and cheek teeth, rats\n• Anelodont: Teeth that do not grow continuously once fully erupted\n• Dogs, cats, pigs\n• Hypsodont: Teeth w high crowns and long reserve crowns that erupt over time to compensate for wear, but do not grow indefinitely\n• Horses—much of the crown is subgingival and erupts about ⅛ inch per year until there is no more to erupt"
+  },
+  {
+    "title": "Dental formula",
+    "detail": "• Indicate the number of different types of teeth expected for a species\n• Permanent/adult teeth are represented by capital letters, deciduous teeth are represented by lower case\nMaxillary Arcade     I C P M     i c p m\nMandibular Arcade  I C P M     i c p m"
+  },
+  {
+    "title": "Dental formulas for dogs and cats",
+    "detail": "• Dogs: 2×{I 3/3:C 1/1:P 4/4:M 2/3}\n• Cats: 2×{I 3/3:C 1/1:P 3/2:M 1/1}"
+  },
+  {
+    "title": "Teeth present in dogs but not in cats",
+    "detail": "• Upper first premolar and lower first and second premolar\n• 105, 205, 305, 306, 405, 406"
+  },
+  {
+    "title": "[[image:Dentistry Flashcards_Image03.png]]",
+    "detail": "[[image:Dentistry Flashcards_Image01.png]]* canines NA in mares"
+  },
+  {
+    "title": "Eruption timeline of permenent teeth in dogs",
+    "detail": "• Incisors: 3–5 mo\n• Canines and premolars: 4–6 mo\n• Molars: 5–7 mo\n• Canines and incisors: 12 to 16 weeks\n• Premolars and molars: 16 to 20 weeks"
+  },
+  {
+    "title": "Eruption timeline of permenent teeth in cats",
+    "detail": "• Incisors: 3–4 mo\n• Canines and molars: 4–5 mo\n• Premolars: 4–6 mo\n• Healthy larger-breed, summer-born females tend to erupt earlier"
+  },
+  {
+    "title": "Three- and two-root teeth in dogs",
+    "detail": "• Three roots: Maxillary fourth premolar, first and second molars\n• No three-rooted teeth in the mandible\n• Two roots: Maxillary third premolar"
+  },
+  {
+    "title": "Missing teeth in cats",
+    "detail": "• Adult cats do not have maxillary PM1 and mandibular PM1 and PM2"
+  },
+  {
+    "title": "Equine teeth",
+    "detail": "• Horses have a combination of brachydont and hypsodont teeth\n• Simple (brachydont) teeth are the first premolars (wolf tooth) and canines; distinct crown and root but no function\n• Fully erupt before maturity\n• Hard enough to survive for life bc not subjected to dietary abrasive forces\n• Hypsodonts are the incisors and molars; large body that continues to erupt as it is worn down by fibrous feed material\n• Slowly erupt during most of a horse's life (2–3 mm per year, similar to the rate of attrition) if horse is on a grass diet rather than concentrate food"
+  },
+  {
+    "title": "Eruption of horse teeth",
+    "detail": "• 12 temporary premolars (506–508, 606–608, 706–708, and 806–808) erupt at birth or within a week\n• Permanent teeth erupt at following times:\n• Incisors: 1st at 2.5 y, 2nd at 3.5 y, 3rd at 4.5 y\n• Canines: 4-5 y\n• Premolars: 1st (wolf) at 5-6 m, 2nd at 2.5 y, 3rd at 3 y, 4th at 3.5 y\n• Molars: 1st at 9-12 m, 2nd at 2 t, 3rd at 3.5-4 y"
+  },
+  {
+    "title": "Wolf teeth",
+    "detail": "• Small pointed upper premolars found in most horses"
+  },
+  {
+    "title": "Dental pad",
+    "detail": "• Found in ruminants like cattle, sheep, goats\n• Takes the place of upper (mandibular) incisors (no incisors in these species)\n• Works w the tongue to grasp plants"
+  },
+  {
+    "title": "Fourth incisors",
+    "detail": "• Mandibular canines of ruminants like cattle, sheep, goats are sometimes classified as fourth incisors"
+  },
+  {
+    "title": "Modified Triadan system",
+    "detail": "• A system to number teeth\n• Each tooth has a 3-digit number\n• First digit indicates quadrant\n• Adult teeth:\n1 = Upper right quadrant\n2 = Upper left quadrant\n3 = Lower left quadrant\n4 = Lower right quadrant\n• Deciduous teeth:\n5 = Upper right quadrant\n6 = Upper left quadrant\n7 = Lower left quadrant\n8 = Lower right quadrant\n• Second/third digits indicate each tooth, numbered 01-11 starting w the tooth nearest the midline"
+  },
+  {
+    "title": "Anatomic system",
+    "detail": "• Method of dental nomenclature\n• Uses of a combination of letters, words, and numbers (e.g. P 4, right maxilla)"
+  },
+  {
+    "title": "Triadan system numbers common to all species",
+    "detail": "• First incisor is 01\n• Canines are 04\n• First molars are 09\n• Same even if a specific species lack certain teeth\n• 108 and 208 are carnassial teeth in cats and dogs"
+  },
+  {
+    "title": "Plaque",
+    "detail": "• Mix of bacteria and their by-products, salivary components, inflammatory cells, and oral debris\n• Forms when bacteria start feeding on the food particles stuck bw teeth\n• Spreading of plaque leads to inflammation of the gums (gingivitis)\n• Plaque accumulation starts w/in minutes on a clean tooth\n• Can build up in 6 hours, so daily maintenance necessary (hard deposit forms w/in 24-48 hours)"
+  },
+  {
+    "title": "Tartar (dental calculus)",
+    "detail": "• Plaque hardens into tartar if left uncleaned\n• Formed by the calcification of dead bacteria and calcium in the saliva\n• If plaque and tartar grow into beneath the gum line, root infection can occur and dental scaling will be necessary to clean"
+  },
+  {
+    "title": "Plaque vs. calculus",
+    "detail": "• Bacterial layer that forms on the tooth is called plaque\n• Those bacteria that are attached to the tooth absorb calcium from the saliva and become calcified, turning into calculus"
+  },
+  {
+    "title": "Area w heaviest calculus deposition in dogs and cats",
+    "detail": "• Buccal surface of the upper check teeth because of the adjacent parotid salivary duct opening\n• The opening or parotid papilla is located in the mucosa above the distal root of the maxillary fourth premolar"
+  },
+  {
+    "title": "Gingivitis",
+    "detail": "• Can be localized inflammation of one tooth or widespread\n• Caused by plaque buildup\n• Most bacteria in the plaque are aerobic, gram-positive rods and cocci\n• Untreated gingivitis can lead to inflammation spreading to the ligaments and bone that support the teeth and result in the teeth falling out\n• Gingivitis index (Loe Silness) is used to measure amount of inflammation\n• GI0 is normal tissue, indicated by fresh breath, sharp gingival margin, pink gums, normal sulcus depth)\n• GI1 is indicated by mild edema, no bleeding on probing (BOP), some color change, normal sulcus depth, mild odor\n• GI2 is indicated by moderate edema, BOP, deep red color\n• GI3 is indicated by severe edema, spontaneous bleeding, early periodontitis, deep red or purple color"
+  },
+  {
+    "title": "Periodontal disease",
+    "detail": "• Infection and inflammation of the tissues around the teeth\n• Includes gingivitis and periodontitis (infection and loss of support structure)\n• Not common for dogs and cats younger than 4 years; up to 85% of dogs and cats older have periodontal disease\n• Once calculus starts forming and periodontal disease occurs, development of more calculus will escalate the disease; new bacteria will be anaerobic, gram-negative rods and filamentous organisms, producing endotoxins and exotoxins (exotoxins can lead to CNS signs)\n• Bacterial growth moves apically down the tooth surface and bacteria start destroying support structures (periodontium)\n• When the destruction affects multiple teeth and extends into alveolar bone, it is seen radiographically as horizontal bone loss\n• Can’t be cured, but management possible\n• Complete scaling and polishing, root planning, antibiotics, gum surgery, tooth extraction, home care"
+  },
+  {
+    "title": "Stages of periodontal disease",
+    "detail": "• Stage 0: No disease\n• Stage 1 (PD1): Gingivitis—no change to alveolar height or architecture, but mild gingival inflammation is present\n• Stage 2 (PD2): Early periodontitis, furcation 1 exposure (probe fits less than halfway under the crown); less than 25% attachment loss\n• Stage 3 (PD3): Moderate periodontitis, furcation 2 exposure (probe extends more than halfway under the crown); 25-50% attachment loss\n• Stage 4 (PD4): Advanced periodontitis, furcation 3 exposure (probe may pass all the way under the crown); more than 50% attachment loss"
+  },
+  {
+    "title": "Periodontitis",
+    "detail": "• Inflammation of the gingiva and other structures of the periodontim\n• Gingivitis is the early stage of periodontitis\n• Most common disease of animals\n• Caused by accumulation of subgingival plaque and the body’s response to that accumulation\n• Inflammatory reactions in periodontitis result in the destruction of the periodontal ligament and alveolar bone, and ultimately in loss of attachment"
+  },
+  {
+    "title": "Periodontal therapy",
+    "detail": "• Any treatment to stop the progression of periodontitis\n• Under general anesthesia\n• Includes root planning\n• Inadequate root planing is a common mistake in treating periodontal disease; when plaque and calculus are left subgingivally, it becomes a source of infection"
+  },
+  {
+    "title": "Mobility index",
+    "detail": "• Determines the amount a tooth moves when manipulated\n• Can help determine extent of disease\n• M0: No movement (<0.2 mm)\n• M1: Movement bw 0.2-0.5 mm, no axial/vertical mobility\n• M2: Movement bw 0.5-1.0 mm, no axial/vertical mobility\n• M3: Movement >1 mm in any direction, or any axial/vertical mobility\n• Typically results in extraction"
+  },
+  {
+    "title": "Abscess",
+    "detail": "• Serious periodontal disease can develop accelerated decay and root abscesses\n• Bacteria move past the gum line and into the root, which is possible bc of decay or broken teeth\n• Most common in the fourth maxillary premolars (108/208), which have three roots—root nearest the surface is most likely to become abscessed\n• Can lead to systemic infection if untreated, move into eyes and sinuses"
+  },
+  {
+    "title": "Carnassial root abscess",
+    "detail": "• Carnassial teeth are the modified paired molars and premolars of cats and dogs; fourth maxillary premolars and first mandibular molars in dogs and cats (4P4 and 1M1)\n• Carnassial tooth root abscesses can present as a draining tract below the eye of the affected side or a firm swelling, if it forms at the root apex\n• Can lead to ocular discharge (when swelling presses on the nasolacrimal duct)\n• Can lead to a bleb or hole near the mucogingival junction inside the mouth"
+  },
+  {
+    "title": "Oronasal fistula",
+    "detail": "• Erosion bw the oral cavity and the anterior respiratory tract\n• Can be induced by untreated abscesses\n• Food and fluids can enter the respiratory tract via the fistula, leading to chronic inflammation and infection\n• Signs include nasal discharge, protuberance on top of the tooth rot, sneezing, persistent cough"
+  },
+  {
+    "title": "Gingival hyperplasia",
+    "detail": "• Gradual enlargement and overgrowth of gums; excess growth of gingival tissue, causing a false pocket around the cementoenamel junction\n• Enlarged areas can trap plaque and calculus below gum line\n• Can be genetic, inflammatory, or due to excessive administration of certain drugs (cyclosporine, diphenylhydantoin, nitrendipine, nifedipine)\n• Signs include masses near the gum line, bleeding gums, mouth tenderness\n• Diagnosed by excessive pocket depth\n• More common in giant breed dogs\n• Can be treated w gingivoplasty/gingivectomy (surgical recontouring of the gingival surface if there are no false pockets)"
+  },
+  {
+    "title": "Gingivectomy",
+    "detail": "• Removal of excess gingiva in hyperplasia\n• 11, 12, or 15 blade, diamond burs, periodontal knives necessary\n• Laser or electrosurgery available as well"
+  },
+  {
+    "title": "Enamel hypoplasia (distemper teeth) (enamel hypocalcification)",
+    "detail": "• Inadequate deposition of enamel on the crown; condition in which tooth enamel doesn’t form correctly or is damaged during development\n• Ameloblasts responsible for enamel formation during development of deciduous and adult teeth; illness this phase can disrupt normal function of ameloblasts\n• Weakened enamel can chip away, leaving dentin open, and resulting in these teeth to deteriorate faster\n• Called distemper teeth bc distemper infection prior to eruption of deciduous teeth usually leads to enamel hypoplasia in young dogs"
+  },
+  {
+    "title": "Pedodontics",
+    "detail": "• Study of genetic and acquired dental conditions of puppies and kittens"
+  },
+  {
+    "title": "Orthodontics",
+    "detail": "• Correction of malposition and malocclusion that is uncomfortable or painful\n• Only possible in AKC show animals if malocclusion or malposition causes harm to the animal; illegal otherwise\n• The goal with orthodontic treatment is to return a functional, comfortable bite to the patient"
+  },
+  {
+    "title": "Orthodontic disease",
+    "detail": "• Condition in which teeth are improperly positioned or aligned, resulting in abnormal occlusion that can cause trauma, discomfort, or impaired oral function"
+  },
+  {
+    "title": "Endodontics",
+    "detail": "• Diseases and injuries of the pulp and root canal\n• Instruments include high-speed handpiece and burs, barbed broaches that remove pulp tissue from root canal, rubber stops, college pliers, etc.\n• Endodontically treated teeth should be reevaluated at least annually; includes radiographs to ensure tx remains intact"
+  },
+  {
+    "title": "Congenital tooth number abnormalities",
+    "detail": "• Anodontia: Absence of teeth\n• Hypodontia: Few missing teeth (e.g. missing incisors) compared to what is standard for the species\n• Oligodontia: Many missing teeth\n• Polyodontia (supernumerary teeth): Having more teeth than normal for the species"
+  },
+  {
+    "title": "Edentulous",
+    "detail": "• Loss of all teeth, usually later in life"
+  },
+  {
+    "title": "Attrition",
+    "detail": "• Tooth wear caused by contact w other teeth at the occlusal and incisal surface\n• May expose dentin or pulp\n• One cause may be persistent deciduous teeth"
+  },
+  {
+    "title": "Abrasion",
+    "detail": "• Wear to the tooth surface from an outside source such as a toy, cage door, or excessive grooming"
+  },
+  {
+    "title": "Brachygnathism (overshot jaw or parrot mouth) vs. Prognathism (undershot jaw)",
+    "detail": "• Brachygnathism: Class II malocclusion; upper jaw projecting out past the lower jaw; malformation resulting from the mandible being shorter than the maxilla\n• Can lead to traumatic occlusion of the mandibular canines into the hard palate\n• Rhodesian ridgebacks and Labrador retrievers are prone\n• Prognathism: Class III malocclusion; physical position of the lower jaw projecting out past the upper jaw; more common in brachycephalic breeds; can occur in conjunction w anterior crossbite"
+  },
+  {
+    "title": "Dental interlock",
+    "detail": "• Condition in which the growth of one jaw is restricted by abnormally developing deciduous teeth (e.g. rostral emergence of upper deciduous canines locking mandible’s normal development"
+  },
+  {
+    "title": "Fusion",
+    "detail": "• Development of a single tooth from two teeth buds\n• A large tooth made up of the merging of two or more teeth including crowns, roots, and dentin"
+  },
+  {
+    "title": "Gemini (gemination)",
+    "detail": "• Single tooth w two crown\n• Results from a tooth germ that doesn’t properly divide into two teeth"
+  },
+  {
+    "title": "Impaction",
+    "detail": "• Tooth that fails to emerge from beneath the gum\n• Can remain in the tissue or the bone\n• Painful"
+  },
+  {
+    "title": "Scissor bite",
+    "detail": "• Normal occlusion for dogs and cats\n• Maxillary and mandibular teeth align to each other like the blades of a scissor when closed\n• Upper fourth premolar is buccal to mandibular first molar\n• Upper carnassial teeth overlap the lower carnassial teeth\n• Lower incisor closing just behind the upper incisors\n• Maxillary incisors slightly overlap mandibular incisors\n• Lower canines closing bw upper incisors and upper canines, w/out touching each other\n• Mandibular canine fit comfortably in the diastema bw maxillary third incisor and maxillary canine"
+  },
+  {
+    "title": "Level bite",
+    "detail": "• Upper and lower incisors meet end to end, rather than maxillary incisors just overlapping mandibular incisors as normal"
+  },
+  {
+    "title": "Malocclusion",
+    "detail": "• Condition in which maxillary teeth don’t make proper contact with mandibular teeth when biting down\n• Most common cause is retained deciduous teeth\n• Common in brachycephalics and toy-breeds—small head w the same number of teeth as large dogs; teeth fit in however they can, usually by rotating or crowding, which can cause malocclusion and abnormal wear"
+  },
+  {
+    "title": "Malocclusion classes",
+    "detail": "• Class 1 malocclusion is neutroclusion; normal rostral–caudal relationship of the maxillary and mandibular arches w malposition of one or more individual teeth\n• Class 2 malocclusion is mandibular distoclusion; abnormal rostral–caudal relationship of the maxillary and mandibular arches where the mandibular arch occludes caudal (distal) to its normal position relative to the maxillary arch\n• Class 3 malocclusion is mandibular mesioclusion; abnormal rostral–caudal relationship of the maxillary and mandibular arches where the mandibular arch is rostral (mesial) to its normal position relative to the maxillary arch"
+  },
+  {
+    "title": "Posterior/caudal crossbite",
+    "detail": "• Condition in which the maxilla is narrower than the mandible in the back\n• Upper fourth premolars are either palatally displaced, upper forth premolar inside the lower first molar, or the mandible is wider than the maxilla in the premolar area\n• Common in dolichocephalic breed"
+  },
+  {
+    "title": "Anterior/rostral crossbite",
+    "detail": "• Class I malocclusion; most common orthodontic abnormality\n• Premolar relationship is a normal scissor occlusion, but one or more of the incisors are misaligned\n• One or more of the upper incisor teeth are palatal to the lower incisors\n• Milder form is a level bite (when mandibular and maxillary incisors meet cusp tip to cusp tip)"
+  },
+  {
+    "title": "Base-narrow mandibular canines",
+    "detail": "• Class I malocclusion\n• Normal maxillary-to-mandible relationship, but mandibular canines are lingually displaced\n• Often seen in conjunction w retained lower deciduous teeth that push the mandibular canines inward\n• Occlude w and cause trauma to the hard palate"
+  },
+  {
+    "title": "Wry mouth",
+    "detail": "• Animal w half of the jaw longer on one side than the other\n• Hereditary\n• Not easily treatable\n• Class IV malocclusion"
+  },
+  {
+    "title": "Dental dysplasia",
+    "detail": "• Abnormal development of teeth\n• Structural issues can involve the crown, roots, or entire tooth\n• Enamel hypoplasia (dysplasia) is incomplete or defective formation of the organic enamel matrix of teeth"
+  },
+  {
+    "title": "Tooth luxation",
+    "detail": "• Traumatic dental injury where a tooth is displaced from its normal socket position but not completely knocked out\n• An intrusion occurs when the tooth is pushed apically into the alveolar bone. An extrusion occurs when a tooth is partially dislocated from the alveolar bone. An avulsion occurs when the tooth is completely luxated from the alveolus."
+  },
+  {
+    "title": "Halitosis",
+    "detail": "• Bad breath\n• First sign that the pet owner notices."
+  },
+  {
+    "title": "Staging",
+    "detail": "• Way to classify oral tumors\n• Performed by the vet using the system set up by WHO for classifying cancerous tumors in humans\n• T characterizes the tumor by its clinical features\n• N assesses the involvement of regional lymph nodes\n• M assesses whether the tumor has metastasized\n• Stage is further characterized with a number after each feature (e.g. N1)\n• Tumors are measured for size and recorded\n• Periodontal care and oral tumor surgery are assessed and a treatment plan is created"
+  },
+  {
+    "title": "Epulis (pl. epulides) (peripheral odontogenic fibromas)",
+    "detail": "• Most common oral tumor in dogs, rare in cats\n• Benign\n• Can be fibromatous, ossifying, or acanthomatous\n• Arise from periodontal connective tissue, originating in the gingiva, and do not invade the bone"
+  },
+  {
+    "title": "Common malignant oral tumors in dogs and cats",
+    "detail": "Cats\n• Squamous cell carcinoma (most common)\n• Fibrosarcoma\nDogs\n• Oral melanoma\n• Squamous cell carcinoma\n• Fibrosarcoma\n• Osteosarcoma"
+  },
+  {
+    "title": "Eosinophilic granulomas and indolent ulcers",
+    "detail": "• Allergy-related lesions that occur in cats\n• Eosinophilic granulomas appear in the oral cavity as ulcerations on the tongue, palate, and palatine arches\n• Indolent ulcers are one of the ways eosinophilic granulomas can appear in the mouth; typically raised ulcerations on the upper lip or oral mucosa\n• Resolve w/out treatment but are responsive to corticosteroids\n• Often recur"
+  },
+  {
+    "title": "Stomatitis",
+    "detail": "• Mouth inflammation presenting as mucous membranes lining the mouth becoming red and irritated—inflammation and infection of the tooth’s supportive tissues\n• Usually involves inflammation of the cheeks, gums, tongue, lips, roof, or floor of the mouth\n• Lesions are found around a tooth or entire gum line in the form of broken or infected skin\n• Can result from poor oral hygiene, iron deficiency anemia, FBOs, or thermal/chemical/electrical burns\n• Indicates inefficient immune response\n• Symptoms include change in behavior, severe pain, irritability, aggressiveness, depression, excessive drooling, appetite changes due to difficulty chewing"
+  },
+  {
+    "title": "Chronic ulcerative paradental stomatitis (CUPS)",
+    "detail": "• Inflammation of any soft tissues contacting crowns when the mouth is closed\n• Include oral mucosa, palatal mucosa, buccal mucosa, lip margins, epithelial surfaces of the tongue\n• Ass w gingival recession and significant calculus\n• Painful\n• Causes halitosis"
+  },
+  {
+    "title": "Feline chronic gingivostomatitis (Feline lymphocytic-plasmacytic stomatitis (LPS))",
+    "detail": "• Severe, painful inflammation of gums and mouth tissues\n• Linked to an immune response to plaque\n• Potential occurs in combination w another immune disorder such as FeLV or FIV\n• Signs include very red and swollen gums, inflamed lesions along the back side of the throat/esophagus, difficulty chewing, loss of appetite, significant weight loss, unkempt appearance due to lack of grooming\n• Corticosteroids, cyclosporine, and antibiotics temporarily improve signs\n• Full mouth extractions usually necessary for long term cure\n• More common in specialty-bred cats like Siamese, Himalayans"
+  },
+  {
+    "title": "Feline odontoclastic resorption lesions (aka feline cervical lesions, neck lesions, enamel erosions)",
+    "detail": "• Feline resorptive lesions are resorptions of the hard dental tissues by cells called odontoclasts; lesions originate at the cementoenamel joint w granulation tissue inside\n• Cells inside the lesion differentiate into odontoclasts along the periodontal ligaments, causing dentin and root replacement resorption as they attach and take nutrients from dentin and enamel\n• Root may become small or nonexistent\n• In Class 5 tooth resorption, root tips remain but there is no crown\n• Effects 60% of cats; common in purebreds\n• Dx w full-mouth radiographs (8–10 views)\n• Signs include oral pain presenting as appetite loss, change in food preference, decreased grooming, difficulty chewing, irritability, aggressiveness, bleeding, excessive salivation"
+  },
+  {
+    "title": "Feline odontoclastic resorption lesions—internal vs. external resorption",
+    "detail": "• Internal resorption: Pathologic process in which odontoclasts resorb tooth structure from the inside of the tooth, starting in the pulp cavity and progressing outward into dentin\n• Caused by trauma\n• X-rays show abnormally shaped pulp chamber (radiolucent enlargement of chamber)\n• External resorption: Loss of tooth structure that begins on the outer surface of the root and progresses inward, caused by odontoclast activity\n• Caused by trauma, periapical disease, or neoplasia\n• Biopsy recommended"
+  },
+  {
+    "title": "Periodontal probe",
+    "detail": "• Noncutting instrument used to determine the depth of the gingival sulcus\n• Has marks etched in mm on the blunt end, which is placed parallel to the tooth and run around it to measure pocket depth (i.e. distance bw base of the pocket and gingival margin)\n• UNC15 probe has markings from 1 to 15 mm\n• Both Williams and Goldman Fox probes have 1, 2, 3, 5, 7, 8, 9, 10 mm (skipping 4 and 6 to help detect subtle changes); Williams has a tapered, round tip, Goldman has a flat tip\n• Michigan O probe has 3, 6, 8 as markings\n• Should not exceed 3 mm in dogs, and 1 mm in cats\n• Also used to measure how much gingival recession or gingival hyperplasia affects the tooth"
+  },
+  {
+    "title": "Shepherd’s hook (explorer)",
+    "detail": "• Used to examine the surface of the tooth w a flexible steel tip that can detect abnormalities like furcation, enamel fracture, pulp exposure\n• Used to investigate condition of enamel\n• Used to expose subgingival calculus or loose teeth\n• Used to examine external feline odontoclastic resorption lesions\n• Working end of the explorer is a fine wire made that catches when there is a defect"
+  },
+  {
+    "title": "Most commonly used dental explorer",
+    "detail": "• Double-sided instrument w Shepherd’s hook and a periodontal probe on either end"
+  },
+  {
+    "title": "Hand scalers",
+    "detail": "• Used to remove calculus\n• Has a ridged back, two sharp sides, and a pointed tip used to remove debris in the developmental grooves along the crown surface\n• 1/3 of the cutting edge of the tip should remain in contact w the tooth to prevent damage to soft tissue\n• Include sickle and curette scalers\n• Sickle scaler has a sharp, pointed tip; used above the gumline (supragingival); best for removing heavy calculus on crown surfaces\n• Curette scaler has rounded toe and back; used below the gumline (subgingival); used for root planing and subgingival calculus removal"
+  },
+  {
+    "title": "Angulation for scalers",
+    "detail": "• Blade angle should be at 45-90 degrees in supragingival scaling\n• When using a curette for subgingival scaling, it is inserted in a pocket at an angle that is as close to zero as possible (face is parallel w the root and blade rests on the lining’s soft tissue)\n• Angle is then opened to 45 to 90 degrees (60-80 ideal) to remove calculus; otherwise calculus will smooth or burnish (polish) rather than be removed which prolongs procedure"
+  },
+  {
+    "title": "Sickle scaler",
+    "detail": "• Used to remove supragingival (above gum line) calculus\n• Formed as a triangle w 2 cutting edges that have sharp tips\n• Should be moved up and away from the tooth"
+  },
+  {
+    "title": "Curette scaler",
+    "detail": "• Used to remove subgingival (below gum line) calculus on the root surface and on the gingival tissue on the opposing side (gingival curettage)\n• Shaped like a spoon w two sharp edges, a blunt tip, and a curved back (another resource says one or two sharp edges and a rounded toe)\n• Two forms are universal curettes and area-specific curettes like Gracey, Columbia, and Barnhart w variations in shank and blade length to reach specific areas\n• Should be pulled away from the root\n• Excessive force may degrade/tear epithelial attachment"
+  },
+  {
+    "title": "Curettage",
+    "detail": "• Removal of calculus and necrotic cementum from the root surface using a dental curette\n• Removal of infected soft tissue from periodontal pockets"
+  },
+  {
+    "title": "Root planing",
+    "detail": "• Removal of dental deposits from and smoothing of the root surface of a tooth\n• Can be closed when performed w/out a flap and open when performed after flap creation\n• Goal is to make the root less supportive of bacterial colony formation, plaque, and calculus\n• Curette is used for root planing"
+  },
+  {
+    "title": "Elevators",
+    "detail": "• Periosteal elevators are used to lift gum tissue to remove alveolar bone in an extraction\n• Dental elevators are used to stretch and tear the periodontal ligaments in order to loosen tooth for easier extraction"
+  },
+  {
+    "title": "Amplitude and water flow in mechanical scalers",
+    "detail": "• Amplitude is the distance the tip will move back and forth during each cycle; can be altered by the power knob\n• Flow of water is adjusted by the flow know to minimize heat\n• Higher power is used for heavier tartar, but lowest power possible is ideal\n• Always use low power for subgingival tips"
+  },
+  {
+    "title": "Types of mechanical scalers",
+    "detail": "• Ultrasonic scalers: Convert sound waves into mechanical vibrations\n• Magnetostrictive: Tip vibrates elliptically at 18K to 29K cycles per second\n• Piezoelectric: Linearly active; converts alternating current into 18K cycles per second\n• Sonic scalers: Tip elliptically vibrates up to 18K cycles per second; less heat buildup\n• Rotary scalers: Rotary dental burs are placed on a high-speed hand unit that spins at 300K to 400K RPM"
+  },
+  {
+    "title": "Ultrasonic scalers",
+    "detail": "• Type of power scaler\n• Used to remove supragingival gross calculus or tartar\n• Subgingival tips available to use at lower power\n• Works at a frequency of 20-45 kHz or 20k-45K cycles per second\n• Tip cooled off by water\n• Gentle touch and movement (10-15 sec per tooth) necessary to avoid burning\n• Grasped like a pencil; side of the instrument is used against the tooth rather than the tip\n• Mouth should be rinsed frequently w 0.12% chlorhexidine solution\n• 3 tips available: magnetostrictive, piezoelectric, sonic\n• Piezoelectric moves linear at 40 kHz—least likely to cause trauma so most common"
+  },
+  {
+    "title": "Dental bur",
+    "detail": "• Rotary cutting instrument used to cut, shape, or remove tooth structure\n• Bur must be cooled by water; overheating will result in damage to soft tissue and bone\n• Thermal necrosis of bone usually results in development of a bone sequestrum (foreign body) that needs to be retrieved surgically as a second procedure"
+  },
+  {
+    "title": "Cleaning and care of instruments and equipment",
+    "detail": "• Instruments washed in disinfectant after procedure and dried, then sharpened, and finally sterilized\n• 110-degree angle bw instrument and sharpening stone\n• Sharpness can be tested on an acrylic stuck—if instrument “bites” it is shaper enough (less accurate method is to hold up to the light—only dull surface reflects light)\n• Oil levels in mechanical scalers must be checked once a week and topped off as necessary, and the entire unit should have an oil changed once every 6 months\n• As part of maintenance of scalers, water lines should be drained at the end of each day to prevent biofilm (i.e. film formed by bacteria)"
+  },
+  {
+    "title": "Dental prophylaxis",
+    "detail": "• Dental cleaning\n• Goal is to stop progress of periodontal disease and gingivitis\n• Once a cat or dog turns 1 or 2, if they have tartar\n• Routine cleaning includes radiographs, ultrasonic scaling, and polishing"
+  },
+  {
+    "title": "Patient positioning",
+    "detail": "• Lateral recumbency w head lower than the tail to promote fluid drainage from the mouth to minimize risk of aspiration\n• For radiographs, imaged jaw should be parallel to the surface"
+  },
+  {
+    "title": "Scaling and polishing",
+    "detail": "• Process of removing calculus and plaque\n• Mechanical scaler for supragingival calculus/plaque\n• Hand curette for residual subgingival calculus\n• Leave grooves on the teeth, which are smoothed w polishing to minimize bacteria adherence\n• Polishing also removes any leftover plaque\n• Paste should have fine to medium granularity\n• Low-speed handpiece is used w prophy paste, which reduces heat\n• 3 sec on each tooth starting from most caudal, ending w incisors\n• Followed w rinse"
+  },
+  {
+    "title": "Scaling a tooth w large amount of calculus",
+    "detail": "• Remove gross deposits (plaque-covered calculus) using rongeurs, extraction forceps, or calculus-removing forceps\n• Remove residual supragingival deposits with sharp hand instruments (sickle or curette)\n• Remove residual deposits w a power scaler (ultrasonic or sonic)"
+  },
+  {
+    "title": "Periodontal debridement",
+    "detail": "• Non-surgical instrumentation aimed at removal of deposits from supra- and subgingival areas\n• Include tartar removal, root planning, scaling, polishing"
+  },
+  {
+    "title": "Fluoride treatment",
+    "detail": "• Provides antibacterial support\n• Reduces sensitivity when applied over exposed dentinal tubules\n• Forms fluoroapatite, which strengthens the tooth surface, and makes it more resistant to cariogenic bacteria that dissolve enamel\n• Administered after the polish, left on for 4 min, and wiped off\n• Prophy paste may have fluoride in it, but can still be administered after\n• Best to wait 30 min bw fluoride and chlorhexidine since binding activity of one can cancel out the other"
+  },
+  {
+    "title": "Local anesthesia",
+    "detail": "• Lowers postop discomfort and reduces complications during recovery\n• Used if there is no evidence of infection or abscess\n• Best administered via nerves\n• Epinephrine relaxes airways and constricts blood vessels, but must make sure its use isn’t contraindicated in the specific patient"
+  },
+  {
+    "title": "Nerve blocks for tooth extractions",
+    "detail": "• Infraorbital (rostral maxillary) block: Desensitizes all maxillary teeth rostral to the injection site, including incisors, canine, and first 3 premolars, soft tissue, and adjacent maxillary bone; infraorbital foramen is located dorsal to the roots of the maxillary third premolar\n• Aren’t used in cats and brachycephalic dogs, since infraorbital foramen is too short (affects whole maxilla)\n• Maxillary block: Blocks bones, teeth, and tissues of the maxilla; location is the most caudal aspect of the hard palate, i.e. just caudal to the maxillary second molar of a dog or maxillary first molar of a cat\n• Middle mental (rostral mandibular) block: Desensitizes the mandibular incisors and canines and the lower lip of the injected side; foramen is located below the mesial root of the mandibular second premolar in the dog and mandibular third premolar in the cat\n• Inferior alveolar (caudal mandibular) block: Blocks all mandibular teeth, bone, soft tissue on the affected side; foramen is located on the lingual surface of the caudal mandible where the ventral cortex curves dorsally"
+  },
+  {
+    "title": "•\tInfraorbital (rostral maxillary) block",
+    "detail": "• Found above the roots of the maxillary 3rd premolar\n• 27 gauge 1¼ needle is common\n• Rostral maxillary teeth (incisors → PM3) affected (avoided in brachycephalic bc it affects whole maxillary)\n[[image:Dentistry Flashcards_Image08.png]]"
+  },
+  {
+    "title": "Maxillary block",
+    "detail": "• Just caudal to the maxillary 2nd molar (dog) or maxillary 1st molar (cat)\n• Injection at the most caudal aspect of the hard palate\n• Entire maxillary quadrant desensitized\n[[image:Dentistry Flashcards_Image07.png]]"
+  },
+  {
+    "title": "Middle mental (rostral mandibular) block",
+    "detail": "• Located below mandibular 2nd premolar (dog) or mandibular 3rd premolar (cat)\n• Incisors, canines, and lower lip affected\n[[image:Dentistry Flashcards_Image06.png]]"
+  },
+  {
+    "title": "Inferior alveolar (caudal mandibular) block",
+    "detail": "• Mandibular foramen on the lingual (medial) surface\n• Caudal mandible where ventral cortex curves dorsally\n• Entire mandibular quadrant desensitized; all mandibular teeth, bone, and soft tissue\n[[image:Dentistry Flashcards_Image04.png]]"
+  },
+  {
+    "title": "Epinephrine",
+    "detail": "• Added to nerve blocks like bupivacaine or lidocaine\n• Causes vasoconstriction, which in turn prolongs the effect of the nerve block and also provides some hemostasis\n• Should not be used in patients that have uncontrolled hyperthyroidism, cardiac dysrhythmias, or asthma"
+  },
+  {
+    "title": "Splinting",
+    "detail": "• Used to immobilize a tooth that is mobile because of periodontal disease\n• Removal of calculus and granulation tissue subgingivally treats the tooth using an open flap technique; flap is then sutured closed and tooth is immobilized during healing by splinting it to a healthy tooth using dental acrylic"
+  },
+  {
+    "title": "Gingival flaps",
+    "detail": "• Section of gum tissue that is surgically lifted to expose the underlying bone and roots; repositioned later and sutured back in place\n• Facilitates extractions and other procedures\n• Simple interrupted pattern is the most common suture pattern\n• Absorbable sutures preferred; monofilaments minimize irritation (e.g. PDS, Monocryl, Maxon)\n• Size 4.0 or 5.0 would be ideal"
+  },
+  {
+    "title": "Extraction tools",
+    "detail": "• Single root extractions (canines, incisors): Elevator, forces, blade, small sutures (4-0)\n• Canines will require using a periosteal elevator to lift the flap if the tooth is well attached, then a taper fissure butt to cut around it; another elevator and forceps will then used to extract the tooth\n• Bone rasp can be used for remaining bone pieces\n• Multi-root extractions: Flap is created using an elevator and blade, high-speed handpiece is used to drill the bone w a round burr, tooth is cut in two using a taper fissure burr, and each is removed using forceps; area must be sutured closed\n• Root tip picks can be used to stretch and break periodontal ligaments to obtain a fractured root tip\n• Radiograph must be taken before and after extraction"
+  },
+  {
+    "title": "Extraction forceps",
+    "detail": "• Should only be used after the tooth has become mobile by elevation—after the periodontium is incised and dental elevator is inserted between the root and the alveolar bone to cut and fatigue periodontal ligaments\n• Tooth is grasped as low as possible and removed from the alveolus w a twisting motion\n• Using extraction forceps too early can result in a fractured root"
+  },
+  {
+    "title": "Extraction (exodontics)",
+    "detail": "• Surgical procedure; oral cavity can’t be sterile, but should be cleaned\n• All teeth should be scaled and polished, and the mouth should be rinsed with a chlorhexidine solution prior to extraction\n• Hemorrhage, jaw fracture, and oronasal fistulas are common complications\n• Clotting defects may not be apparent (hemorrhage)\n• Advanced periodontal disease around mandibular teeth will weaken the mandible (jaw fracture)\n• Advanced periodontal disease destroys medial bony wall of the alveolus (oral nasal fistula)"
+  },
+  {
+    "title": "Dry socket (alveolar osteitis)",
+    "detail": "• Painful postoperative complication of extraction\n• Mostly in humans, but sometimes in dogs\n• Combination of trauma induced by the procedure, infection, loss of the primary clot, or a decreased blood supply to the alveolus\n• Likely to occur when tooth socket is overirrigated so that no clot can form\n• Palliative irrigation and pain management are used to treat"
+  },
+  {
+    "title": "Floating",
+    "detail": "• Filling the occlusal surfaces of horse’s teeth in order to make the bite level and consistent\n• Horses have teeth that can develop sharp points if they do not chew food properly; eating wears teeth down, causing sharp edges to form—floating is the filing or rasping of premolar and molar teeth to remove the sharp edges\n• Horse teeth grow throughout life, but upper jaw may cause the lower to move sideways while eating (slanted chewing position), leading to pointed edges on the teeth that may cut the cheek, cause pain, and affect eating"
+  },
+  {
+    "title": "Prophylactic antibiotics",
+    "detail": "• Objective of preventing treatment-induced bacteremia\n• Geriatric, debilitated, or immunocompromised animals, as well as those w preexisting heart conditions, gross infection, or chronic stomatitis should receive antibiotics for a dental operation"
+  },
+  {
+    "title": "Chronic osteomyelitis",
+    "detail": "• Serious bone infection\n• Dogs w chronic allergies that engage in chewing have impaction of hair bw incisors, esp. if concurrent w malocclusion\n• Subsequent infection causes periodontal disease, and bacteria from periodontal disease travels down the root to the alveolar bone, resulting in chronic osteomyelitis\n• Animals often lose teeth and experience pain secondary to infection"
+  },
+  {
+    "title": "Cranial mandibular osteodystrophy",
+    "detail": "• Non-neoplastic excess bone formation in the area of the temporomandibular joint (TMJ)\n• Can extend into the mandible\n• Causes pain, which lessens w age\n• Inheritable condition of West Highland white terriers"
+  },
+  {
+    "title": "Mandibular periostitis ossificans",
+    "detail": "• Condition that causes a unilateral bony swelling of the ventral mandible\n• Diagnosed radiographically by the presence of double-layered ventral cortex\n• Inflammatory reaction; will spontaneously disappear\n• Found in immature large-breed dogs"
+  },
+  {
+    "title": "Odontoma",
+    "detail": "• Presents in the mandible as an oral swelling\n• Mass of cells made up of enamel, dentin, cementum, and other toothpick structures are visible in radiographs\n• Mass can be extensive and invasive, but excisable"
+  },
+  {
+    "title": "Lingually displaced mandibular canine",
+    "detail": "• Condition in which the mandibular canine occludes directly into the hard palate (instead of bw and buccal to the maxillary third incisors and canine)\n• Causes pain and potential communication w nasal cavity\n• Orthodontic movement of misplaced tooth into proper position is possible\n• Crown reduction is also possible—crown is cut off to the level of the incisors and exposed pulp is treated and restored w a vital pulpotomy procedure so the tooth to remains vital"
+  },
+  {
+    "title": "Dentrifice",
+    "detail": "• Toothpaste or another substance used w a brush to clean teeth\n• Additional benefits—flavor makes brushing more acceptable, and includes abrasive or chemical compound that improves the mechanical and/or chemical activity that brushing provides"
+  },
+  {
+    "title": "Tooth brushing",
+    "detail": "• Gold standard for disrupting plaque; disrupts bacteria from adhering temporarily\n• Brush is angled at 45o to the tooth surface so bristles enter the gingival sulcus; circling motion ensures cracks and crevices are cleaned\n• Must be repeated daily to provide optimum results\n• Use of human toothpaste is not recommended due to high fluoride content, which may lead to acute or chronic toxicity due to swallowing"
+  },
+  {
+    "title": "Gutta percha",
+    "detail": "• Used to fill the pulp chamber inside the tooth during root canal\n• After the pulp chamber is debrided and flushed, a CE end or paste is used to seal the walls to prevent bacteria from entering the dentinal tubules; gutta percha fills in the remaining space"
+  },
+  {
+    "title": "Dental abbreviations",
+    "detail": "• UCF: Uncomplicated crown fracture\n• CCF: Complicated crown fracture\n• UCRF: Uncomplicated crown and root fracture\n• CCRF: Complicated crown and root fracture"
+  },
+  {
+    "title": "Root canal therapy",
+    "detail": "• Performed if the pulp is already dead or has a high chance of dying\n• Entire tooth is removed, pulp chamber is cleaned, and a material is placed in the empty pulp chamber to remove the dead space and prevent bacterial infiltration\n• Tooth is still functional, but clinically dead"
+  },
+  {
+    "title": "Vital pulp therapy",
+    "detail": "• Used to treat complicated crown fractures with pulp exposure in young teeth (<1 year) or recent fractures (≤48 hours)\n• Goal is to maintain pulp vitality\n• Promotes apexogenesis in immature teeth so the root apex can continue to develop and close\n• In acute fractures, a small portion of exposed coronal pulp is removed (vital pulpotomy), a medicament is placed on the pulp, and the tooth is sealed with a restoration to allow healing and dentin bridge formation"
+  },
+  {
+    "title": "Calcium hydroxide",
+    "detail": "• Endodontic material used for a vital pulpotomy procedure\n• Placed on the exposed pulp to restore the tooth—acts as an irritant to the tooth and causes it to form a dentinal bridge over the exposed pulp, sealing it from any possible bacteria"
+  },
+  {
+    "title": "Black pulp",
+    "detail": "• A gray or black color is an indication of necrotic pulp\n• Only tx options are root canal therapy or extraction\n• A tooth with an open pulp chamber should never be left untreated"
+  },
+  {
+    "title": "Caries",
+    "detail": "• Cavities\n• Dental decay due to demineralization secondary to bacteria causing acid erosion of the enamel and dentin\n• Present as lesions on the occlusal (chewing) surface of the molars on the maxillary or the mandible\n• Evaluated using probe and other instruments, as well as radiographs"
+  },
+  {
+    "title": "Salivary glands",
+    "detail": "• Mandibular salivary glands (easily palpated on the ventral neck)\n• Parotid salivary gland\n• Sublingual salivary gland\n• Zygomatic salivary gland"
+  },
+  {
+    "title": "Roof of the mouth",
+    "detail": "• Hard plate makes up the rostral 2/3\n• Palatal mucosa has prominent ridges (rugae)\n• Rugae from 8 to 10 are very close together; good environment for food, fur, and debris accumulation"
+  },
+  {
+    "title": "Incisive papilla",
+    "detail": "• Found at the midline of the hard palate, behind the incisors\n• Raised and round\n• Incisive duct and vomeronasal organ (helps pheromone detection) sits lateral"
+  },
+  {
+    "title": "Perioceutics",
+    "detail": "• Drugs compounded to be directly placed in the mouth\n• Release the medication over time\n• Periodontal pockets that are 3–6 mm in a dog warrant placement of locally applied antibiotic gels directly into the pocket to allow direct treatment infection and to avoid systemic or GI side effect"
+  },
+  {
+    "title": "Drugs used in dentistry",
+    "detail": "• For chronic and severe periodontal disease, patients can be given antimicrobials for a week before and 7–10 days after periodontal treatment\n• Corticosteroids are used for to treat stomatitis to decrease pain and inflammation for a while (until extraction)\n• Immunostimulating drugs like interferon have also been used, but not successful\n• NSAIDs are used postoperatively in severe periodontal disease"
+  },
+  {
+    "title": "Odontoclasts",
+    "detail": "• Multinucleated cells that resorb (break down) tooth structure\n• Functionally similar to osteoclasts but act on dentin, cementum, and enamel\n• Areas of tooth damage created by odontoclast activity are called resorptive lesion (e.g. feline odontoclastic resorptive lesions)\n• If the process starts on the outside of the root, it is called external root resorption"
+  },
+  {
+    "title": "Orofacial pain syndrome",
+    "detail": "• Causes a cat to start spontaneously and aggressively pawing at its face and mouth and to cry out in pain\n• Pain disorder that presents w behavioral signs rather than a clinical presentation; caused by damage to the nerves of the peripheral nervous system\n• Oral exam w radiography crucial to rule out oral disease or\n• Painful to pain-free intervals, lessening w time\n• Mouth movements will usually trigger a reaction\n• Tx w anticonvulsant w an analgesic effect (traditional pain management won’t work)\n• If does not improve, test for small intestinal lymphoma and/or inflammatory bowel disorder"
+  },
+  {
+    "title": "Lip-fold dermatitis",
+    "detail": "• Skin infection caused by a combination of moisture from excess saliva, trapped food, and hair resulting in bacterial growth, which leads to irritation, erythema, and a foul odor\n• Common in Bulldogs, setters, spaniels, and bassets"
+  },
+  {
+    "title": "Mandibular symphyseal laxity",
+    "detail": "• Common finding in cats and small dogs\n• Incisor teeth are not in individual bony sockets but suspended in connective tissue, causing them to be mobile/excessively loose\n• May still be healthy teeth\n• Periodontal probing to measure the depth of gingival sulcus and radiographs necessary to rule out potential attachment loss\n• If alveolar bone loss is >50%, or if tooth has abnormal structure, it should be extracted"
+  },
+  {
+    "title": "Gingival recession",
+    "detail": "• Apical movement of the gum tissue from the gingival crest in response to the presence of plaque bacteria or calculus"
+  },
+  {
+    "title": "COHAT",
+    "detail": "• Comprehensive Oral Health Assessment and Treatment\n• Include the initial physical exam, pre-anesthetic evaluation, anesthesia, dental intraoral radiographs, gross assessment of dentition, radiographic assessment of dentition, scaling and polishing, any extractions, recheck radiographs"
+  },
+  {
+    "title": "First dental exam for dogs",
+    "detail": "• At time of first vaccinations, around 8 weeks, followed by a dental exam every visit after that\n• Deciduous teeth should be in place; occlusion should present as a normal scissor bite (unless brachycephalic)\n• Oral masses do not usually present until adulthood\n• Oral tumor that can be seen earliest is fibrosarcoma"
+  },
+  {
+    "title": "Oral examination",
+    "detail": "• Performed in two parts—in the exam room w the patient awake, and after patient is anesthetized\n• Initial treatment plan can be presented to client after awake exam\n• Total estimate for care will be given after radiographs are taken, while patient is still anesthetized"
+  },
+  {
+    "title": "Extraoral evaluation",
+    "detail": "• Awake patients\n• Evaluation for facial asymmetry, muscle atrophy, ocular and nasal discharge, superficial assessment, and grading of visible dental disease\n• Palpation of normal and abnormal lymph nodes and salivary glands\n• Noting halitosis"
+  },
+  {
+    "title": "Intraoral evaluation",
+    "detail": "• Under general anesthesia\n• Evaluation of soft tissue structures including soft and hard palate, periodontium, all dental structures"
+  },
+  {
+    "title": "Placement of deciduous vs. permanent canines/incisors",
+    "detail": "• Permanent upper canines erupt mesial to deciduous canines\n• Permanent lower canines usually erupt lingual to deciduous canines\n• Permanent incisors erupt distal to deciduous incisors"
+  },
+  {
+    "title": "Primary (deciduous) vs. permanent teeth",
+    "detail": "• Primary teeth are smaller than their permanent counterparts\n• Primary teeth have long, slender roots"
+  },
+  {
+    "title": "Assessment of mucous membranes",
+    "detail": "• Color and texture\n• Evidence of bleeding problems (petechiation, purpura, ecchymoses)\n• Vesicle formation and ulceration, which could indicate vesiculobullous disorder (pemphigus and/or pemphigoid)"
+  },
+  {
+    "title": "Toys and teeth",
+    "detail": "• Dense rubber exercisers are the safest—they flex when the dog bites down so teeth aren’t fractured\n• Dried cow hooves and knucklebones are hard and could cause slab fractures and periodontal ankyloses (ligament shock-absorbing capacity that is lost because of calcification w/in the periodontal ligament space)\n• Nylon ropes are abrasive and can cause gingival trauma and wear on the crowns; can cause linear foreign body"
+  },
+  {
+    "title": "Head sizes/shapes",
+    "detail": "• Dolichocephalic heads are long and narrow (e.g. seal-point Siamese, greyhounds, collies)\n• Mesaticephalic heads are medium (e.g. German shepherds and corgis)\n• brachycephalic heads are short and wide heads (e.g. Persian cats)"
+  },
+  {
+    "title": "Intrinsic and extrinsic staining",
+    "detail": "• Intrinsic staining refers to discoloration that occurs w/in the tooth structure\n• Commonly occur on the occlusal (chewing) surface, esp. on maxillary molars in dogs\n• Caused by trauma, meds like tetracyclines, or developmental defects\n• Not removable thru cleaning or polishing\n• Extrinsic stains include pigments left from food, blood, and antiplaque products like rinses that use chlorhexidine"
+  },
+  {
+    "title": "Enamel staining in puppies",
+    "detail": "• Enamel staining or intrinsic staining occurs secondary to tetracycline exposure at a young age\n• Tetracycline binds to enamel and dentin, causing a dark yellow discoloration"
+  },
+  {
+    "title": "Middle mental foramen",
+    "detail": "• Resides apical to the second premolar of the mandible in dogs\n• Can superimpose over a root and so is commonly misinterpreted as a peripheral pathological abnormality on radiographs"
+  },
+  {
+    "title": "Cribriform plate (lamina dura)",
+    "detail": "• A thin layer of bone lining the tooth sockets\n• Appears as a dense white line on radiographs\n• Indicate healthy bone structure"
+  },
+  {
+    "title": "Dilaceration",
+    "detail": "• Developmental abnormality resulting in a sharp bend in the crown or the root"
+  },
+  {
+    "title": "Ptyalism",
+    "detail": "• Drooling"
+  },
+  {
+    "title": "Jaw opening reflex",
+    "detail": "• Chattering of the lower jaw"
+  },
+  {
+    "title": "Rodent tooth problems",
+    "detail": "• Malocclusion is the most common dental problem\n• Constantly growing teeth can cause overgrowth of incisor and/or premolar and molar teeth\n• Overgrown incisors can lead to secondary tongue entrapment and soft tissue laceration\n• Tooth root abscess, scurvy, and impaction of the cheek pouch also occur though not as frequently"
+  },
+  {
+    "title": "Digital dental radiography units",
+    "detail": "• Unit consists of control panel, arm, and tube head\n• Control panel has the power switch, kV and mA buttons, dial or button to change exposure time\n• kV and mA are usually internally set, but exposure time can be changed to adjust technique (lightening or darkening the image)"
+  },
+  {
+    "title": "Dental films",
+    "detail": "• Placed in film packets, which include the film, and a lead foil and black paper covering the film that together protect it from radiation and light leaks\n• Light leak will lead to fogged film\n• Most packets have a tab in the back to remove the film for development; lead foil sits inside the flap side\n• The tab should not face the tube head bc it will cause artifact\n• Lead foil reduces scatter radiation; if the film is placed backward, it causes a herringbone/tire-track artifact\n• Most films have a small raised dimple on one corner to determine right and left; the raised side of the dimple should be on the side that is facing up and toward the tube head and pointing rostrally"
+  },
+  {
+    "title": "Dental film sizes",
+    "detail": "• Size 0 is for exotic breeds, toy-breed dogs, and cats\n• Size 2 is for small to medium dogs and cats\n• Size 4 may be necessary for large breed dogs\n• Called occlusal film\n• Ensures whole root of canine is included on large dogs\n• 8 × 10 in screen film is used for skull x-rays or extraoral views of the jaws if dental radiographs are not available"
+  },
+  {
+    "title": "General rules for radiographic views",
+    "detail": "• Must include root and crown of each tooth\n• Maxillary canines should be imaged on their own to prevent superimposition of the first and second premolars"
+  },
+  {
+    "title": "Views for dental radiographs",
+    "detail": "• Parallel mandibular: For mandibular premolars and molars; film/sensor is placed bw tongue and mandible, parallel to the long axis of teeth, and tube head is positioned perpendicular to the film at 60° to the horizontal plane\n• Rostral mandibular: For mandibular incisors and canine; film/sensor is placed below incisors and canine, and tube head is angled at 60° to the mandible\n• Rostral maxillary: For maxillary incisors; film/sensor is placed below the incisors and canine teeth and tube head angled 50-60° to the hard palate\n• Lateral oblique: For maxillary canine tooth; film/sensor is placed below the canine to second premolar, and tube head is angled 45° degrees to the hard palate and 80–90° oblique to the right or left, depending on which canine"
+  },
+  {
+    "title": "Views for dental radiographs (from Pocket Prep)",
+    "detail": "In lateral recumbency\n• Parallel technique for the 3rd mandibular premolar and distal teeth\n• Bisecting angle w cone over the chin for mandibular canines and incisors\n• Bisecting angle w cone over the nose maxillary incisors\n• Rostrocaudal oblique or bisecting angle for canines\n• Modified parallel technique (intraoral approach) for maxillary premolars and incisors OR extraoral approach for maxillary premolars and incisors\n• In extraoral approach, film is placed outside the mouth when intraoral placement isn’t possible; less image detail"
+  },
+  {
+    "title": "Distolateral oblique",
+    "detail": "• Used for maxillary fourth premolar in dogs\n• Helps split roots on the film for best evaluation\n[[image:Dentistry Flashcards_Image02.png]]"
+  },
+  {
+    "title": "Radiography techniques",
+    "detail": "• Parallel technique:\n• Caudal mandibular premolars and molars (parallel mandibular view)\n• Dorsal or lateral recumbency\n• Sensor placed parallel to the teeth and x-ray head held perpendicular to the teeth/sensor\n• Bisecting angle technique:\n• All maxillary teeth and rostral mandibular teeth\n• Sternal or lateral recumbency for maxillary, dorsal for mandibular\n• Sensor placed under the root and tooth imaged, x-ray head held angled so that the beam is perpendicular to the line that bisects the angle created bw long axis of the tooth and the sensor"
+  },
+  {
+    "title": "Elongation and foreshortening in bisecting angle technique",
+    "detail": "• If the x-ray beam is aimed perpendicular to the tooth (as opposed to the bisecting angle), the tooth will appear elongated\n• If the x-ray beam is perpendicular to the film, foreshortening will occur due to too much vertical angulation"
+  },
+  {
+    "title": "Radiographing bones",
+    "detail": "• Evaluating teeth requires view of supporting structures\n• 2-3 mm of alveolar bone should be included in radiographs"
+  },
+  {
+    "title": "Radiographic appearance of teeth",
+    "detail": "• Cementum and dentin are radiopaque, appear mid-gray\n• Enamel appears as a thin white line on the crowm\n• A radiopaque area around the tooth root is normal—both bone and tooth are radiopaque\n• Periapical abscess will appear as a radiolucent area around the apex of the tooth\n• Pulp cavity is radiolucent since pulp is soft tissue\n• Mandibular canal is radiolucent (dorsal to most roots in the mandible)\n• Pulp stone will appear as a radiopaque area inside the tooth\n• Dense alveolar bone that line tooth sockets (cribriform plate/lamina dura) appear as a white line"
+  },
+  {
+    "title": "Safety while taking radiographs",
+    "detail": "• Ideal to be behind a wall/barrier and have lead apron\n• Safe to stand anywhere from 90- to 130-degree angles perpendicular to the x-ray beam\n• Never stand parallel to the beam"
+  },
+  {
+    "title": "Number of views for cats and dogs",
+    "detail": "• 8 views for cats\n• 10 views for dogs"
+  }
+]

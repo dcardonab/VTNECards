@@ -1,0 +1,670 @@
+[
+  {
+    "title": "X-rays",
+    "detail": "• Nonluminous electromagnetic radiation\n• Results from high impact of a large volume of heated negatively charged electrons, which rupture upon impact and convert to x-radiation\n• Shorter wavelength than visible light, means greater energy\n• Wavelength is measured in nanometers (one millionth of a mm)\n• Wavelength of a medical x-ray is 0.05–0.01 nm"
+  },
+  {
+    "title": "X-ray tube",
+    "detail": "• Generates the photons carrying the electromagnetic charge and directs them along a targeted pathway\n• When a photon strikes an object, it can penetrate the object, it can be absorbed by the object, or it can produce scatter radiation\n• Consists of cathode filament, anode plate, focusing cup, target, glass envelope, aluminum filter, beryllium window"
+  },
+  {
+    "title": "Cathode",
+    "detail": "• Site of electron generation in the x-ray\n• Sits across from the focusing cup and anode plate\n• A tube that contains a filament consisting of a tightly coiled tungsten filament w a copper stem that releases electrons when heat is applied\n• Maintains a negative potential thru the heating process\n• Electrons are drawn to and collide w the positively charge anode, which produces photons that produce the x-ray image\n• 99% heat, 1% x-rays produced"
+  },
+  {
+    "title": "Anode",
+    "detail": "• Contains a tungsten metal plate on which the electrons are focused\n• Positively charged, so attracts negative electrons\n• Can be stationary or rotating—rotating anode has greater heat resistance (allows higher mA and kVP), but machine is bulky; stationary anode is used for portable x-ray units, not as heat resistant so needs to be cooled and can’t radiograph thick structures\n• Portable units contain nonrotating anode, stationary units contain rotating anode."
+  },
+  {
+    "title": "Primary beam",
+    "detail": "• Main focused beam that comes directly from the tube head\n• High-energy beam\n• Can’t be absorbed by lead, so will always penetrate what it’s aimed at (PPE won’t work)"
+  },
+  {
+    "title": "Soft radiation",
+    "detail": "• Lower 1/3 of the beam\n• Represents weak energy; too little to pass thru tissue\n• No bearing on image quality\n• Blocked by a 2.5 mm aluminum filter on the window of the x-ray tube"
+  },
+  {
+    "title": "Photons",
+    "detail": "• Packet of electromagnetic energy w no atomic mass\n• X-ray beams are composed of photons"
+  },
+  {
+    "title": "Electromagnetic (EM) energy",
+    "detail": "• Photons produced by radiation carry EM energy\n• X-rays are forms of EM energy w high energy and short wavelength"
+  },
+  {
+    "title": "Milliamperage (mA)",
+    "detail": "• Quantity of the electrons that is produced and released from the filament during x-ray production\n• Adjustments to mA setting affects density of finished radiograph—increased mA increases density/blackness, decreased mA lightens density/blackness\n• If mA (or exposure time) is doubled, density (overall darkness of the image) will double\n• 300 mA is the most common in small animal radiography (can range from 25 to 400 mA)\n• Large animals range from 10 to 1000 mA\n• mAs: Milli-ampere-second"
+  },
+  {
+    "title": "Kilovoltage (kVp)",
+    "detail": "• Energy of the electrons when they reach the anode (aka peak kilovoltage)\n• Used to control quality of the x-ray beam—higher kV means faster electrons w more penetrating power\n• Necessary to reach cassette through thicker tissue\n• Associated w contrast of image (shades of gray)—the more gray scale, the higher quality (high contrast allows small differences in tissues to be better visualized)\n• Higher kVp is required for thick areas (e.g. thorax of a barrel chested dog)\n• Higher kVp means more scatter and secondary radiation—increases the risk, so must be optimized"
+  },
+  {
+    "title": "kVp & mAs",
+    "detail": "• kVp controls quality (energy & penetration)\n• Contrast\n• How strong is the beam?\n• Penetration/contrast\n• mA controls quantity (number of X-rays)\n• Density\n• How many photons?\n• Brightness/dose\nK-L-M-N"
+  },
+  {
+    "title": "Contrast & Density (kVp & mAs)",
+    "detail": "• High contrast = Black and white image w little gray\n• Low contrast = Heavy on gray shades but little contrast bw structures (only few differences evident)\n• High density = Increased overall darkness\n• Low density = Decreased overall darkness\n• Contrast = kVp\n• Density = mAs\n∴ Radiograph that is too dark but contrast isn’t greatly altered is a problem of mAs (e.g. bone is properly white but soft tissue looks too dark)"
+  },
+  {
+    "title": "Time",
+    "detail": "• Duration that anode has positive charge and is receiving electrons\n• More electrons are produces when anode is positively charged for longer\n• High mA and lowest time possible is best to avoid blurs due to patient movement (especially in thoracic radiographs due to breathing)\n• If exposure time (or mA) is doubled, density will double"
+  },
+  {
+    "title": "Best mA/kVp for soft tissues and bones",
+    "detail": "• Soft tissue best visualized w higher kV and lower mA\n• Extremities best visualized w lower kV and higher mA"
+  },
+  {
+    "title": "Heel effect",
+    "detail": "• Uneven photon distribution that occurs when a beam leaves the tube—beam is more powerful at the cathode side due to the rate of absorption by the anode target material\n• Thickest part of the target area should be placed on the cathode side of the tube to decrease heal effect"
+  },
+  {
+    "title": "Detail",
+    "detail": "• Degree of sharpness of image\n• Helps proper evaluation of borders of anatomical structures\n• Most important factor affecting detail is focal-film distance (FFD)—mostly between 36 to 48 inches\n• If tube head is too close to the patient, image will be magnified and margins will be lost; if it’s too far, lack of penetration will result in non-diagnostic image\n• Using same distance each time will ensure image consistency\n• Second important is the focal spot—greater the focal spot, less detailed the film\n• Movement of patient also affects detail"
+  },
+  {
+    "title": "Density",
+    "detail": "• Degree of blackness of image\n• Based on the amount of light transmitted to the film—different tissues will absorb differently, thick tissues and dense organs will absorb more radiation\n• mAs is the major factor affecting density as it determines the quantity of x-rays produced\n• More x-rays mean more light means darker image—higher the mAs, greater the density\n• Film density will be doubled if mA or exposure time is doubled\n• kVP also affects density\n• Increase in kVp results in increase in energy levels of x-rays, resulting in darker and denser image\n• Distance from the focal spot also has an effect—if mAs and kVp are constant, moving tube head closer to the patient will result in denser and darker image since more light will reach the patient"
+  },
+  {
+    "title": "Contrast",
+    "detail": "• Opacity of density difference bw two areas\n• High-contrast images are primarily black and white; low-contrast images have shades of gray\n• High-contrast can lead to black or white images\n• Bone requires high-contrast; soft tissues, thoracic, abdomen require low-contrast\n• Kilovoltage has biggest effect on contras\n• Higher the kVp, higher the scale of contrast—x-rays are more uniformly absorbed among tissues, resulting in lower contrast, which is why high kVp is good for thoracic images and low kVp for skeletal images"
+  },
+  {
+    "title": "Focal film distance (FFD)",
+    "detail": "• Distance bw the tube head (anode/focal spot) and image receptor (cassette or sensor plate)\n• Significant influence on exposure factors, so must be kept constant from one exposure to the next—results of changing FFD is similar to changing mAs\n• Increase in FFD decreases number of x-rays that reach the image receptor (double the distance, ¼ the x-rays)\n• Typical is 100 cm for small animals (another source: 36 to 48 inches in most clinics)\n• Typical is 70 cm in large animals, or bw 65-85 cm / 26-34 inches"
+  },
+  {
+    "title": "Inverse square law",
+    "detail": "• If focal-film distance (FFD) is doubled, intensity of x-ray beam is ¼ the original strength"
+  },
+  {
+    "title": "Film quality evaluation",
+    "detail": "• Step 1: Determine if anatomical structures are clearly visible\n• If not visible due to being too dark, decrease kVp by 10 to 15%\n• If too light, increase kVp by 10 to 15%\n• Step 2: Evaluate density\n• If structures are visible but too dark, decrease mAs by 30 to 50%\n• If density is too little increase mAs by 30 to 50%\n• Step 3: Evaluate structure (is it centered, is patient properly positioned, have markers been used, etc.)"
+  },
+  {
+    "title": "Dosimeter badges (film badges)",
+    "detail": "• Checked quarterly—OSHA inspectors, practice owners/managers, and the personnel that the badge belongs to can view results\n• Dosimetry reports are kept for 30 years in case of medical issues\n• Should not exceed 5 Roentgen equivalent man (rem) per year (maximum permissible dose is 5000 millirems/year)\n• Stored in a dry, cool place away from radiation\n• A control dosimeter badge is kept (away from radiation) to measure the background radiation during storage and shipment; later subtracted from the rem in used badges\n• Film badges are most common; thermoluminescent dosimeters, optically stimulated luminescence badges are not commonly used\n• Film badges, TLDs, and OSL badges all use multiple filter elements to estimate radiation dose at different energies\n• Copper measures highest level of exposure to radiation\n• Open window measures lowest level of exposure\n• Plastic and aluminum measure medium exposure"
+  },
+  {
+    "title": "ALARA",
+    "detail": "• \"as low as reasonably achievable\"\n• Universal principle to limit the amount of radiation doses to patients and employees\n• Scatter radiation increases exposure of both staff and patient"
+  },
+  {
+    "title": "Roentgen equivalent man (REM)",
+    "detail": "• Amount used to express the dose equivalent that results from exposure to ionizing radiation"
+  },
+  {
+    "title": "Old vs. new radiation units",
+    "detail": "• REM changed to Siever (Sv)\n• Roentgen changed to Coulomb/kg (C/kg)\n• RAD changed to Gray (Gy1)\n• Curie changed to Becquerel (Bq)"
+  },
+  {
+    "title": "Gray (Gy)",
+    "detail": "• Unit of measure for the amount of ionizing radiation absorbed by a body part\n• Equal to 1 joule of ionizing agent absorbed per kg of body part\n• Milligrays (mGy) and micrograys (cGy) more common bc amounts are large\n• Used to be RAD"
+  },
+  {
+    "title": "National Committee on Radiation Protection and Measurements",
+    "detail": "• Sets guidelines for radiation exposure standards like max. acceptable exposure (dose rate x exposure time)\n• Derived from recommendations of International Commission on Radiological Protection\n• States usually have own guidelines as well"
+  },
+  {
+    "title": "Screened vs. nonscreened film",
+    "detail": "• Screened film is most sensitive to light produced by intensifying screens\n• Exposure time is decreased, minimizing risk of blurry image due to patient motion\n• Can be blue- or green-sensitive\n• Most films other than dental\n• Nonsecreened film is more sensitive to direct x-rays than light produced w intensifying screens\n• Requires more exposure time and higher mA\n• Most need to be hand-processed\n• Faster is labeled E, other is labeled D\n• Becoming obsolete w wider use of digital imaging"
+  },
+  {
+    "title": "Intensifying screens",
+    "detail": "• Located inside cassettes; film is packed bw two intensifying screens\n• Made of tiny crystals (luminescent phosphor crystals) that emit light once exposed to x-rays\n• Decrease the amount of radiation needed to produce an image, and increase contrast"
+  },
+  {
+    "title": "Screen speed",
+    "detail": "• Ass w the amount of radiation needed\n• Can be fast, regular, medium, par, and detailed\n• Fast requires less radiation to produce same blackness, but detail is poorer\n• Slow or detailed require more radiation but have better resolution\n• Detailed screens are used in bird and exotics, medium or par in small animals"
+  },
+  {
+    "title": "Silver halide crystals",
+    "detail": "• Speed is affected by size of silver halide crystals—larger the crystals, faster the film but less detailed and more grainy; smaller crystals produce detailed image but require higher mA and longer exposure\n• Medium-grain film is most common for animals"
+  },
+  {
+    "title": "Single vs. double emulsion film",
+    "detail": "• Emulsion layer gives film more sensitivity, speed, density, and contrast\n• Protective layer protects the sensitive emulsion layer\n• Double emulsion film:\n• Common in vet med\n• Contain an emulsion and protective coat (supercoat) on both sides\n• Single emulsion film:\n• Have the same layers but on only one side\n• Appear dull on one side and shiny on the other"
+  },
+  {
+    "title": "Latent image",
+    "detail": "• Formed when electromagnetic radiation is exposed to silver halide crystals w/in the emulsion layer, causing them to become more sensitive to chemical changes\n• Called latent bc image is formed but not visible until processed\n• During processing, silver halide that was used is reduced to black metallic silver, and silver halide that wasn’t used (changed) is removed; once film is dry, emulsion hardens and traps the black metallic silver resulting in visible image"
+  },
+  {
+    "title": "Collimating device",
+    "detail": "• Structure located below the tube window that has lead shutters to limit the size of the x-ray beam\n• Used to limit the beam exposure to area of interest\n• Proper collimated x-ray appears as clear, unexposed areas on all four edges of the film; black, fully exposed edges indicate noncollimated radiograph\n• Collimation should be changed for clearer image and less scatter radiation"
+  },
+  {
+    "title": "Grid",
+    "detail": "• Used to decrease scatter radiation reaching the film and increase contrast\n• Scatter radiation has longer wavelength than primary beam; projected in all directions and absorbed by the first object it strikes\n• Located bw the patient and the cassette\n• Made up of alternating radiodense (lead) and radiolucent (plastic, fiber, aluminum) material (so beam must be centered on the grid)\n• Should be used if area is more than 10 cm thick\n• Since grid absorbs some of the x-ray beam, time needs to be increased; kVp also needs to be increased as thickness increases"
+  },
+  {
+    "title": "Bucky tray",
+    "detail": "• Holds the x-ray film cassette, which protects the film from light exposure"
+  },
+  {
+    "title": "Tabletop technique",
+    "detail": "• Used when anatomic measurement is less than 10 cm to prevent over-penetration of radiation to the structure, which will result in burnout of the image"
+  },
+  {
+    "title": "Manual vs. physical restraint in x-ray imaging",
+    "detail": "• Gloved hands are considered a form of manual restraint\n• Tape, radiolucent plexiglas, foam pads, wooden blocks, cardboard boxes, etc. are physical restraints"
+  },
+  {
+    "title": "Principles of positioning during radiographs",
+    "detail": "• Collimate using the smallest possible field size to minimize scatter and ensure best detail\n• Ensure safety and comfort of patient\n• Reduce staff exposure by avoiding manual restraint\n• Keep area of interest perpendicular to central ray and parallel to film\n• Center the beam over the area of interest\n• Place area of interest as close to the film as possible\n• Have a min. of two views at right angles (orthogonal view)\n• Clear field of artifacts\n• Plan ahead to avoid retakes\n• Place labels and markers\n• Include the distal and proximal joints for bones, and 1/3 of the proximal and distal bones for joints"
+  },
+  {
+    "title": "Exposure creep",
+    "detail": "• Gradual increase in x-ray exposures over time that results in increased radiation dose\n• Unnecessary patient and personnel exposure because of ionizing radiation\n• Can occur in analog and digital systems\n• Recognized in an analog systems by excessive film blackening; not as easily recognized in digital systems"
+  },
+  {
+    "title": "Splitting the plate",
+    "detail": "• Using a lead shield on half of the film to prevent exposure and allowing for two views to be obtained on the same film\n• After the first side is exposed, lead is switched and view is obtained on the other side"
+  },
+  {
+    "title": "Digital vs. computed radiography",
+    "detail": "• CR: Uses a photostimulable phosphor plate to capture images, which are then scanned and digitized\n• Bw traditional film and fully digital systems\n• DR: Uses digital sensors instead of film\n• Advantages are enhanced image quality, reduced radiation, and immediate image availability"
+  },
+  {
+    "title": "Digital radiography (DR)",
+    "detail": "• Image receptor is built into the x-ray table; cassettes and processing units not necessary\n• Digital image is recorded as a combination of rows and columns (matrix) that has a pixel (picture element) as its smallest component—location of the pixel in the image corresponds to an aera w/in the tissue referred to as voxel\n• Resolution is related to size of pixels—larger matrix size includes greater number of smaller pixels, which give sharper image\n\t\t• Image noise can be a problem—unwanted random variations in shades of gray; inversely related to contrast, can be produced by the system"
+  },
+  {
+    "title": "Direct and indirect detector systems in DR",
+    "detail": "• Direct detector systems utilize a thin-film-transistor (TFT) device to detect and display image;\n• TFT collects released electrons and converts the signal to digital image\n• Indirect detector systems use a TFT or a charged-coupled-device (CCD)\n• Both use a scintillator, a material that fluoresces when exposed to x-ray beam, and the light is converted by the TFT or CCD to electrical energy, which is processed by the computer to display a digital image"
+  },
+  {
+    "title": "Steps of image processing in DR",
+    "detail": "• System generates a histogram (a graphical representation of signal intensity of each pixel) from the image data\n• Compares pixel values to an internal standard specific to the body part (allows system to rescale the image to correct over- and underexposure errors)\n• Uses an internal standard (i.e. the look-up table) to adjust contrast\n• Performs windowing (control of range of densities) and leveling (control of brightness)\n• Converts processed image to the appropriate format to be displayed w patient information"
+  },
+  {
+    "title": "X-ray artifacts Fogged film: Results from exposure to excessive scatter radiation, or light in the dark room, as well as expired film, film that has been exposed to radiation while still in storage, and film stored in high humidity; decreases differences in densities bw two adjacent shadows White areas: Results from chemical spills on the screen, or foreign material bw film and screen Black crescents/lines: Results from static electricity, or rough handling of the film before exposure Lightning bolt: Results from static electricity bw sheets of film that is caused by low humidity Foreshortening: Occurs when object is not parallel to the recording surface Distortion: Occurs when there is a misrepresentation of the size, shape, and location of anatomic structures Penumbra: Blurring at the edges of the shadows cast by the x-ray exposure Black irregular border on one end of the film: Caused by light exposure while film is still in the box before being processed Grainy image: Caused by underexposure in digital radiography, described as noise or quantum mottle",
+    "detail": "• Disappearance of thin/soft tissues: Results from overexposure in digital radiography\n• Ghost images: Occurs when two images are taken rapidly, one after the other, or when first image is still on the detector (due to failure to erase previous image)\n• Decreased radiographic density w poor contrast: Underexposed film, or film that is developed in chemicals that are too cold\n• Increased radiographic density w poor contrast: Overdeveloped or overexposed film, or film developed in chemicals that were too hot\n• Good radiographic density w poor contrast: Results from a low-grade light leak in the darkroom\n• Entire film appears clear: Lack of exposure or film was processed in the fixer before the developer\n• Brown film: Results from improper final wash\n• Grid lines on the entire film: Result from focal-film distance not being in the range of the grid’s focus\n• Grid lines more visible on one end of the film: Results from grid not being centered w primary beam; also causes overall decrease in density\n• Decreased detail: results from patient motion or poor film-screen contact\n• Magnification: To decrease magnification, patient should be positioned as close to the cassette as possible; to increase magnification distance bw patient and cassette should be increased"
+  },
+  {
+    "title": "Overexposure",
+    "detail": "• Causes film to be too dark (density too high)\n• Can be caused by:\n• High mAs or KV settings\n• Short focal film distance (FFD)\n• Overmeasuring the body part\n• Decreased patient density\n• Use of negative contrast media\n• Equipment malfunction"
+  },
+  {
+    "title": "Preventing motion artifacts",
+    "detail": "• High mA produces shortest exposure time, minimizing risk of motion artifacts\n• Lower mA creates longer exposure time, so increases chance of motion artifacts"
+  },
+  {
+    "title": "Quantum mottle",
+    "detail": "• Type of noise in digital radiography (DR) that results from underexposure\n• Grainy, speckled appearance due to insufficient photon interaction w the detector"
+  },
+  {
+    "title": "Oblique view",
+    "detail": "• Beam enters at an angle other than 90 degrees"
+  },
+  {
+    "title": "Orthogonal view",
+    "detail": "• Two radiographic images taken at 90-degree angles to each other (e.g. VD + right lateral)\n• Provide a comprehensive perspective of a 3D structure\n• Minimizes the risk of missing abnormalities that may not be visible in a single view"
+  },
+  {
+    "title": "Dependent (limb)",
+    "detail": "• Limb that is closest to the table (vs. contralateral limb)"
+  },
+  {
+    "title": "Markers",
+    "detail": "• Should indicate the side that is down when obtaining x-rays in lateral recumbency\n• For right lateral recumbency, the right side is down and so the right marker should be used\n• R/L must be used in latera views—R if right side is on the table\n• Front and hind markers should be used to denote front/back sides of any anatomical structure; esp. useful in equine x-rays w symmetrical anatomical areas\n• M/L (medial and lateral) and F/H (front and hind) most commonly used w equine limbs"
+  },
+  {
+    "title": "Vertical vs. horizontal beam",
+    "detail": "• Vertical beam: X-ray beam travels straight down from above the patient and toward the table; typical in DV\n• Horizontal beam: X-ray beam travels parallel to the table; used in lateral radiographs (e.g. turtle on a stand)"
+  },
+  {
+    "title": "Decubitus view",
+    "detail": "• Lateral projection is exposed using a horizontal beam technique"
+  },
+  {
+    "title": "Organs visible/not visible on x-rays",
+    "detail": "• Liver, kidneys, bladder, stomach, small intestine, and large intestine are normally seen\n• Pancreas is not seen on radiographs"
+  },
+  {
+    "title": "Appearance of different organs on x-rays",
+    "detail": "• Colon is shaped like a question mark on DV view\n• Spleen appears as a small triangle caudal to the fundus of the stomach\n• Right kidney is bean-shaped and seen cranial to the left kidney\n• Diaphragm has a bumpy appearance in DV view\n• Liver lies in the cranial abdomen bw diaphragm and stomach; largest organ in the abdominal cavity\n• Spleen is located in the craniodorsal abdomen and is dorsal and caudal to the stomach\n• Adrenal glands are not generally visualized\n• Normal pancreas is not visualized"
+  },
+  {
+    "title": "Landmarks",
+    "detail": "• Cranial landmark for thorax VD: Manubrium (most superior part of the sternum:\n• Caudal landmark for thorax VD: Halfway bw xiphoid and the last rib\n• Cranial landmark for thoracic vertebrae in lateral: Spine of the scapula\n• Caudal landmark for thoracic vertebrae: Halfway bw xiphoid process and the last rib\n• Cranial landmark for cervical vertebrae: Base of the skull\n• Caudal landmark for cervical vertebrae: Center of the spine of the scapula\n• Caudal landmark for lumbar vertebrae: Ilium wings\n• Cranial landmark for lateral pelvic: Wings of the ilium\n• Caudal landmark for lateral pelvic: Border of the ischium\n• Cranial landmark for abdominal view: Three ribs cranial to the xiphoid\n• Caudal landmark for abdominal view: Greater trochanter of the femur\n• Radiographs of joints must include ⅓ of the bones both proximal and distal to the joint"
+  },
+  {
+    "title": "Thoracic radiographs in small animals",
+    "detail": "• DV, VD, and lateral views most common\n• Images taken upon inspiration\n• Highest point of the thorax should be measured for the kVp setting (lowest point will lead to underexposure)\n• Overexposure can cause a false diagnosis of pneumothorax\n• Lateral view:\n• Right lateral means animal is placed on its right side\n• Spine and sternum parallel to table\n• Beam is placed on the caudal dorsal aspect of the scapula, collimating the entire chest w edge right in front of the scapula\n• VD view:\n• Collimation centered on the heart\n• DV view:\n• Preferred if the animal has trouble breathing\n• Collimation centered on the heart"
+  },
+  {
+    "title": "Abdominal radiographs in small animals",
+    "detail": "• Taken at peak expiration to avoid pressure on the abdominal contents from the diaphragm\n• For vomiting patients, left lateral recumbency is ideal bc gas is moved to the pyloric antrum and can highlight a foreign body\n• Right lateral can be used, but overlying bowel gas moves to anterior portion of the stomach; DV/VD will also cause overlying bowel gas and there is risk of aspiration"
+  },
+  {
+    "title": "Cervical spine radiographs in small animals",
+    "detail": "• Lateral (flexion and extension) and VD most common\n• Sedated preferred since positioning is important\n• Lateral view:\n• Spine parallel to the table, forelimbs pulled caudally\n• For extension, head is moved dorsally\n• For flexion, head is moved to the thorax\n• VD view:\n• Legs are extended caudally\n• Base of skull and 2nd vertebra should be included"
+  },
+  {
+    "title": "Pelvic radiographs in small animals",
+    "detail": "• Extended-leg VD, lateral, and frog-leg VD most common\n• Lateral view:\n• Patient laid on affected side\n• Bottom femur pulled cranially and stifle joint flexed\n• Leg on top is pulled caudally\n• Beam is centered on the greater trochanter, collimating for the pelvis\n• VD view:\n• For extended-leg, Rear legs are extended while rotating the stifles inward so that the legs are straight and sternum and spine are superimposed\n• For frog-leg, rear legs are left to fall into normal flexed position w femurs at 45-degree to the spine\n• Collimate for crest of the ilium and down to the stifle joints, centered on the greater trochanter"
+  },
+  {
+    "title": "Skull radiographs in small animals",
+    "detail": "• Beam should be centered:\n• At the lateral canthus of the eye socket to obtain a lateral projection of the skull\n• Midway bw tip of the nose to just caudal to the occipital protuberance at the base when obtaining VD or DV projections of the skull\n• Between the eyes to obtain a rostrocaudal foramen magnum projection\n• Just above the base of the tongue and just below the soft palate, approximately at the commissure of the mouth, to obtain a rostrocaudal tympanic bullae open-mouth projection"
+  },
+  {
+    "title": "Measuring specific areas of the body",
+    "detail": "• To obtain a CdCr projection of the humerus, measure from the table to the midshaft humerus to account for the humerus-table distance because they are not in contact (thickest part of the humerus does not account for that distance)\n• To obtain a lateral projection of the pelvis, measure at the highest level of the trochanter\n• To obtain a VD frog-leg projection or extended hip projection, measure at the thickest part of the pelvis\n• To obtain a flexed lateral projection of the carpal joint, measure at the thickest part of the flexed joint"
+  },
+  {
+    "title": "Different views to visualize specific organs in small animals",
+    "detail": "• Lungs: VD recommended so both lung fields are on the same image; DV is acceptable if patient has difficulty breathing\n• Heart: VD ideal\n• Kidney: Right kidney is seen cranial to the left the both lateral views, VD, and DV\n• Nasal passages: Lateral, DV or VD, rostrocaudal, and open-mouth views necessary for comprehensive evaluation\n• TMJ: Right lateral to view right TMJ w skull oblique toward the table at 10 degrees; sternal/DV for both joints; ventral not common\n• Tibia: Dorsal for craniocaudal view, sternal for caudocranial view w limb of interest extended caudally"
+  },
+  {
+    "title": "Views for suspected diseases in small animals",
+    "detail": "• Pneumonia: Both lateral views and VD\n• Cardiac disease: Either right or left lateral view and DV"
+  },
+  {
+    "title": "Centering beam in rabbits",
+    "detail": "• Whole body view: Beam focused over the center of the body from cranial to caudal, i.e. at the thoracolumbar area\n• DV abdominal view: Beam centered over the liver\n• Thoracic view (DV/VD): Beam centered over the heart\n• Whole body radiographs not recommended for rabbits; VD and lateral images of sites of interest more common"
+  },
+  {
+    "title": "Different views and their uses in horses Lateromedial and caudocranial are standard to view stifle Craniocaudal and lateromedial are standard for radius and elbow Lateromedial is standard for shoulder Dorsopalmar view to evaluate distal radial growth plate closure Dorsopalmar view of the carpal joint to judge the width of cartilage spaces Lateral view is for a major fracture dislocation and for conformational abnormalities Flexed lateral view of the carpal joint is for detecting distal corner fractures, carpal fractures, and showing fragment mobility Medial oblique view of the carpal joint for detecting slab (biarticular) fractures (most serious of carpal fractures) Flexed lateromedial view of the carpus requires limb to be flexed approximately 60 degrees, keeping the metacarpus parallel and radius perpendicular to the ground",
+    "detail": "• For standard x-ray of the metacarpus, the limb should be perpendicular to the ground w an even weight distribution\n• For standard radiographs of the tarsus, the limb should be positioned so that the metatarsus is perpendicular to the ground and weight should be evenly distributed on all four legs\n• Flexed dorsoplantar view of the tarsal joint requires the primary beam projection to be at 60 degrees\n• For mediolateral view of the brachio-antebrachial joint, limb should be extended cranially; for craniocaudal view, limb should be abducted to separate the elbow from the thoracic musculature\n• Palpating the tibial tuberosity determines the amount of rotation necessary for an exact caudocranial projection of the stile joint"
+  },
+  {
+    "title": "Positioning lizards",
+    "detail": "• When positioning a lizard in right lateral recumbency, left limbs are caudal to right limbs"
+  },
+  {
+    "title": "Darkroom requirements",
+    "detail": "• Must have wet side (for processing) and dry side (for loading and unloading film)\n• Must be very clean, free of dust particles\n• Must be completely lightproof to avoid fogging or preexposure\n• Must be well ventilated\n• Door should open outward to make most of the space\n• Ceiling must be painted a light-reflective color to make most of safelight (direct or indirect)"
+  },
+  {
+    "title": "Safelight",
+    "detail": "• Used in dark rooms where films are processed\n• Must be mounted at a min. of 4 feet from the workspace\n• Bulb should be no more than 15 watts (7-15 most common)\n• Filter on the lights most commonly dark red in order to remove the wavelength most likely to damage the film"
+  },
+  {
+    "title": "Steps of manual film processing",
+    "detail": "• Developing\n• Rinsing\n• Fixing\n• Washing\n• Drying"
+  },
+  {
+    "title": "Developer",
+    "detail": "• Converts sensitized silver halide crystals into black metallic silver; can be liquid or powder\n• Developer agents most often used are phenidone and hydroquinone—phenidone produces gray densities, hydroquinone increases contrast and produces the black areas\n• Sodium bicarbonate is the activator used to maintain developer pH bs 9.8 to 11.4 (highly alkaline)\n• Potassium bromide is the restrainer that prevents developer from affecting crystals that weren’t activated\n• Sodium and potassium sulfite are preservatives that decrease risk of oxidation\n• Water is the solvent used to prevent contamination of developer; makes up 95-98% of developer\n• Some also contain a hardener, which serves to adhere emulsion to the base"
+  },
+  {
+    "title": "Fixer",
+    "detail": "• Removes unchanged silver halide crystals from the emulsion layer, stopping the developing process and leaving only black metallic silver behind\n• Also hardens the emulsion onto the film\n• Can be liquid or powder\n• Fixing agent is commonly made from sodium or ammonium thiosulfate, which removes unexposed silver halide from film\n• Acetic or sulfuric acid is used as the acidifier, which completely stops development of film and neutralizes the alkalinity from the developer\n• Sodium sulfite is the preservative that prevents a negative reaction bs fixing agent and acidifier\n• Potassium aluminum sulfate or aluminum chloride is the hardener that prevents emulsion from swelling, and decreases drying time\n• Water is the solvent; makes up 98-99% of fixer"
+  },
+  {
+    "title": "Washing bw developer and fixer",
+    "detail": "• Order to process dental film: developer, wash, fixer, wash\n• Intermediary wash tanks serve as a stop bath that arrests activity of the developer and washes off some of the surface developer before entering the fixer"
+  },
+  {
+    "title": "Processing temperature",
+    "detail": "• Automatic processor tanks: 95°F (35°C)\n• Manual tanks: 68°F (20°C)"
+  },
+  {
+    "title": "Storing film",
+    "detail": "• Ideally, film is stored at 50-60 F, upright, and w 40-60% humidity\n• Can be stored in a refrigerator or freezer\n• Horizontal storing can lead to pressure and creasing artifacts on the film emulsion (film layer that contains the silver halide crystals)"
+  },
+  {
+    "title": "Dental imaging—image receptors",
+    "detail": "• Intraoral films\n• Digital sensors\n• Phosphor plates"
+  },
+  {
+    "title": "Intraoral films [[image:Diagnostic Imaging Flashcards_Image02.png]]",
+    "detail": "• Comes in different speeds; fast film requires less radiation but results in more grain\n• D, E, F are common (less radiation) w sizes 0, 2, 4\n• Packaged w outer plastic coating so it can be placed directly in the mouth w/out getting affected by moisture\n• Directional markers not used, dot/dimple helps w orientation\n• Raised side of the dimple should be facing up and toward the tube head, pointing rostrally (if dimple is placed in the back of the mouth, may appear as artifact on tooth surface)\n• Foil sheet beneath the white front decreases scatter, absorbs exiting remnant radiation\n• Black paper beneath is for protection\n• Processing is similar to full-body film; a chairside developer is used"
+  },
+  {
+    "title": "Digital sensors [[image:Diagnostic Imaging Flashcards_Image01.png]]",
+    "detail": "• Images immediately available\n• Can be digitally manipulated and retaken quickly compared to standard film\n• Radiation reduced 50 to 90%\n• Size 2 is common.\n• Sensor is attached to a cord plugged into a computer\n• Hygiene sleeve is used to prevent cross-contamination\n• A layer of vet wrap around it helps keep sensor in place"
+  },
+  {
+    "title": "Phosphor plates",
+    "detail": "• Combines versatility of film w benefit of digital imaging\n• Easy to use\n• Availability in sizes 0 to 6\n• Removing plate for processing (scanning) can make retakes difficult since it’s not easy to replace film identically"
+  },
+  {
+    "title": "Radiolucent and radiopaque areas in dental x-rays",
+    "detail": "• A radiopaque area around the tooth root is a normal finding because bone and tooth are radiopaque\n• A radiolucent area inside the pulp is normal because the pulp is soft tissue\n• A tooth abscess will appear radiolucent around the apex of the tooth because bacteria eat away the support structure\n• A radiopaque area inside the tooth pulp is a pulp stone"
+  },
+  {
+    "title": "Elongation and foreshortening in dental radiographs",
+    "detail": "• The beam should be perpendicular to the bisecting angle to minimize distortion\n• If the beam is aimed perpendicular to the tooth, tooth will appear more elongated (too little vertical angulation)\n• If the beam is more perpendicular to the film, foreshortening will occur (too much vertical angulation)"
+  },
+  {
+    "title": "PPE",
+    "detail": "• Protective lead (0.5 mm thick) used in gowns, thyroid shields, gloves\n• Lead aprons are designed to be effective for ≤125 kV of radiation\n• Only decreases primary beam exposure by 25%\n• All PPE w lead must be checked for cracks before each use, and radiographed annually"
+  },
+  {
+    "title": "Effects of radiation",
+    "detail": "• Stochastic effects—resulting from dose accumulation over time\n• Deterministic effects—immediate effects like burns\n• Genetic effects—occurring due to cellular damage\n• Pregnant women should avoid radiation, esp. bw 2 to10 weeks (most critical due to major organogenesis)"
+  },
+  {
+    "title": "Effects of radiation overdose on different tissues",
+    "detail": "• Atrophy in lymphoid tissue\n• Cataracts in eyes\n• Ulcers in GI tract\n• Necrosis in the brain"
+  },
+  {
+    "title": "Contrast studies (CT)",
+    "detail": "• Offers better views of hollow areas like vessels, intestines, etc.\n• Contrast agents are negative or positive\n• Positive agents are radiopaque, include barium and iodine; absorb x-rays more than bones so appear whitest on film, which allows views of even minor defects\nExposure settings will need to be slightly increased compared w survey images in positive studies\n• Negative agents are radiolucent, include air, oxygen, and carbon dioxide; show up black bc they don’t absorb x-rays\nExposure settings will need to be slightly decreased compared w survey images in positive studies"
+  },
+  {
+    "title": "Positive vs. negative contrast agents (CT)",
+    "detail": "• Positive agents—radiopaque and white\n• Negative agents—radiolucent and black"
+  },
+  {
+    "title": "Ionic vs. nonionic contrast agents (CT)",
+    "detail": "• Both types are positive contrast agents (iodinated agents)\n• Ionic agents: Diatrizoate, metrizoate\n• High-osmolar\n• Risk of adverse reactions (pain, nausea, hypotension, allergic reactions)\n• Older generation agents\n• Used in GI studies (oral/rectal)\n• Limited IV use\n• Nonionic agents: Iohexol (low-osmolar), iodixanol (iso-osmolar)\n• Low-osmolar or iso-osmolar\n• Much safer and better tolerated\n• Preferred for IV CT contrast"
+  },
+  {
+    "title": "Water-soluble organic iodides",
+    "detail": "• Iodinated contrast agents used in GI studies and CT\n• Iohexol (Omnipaque) is an example\n• Hyperosmolar—they pull water, so should be avoided in dehydrated patients (will draw excessive amounts of water to the bowel, causing the patient to become more dehydrated)\n• Should also be avoided in patients w kidney disease\n• Recommended for use in patients w suspected bowel perforation and in well-hydrated patients"
+  },
+  {
+    "title": "Barium sulfate",
+    "detail": "• Insoluble inert radiopaque medium used in CT contrast studies\n• Barium sulfate preparations are manufactured in the form of powders, colloid suspension, and pastes—for oral use only (no injectables)\n• Barium liquid mixed w food is preferred to evaluate dysphagia (swallowing disorders)\n• Barium liquid by syringe is preferred for suspected esophageal obstruction\n• Barium paste is preferred for esophageal mucosal lining (e.g. for ulcers)\n• Takes approximately 3 hours for barium sulfate to travel from the stomach to the colon (may take longer, but not less)\n• Commonly used as a positive contrast for GI if perforation is not suspected\n• If perforation is possible, meglumine diatrizoate and sodium diatrizoate are used together as a water-soluble nonionic organic iodide solution"
+  },
+  {
+    "title": "Testing x-ray equipment",
+    "detail": "• Per OSHA guidelines, x-ray equipment should be tested every 2 years\n• Testing includes accuracy of kilovoltage, half-value layer, milliampere linearity, reproducibility, timer accuracy, and collimator accuracy"
+  },
+  {
+    "title": "Amplitude, wavelength, frequency in ultrasound",
+    "detail": "• Amplitude: Height of waves—taller waves are louder\n• Wavelength: Distance bw each band\n• Frequency: Number of wave cycles in a second; measured by Hertz (one wave cycle per second is 1 Hz, 1000 cycles is 1 KHz, 1 million cycles is 1 MHz)\n• Most procedures in ultrasound range from 2-15 MHz\n• Wavelength and frequency are inversely related when speed of sound is constant\n• Higher-frequency transducers decrease wavelength (shorter wavelength gives greater resolution)\n• Higher frequency of the shorter wavelength also reduces penetrating power"
+  },
+  {
+    "title": "Ultrasound waves",
+    "detail": "• Waves don’t pass thru organs that contain air and stop at bone (so bones aren’t seen on ultrasound)\n• Audible sound has a longer wavelength (i.e. distance a wave travels in one cycle)\n• Ultrasonic waves have a frequency (i.e. how many times the cycle occurs) range of 2 to 10 MHz\n• Wavelength increases (travels a longer distance) as frequency decreases\n• Frequency x Wavelength gives the sound velocity (i.e. the speed at which the wave travels in a given medium)"
+  },
+  {
+    "title": "Shades of gray in ultrasound images",
+    "detail": "• 256 shades of gray are incorporated into an ultrasound image\n• Creates a superior level of contrast than radiograph"
+  },
+  {
+    "title": "Ultrasound transducers (transducer probe)",
+    "detail": "• Handheld device that sends and receives sound waves by using piezoelectric effect\n• Transforms sound waves into electrical energy by using the vibration of crystals w/in the probe\n• Thickness of crystals change range of frequencies transducers can generate\n• Cleaned by wiping transducer and cord w glutaraldehyde-based disinfectant"
+  },
+  {
+    "title": "Elements in transducers",
+    "detail": "• Elements are predominantly made of piezoelectric ceramics\n• Have unique properties that allow them to change shape in the presence of electrical current\n• When the ultrasound machine emits a certain frequency, short but strong electrical pulses make the ceramics vibrate, causing crystals w/in the ceramics to emit a mechanical vibration at a preset frequency\n• Each crystal is connected to an individual circuit, known as an element, allowing them to be directed independently\n• When mechanical energy from the returning sound waves makes contact with the transducer elements, they once again distort the shape of the individual ceramics, creating electrical energy that is released back to the machine to analyze; it is this electrical current that is digitized to create a diagnostic image"
+  },
+  {
+    "title": "Types of ultrasound transducers",
+    "detail": "• Most common is linear array transducer produces a rectangular-shaped image; useful when assessing blood flow and appropriate for high-resolution imaging for fine details\n• Curvilinear array transducer is a type of linear array arranged into a convex curve; microconvex versions are ideal for small animal patients and for abdominal imaging\n• Microconvex is ideal for intercostal view due to smaller footprint size and wide-angle view\n• Sector array transducer produces a wedge- or pie-shaped image\n• Phased array transducers have crystals aligned linearly and activated in sequence; used for cardiac studies\n• Annular array transducers have crystals aligned in rings; not common"
+  },
+  {
+    "title": "Transducer frequency and depth",
+    "detail": "• Lower the frequency, deeper the level of penetration that can be achieved\n• 3 MHz transducer frequency allows imaging at a depth of 20 cm\n• 5 MHz allows imaging at a depth of 15 cm\n• 7.5 MHz allows imaging at a depth of 10 cm\n• 10MHz allows imaging at a dept of 7 cm\n• However, as depth increases, detail decreases—lower the frequency, deeper the image, lower the detail\n• 7.5 MHz transducer is common for small dogs and cats, 5 MHz is common for large dogs and nonreproductive large animals"
+  },
+  {
+    "title": "Modes in ultrasonography",
+    "detail": "• A-mode (amplitude mode): Displays returning echoes as peaks that designate their density; primarily used in ophthalmology evaluations and measurement of SC fat in product animals, especially swine; least common\n• B-mode (brightness mode): Displays returning echoes as bright dots with varying degrees of brightness corresponding to the intensity of returning signal; prodces 2D image; most common\n• M-mode (motion mode): B-mode in motion; allows evaluation of fast-moving structures of heart valves, as well as pattern of the heart chamber’s wall movement; primarily used in echocardiography\n• M- combined w B-mode is used to evaluate chambers and valves of the heart"
+  },
+  {
+    "title": "Axial vs. lateral resolution",
+    "detail": "• Axial (aka longitudinal or azimuthal) resolution: Ability to differentiate bw two structures that lie along the path of the beam, one in front of the other\n• Equal to half of a pulse’s length (spatial pulse length is the key determinant)\n• Higher frequency transducer improves axial resolution\n• Lateral resolution: Ability to distinguish between two objects that are adjacent to one another but perpendicular to the sound wave\n• Beam width is the key determinant—narrower beam leads to better lateral resolution\n• Best at the focal zone"
+  },
+  {
+    "title": "Gain control knob",
+    "detail": "• Controls brightness of the image in ultrasound"
+  },
+  {
+    "title": "Time gain compensation knobs",
+    "detail": "• Allow the gain to be adjusted at various depths of the ultrasound image\n\t\t• Compensates for difference in strength of returning echo depending on depth of tissue—allows image to be modified so that inherent brightness of superficial structures is minimized"
+  },
+  {
+    "title": "Focal point (focal zone)",
+    "detail": "• Specific depth in the tissue where the ultrasound beam is narrowed and concentrated, producing the best lateral resolution and image detail at that level—depth where the ultrasound beam is most focused, giving the clearest image\n• Placing the focal point at or just below the structure of interest improves image sharpness\n• Adding more focal points slows the frame rate, so no more than two are recommended for routine imaging"
+  },
+  {
+    "title": "Scanning in the sagittal plane",
+    "detail": "• Left side of the monitor = cranial (toward the head)\n• Right side of the monitor = caudal (toward the tail)\n• Top of the monitor = anterior (toward the belly/ventral)\n• Bottom of the monitor = posterior (toward the back/dorsal)\n• As probe moves head to tail, structures on screen move left to right\n• Structures closer to the body wall/abdomen appear higher, and structures closer to the spine appear lower on the screen"
+  },
+  {
+    "title": "Ultrasound artifacts Acoustic shadowing: Results from interaction w tissues (bone, fat), which leads to attenuated or reflected sound (PocketPrep: Produced by soft tissue-bone interfaces); appears as black are (hypoechoic) in far-field to the interface Distance/acoustic enhancement: Results from sound traveling thru a fluid-filled structure (e.g. cyst); slows sound down; the higher intensity echo that returns to transducer causes increased echogenicity; creates an artifact deep to the fluid-filled structure Edge shadowing: Results from the refraction of a sound wave at the margins of a round structure, esp. if fluid is present; aids in identifying round, smooth structures like the bladder Slice thickness: Results from sound wave being partially inside and partially outside a fluid-filled structure Thorough transmission interface and far-field enhancement: Results from soft tissue-fluid interfaces; appears as increased echogenicity on the far side of the fluid",
+    "detail": "• Reverberation: Results from repeated back/forth reflection of sound waves bw two highly reflective surfaces or bw transducer and a strong reflector; can occur when skin lacks gel (PocketPrep: Reverberation occurs at an interface w gas or air (e.g. skin surface and air when probe isn’t getting adequate contact, soft tissue w gas, etc.); appears as white lines on the far side of the interface\n• Comet tail: Results from sound waves interacting w metals (e.g. biopsy needle, foreign body); evenly spaced parallel lines that represent reverberation artifacts\n• Mirror image: Results from the wave being deflected; occurs in highly reflective areas like the lung/diaphragm interface when the wave is deflected off of the liver (sound wave strikes a strong reflective surface, and machine misinterprets this and writes the same image on the opposite side)\n• Side lobe: Results from secondary waves reflecting off curved surfaces back to the transducer"
+  },
+  {
+    "title": "Sonographic appearances",
+    "detail": "• Echogenic tissues: Can return echoes which are singled out by the transducer and displayed in black and white image w gray tones\n• Organs close together will produce larger echo reflection\n• Sonolucent/echolucent tissues: Don’t reflect sound; no echo\n• Anechoic tissues: Include chambers, fluid-filled structures, spaces (e.g. vessels, cysts, bladder); appear black\n• Hyperechoic tissues: Bone, tendons, ligaments; highly reflective, so appear white/light grey (white is considered bright grey)\n• Hypoechoic tissues: Muscles, some tumors; create weaker echoes, so appear in dark shades of gray\n• Isoechoic tissues: Harder to isolate due to similar echoes to surrounding tissues; appear to blend in"
+  },
+  {
+    "title": "Echogenicity",
+    "detail": "• Describes the gray scale observed w B-mode ultrasound\n• Always relative\n• Hyperechoic = brighter than the reference tissue\n(can be brighter than smt already bright—light gray vs. white)\n• Hypoechoic = darker than the reference tissue\nIf no reference is given, fall back on:\n• Bone / tendon / ligament → hyperechoic\n• Muscle / soft tissue → hypoechoic"
+  },
+  {
+    "title": "Order of echogenicity of organs",
+    "detail": "• Darkest (hypoechoic) to brightest (hyperechoic)\n• Blood vessel lumens\n• Urinary bladder\n• Gallbladder\n• Kidney (renal medulla then renal cortex)\n• Liver\n• Prostate\n• Spleen"
+  },
+  {
+    "title": "Gray scale for bone, tendon, fat, muscle, and fluid in ultrasound",
+    "detail": "• Bone: Very bright white\n• Tendon: Bright gray\n• Fat: Medium gray\n• Muscle: Dark gray\n• Fluid: Black"
+  },
+  {
+    "title": "Sonolucent",
+    "detail": "• A structure that allows ultrasound waves to pass through w little to no reflection\n• Results in few or no returning echoes and therefore appear black (anechoic or very dark) on the ultrasound image\n• Fluid-filled structures are sonolucent\n• Sonolucent structures transmit sound and appear black, hypoechoic structures reflect some sound and appear dark gray relative to surrounding tissues"
+  },
+  {
+    "title": "Organs visible/not visible in ultrasound",
+    "detail": "• Urethra, ureters, adrenal glands, pancreas, gallbladder and mesentric and rectal lymph nodes are seen on ultrasound\n• Lungs cannot be seen unless a mass is present"
+  },
+  {
+    "title": "Appearance of different organs in ultrasound",
+    "detail": "• Spleen: Largest part is hyperechoic (white); has grandular profile, surrounded by illuminated capsule; imaged from left to minimize surrounding tissue interference\n• Located just below skin, behind stomach and under diaphragm\n• Gallbladder: Bile-filled, so appears anechoic; presents as an illuminated wall\n• Located under the liver\n• Kidney: Egg-shaped and enclosed by an illuminated capsule—cortex is hyperechoic (white), medulla is anechoic (black)\n• Intestines: Too much gas to properly visualize, but walls are white or dark gray\n• Stomach: Hypoechoic (shades of gray), depending on what’s in it\n• Adrenal gland: Isoechoic gray\n• Bladder: Anechoic bc often filled w urine; walls are hyperechoic (white)\n• Uterus: Wall is hypoechoic (shades of gray)\n• Heart: Walls and valves are hyperechoic (white)"
+  },
+  {
+    "title": "Attenuation",
+    "detail": "• Loss of vitality, amplitude, or power\n• Occurs when intensity is lost due to absorption as beam passes thru tissue (absorption creates heat and results in loss of energy)"
+  },
+  {
+    "title": "Acoustic impedance",
+    "detail": "• Capability of something to resist sound conduction\n• Affected by tissue density, but both hair (not dense) and bone (very dense) significantly obstruct passage of sound so both have a high rate of impedance\n• Most body tissues have low rate of acoustic impedance, i.e. they allow sound waves to pass"
+  },
+  {
+    "title": "Propagation artifacts in ultrasound",
+    "detail": "• Reverberations: Linear echoes resulting from sounds reflected bw a strong reflector and the transducer in a continuous pattern; bones are reverberation-prone surfaces\n• Refractions: Manifestations of orans in unusual positions resulting from sound beams changing directions as they bounce off one medium and strike another; usually occurs due to the close proximity of a strongly reflective organ to the reflector"
+  },
+  {
+    "title": "Attenuation artifacts in ultrasound",
+    "detail": "• Occurs when tissues in the near field reduce intensity of the beam, leaving tissues in the focal region and far filed poorly imaged"
+  },
+  {
+    "title": "Acoustic shadowing",
+    "detail": "• Occurs when an object reflects an ultrasound wave in its entirety, producing an acoustic shadow of the actual structure\n• Posterior shadowing occurs when an object blocks sound waves from passing deeper into the tissue; can be due to gas in intestines, or calculi\n• Acoustic enhancement occurs when objects located behind fluid-filled organs present enhanced echoes due to fluid’s anechoic nature, which allows sound waves to more readily pass thru"
+  },
+  {
+    "title": "Doppler imaging",
+    "detail": "• Commonly used in evaluating blood flow\n• Soundwaves are reflected once they encounter cells\n• Allows determination of velocity and direction of flow"
+  },
+  {
+    "title": "Types of Doppler techniques",
+    "detail": "• Color Doppler illustrates the flow and direction of blood; blue is used to track blood flow away from the transducer, and red is used to track blood flow toward the transducer\n• Power color Doppler is used to track flow of blood w/out direction\n• Pulse wave Doppler alternates bw sending and receiving signals; good for illustrating blood flow in smaller vessels\n• Pulse wave imaging can detect a max. velocity of 1.4 m/s\n• Continuous wave Doppler sends and receives signals continuously; good for conditions where higher velocity blood flow is common"
+  },
+  {
+    "title": "Nyquist point",
+    "detail": "• In Doppler ultrasound, Nyquist point is the maximum blood flow velocity that can be accurately measured at a given pulse repetition frequency (PRF)\n• Beyond this point, aliasing occurs\n• Aliasing is a Doppler artifact that occurs when blood flow velocity exceeds the Nyquist limit, causing the signal to be displayed incorrectly\n• Can be fixed by increasing PRF, lowering Doppler frequency, or shifting the baseline"
+  },
+  {
+    "title": "Fiber-optic vs. video endoscopes",
+    "detail": "• Fiberscopes have fiber-optic glass bundles w/in the tube; transmit image to an eye piece on the hand piece\n• Easier to move and cheaper, but poorer quality image and only one person can view image at a time\n• Can be rigid or flexible endoscopes\n• Videoscopes contain charge-coupled device (CCD) chip image processors, which feeds image to video monitor\n• Rigid endoscopes"
+  },
+  {
+    "title": "Parts of an endoscope",
+    "detail": "• Insertion tube: Structure placed in the patient; contains the viewing device, biopsy-suction channel, irrigation-insufflation channel, and deflection control cables that allow movement of the flexible scope\n• Hand piece: Made up of deflection control knobs, accessory channel ports, irrigation-insufflation controls, and suction valves\n• Knobs: Large knob is used to deflect scope up and down, small knob is used to deflect to the left and right\n• Umbilical cord: Light transmission; most also inject air and water for insufflation (performed using CO2 to reduce risk of air embolisms) and irrigation\n• Accessory port: For insertion of biopsy and foreign body removal tools"
+  },
+  {
+    "title": "Flexible vs. rigid endoscopes",
+    "detail": "• Flexible:\n• 1-14 mm diameter, 55-170 cm length\n• Used for upper and lower GI\n• Rigid:\n• 1.9 to 10 mm diameter, 10 to 35 cm length\n• 2.7 mm most common; used for urethrocystoscopy, rhinoscopy, otoscopy\n• Used for non-tubular structures, body cavity, joint spaces, and ear canals"
+  },
+  {
+    "title": "Echocardiography",
+    "detail": "• Ultrasound used to evaluate heart’s anatomy and function\n• Dx include valve abnormalities, DCM, tumors in the heart\n• Sedation usually not necessary\n• Lateral recumbency\n• Transducer probe over 4th and 5th ribs\n• Allows identifying leaks in the valves and evaluating movement of blood bw left and right sides"
+  },
+  {
+    "title": "Radiograph vs. CT",
+    "detail": "• Radiograph is a 2D image or a matrix of pixels/picture elements\n• CT image is a 3D image or a matrix of voxels that includes the third dimension of depth\n• Digital image is recorded as a combination of rows and columns (matrix)\n• Smallest component of a matrix is a pixel (picture element)\n• Location of the pixel in the image corresponds to an aera within the tissue referred to as voxel"
+  },
+  {
+    "title": "CT vs. MRI",
+    "detail": "• CT uses radiation, MRI uses magnetic field and radio waves\n• Both can use contrast agents to increase image detail—iodinated materials like iohexol for CT, gadolinium for MRI\n• MRI provides less detail for air-filled structures like nasal cavity, ears, airways, lungs\n• MRI takes much longer"
+  },
+  {
+    "title": "Computed Tomography (CT)",
+    "detail": "• Used to examine the central and peripheral nervous system\n• CT scan involves transmission of x-rays from one side to be recorded by detectors on the other side as the x-ray tube rotates 360 degrees around the patient\n• Looks at one cross-sectional slice of the body at a time\n• Tomography derived from the ‘tomos’, i.e. cut/section\n• Thinner slices produce better images\n• Modern CT scanners use multi-slice technology; image slices can be thinner than 1 mm\n• Original CT scanners acquire images in slices that are 10 mm or 1 cm thick\n• Produces a grayscale image\n• Requires general anesthesia\n• Contrast agents can be used"
+  },
+  {
+    "title": "Benefits of using contrast in CT",
+    "detail": "• When given IV, contrast agents will allow visualization of locations of blood vessels and tissues w increased blood flow, including tumors or infections\n• When given intrathecally (directly into the cerebrospinal fluid), contrast agents will provide more information than traditional radiography since images will be slices instead of 2D"
+  },
+  {
+    "title": "Hounsfield units",
+    "detail": "• Density of the image in CT is measured in Hounsfield units (HU)\n• Determines degree of attenuation (reduction of force) of the structure\n• Below –750 HU is black, above 1250 HU is white, and in bw –750 and 1250 is shades of gray\n• Skin is –200 HU\n• Fat is –50 HU\n• Calcium is 160 HU, so when using the shaded-surface display, 160 HU and higher should be selected to view bone\n• Blood is 80 HU"
+  },
+  {
+    "title": "Fulcrum",
+    "detail": "• The point of interest\n• In CT imaging, it is the point of interest w/in the patient’s body"
+  },
+  {
+    "title": "Pitch",
+    "detail": "• Ratio bw the table movement in mm and the CT slice thickness"
+  },
+  {
+    "title": "Scan vs. display field of view",
+    "detail": "• Scan field of view: Number of detectors that are covered by the x-ray beam\n• Physical area of the detector array that is exposed by the x-ray beam during acquisition of the image; determined by the scanner hardware, sets the maximum area from which data can be collected—can’t reconstruct anatomy outside the scan FOV\n• Display field of view: Provides a resolution of the CT images; equal to or smaller than the scan field of view\n• Portion of the scan field of view that is reconstructed into the final image, displayed to the viewer; chosen after the scan; smaller DFOV give higher spatial resolution"
+  },
+  {
+    "title": "Scan vs. image data",
+    "detail": "• Scan/raw data: Data collected from the detectors; used to create the images\n• Unprocessed attenuation data collected by the detectors as the X-ray tube rotates around the patient\n• Image data: Data that are sent either to films or to a PACS system\n• Reconstructed CT images that are ready for viewing"
+  },
+  {
+    "title": "Organs visible/not visible in CT",
+    "detail": "• IV contrast used in CT helps view arteries, veins, and other organs, as well as infections in extremities\n• Contrast will not aid in viewing bone marrow"
+  },
+  {
+    "title": "Magnetic Resonance Imaging (MRI)",
+    "detail": "• A powerful magnet that surrounds the body is used to produce cross-sectional images\n• Magnet causes all protons in the imaged region to align w the magnetic field\n• Radio waves are used to manipulate hydrogen atoms in and out of an excited energy state\n• Bone and air images are hard to capture, but all soft tissues can be imaged using MRI\n• Best resolution\n• Superior in imaging the brain and spinal cord\n• Very loud (60-90 dB), so ear shielding is necessary\n• Potential projectile effect w metallic objects around the machine is the biggest safety concern"
+  },
+  {
+    "title": "MRI magnets",
+    "detail": "• Superconducting magnets: Most common medical MRI magnet; produce high field strengths (1.5–3.0 T); liquid helium keeps magnet superconductive/alive\n• Resistive magnets: Electromagnets; lower field strength (0.6 T); generate heat so less efficient; uncommon\n• Permanent magnets: Two slabs of magnetic material facing each other; lowest field strength (0.3 T); large, heavy, and limited imaging capability"
+  },
+  {
+    "title": "Gadolinium",
+    "detail": "• MRI requires the use of a contrast agent known as gadolinium, a paramagnetic, to highlight injection, tumors, or vascular disease\n• Excreted by the kidneys, so kidneys must be functioning properly"
+  },
+  {
+    "title": "Shims",
+    "detail": "• Pieces of metal used to correct the magnetic field within the MRI machine"
+  },
+  {
+    "title": "Signal intensities",
+    "detail": "• Various shades of gray in MRI\n• Cerebrospinal fluid has a low signal intensity on a true T1-weighted image and appears black\n• Fat and skin have a high signal intensity and appear bright or white\n• Between low and high signal intensities are different shades of gray"
+  },
+  {
+    "title": "Decay Response Time in MRI",
+    "detail": "• Not a formal MRI term; refers to tissue relaxation behavior (T1 vs T2)\n• Controlled primarily by Repetition Time (TR)\n• Short TR (≤ ~700 ms) emphasizes T1 relaxation; results in T1-weighted images (fat bright, fluid dark)\n• Long TR (≥ ~1500 ms) emphasizes T2 relaxation; results in T2-weighted images (fluid bright)"
+  },
+  {
+    "title": "Magnetism units",
+    "detail": "• Tesla: Medical magnet's field strength; most common measurement of magnetism and magnetic equivalency\n• Gauss: Imperial unit of measurement for magnetism\n• Tesla (T) is the primary unit used to measure strength of clinical MRI scanners (typically 1.5T or 3T), while Gauss (G) is a smaller unit often used to describe the safety-related fringe fields"
+  },
+  {
+    "title": "Fluoroscopy",
+    "detail": "• Series of low-dose x-ray images that allow viewing organs in motion\n• Uses continuous x-ray beam\n• If skin is too close to the unit or remains in exposure for too long, it can cause radiation burns\n• Swallow tests allow viewing food as it travels thru the esophagus to look for abnormalities\n• Handheld fluoroscopes are used to evaluate lower extremities of horses\n• Used in surgery to evaluate fracture reduction and catheter placements\n• Contrast media can be administered to evaluate kidney concentration and secretion, GI tract, cardiovascular system"
+  },
+  {
+    "title": "Nuclear medicine",
+    "detail": "• Includes diagnostic procedures (scintigraphy) and therapeutic procedures (radiopharmaceutical)\n• Both involve the administration of radioactive materials (aka radionuclides or radioisotopes)\n• Therapeutic radionuclides can be injectable, oral, rectal, or aerosol\n• Diagnostic radionuclides are mostly administered by IV injection; oral administration is too inconsistent"
+  },
+  {
+    "title": "Nuclear scintigraphy",
+    "detail": "• Radioactive agents (radiotracers) are carried to the area of the body w greatest blood flow, i.e. location of disease or trauma\n• May be administered by injection, inhalation or oral consumption\n• Technetium-99m (99Tc) is the isotope commonly used to identify bone trauma and disease (e.g. lameness evaluation in horses)—has half-life of 6 hours\n• Iodine-131 (131I) is used to treat thyroid disease in cats\n• Urine and feces will be contaminated for 24-72 hours\n• Animal will remain in the hospital during this time, and will be discharged after measuring radiation w a Geiger counter\n• Radioisotopes are measured in millicurie (mCi) units"
+  },
+  {
+    "title": "Radionuclides",
+    "detail": "• Atoms that emit particles and energy to become stable"
+  },
+  {
+    "title": "Phases of radioactive agent absorption in nuclear scintigraphy",
+    "detail": "• Vascular phase: Seen immediately w injection; used to look primarily for thrombosis\n• Soft tissue phase: 5–10 minutes post injection; detects pooling of the nuclide and demonstrates tendons and ligaments\n• Bone phase: 2–3 hours after injection to ensure max. amount has gathered at the point of interest"
+  },
+  {
+    "title": "Colors in nuclear scintigraphy",
+    "detail": "• Blue indicates area of low activity\n• Red indicates area of high activity\n• No activity can suggest areas of tissue necrosis"
+  },
+  {
+    "title": "Hot vs. cold spots",
+    "detail": "• Hot spot: An area that shows higher radiation emission in nuclear medicine\n• Cold spot: An area of less intense or smaller concentration of radiation"
+  },
+  {
+    "title": "Radiographs of foal bones",
+    "detail": "• Bones of foals appear smoother, rounder, and smaller than adult horses\n• Bones are unfused and composed mostly of cartilage"
+  },
+  {
+    "title": "Ossification index for newborn foals",
+    "detail": "• Grade 1: Unossified (carpal and tarsal bone)\n• Grade 2: Partial ossification\n• Grade 3: (All carpal or tarsal bones) mineralized\n• Grade 4: (Carpal and tarsal bones) fully mineralized"
+  },
+  {
+    "title": "Restraint of birds for imaging",
+    "detail": "• Chemical restraint is most common; used to avoid injury\n• Manual restraint consists of gloved hands to hold the patient, which is not possible in most cases since gloved hands can’t be under direct radiation\n• For manual restraint, grasp gently by the mandibular articulation and the feet and then stretch out the bird\n• Grasping around the neck should be avoided\nbeam).\n• Physical restraint devices can be used, but only in combination w chemical restraints\n• Wings should be taped across the humerus, close to the body, to avoid wing fracture if patient awakens"
+  },
+  {
+    "title": "Restraint for specific views in birds",
+    "detail": "• Craniocaudal appendicular skeletal radiograph in large birds: Limb can be taped directly on the cassette or gloved hand can be placed behind the hock to restrain the limb for exposure\n• Lateral view: Dependent limb should be cranial to the contralateral limb"
+  },
+  {
+    "title": "Valgus vs. varus deformity",
+    "detail": "• Valgus deformity: Interior angle of the joint, viewed frontally, is greater than 180 degrees\n• Most common limb deformity in growing foals (knock-kneed)\n• Varus deformity: Interior angle of the joint, viewed frontally, is less than 180 degrees\n• More common in the fetlock and carpus (bow-legged)\n• Windswept: Combination of valgus and varus deformity"
+  },
+  {
+    "title": "Carpal bones in horses",
+    "detail": "• Horses have seven carpal bones, arranged in two rows\n• Distal row is composed of the 2nd, 3rd, and 4th carpal bones\n• Accessory carpal bone stands alone behind the ulnar carpal bone\n• Upper row comprises the radial, intermediate, and ulnar carpal bones"
+  },
+  {
+    "title": "Before imaging the coffin bone in horses",
+    "detail": "• Remove horseshoes\n• Clean and trim the hoof to the new sole\n• Pack the sulcus w radiolucent material to prevent artifact"
+  },
+  {
+    "title": "Linear energy transfer (LET)",
+    "detail": "• Amount of energy imparted to the target\n• Alpha and beta particles have high linear energy transfer and low penetrability\n• Gamma rays have low linear energy transfer and high penetrability"
+  },
+  {
+    "title": "DICOM",
+    "detail": "• Digital Imaging and Communication in Medicine\n• Universally accepted format used to store images from digital radiography, CT, MRI, and ultrasound"
+  },
+  {
+    "title": "PACS",
+    "detail": "• Picture Archiving and Communication System\n• Widely used picture archiving and communication system; used to store, retrieve, and share digital medical images including x-rays, MRIs, CTs\n• Reduces the amount of space needed for storage"
+  },
+  {
+    "title": "DICOM vs. PACS",
+    "detail": "• DICOM is the language devices speak, PACS is the library that manages the files\n• is the universal file format and communication standard; PACS is the software/hardware system that stores, retrieves, and distributes the images"
+  },
+  {
+    "title": "Contrast optimization",
+    "detail": "• A feature of digital radiography that is related to the bit depth of each pixel and the software that accompanies the digital-imaging system"
+  },
+  {
+    "title": "Excretory urogram",
+    "detail": "• Radiographic contrast study of the kidneys\n• Series of abdominal radiographs are taken after IV administration of iodide (water soluble organic)\n• Outlines kidneys, ureters, bladder\n• Used to be called IV pyelogram or IV urogram"
+  },
+  {
+    "title": "Myelogram",
+    "detail": "• Radiographic study of the spinal canal\n• Water-soluble iodide contrast agents are injected into the spinal canal to demonstrate distribution of spinal fluid"
+  },
+  {
+    "title": "Cystoscopy",
+    "detail": "• Endoscopic examination of the urinary system\n• Relatively non-invasive\n• Allows evaluation for ectopic ureter"
+  },
+  {
+    "title": "OFA",
+    "detail": "• Orthopedic Foundation for Animals\n• Hip dysplasia"
+  },
+  {
+    "title": "PennHIP",
+    "detail": "• Radiographs used to evaluate for laxity w/in the coxofemoral joints (hips)\n• Used for evaluation of hip dysplasia in dogs\n• Must be performed by a PennHIP certified staff and reviewed by a certified radiologist\n• Requires extended hip projection, plus a distraction and a compression view"
+  },
+  {
+    "title": "Clippers",
+    "detail": "• No. 40 is good for abdominal ultrasounds\n• No. 10 is used for geriatric animals and those w Cushing’s disease to minimize skin damage"
+  }
+]

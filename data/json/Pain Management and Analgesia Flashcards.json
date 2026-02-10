@@ -1,0 +1,586 @@
+[
+  {
+    "title": "Medications affecting each step of the pain pathway",
+    "detail": "• Transduction: Opioids, NSAIDs, local anesthetics, steroids\n• Transmission: Local anesthetics, alpha-2 agonists\n• Modulation: Opioids, NSAIDs, local anesthetics, alpha-2 agonists, ketamine, tricyclic antidepressants, anticonvulsants (gaba)\n• Perception: Opioids, sedatives, tranquilizers, general anesthetics"
+  },
+  {
+    "title": "Reasoning for how drugs affect each step of the pain pathway",
+    "detail": "• Transduction—if a drug reduces inflammation or blocks nerve activation at the site, it affects transduction\n• NSAIDs and steroids reduce inflammatory mediators (prostaglandins)\n• Local anesthetics block sodium channels at the nerve ending\n• Opioids reduce nociceptor activation peripherally\n• Transmission—if a drug interferes w nerve firing or signal movement, it affects transmission\n• Local anesthetics block sodium channels and stop conduction\n• Alpha-2 agonists reduce NT release in pain pathways\n• Modulation—if a drug alters how strong the signal becomes in the CNS, it affects modulation\n• Opioids, alpha-2 agonists enhance inhibition\n• Ketamine, anticonvulsants, TCAs reduce central sensitization\n• NSAIDs reduce inflammatory contribution centrally\n• Local anesthetics, gabapentin reduce neuronal excitability\n• Perception—if a drug affects consciousness, awareness, or interpretation of pain, it affects perception\n• Opioids, sedatives, tranquilizers, general anesthetic"
+  },
+  {
+    "title": "Components of pain",
+    "detail": "• Sensory component: Pain occurs w/in receptors and neurons in the nervous system\n• Emotional component: Recognition of suffering\n• Cognitive component: Perception of threat"
+  },
+  {
+    "title": "Somatosensory cortex",
+    "detail": "• Perception of pain is characterized by the recognition of sensory input\n• Somatosensory cortex is the area of the cerebrum responsible for the perception and awareness of pain\n• Intermediate zones of the spinal cord and medulla oblongata help to transmit and project painful stimulations"
+  },
+  {
+    "title": "Transmission process—three neuron chain",
+    "detail": "• First-order neurons travel to the dorsal horn of the spinal cord\n• Second-order neurons send pain signal to brain from the spinal cord\n• Third-order neurons take pain signals to cerebral cortex"
+  },
+  {
+    "title": "Catecholamines",
+    "detail": "• Released once animal experiences painful stimuli, causing increased BP and HR; may lead to left ventricular dysfunction, ischemia, and infarction"
+  },
+  {
+    "title": "Acute vs. chronic pain",
+    "detail": "• Acute pain is a sudden response to injury\n• Chronic pain lingers longer than the healing time\n• Persists beyond tissue healing; offers no useful biologic function or survival advantage\n• Divided into two categories—nociceptive pain (caused by activation of nociceptors; include somatic and visceral pain) and neuropathic pain"
+  },
+  {
+    "title": "Causes of acute and chronic pain",
+    "detail": "• Acute pain causes are classified into preoperative, traumatic, and medical\n• Preoperative: Pyo, FOB, GDV\n• Traumatic: Fractures, bite wounds (secondary inflammation)\n• Medical: Secondary to illness causing visceral pain (e.g. gastroenteritis, urolithiasis, hepatomegaly)\n• Chronic pain causes are classified into cancer/malignancy, musculoskeletal, neurogenic, and inflammatory"
+  },
+  {
+    "title": "Nociceptive pain",
+    "detail": "• Pain caused by activation of pain receptors (nociceptors) in response to tissue injury or inflammation\n• Include somatic and visceral pain\n• Can be chronic or acute"
+  },
+  {
+    "title": "Neuropathic pain",
+    "detail": "• Caused by CNS damage\n• Burning, lancing, or a pins-and-needles sensation\n• Gabapentin is useful to eliminate symptoms\n• First step in the establishment of neuropathic pain is development of a lesion somewhere in the somatosensory system; initiating stimulus is typically associated w nociceptive pain"
+  },
+  {
+    "title": "Affinity Efficacy",
+    "detail": "• Affinity: Tendency of a drug to combine w an intended receptor\n• Ability to bind to a receptor\n• Efficacy: Ability of a drug to produce a biological response once it is bound to the receptor\n• Ability to activate the receptor once bound"
+  },
+  {
+    "title": "Affinity and efficacy of agonist, partial agonists, antagonists",
+    "detail": "• Agonists: Affinity present, efficacy present\n• Partial agonists: Affinity present, efficacy reduced\n• Antagonists: Affinity present, no efficacy"
+  },
+  {
+    "title": "NSAIDs",
+    "detail": "• Used for both acute and chronic pain\n• Work by blocking COX-1, COX-2, or as a receptor antagonist (Galiprant) in the pathway that creates prostaglandins, which regulate renal blood flow, inflammation, gastric mucosal protection, and blood clot formation\n• Block development of inflammation by preventing prostaglandin E (PGE) from forming\n• Contraindicated in patients w kidney and liver disease, dehydrated patients (can lead to decreased renal blood flow)"
+  },
+  {
+    "title": "Use of alpha-2 agonists in diabetic patients",
+    "detail": "• Transient hypoinsulinemia and hyperglycemia possible in animals sedated w xylazine and other alpha-2 agonists due to suppression of insulin release by stimulation of receptors in the pancreas\n• Because of this, alpha-2 agonists should be used w caution or not at all in patients w diabetes\n• Vasoconstriction, bradycardia, and decreased hepatic blood flow are also evident, but not of major concern in the diabetic patient\n• Alpha-2 agonists cause initial peripheral vasoconstriction, which in turn causes pale mucous membranes and cold extremities\n• During vasoconstriction, patients will be normotensive or hypertensive"
+  },
+  {
+    "title": "NMDA receptors",
+    "detail": "• NMDA receptor is a glutamate receptor involved in pain transmission\n• Glutamate is the primary excitatory NT in the CNS; transmits signals, including those involved in pain\n• At rest, the receptor’s channel is physically blocked by a magnesium ion, so ions cannot flow through; when repeated/strong pain stimulation occurs, nearby AMPA receptors activate and depolarize the neuron, pushes magnesium out of the NMDA channel, “unblocking” it, leading to ions (especially calcium) to enter, increasing nerve excitability and amplifying pain signals"
+  },
+  {
+    "title": "NMDA receptor antagonists",
+    "detail": "• Only NMDA receptor antagonist drugs are efficacious in the management of neuropathic pain in animals suffering from hyperalgesia and allodynia\n• NMDA receptors relay pain information to the brain, so antagonists may help prevent windup\n• Ketamine and amantadine are examples\n• Amantadine is a human antiviral drug, but it’s recently been used in animals for its NMDA receptor antagonist properties\n• Opioid methadone also has activity at the NMDA receptor"
+  },
+  {
+    "title": "Phototherapy",
+    "detail": "• Used for soft tissue injuries such as sprains, strains, and tendinitis, osteoarthritis, chronic pain, wound management of ulcers, pressure sores, burns, skin infections, and healing of incision sites"
+  },
+  {
+    "title": "Low-level laser therapy (laser therapy or photobiomodulation)",
+    "detail": "• LLLT is the stimulation of tissue w light to achieve therapeutic effect\n• Form of phototherapy; uses nonionizing form of light in the visible and infrared spectrum, which stimulates endogenous chromophores like hemoglobin, cytochrome c oxidase, water, etc. to elicit a photochemical response\n• Cytochrome c oxidase is an enzyme in the mitochondrial respiratory chain; therapeutic effects occur w activation of this enzyme\n• Therapeutic effects are decreasing pain, decreasing inflammation, and improving wound healing\n• Most common indication is intravertebral disc disease, surgical procedures, and soft tissue injuries\n• Can be used over muscle trigger points, acupuncture points, and with osteoarthritis of muscle spasms\n• Goal is not to stimulate malignant cells, causing them to proliferate\n• Most beneficial wavelength for pain management is 810–980 nm"
+  },
+  {
+    "title": "Transcutaneous electrical nerve stimulation (TENS)",
+    "detail": "• Used for relief from pain arising from chronic conditions\n• A form of neuromuscular electrical stimulation (NMES)\n• Benefits include reduced edema, pain control, and improved wound healing (doesn’t enhance lymphatic flow)\n• Beneficial for patients recovering from cruciate ligament reconstruction, orthopedic injury, or experiencing osteoarthritis\n• Contraindications include high-intensity stimulation directly over the heart, animals w pacemakers, animals w seizure disorders, over infected areas or neoplasms, over the carotid sinus, or over the trunk during pregnancy"
+  },
+  {
+    "title": "Cryotherapy",
+    "detail": "• Decreases the production of pain mediators, leading to analgesia\n• Cold temperatures raise the activation threshold of tissue nociceptors\n• Causes vasoconstriction, which reduces postoperative bleeding and bruising, slows nerve conduction (which decreases pain), and decreases enzyme activity (which decreases inflammation)\n• Must be applied w/in first 48 hours if post-injury\n• Should not be used on arise w/out sensation or perfusion to avoid tissue injury"
+  },
+  {
+    "title": "Corticosteroids in pain management",
+    "detail": "• Used for their anti-inflammatory effects\n• Play a role in chronic pain management in companion animals\n• Anti-inflammatory effects stem from blocking prostaglandins and leukotrienes"
+  },
+  {
+    "title": "Physiologic position",
+    "detail": "• Head-elevated sternal recumbency\n• Patients that are hospitalized long term can benefit from being kept in this position as lateral recumbency can result in pressure points in long-term, and standing for long periods might lead to pain or anxiety"
+  },
+  {
+    "title": "Inflammatory mediators of pain",
+    "detail": "• Histamine, bradykinins, and substance P"
+  },
+  {
+    "title": "Maropitant",
+    "detail": "• NK-1 receptor antagonist\n• Blocks binding of substance P to NK-1 receptors in the CRTZ\n• Substance P is a NT peptide found in the emetic center\n• Used to prevent and treat vomiting; useful in reducing opioid-related nausea and vomiting, as well as reducing the MAC of anesthetic gases needed when administered preoperatively\n• Cerenia"
+  },
+  {
+    "title": "Substance P",
+    "detail": "• Neuropeptide involved in transmitting and amplifying pain signals, especially slow, dull, chronic, and inflammatory pain\n• Released from C fibers in response to noxious stimuli\n• Helps transmit pain signals from the periphery to the spinal cord\n• Promotes neurogenic inflammation by causing vasodilation and increased vascular permeability\n• Higher levels are associated w persistent or chronic pain\n• Also involved in vomiting reflex"
+  },
+  {
+    "title": "Alpha-1 vs. Alpha-2 receptors",
+    "detail": "• Alpha-1 receptors produce arousal, excitement, and increased locomotor activity\n• Alpha-2 receptors produce sedation and analgesic effects\n• Xylazine is an alpha-2 agonists, but has a high affinity for alpha-1 as well, so it produces the most side effects—arousal, excitement, increased locomotor activity are seen compared w medetomidine and dexmedetomidine, which are highly selective for alpha-2 receptors"
+  },
+  {
+    "title": "Landmarks",
+    "detail": "• Intercostal block: Ribs serve as bony landmarks unless the patient is severely obese\n• L7-S1: Epidural injection in dogs"
+  },
+  {
+    "title": "EMLA",
+    "detail": "• A eutectic mixture of local anesthetics (lidocaine and prilocaine) applied topically\n• Produces anesthesia to a maximum depth of 5 mm\n• Left on for 10 minutes\n• Duration of effect is 1 to 2 hours\n• Mostly used for catheterization\n• Not applied to eyes or inflamed/broken skin"
+  },
+  {
+    "title": "Eutectic",
+    "detail": "• Mixture of two substances w a melting point that is lower than the individual melting points\n• EMLA (lidocaine + prilocaine) has a melting point of 16C"
+  },
+  {
+    "title": "Threshold",
+    "detail": "• The minimal stimulus required to elicit a transmittable electrical signal from a peripheral sensory receptor"
+  },
+  {
+    "title": "Action potential",
+    "detail": "• Transformation of environmental stimuli into electrical signals"
+  },
+  {
+    "title": "Polymodal nociceptors",
+    "detail": "• Pain receptors that respond to multiple types of noxious stimuli, including mechanical (pressure), thermal (heat/cold), and chemical stimuli\n• Participate to modulate the transmission of pain information via descending fibers from the brain\n• The fibers act thru different interneurons to block the transmission of information from the nociceptors to secondary neurons\n• Commonly associated with slow, dull, aching pain"
+  },
+  {
+    "title": "Dental nerve blocks",
+    "detail": "• Infraorbital, mental, and mandibular nerve blocks are used in cats and dogs\n• Infraorbital block desensitizes the upper lip, nose, roof of the nasal cavity, and skin overlying these structures up to the level of infraorbital foramen\n• Infraortbital canal is palpated on a line bw dorsal border of zygomatic process and gumline of upper canine\n• Mandibular block anesthetizes the teeth, skin, mucosa of lower lip\n• Mental block is given at the mental foramen directly below the second premolar tooth to provide analgesia of the lower lip and incisors on the ipsilateral side"
+  },
+  {
+    "title": "Maxillary nerve block",
+    "detail": "• Used to provide anesthesia/analgesia to the ipsilateral maxilla, including the teeth, hard and soft palate, and nasal passage"
+  },
+  {
+    "title": "Piroxicam",
+    "detail": "• NSAID\n• Effective analgesic of the lower urinary tract for pain associated w cystitis and urethritis, esp. in cats"
+  },
+  {
+    "title": "Aquatic therapy in cats",
+    "detail": "• Indicated for cats experiencing muscle weakness, osteoarthritis, or for geriatric care\n• Contraindicated in feline patients experiencing cardiac dysfunction, respiratory dysfunction, surface infection, severe peripheral vascular disease, or diarrhea"
+  },
+  {
+    "title": "Epidural",
+    "detail": "• Morphine is the opioid most commonly used for epidural analgesia\n• Buprenorphine can be used, but is less potent (partial agonist)\n• Lidocaine and bupivacaine are local anesthetics, not opioids, but commonly used as epidural analgesics\n• Needles that can be used in an epidural block are the spinal needle (Quincke needle, 22- or 20-gauge, 1.5–3.5 inches, depending on patient size) or Tuohy needle (22–18-gauge)"
+  },
+  {
+    "title": "Indications and contraindications for epidural",
+    "detail": "• Indications:\n• intra- and postoperative analgesia for hindquarter surgeries in dogs and cats (e.g., tail amputation, anal–rectal surgeries, tibial–femoral fractures, total hip replacement, cruciate ligament repair)\n• exploratory laparotomy\n• C-section\n• Surgical procedures caudal to the region of the twelfth or thirteenth ribs\n• Contraindicated in patients w coagulation disorders due to risk of hemorrhage into the epidural space if an epidural venous sinus vessel is inadvertently perforated during needle placement"
+  },
+  {
+    "title": "Sacrococcygeal block",
+    "detail": "• Used when unblocking cats w urethral obstruction"
+  },
+  {
+    "title": "Local anesthetic side effects and toxicity",
+    "detail": "• Side effects of local anesthetics involve the CNS and cardiovascular system\n• May also cause methemoglobinemia, nerve and skeletal muscle toxicities, and allergic reactions including hypersensitivity or anaphylactic responses\n• First signs of toxicity are muscle twitching and convulsing"
+  },
+  {
+    "title": "Benefits of local anesthetics",
+    "detail": "• Local anesthetics produce true analgesia, resulting in complete absence of pain for the duration of the block\n• Long-term (chronic) pain states may be diminished or eliminated\n• Nonscheduled agents, so no cumbersome paperwork or special license required"
+  },
+  {
+    "title": "Pain assessment tools",
+    "detail": "• Simple descriptive scale: Rates degree of pain (e.g. absent, mild, moderate, severe); very subjective due to lack of description of what to look for\n• Visual analog scale: Consists of a ruler (no pain to worst pain), marked w an X; very subjective\n• Numeric rating scale: Similar to simple descriptive scale, but uses numbers to rate pain; can be made more objective by assigning behaviors/physiologic changes to numbers (e.g. Colorado)\n• Categorical numeric rating scale: Uses categories like appearance, interaction, posture, etc. plus numbers to rate pain (e.g. Short Form of Glasgow Composite Measure)"
+  },
+  {
+    "title": "Colorado State Canine and Feline Pain Scales",
+    "detail": "• Used to monitor acute pain\n• Subjective; numeric rating scales (0 to 4)\n• Three categories—psychologic and behavioral, response to palpation, body tension\n• Latest version has numbers, drawings and descriptions of various stages of pain (numeric and categoric convenient pain scales)\n• Higher score means more pain\n• Species-specific, or for specific pain type, or specific to procedure\n• Not approved for use by the American Animal Hospital Ass (AAHA); not validated by clinical studies that compare it w other scales"
+  },
+  {
+    "title": "Colorado acute pain scale 0-4",
+    "detail": "0: Comfortable, happy, non-tender wound site\n1: Mild pain, distraction, unsettled behavior\n2: Whimpers, prefers to remain recumbent, resists palpation\n3: Crying, guarding, tense, doesn’t want to move, variable response when touched\n4: Groaning or screaming, potentially unresponsive"
+  },
+  {
+    "title": "Short Form of Glasgow Composite Measure Pain Scale",
+    "detail": "• Objective; considered state of the art\n• For dogs w acute pain\n• Categorical numeric pain scale\n• 30 descriptors in 4 categories—observation in cage, mobility, response to palpation, overall demeanor\n• Multidimensional, with several aspects of pain intensity and pain-related disability included\n• Analgesia recommended if patient scores 6 out of 24 (or 5 out of 20 if mobility can’t be assessed)\n• Validated"
+  },
+  {
+    "title": "UNESP-Botucatu Multidimensional Composite Pain Scale",
+    "detail": "• Objective\n• Categorical numeric pain scale\n• 40 descriptors in 10 categories (palpation, vocalization, posture, etc.)\n• Used for cats w acute pain\n• Validated"
+  },
+  {
+    "title": "University of Melbourne Pain Scale",
+    "detail": "• Based on behavioral and physiologic responses\n• Includes multiple descriptors in six categories of parameters or behaviors related to pain"
+  },
+  {
+    "title": "Unidimensional vs. multidimensional pain scales",
+    "detail": "• Multidimensional scales take into account various dimensions of pain (palpation reaction, appearance, etc.)\n• Yield better interobserver agreement because they"
+  },
+  {
+    "title": "Health related quality of life",
+    "detail": "• Concerned w aspects of QOL that change as a result of ill health and medical interventions\n• Subjective evaluation of circumstances including an altered health state and related interventions"
+  },
+  {
+    "title": "Pain assessment intervals",
+    "detail": "• For chronic pain:\n• Minimum of every 3 months\n• Both blood-work values and patient response to medication should be assessed\n• During hospitalization:\n• Every 4–6 hours (since many injectable pain meds last 4-8 hours)"
+  },
+  {
+    "title": "Hydromorphone use in cats",
+    "detail": "• Causes hyperthermia; should have body temp monitored\n• Can also cause excitation or dysphoria (more common in cats than dogs), panting and vocalization"
+  },
+  {
+    "title": "Incisional block",
+    "detail": "• Can be used before surgical incision or after surgery and before skin closure"
+  },
+  {
+    "title": "Bier block",
+    "detail": "• IV regional anesthesia\n• Used for short-term (less than an hour) local anesthesia to an extremity for surgeries like digit amputations\n• Lidocaine is injected into the distal segment of a superficial vein after a tourniquet is applied proximally\n• Bupivacaine isn’t used bc it is more cardiotoxic when given IV"
+  },
+  {
+    "title": "Goniometer",
+    "detail": "• Used to measure range of motion (both flexion and extension) of distal joints including the carpus, elbow, shoulder, tarsus, trifle, and hip\n• Initial goniometry measurements can provide information needed to decide on rehabilitation exercises and modalities and to measure the effectiveness of the interventions"
+  },
+  {
+    "title": "Gulick",
+    "detail": "• Used to measure muscle mass\n• Can be performed on the limbs to determine muscle atrophy and around abdomen to determine weight loss"
+  },
+  {
+    "title": "Somatic vs. visceral pain",
+    "detail": "• Somatic pain arises from bones, muscles, joints, tendons, ligaments, and skin\n• Visceral pain arises from internal organs and any alterations to their position or inflammation, stretching, etc."
+  },
+  {
+    "title": "Fibers involved in somatic and visceral pain",
+    "detail": "• Somatic pain arises from the skin and muscles and is conducted via A-delta and C fibers\n• Visceral pain arises from the internal organs and is conducted via C fibers only"
+  },
+  {
+    "title": "A- and C-fibers",
+    "detail": "• A-delta fibers are the nerve fibers that conduct “first pain—A-delta receptors are activated by thermal or mechanical stimulation and produce short-lived, discriminative, sharp pain\n• Transmits the signals of “first pain,” the initial pain after injury\n• Covered w myelin, which helps transmit impulses more quickly\n• A-beta fibers are responsible for conducting harmless information; they carry nonpainful signals that convey touch, vibration, movement, and pressure\n• C fibers are associated w a slower, diffuse burning type of pain accompanying secondary pain felt because of inflammation and tissue injury\n• C fibers are smaller unmyelinated nerve fibers that have a slower conduction\n• The A-delta and C nerve fibers can start in the skin, but they terminate in the dorsal horn of the spinal cord; excitatory NTs are used for the signal to jump from the dorsal horn to the brain"
+  },
+  {
+    "title": "Signs of pain in cats",
+    "detail": "• Dilated pupils\n• Lack of grooming\n• Hiding or remaining in one place\n• Purring and other vocalizations"
+  },
+  {
+    "title": "Signs of pain in fish",
+    "detail": "• Anorexia, abnormal swimming behavior, attempting to jump out of water, rapid opercular movements, clamped fins, pale or darkened color, and hiding"
+  },
+  {
+    "title": "Signs of pain in reptiles (includes turtles)",
+    "detail": "• Signs of chronic pain include immobility or stinting of the area, aggressive behavior when being handling\n• Signs of acute pain include withdrawal of painful limbs, escape behavior, avoidance, restlessness, aggression, and increased RR\n• Florid displays of pain can be seen w biting or scratching of the region in question and vocalization"
+  },
+  {
+    "title": "Signs of pain in birds",
+    "detail": "• Birds w chronic or overwhelming pain display conservation-withdrawal responses (e.g. self-isolation), perhaps in an attempt to minimize further pain that struggling might induce and to avoid attracting the attention of potential predators\n• Tx possible w butorphanol, NSAIDs, gabapentin"
+  },
+  {
+    "title": "Signs of pain in rabbits",
+    "detail": "• Usually characterized by a reduction in food and water intake, leading to weight loss and dehydration, as well as limited movement\n• Teeth grinding (bruxism) can be a sign, but not common\n• Squinted eyes can also be a sign\n• Hunched posture, ileus, dullness\n• The sooner a rabbit eats, less the less likely it is to develop ileus (1-2 hours after awakening ideal)\n• Lateral recumbency indicates a severely ill rabbit"
+  },
+  {
+    "title": "Signs of pain in cattle",
+    "detail": "• Decreased energy\n• Decreased milk production if milk-producing\n• Restlessness\n• Pawing at a body part or ground\n• Kicking at udders indicate mastitis; tx is NSAIDs and antibiotics\n• Laying down more often\n• Abnormal gait\n• Depressed and dull appearance\n• Teeth grinding\n• Lack of appetite\n• Standing w one foot behind the other"
+  },
+  {
+    "title": "Signs of pain in sheep and goats",
+    "detail": "• Goats often bleat; they do not tolerate pain associated with minor surgical procedures and can die of shock if adequate analgesia is not provided\n• Sheep only show subtle signs of pain; exhibit tachypnea, inappetence, grinding of teeth, immobility, or abnormal gait"
+  },
+  {
+    "title": "Signs of pain in pigs",
+    "detail": "• Pig vocalization alongside lack of normal social behavior—pigs normally squeal and attempt to escape when handled, but these reactions may be accentuated when in pain\n• Squealing is also characteristic when painful areas are palpated"
+  },
+  {
+    "title": "Balanced pain control for goat dehorning Multimodal analgesia and sedation for goat dehorning",
+    "detail": "Balanced pain control\n• Circumferential ring block or cornual block using lidocaine and bupivacaine for local anesthesia\n• Sedation w an alpha-2 agonist like xylazine\n• NSAID\nMultimodal analgesia and sedation\n• An alpha-2 agonist like xylazine or medetomidine\n• A sedative/anxiolytic like butorphanol\n• Bupivacaine as local nerve block\n• Dose of an IV anti-inflammatory pain med like flunixin or ketoprofen"
+  },
+  {
+    "title": "Wound diffusion catheter",
+    "detail": "• Small flexible catheter placed along a surgical incision to continuously deliver a local anesthetic to the wound site for extended postoperative pain control\n• It can be used for large skin incisions (e.g. radical mastectomies) to provide <72 hours of analgesia\n• Reduces need for systemic analgesic\n• Used for limb amputations, total ear canal ablations (TECA), and radical mastectomies"
+  },
+  {
+    "title": "Kappa vs. mu receptors (opioid receptors)",
+    "detail": "• Mu (μ) receptors are the primary analgesic receptor\n• Agonists offer most pain relief but most side effects\n• Produce strong analgesia\n• For visceral and somatic pain\n• Cause sedation, respiratory depression, euphoria (dogs) or dysphoria (cats)\n• Include morphine, hydromorphone, fentanyl\n• Kappa (κ) receptors\n• Offer less analgesia, but have fewer side effects\n• Produce mild to moderate analgesia\n• Especially effective for visceral pain\n• Cause sedation, less respiratory depression, dysphoria\n• Include agonist–antagonist opioids like butorphanol"
+  },
+  {
+    "title": "Delta receptors",
+    "detail": "• Third opioid receptor (mu, kappa, delta)\n• Contribute to analgesia, especially at the spinal level, but effect is weaker than mu receptors\n• May also play a role in modulating emotional aspects of pain and can enhance the effects of mu agonists"
+  },
+  {
+    "title": "Opioid receptors in different species",
+    "detail": "• Mammalians have primarily mu receptors that modulate pain\n• Birds have primarily kappa receptors\n• The difference is taken into consideration when picking a drug\n• A full mu agonist like hydromorphone would be less effective in birds\n• Butorphanol is a partial agonist-antagonist (it’s an agonist at kappa receptors, and antagonist at mu receptors) so sedative effects are more robust than pain management effects in mammals, and the opposite is true in birds—it is a very effective pain med"
+  },
+  {
+    "title": "Dorsal horn",
+    "detail": "• Where pain signals enter the spinal cord\n• Receives and manages sensory information from the peripheral nerves and sends that information to the brain for further processing\n• Termination point of A-delta and C nerve fibers (excitatory NTs are used for the signal to jump from the dorsal horn to the brain)"
+  },
+  {
+    "title": "Gray matter vs. white matter",
+    "detail": "• Gray matter contains neuron cell bodies, synapses, and interneurons\n• Gray matter in the spinal cord is separated into three zones: the dorsal horn, the ventral horn, and the intermediate zone\n• White matter is made of myelinated axons; function is to transmit signals, not process them\n• Gray matter—processing and integration\n• White matter—communication and conduction"
+  },
+  {
+    "title": "Leukotrienes",
+    "detail": "• Eicosanoids (a group of fatty acids) formed from the activation of WBCs\n• Inflammatory response mediator, alongside prostaglandins and cytokines (all lipids)\n• Mediate bronchoconstriction and increased mucus production—acts to sustain inflammation in asthmatic and allergic reactions"
+  },
+  {
+    "title": "Receptive field",
+    "detail": "• An area innervated by a single sensory nerve fiber\n• Determines where a stimulus is perceived--smaller receptive fields indicate more precise localization of pain or sensation\n• Can include input from A-delta and C fibers"
+  },
+  {
+    "title": "Dermatome",
+    "detail": "• An area of skin innervated by a single spinal nerve root\n• Used to localize neurologic or pain lesions\n• Receptive field is an area supplied by a sensory nerve fiber, whereas dermatome is supplied by a spinal nerve root"
+  },
+  {
+    "title": "Neuroplasticity",
+    "detail": "• Ability of neurons to change their structure and function in response to different environmental stimuli"
+  },
+  {
+    "title": "Brachial plexus block",
+    "detail": "• Anesthetizes the peripheral nerves leaving the plexus and traveling down the limb\n• The anesthetized nerves provide sensation to the limb distal to the elbow, including radius/ulna, carpus, metacarpus, digits"
+  },
+  {
+    "title": "Most common traumatic cause of OA in dogs",
+    "detail": "• Ruptured cruciate ligaments"
+  },
+  {
+    "title": "NSAID washout period",
+    "detail": "• When switching from one NSAID to another NSAID, a washout period of 3–5 days should be observed to minimize risk of concurrent adverse effects"
+  },
+  {
+    "title": "Physiological changes during initial onset of pain",
+    "detail": "• Increased oxygen consumption\n• Vasoconstriction\n• Increased myocardial workload\n• Increased sympathetic tone"
+  },
+  {
+    "title": "Benefits of CRI for pain management",
+    "detail": "• Providing a more stable plane of analgesia w less incidence of breakthrough pain\n• Providing greater control over drug administration\n• Allowing a lower dose of drug to be delivered at any given time, resulting in a lower incidence of dose-related side effects"
+  },
+  {
+    "title": "Common CRI combinations",
+    "detail": "• Mu agonist opioid w ketamine and lidocaine (e.g. MLK—morphine-lidocaine-ketamine)\n• Fentanyl-hydromorphone"
+  },
+  {
+    "title": "Cryokinetics",
+    "detail": "• Pain management technique that combines cold therapy w controlled exercise to reduce pain and inflammation while maintaining joint function\n• Primary benefit is to facilitate the ability to perform pain-free exercise as long as the level of exercise remains below levels that cause further injury"
+  },
+  {
+    "title": "AAHA-AAFP Pain Management Guidelines",
+    "detail": "• Set pain as the 4th vital sign (2015 version)\n• The American Animal Hospital Association’s standards require that pain be included in every veterinary patient assessment regardless of a presenting complaint\n• Approved the use of the following scales (2022) [all validated]\n• UNESP-Botucatu Multidimensional Composite Pain Scale (acute pain)\n• Feline Grimace Scale (acute pain)\n• Feline Musculoskeletal Pain Index (chronic pain and OA; used by the owner)"
+  },
+  {
+    "title": "Methadone",
+    "detail": "• Synthetic mu opioid agonist\n• Has additional affinity for NMDA receptors\n• May decrease norepinephrine and serotonin reuptake to augment analgesia, making it useful for neuropathic or wind-up pain\n• Among opioids, has the lowest likelihood of causing vomiting\n• Would be a good pain med for a bite wound awaiting exam bc it’s potent, has some sedative properties, and safe enough to use while stabilizing the patient"
+  },
+  {
+    "title": "Obesity",
+    "detail": "• Increase in fat tissue mass sufficient to contribute to disease\n• Dogs and cats weighing 10%–19% more than the optimal weight for their breeds are considered overweight\n• Those weighing 20% or more above the optimum weight are considered obese\n• Some sources say there is no definite % above average weight, disease condition is the way to define obesity"
+  },
+  {
+    "title": "Lidocaine",
+    "detail": "• Local anesthetic\n• Lidocaine patches are used to provide analgesia for skin abrasions, lacerations, and severe local skin irritations and itching (hot spots)\n• A loading dose is recommended before starting a CRI of lidocaine—2 mg/kg IV lidocaine should be administered to achieve therapeutic blood levels before initiating CRI\n• Lidocaine can be given w epinephrine to prolong its duration of action via vasoconstriction"
+  },
+  {
+    "title": "Mepivacaine",
+    "detail": "• Local anesthetic\n• Advantage is it does not sting on injection\n• Approved for use in dogs and horses\n• Moderate duration of action (2–4 hours)\n• Metabolized in the liver and excreted by the kidneys"
+  },
+  {
+    "title": "Minimal to severely painful procedures",
+    "detail": "• Minor surgeries, such as abscess repair, are considered minimally painful\n• Moderate pain can be induced from castrations, ovariohysterectomies, osteoarthritis\n• Severe pain occurs with a thoracotomy, ear canal ablation, bone fracture, declaw, peritonitis\n• Laminectomy (surgery to remove the back arch or part of a spinal bone) produces extremely severe pain"
+  },
+  {
+    "title": "Pain scales for horses",
+    "detail": "• Obel Laminitis Pain Scale\n• AAEP Lameness Grade Definition\n• Horse Grimace Scale"
+  },
+  {
+    "title": "MILA soaker catheter",
+    "detail": "• Has a reservoir that gradually discharges local anesthetic into the catheter, bathing tissues in the area\n• Delivers local anesthetic by an elastomeric reservoir pump, by CRI, and by syringe pump"
+  },
+  {
+    "title": "Acupuncture",
+    "detail": "• Stimulates both peripheral and central NS, so has systemic and local effects\n• Acupuncture treats pain by inducing neuromodulation along peripheral, central, and autonomic pathways\n• Points and channels of acupuncture follow neurovascular pathways\n• Systemically, releases beta-endorphins, dynorphins, enkephalins, serotonin, norepinephrine, gamma-aminobutyric acid, and cortisol\n• Local effects include muscle relaxation and spasm relief\n• Treatments include needling, electroacupuncture, low-level laser, and manual pressure\n• Contraindications include excessive patient movement or aggression that prohibit safe and effective treatment, pregnancy, sepsis, severe bleeding abnormalities, spinal or joint instability local to the treatment site, and tumor or infection at the site of desired needling"
+  },
+  {
+    "title": "Stimulation of acupuncture points",
+    "detail": "• Acupressure, dry needle, electro-acupuncture, aqua-acupuncture, moxibustion, etc. can be used\n• Electro-acupuncture produces a stronger and more sustained neural stimulus, increasing duration of effect\n• Low frequency electro-acupuncture stimulates A-delta fibers; high frequency stimulates C-fibers; very high frequency stimulates serotonergic fibers and releases serotonin and epinephrine (200 Hz)\n• Aqua-acupuncture involves injection of saline or another sterile liquid into an acupuncture point, causing constant stimulation for an extended period\n• Moxibustion involves burning an herb above the acu point, using warmth for stimulation\n• Gold beads or threads can be implanted at an acupuncture point for a permanent effect"
+  },
+  {
+    "title": "Jump sign",
+    "detail": "• A reaction that the patient may have to pain during palpation of Myofascial Trigger Points\n• May be a flinch, yelp, cry out, or patients may try to bite, depending on the location and intensity of pain\n• An MTrP is defined as a hyperirritable spot or “knot” located in a taut band of a muscle, capable of producing referred pain and a local twitch response with direct palpation or dry needling\n• Myofascial trigger points are painful areas of soft tissues that include motor and sensory dysfunction, thus preventing self-release\n• Identifying myofascial pain entails palpating for taut bands and trigger points encased w/in myofascial fabric"
+  },
+  {
+    "title": "Bisphosphonates",
+    "detail": "• Drug class used for patients w osteosarcoma and other bone cancers\n• Acts by preventing loss of bone mass"
+  },
+  {
+    "title": "Fentanyl",
+    "detail": "• Opioid analgesic; full mu agonist\n• Much more potent than morphine and hydromorphone\n• CII due to high abuse potential\n• Often used CRI because of its short duration of action—peak analgesic effects are seen 5 min after IV injection and last approximately 30 min\n• Fentanyl CRI is prescribed in µg/kg/minute\n• Transdermal patches used for long term pain management\n• If heated, they can release excessive amounts of fentanyl, causing sedation, dysphoria, and overdose\n• Use in cats not thoroughly researched, but in dogs there have been periods recorded w no fentanyl in the blood (blood levels fluctuate)"
+  },
+  {
+    "title": "Capsaicin",
+    "detail": "• Used as a topical analgesic adjunct\n• Ointment is applied to painful area; activates the TrpV1, a heat-activated ion channel on sensory neurons that detects noxious heat, acidic conditions, and chemicals like capsaicin, triggering pain signals (nociception) and sensations of burning\n• Prolonged TrpV1 activation results in receptor desensitization, which leads to substance-P depletion and ultimately to alleviation of pain\n• Derived from chili peppers; responsible for their hot taste"
+  },
+  {
+    "title": "Preemptive scoring systems",
+    "detail": "• Assign a degree of pain (none, mild, moderate, severe) based on the procedure performed and the amount of tissue trauma involved\n• Subjective scoring system; based on the amount of pain an observer thinks the animal will experience for a given procedure"
+  },
+  {
+    "title": "Gabapentin",
+    "detail": "• Useful for patients experiencing osteoarthritis pain, especially when used in combination with NSAIDs\n• Used in cats before limb amputation or declaw surgery to help prevent neuropathic pain and lessen the chances of chronic pain developing\n• Useful in neuropathic pain"
+  },
+  {
+    "title": "Amitriptyline",
+    "detail": "• Provides relief of pain associated with chronic cystitis in cats"
+  },
+  {
+    "title": "Ketamine contraindications",
+    "detail": "• Contraindicated for patients w hypertrophic cardiomyopathy, CHF, and in unstable patients suffering from shock due to side effects including increased HR, BP, and myocardial oxygen consumption"
+  },
+  {
+    "title": "Client Specific Outcome Measures (CSOM)",
+    "detail": "• Instrument originally developed for dogs and subsequently applied in cats\n• Subjective pain and function assessment tool\n• Owner identifies specific activities meaningful to that animal (e.g., climbing stairs, jumping, playing), and scores them for difficulty or impairment; scores are compared over time"
+  },
+  {
+    "title": "Emergence delirium vs. dysphoria",
+    "detail": "• Emergence delirium results from the gas anesthetic; transient, usually resolving in the first few minutes of recovery, so no intervention is needed\n• Dysphoria is usually due to opioids—either high dose or nausea/restlessness ass w the opioid\n• May be treated w anxiolytics like benzodiazepines, or butorphanol (agonist-antagonist) for sedative effects and reversing the mu agonist, or naloxone for reversal"
+  },
+  {
+    "title": "Signs of dysphoria or delirium due to opioids",
+    "detail": "• Speaking can temporarily soothe most animals experiencing mild to moderate pain, but animals that are dysphoric or delirious because of opioid overdose rarely respond to soothing interaction or to light palpation of the painful area\n• Thrashing and yowling alone does not prove dysphoria—might also be due to pain (speaking/touching will calm down if it’s pain)\n• Different than claustrophobia— claustrophobic animals generally weaves in the cage or tries to escape by digging or chewing on the bars"
+  },
+  {
+    "title": "Administration of opioids",
+    "detail": "• IV, IM, SC due to rapid onset of action\n• PO not used due to first-pass effect (many opioids include variable systemic absorption when administered orally)"
+  },
+  {
+    "title": "Patient responding to surgical stimulation under anesthesia",
+    "detail": "• Additional analgesics necessary, usually via an injection of an opioid\n• Although most technicians tend to increase the percentage of inhalant anesthetic, administering additional analgesics via IV catheter is faster and more beneficial\n• If inhalant percentage is increased, fresh gas flow must also be increased to ensure receipt of the percentage of gas dialed on the vaporizer in a timely manner (known as the concept of time constants)"
+  },
+  {
+    "title": "Wind-up",
+    "detail": "• Perceived increase in pain intensity w time when a painful stimulus is delivered repeatedly above a critical rate\n• Occurs in the spinal cord (CNS); short-term\n• Repeated stimulation of C fibers causes a progressive increase in pain signal transmission from the same stimulus\n• Pain feels worse w repeated input, even if the stimulus doesn’t change"
+  },
+  {
+    "title": "Central sensitization",
+    "detail": "• An increase in the excitability of spinal neurons, mediated in part by the activation of NMDA receptors in dorsal horn neurons\n• Occurs in the CNS; longer-lasting than wind-up\n• Neurons in the spinal cord and brain become hyperresponsive, leading to amplified and persistent pain\n• Pain can spread beyond the injury site and persist after healing\n• A key mechanism underlying chronic pain"
+  },
+  {
+    "title": "Peripheral sensitization",
+    "detail": "• Occurs when tissue inflammation leads to the release of a complex array of chemical mediators, resulting in reduced nociceptor thresholds\n• Local, tissue-level process\n• Injured area becomes more painful to touch or movement"
+  },
+  {
+    "title": "Maladaptive pain",
+    "detail": "• Pain w no protective benefit to the patient\n• Pain that persists beyond normal healing or is in excess of residual disease\n• Includes perceived pain intensity in excess of stimuli, pain persisting longer than expected for stimuli, and pan extended to tissues that aren’t injured\n• disproportionate, persistent, or no longer protective"
+  },
+  {
+    "title": "Physiologic pain",
+    "detail": "• Protective response by the CNS to warn the individual after a noxious stimulus to prevent tissue damage"
+  },
+  {
+    "title": "Remifentanil",
+    "detail": "• Best choice for ER patients w head trauma and may need serial neurological exams\n• Has shortest duration of action (10–15 minutes); infusion can be discontinued and shortly after a neurologic examination can be performed\n• Does not have side effects that would lead to abnormal neurological signs"
+  },
+  {
+    "title": "Potency and speed of onset of local anesthetics",
+    "detail": "• Directly related to the lipid solubility of the drug\n• Larger the lipophilic property of the local anesthetic, more readily it permeates the axonal nerve membranes"
+  },
+  {
+    "title": "Use of local anesthetics in ruminants",
+    "detail": "• Provide excellent pain management, but effects wear off so should be part of a multimodal pain management plan\n• Can be used for many standing procedures and general surgery\n• But ruminants are very sensitive to this class, so species-specific doses should be observed\n• Sheep and goats are very sensitive\n• Total dose shouldn’t exceed 10 mL/kg\n• Lidocaine concentration shouldn’t exceed 2%\n• Recommendation is to dilute to a 0.5 to 1% solution in small or juvenile animals to avoid toxicity"
+  },
+  {
+    "title": "Aggrecanase",
+    "detail": "• Responsible for cartilage degradation\n• Docosahexaenoic acid (DHA) inhibits the aggrecanase enzymes in cats\n• Eicosapentaenoic acid (EPA) inhibits the aggrecanase enzymes in dogs"
+  },
+  {
+    "title": "Analgesic properties of inhalants",
+    "detail": "• Only nitrous oxide has analgesic properties via its NMDA receptor antagonist properties, but it is very weak so inhalants are never used as analgesics"
+  },
+  {
+    "title": "Arrythmias caused by alpha-2 agonists",
+    "detail": "• First- and second-degree AV block\n• Ventricular bradycardia\n• Ventricular tachycardia (potentially) in the event of pronounced sinus bradycardia"
+  },
+  {
+    "title": "Routes for alpha-2 administration",
+    "detail": "• IV, IM, SC, TM\n• Transdermal route is not commonly used"
+  },
+  {
+    "title": "Gate control theory",
+    "detail": "• Theory that A-beta inhibitory interneurons reduce output of the active A-delta and C nociceptive neurons by closing a gate that would otherwise allow them to relay information to the brain\n• Non-painful sensory input inhibits pain transmission at the spinal cord level\n• A-beta fibers (touch, pressure) activate inhibitory interneurons in the dorsal horn; these interneurons reduce signaling from A-delta and C fibers to the brain\n• Explains why rubbing, pressure, massage, TENS, ice, or movement can reduce pain\n• The effect is temporary and modulatory, not curative"
+  },
+  {
+    "title": "Traditional Chinese veterinary medicine",
+    "detail": "• Categorized into five branches: diet and food, exercise Qigong, Tui-Na, acupuncture, and herbal medicine"
+  },
+  {
+    "title": "Massage techniques",
+    "detail": "• Effleurage: Most common stroke—gliding stroke that follows the contour of the body; evaluates tissue, enhances blood flow, warming it up and aiding flushing of lactic acid\n• Petrissage: Kneading; removes metabolic waste, promotes circulation\n• Friction: Promotes circulation (common over tendons in tendonitis, over trigger points), breaks up skin adhesions and scar tissue\n• Tapotement: Tapping; stimulates nerve endings, sedative in longer sessions\n• Coupage: Loosens phlegm in the lungs\n• Vibration: Relaxes muscles, reduces trigger point activity"
+  },
+  {
+    "title": "Serotonin syndrome",
+    "detail": "• Can occur when patients on SSRIs or MAOI drugs are given tramadol\n• Likely due to tramadol’s effect of inhibiting neuronal reuptake of norepinephrine and serotonin"
+  },
+  {
+    "title": "Passive range of motion",
+    "detail": "• Helps patients regain ROM, increase strength, minimize muscle loss due to disuse\n• Shouldn’t be painful\n• Massage muscles that are being stretched to stimulate blood flow and encourage movement\n• Guide limb, but don’t pull\n• Never hyperextend joints, only flex and relax—flex for 10-20 sec, hold 10-20 sec, allow to relax, repeat 3-10 times\n• Keep legs parallel to the ground for patients in lateral recumbency"
+  },
+  {
+    "title": "Joint mobility treatment",
+    "detail": "• Stretching + range of motion exercises"
+  },
+  {
+    "title": "Benefits of preemptive analgesia in severe surgeries",
+    "detail": "• The patient presenting for a thoracotomy w fractured ribs or trauma can benefit from preemptive analgesics—they will create a more consistent breathing pattern, improve ventilation, and bring down the anxiety associated w the inability to breathe"
+  },
+  {
+    "title": "Flunixin meglumine (Banamine)",
+    "detail": "• NSAID\n• Labeled for use in horses and cattle, but has extra label use in other species\n• GI side effects common—in horses, ulceration is seen more commonly, abnormal posturing and stretching can be signs"
+  },
+  {
+    "title": "Common sources of pain for ferrets",
+    "detail": "• Arthritis\n• Cancer\n• Dental problems"
+  },
+  {
+    "title": "Extracorporeal shock wave treatment (ESWT)",
+    "detail": "• May be beneficial to patients with chronic OA of the major joints, especially if they cannot tolerate NSAIDs or other treatments\n• Involves application of high-energy, high-amplitude acoustic pressure waves to tissues\n• Contraindicated in neoplastic joint disease, infectious arthritis, and diskospondylitis due to risk of spreading disease, pregnant patients, or over the lungs, brain, heart, major blood vessels, nerves, neoplasms, or a gravid uterus"
+  },
+  {
+    "title": "Herbs w COX inhibition",
+    "detail": "• White willow bark\n• Devil’s claw\n• Ginger"
+  },
+  {
+    "title": "Hyperalgesia",
+    "detail": "• Pain response to a painful stimulus is exaggerated\n• Increased sensitivity to pain; decreased pain threshold\n• Chronic hyperalgesia can be due to nerve damage or underlying disease\n• Acute hyperalgesia can be due to prolonged exposure to pain, acute illness onset, or response to infection"
+  },
+  {
+    "title": "Allodynia",
+    "detail": "• Pain response to nonpainful stimulus"
+  },
+  {
+    "title": "Pain specialization for CVTs",
+    "detail": "• The International Veterinary Academy of Pain Management (IVAPM) offers certification for DVMs and CVTs—Certified Veterinary Pain Practitioner (CVPP)\n• Program includes analgesics, other pain modulation drugs, alternative therapies, complementary modalities (PT, massage, hydrotherapy, acupuncture)"
+  },
+  {
+    "title": "Synergistic analgesic benefits",
+    "detail": "• Opioids +/- alpha-2 agonists +/- local anesthetics"
+  },
+  {
+    "title": "Solensia (frunevetmab)",
+    "detail": "• Monoclonal antibody\n• Binds to nerve growth factor (NGF), which is a key modulator of pain in the pain pathway—it is released in the presence of noxious stimuli, leading to worsening pain, neurogenic inflammation, and peripheral sensitization—by binding to NGF, Solensia prevents it from accessing receptor, decreasing release of downstream chemical pain mediators\n• Labeled for use in osteoarthritis\n• FDA dose for a cat weighing 6.5 kg is one vial (7 mg) SC once a month (Q28)—target dose range of 1-2.8 mg/kg\n• Must be protected from light and refrigerated\n• Side effects include injection site reactions like alopecia, swelling, scabbing, itchiness; GI signs (V/D, anorexia)\n• Can be used concurrently w NSAIDs\n• Vaccines can be given on the same day, but on different locations"
+  },
+  {
+    "title": "Physiological changes associated w pain",
+    "detail": "• Cardiovascular changes inc. tachycardia and arrhythmias\n• GI issues inc. nausea and vomiting\n• Metabolic issues inc. cachexia, increased oxygen demand, and a negative nitrogen balance\n• Renal issues inc. renal hypertension\n• Pulmonary changes inc. tachypnea, hypoxemia, pulmonary edema, respiratory acid/base balance abnormalities, pulmonary hypertension"
+  },
+  {
+    "title": "Declaw (onychectomy) pain management",
+    "detail": "• One of the most painful surgeries\n• Results in neuropathic pain in many adult cats—pain where the limb would be\n• Neuropathic pain can be prevented by 1-2 weeks of gabapentin\n• Not sufficient for pain relief—NSAID necessary to decrease inflammation (e.g. Onsior) if health status allows (eating properly so not dehydrated, no liver/kidney disease)\n• Oral buprenorphine or Simbadol (longer-acting) can provide additional analgesia"
+  },
+  {
+    "title": "Concerns re. pain management in ruminants and camelids",
+    "detail": "• Oral drugs may be inactivated in the rumen or camelids’ third compartment\n• Better to use IV meds, or meds that have been studied in at least one species w a similar GI tract"
+  },
+  {
+    "title": "Nocita",
+    "detail": "• Bupivacaine liposome injectable suspension\n• Long-acting local anesthetic (up to 72 hours), but doesn’t take effect immediately\n• Usually administered at the incision site or into a wound at the end of the surgical procedure"
+  },
+  {
+    "title": "Primary choice for pain in camelids",
+    "detail": "• NSAIDs\n• Very sensitive to alpha-2 agonists and butorphanol, so NSAIDs preferred for both acute and chronic pain"
+  },
+  {
+    "title": "Primary choice for pain in llamas",
+    "detail": "• Acute pain: Alpha-2 agonists and butorphanol, esp if sedation is necessary\n• Chronic pain: NSAIDs like phenylbutazone or meloxicam"
+  },
+  {
+    "title": "Hydrotherapy",
+    "detail": "• Improves blood circulation\n• Buoyancy decreases stress on joints and injured areas\n• Hydrostatic pressure decreases edema\n• Increases range of motion and mobility, reducing pain\n• Surface tension leads to gains in strength & proprioception\n• Underwater treadmills work best for OA\n• Swimming works best for thoracic limb injuries (dogs swim w thoracic limbs, not hind legs)"
+  },
+  {
+    "title": "Use of NSAIDs in rodents and rabbits",
+    "detail": "• Both very tolerant of NSAIDs, even in higher doses while dehydrated\n• In other animals, NSAIDs would be contraindicated in liver/kidney disease, in cases of dehydration, and if patient is younger than 4 or 6 mo (depending on drug)"
+  },
+  {
+    "title": "Buprenorphine",
+    "detail": "• For mild to moderate pain (6 to 8 hr)\n• Partial mu agonist"
+  },
+  {
+    "title": "Brachial plexus avulsion",
+    "detail": "• Severe injury where nerves of the brachial plexus are torn from their attachment to the spinal cord\n• Leads to neuropathic pain and loss of function"
+  },
+  {
+    "title": "Circumferential ring block",
+    "detail": "• Usually lidocaine w bupivacaine, mixed in the same syringe\n• Lidocaine has rapid onset but short duration, bupivacaine has longer onset but also longer duration"
+  }
+]

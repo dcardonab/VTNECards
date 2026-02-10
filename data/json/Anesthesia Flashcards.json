@@ -685,7 +685,7 @@
   },
   {
     "title": "CNS hypersensitivity (wind-up)",
-    "detail": "• Neurons of the spinal cord that are stimulated by constant nociceptive input from the periphery become hyperexcitable and sensitive to low-intensity stimuli that would not normally elicit a pain response\n• Occurs when the dorsal horn of the spinal cord is bombarded with the transmission of noxious stimuli, which activates the -methyl-D-aspartate (NMDA) receptors within the dorsal horn and amplifies the signal of pain to the brain\n• May manifest in an area away from initial injury, known as secondary hyperalgesia\n• Ketamine can block NMDA receptors and prevent wind-up pain"
+    "detail": "• Neurons of the spinal cord that are stimulated by constant nociceptive input from the periphery become hyperexcitable and sensitive to low-intensity stimuli that would not normally elicit a pain response\n• Occurs when the dorsal horn of the spinal cord is bombarded with the transmission of noxious stimuli, which activates the N-methyl-D-aspartate (NMDA) receptors within the dorsal horn and amplifies the signal of pain to the brain\n• May manifest in an area away from initial injury, known as secondary hyperalgesia\n• Ketamine can block NMDA receptors and prevent wind-up pain"
   },
   {
     "title": "Somatic vs. visceral pain",

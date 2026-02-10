@@ -1,0 +1,1250 @@
+[
+  {
+    "title": "Blood collection tubes",
+    "detail": "[[image:Lab Procedures Flashcards_Image12.png]]"
+  },
+  {
+    "title": "Blood rocker",
+    "detail": "• Blue, green, and purple top tubes contain anticoagulants and therefore should be rocked gently in the rocker until they can be read\n• Red top tubes should be left in a rack to clot; they should not be rocked to prevent coagulation"
+  },
+  {
+    "title": "CBC",
+    "detail": "• Gives information about RBCs, WBCs, and platelets\n• Information about RBCs include PCV (hematocrit) results and hemoglobin, as well as RBC size and appearance\n• Information about WBCs include number of WBCs and numbers of each type of WBC, as well as noting of leukocyte appearance\n• Information about platelets include platelet count, size, and appearance\n• Counting the reticulocytes requires new methylene blue, which will result in an RBC's absorbing stain so it’s not a part of CBC (can be done manually if indicated by the CBC)"
+  },
+  {
+    "title": "PCV (aka hematocrit aka erythrocyte volume fraction)",
+    "detail": "• Proportion of RBCs to whole blood volume; percentage of volume of whole blood that consists of RBCs\n• Normal is between 35-45% in dogs, 25-45% in cats\n• Abnormally low reading indicates anemia\n• An increased reading indicates dehydration or increase in RBC production\n• Difference bw PCV and hematocrit is that PCV is manually determined, and hematocrit is calculated by machine—should be w/in 3-5% of each other\n• Hematocrit concentration can be found by multiplying hemoglobin by 3\n• If Hb is 5, HCT is 15%"
+  },
+  {
+    "title": "Performing a PCV",
+    "detail": "• Need two microhematocrit tubes, a clay stopper, a PCV analyzer card, a microhematocrit centrifuge, and a microscope\n• In addition to PCV, color pigmentation and clearness of plasma should be noted\n• Sample can also be used to identify microfilaria and other blood-borne parasitic infestations by microscopic examination of the buffy coat and plasma fractions"
+  },
+  {
+    "title": "Buffy coat",
+    "detail": "• Middle WBC layer between the whole blood and the plasma after centrifuging\n• Consists of WBC overlaid by a thin layer of platelets\n• If WBCs and/or platelets are elevated, a larger, white layer will be visible on top of the RBC column"
+  },
+  {
+    "title": "Mean corpuscular volume",
+    "detail": "• Average volume of RBCs in the sample\n• Measured in femtoliters (fL)—10-15\nMCV = PCV x 1,000\nRBC"
+  },
+  {
+    "title": "Unopette system",
+    "detail": "• Calibration of the blood sample by diluting w acetic acid at a ratio of 1:100 before an RBC count\n• Done for both manual and automated counts\n• Reduces the number of cells to be counted"
+  },
+  {
+    "title": "Hemoglobin",
+    "detail": "• Iron-containing protein that carries oxygen\n• Assists in acid-base balance of blood\n• Can be measured w photometric methods or automated counters\n• Recorded as g/dL or g/L\n• Roughly 1/3 of PCV"
+  },
+  {
+    "title": "Mean corpuscular hemoglobin (mean cell hemoglobin)",
+    "detail": "• Average mass of hemoglobin found in a sample per RBC\n• Not as precise as PCV\n• Measured in picograms (pg)—10-12\nMCH = Hb concentration x 10\nRBC"
+  },
+  {
+    "title": "Mean corpuscular hemoglobin concentration",
+    "detail": "• Average concentration of hemoglobin in a given volume of packed RBCs\nMCHC (g/L) = Hb concentration (g/L)\nPCV\n• Also indicates average shade of red for RBCs—lower value indicates paler cells\n• Very precise"
+  },
+  {
+    "title": "Abbreviated means and their indications",
+    "detail": "• MCV (mean cell/corpuscular volume) indicates cell size\n• MCH (mean cell hemoglobin) is the quantity of hemoglobin in an average erythrocyte\n• MCHC (mean cell hemoglobin concentration) is an expression of the average concentration of hemoglobin per average erythrocyte\n• MPV (mean platelet volume) is the average size of circulating platelets"
+  },
+  {
+    "title": "Preparing for blood smear",
+    "detail": "• Draw 2 mL of blood, place in EDTA purple-top tube\n• Supplies needed are two glass slides w a frosted edge, microscope, immersion oil, and sample\n• One slide is used at a 45-degree angle to spread the drop of blood placed on the other slide, forming a feathered edge\n• Blood is evaluated once air-dried, fixed, and stained"
+  },
+  {
+    "title": "Evaluation of a blood smear",
+    "detail": "• Smear (the monolayer) is examined under 100x magnification w immersion oil\n• Three portions are evaluated for:\n• RBC morphology—size, shape, color, and inclusions like Heinz bodies or Howell-Jolly bodies),\n• WBC differential count—number of each type of cell in 100 WBCs and absolute value of each WBC type (i.e. number of cell type x total WBC count)\nWBC differential should be interpreted based on absolute numbers of each cell type\n• Estimated platelet count—total number of platelets in 10 fields ÷ 10 x 20,000 to get the estimated platelet number per microliter of blood"
+  },
+  {
+    "title": "RBCs (erythrocytes)",
+    "detail": "• Carry oxygen by way of the protein hemoglobin\n• As RBCs mature, they lose their nucleus, lose organelles, shrink in size, and gain hemoglobin\n• Sizes differ in species\n• No cell nucleus in mammals, but reptiles, birds, amphibians have nucleated RBCs\n• Indices identify anemias and blood deficiencies\n• Indices are established by RBC counts, hemoglobin content, and PCV (hematocrit)\n• Number of RBCs can be counted w a hemacytometer (manual counter) or w automated counters\n• Total RBC and platelet counts cannot be done manually with adequate accuracy"
+  },
+  {
+    "title": "RBC sizes",
+    "detail": "• Normocytic: Average, uniform size of well-developed, mature erythrocytes\n• Macrocytic: Unusually large RBCs\n• Microcytic: Smaller than average RBCs; can be caused by vitamin or mineral deficiencies, genetic traits, some iatrogenic conditions\n• Associated w decreased mean corpuscular volume and mean corpuscular hemoglobin concentration\n• Hypochromic (paler than normal)\n• Anisocytosis: Substantial discrepancies in RBC size; common in bovine blood; can be caused by responsive anemia in others\n• Results noted as mild, moderate, or marked to indicate severity"
+  },
+  {
+    "title": "RBC colors",
+    "detail": "• Normochromic: Fully developed RBCs w normal amount of hemoglobin; turn pinkish when stained, but has a whitish innermost area due to biconcave shape and lack of nucleus and organelles\n• Polychromatic: RBCs w bluish tint (including lavender) due to staining of organelles (so young cells—possibly due to responsive anemia); usually also macrocytic\n• Hypochromic: Cells w inadequate hemoglobin concentration; much paler pink when stained, and have an increased central pallor\n• Hyperchromatic: Increase color intensity; appear more darkly stained, as if oversaturated w hemoglobin (this can’t occur bc RBC has a fixed max capacity); usually microcytes or spherocytes\n• Torocyte: RBC w an abrupt transition from pale center to red hemoglobin-rich sides; aka punched-out cell, typically induced by poor slide smear"
+  },
+  {
+    "title": "RBC abnormalities",
+    "detail": "• Poikilocytosis\n• Codocytes\n• Leptocytes\n• Ovalocytes (elliptocytes)\n• Schistocytes\n• Spherocytes\n• Stomatocytes\n• Spiculated erythrocytes\n• Acanthocytes\n• Echinocytes"
+  },
+  {
+    "title": "Poikilocytosis",
+    "detail": "• 10% or more increase in the number of abnormally shaped RBCs\n• Variation in RBC shape"
+  },
+  {
+    "title": "Codocytes (target cells)",
+    "detail": "• RBCs that have undergone a surface volume change resulting in excess cell membrane\n• Called target cells due to dark circular target appearance (multiple rings of light and dark colors)\n• Indicative of liver disease; may be due to membrane collapse secondary to very low hemoglobin content, increased cholesterol and lecithin content, bile insufficiency, liver disease, splenectomy, anemia"
+  },
+  {
+    "title": "Leptocytes",
+    "detail": "• RBCs that have undergone a surface volume change resulting in excess cell membrane, resulting in abnormally thin, flattened RBCs\n• Aka Mexican hat cells due to central rounded area of pigmented material, unpigmented mid-zone, and outer pigmented rim\n• May be due to a reduction in hemoglobin volume or increase in the surface are of cell membrane; occurs in regenerative anemia"
+  },
+  {
+    "title": "Ovalocytes (elliptocytes)",
+    "detail": "• Cigar or egg-shaped RBCs w normal light/pale center color\n• May be due to a flaw in the membrane"
+  },
+  {
+    "title": "Schistocytes",
+    "detail": "• Fragmented RBCs of varying shapes including horn-like keratocytes, triangular triangulocytes, helmet-shaped cells\n• Fragmentation usually occurs due to RBCs being cut by fibrin strands lining micro-vessels\n• Similar to Heinz bodies, but those are softer-edged “bite” cells that occur when spleen ingests abnormal hemoglobin leaving a bitten-apple appearance\n• Seen in burns, uremia, some hemolytic anemias, disseminated intravascular coagulation disorders"
+  },
+  {
+    "title": "Spherocytes",
+    "detail": "• RBCs w a round, spherical form instead of the biconcave disk shape\n• Indicative of hemolytic anemia, but may be caused by defective membrane assembly, traumatic/toxic injury\n• Diameter is 2/3 of a normal RBC w a smaller surface area\n• Hemoglobin is denser, stains a deeper red\n• Lacks a central pallor\n• More readily seen in dogs bc many other animals have smaller RBCs w less central pallor (e.g. cats, horses)\n• Important to focus on monolayer bc normal RBCs can look like spherocytes in thick areas of a dog’s blood smear"
+  },
+  {
+    "title": "Stomatocytes",
+    "detail": "• Have an abnormal-appearing, rod-shape or smile-shaped center\n• May be caused in dogs due to an inherited disorder or due to liver disease"
+  },
+  {
+    "title": "Spiculated erythrocytes",
+    "detail": "• Acanthocytes (spur cells): Cells w obvious blunt protrusions/spikes; inconsistently shaped\n• Occurs due to excess cholesterol in cell membrane bc of high blood cholesterol and/or abnormal plasma lipoproteins\n• Echinocytes (burr cells): Cells w micro-spikes protruding from a roughly spherical surface\n• Found in animals w renal disease, in horses after vigorous exercise, and in dogs w lymphosarcoma; also seen in uremia, liver disease, low potassium or ATP in RBCs, hypomagnesemia, hypophosphatemia, high calcium in RBCs, absence of spleen, hyperlipidemia, heparin therapy\n• May indicate handling errors"
+  },
+  {
+    "title": "Agglutination",
+    "detail": "• RBCs clustered together\n• Has a grainy appearance on the slide\n• Automated counting doesn’t work\n• Can be caused by presence of an antibody, or immune disease"
+  },
+  {
+    "title": "Basophilic stippling",
+    "detail": "• Presence of small, dark-blue bodies within the erythrocyte\n• Represent residual RNA\n• Observed using new methylene blue stain—RNA will be tiny, blue granules inside RBCs\n• Results from ineffective heme formation due to some anemias or lead poisoning\n• Also a characteristic of active erythropoiesis in sheep and cattle"
+  },
+  {
+    "title": "Blister cell (aka pyknocyte or hemighost)",
+    "detail": "• RBC w a blister\n• No hemoglobin content\n• Commonly a result of oxidation damage, potentially due to iron deficiency anemia\n• Spleen may remove the blister, or it may rupture, leading to a keratocyte (horn cell)\n• Sometimes the cell may form one, slim protrusion, then called an apple stem cell"
+  },
+  {
+    "title": "Crenation",
+    "detail": "• Contraction of RBCs due to lack of water\n• Notched or scalloped edges are characteristic\n• Seen when RBCs dry on the smear"
+  },
+  {
+    "title": "Eccentrocytes",
+    "detail": "• RBCs that have been subject to oxidation, resulting in cell adhesion of cell membranes from opposing sides of the cell\n• Hemoglobin forced to one side of the cell gives the appearance of semi-circular form\n• Associated w fragmented anemia, keratocytes, schistocytes\n• Can be caused by onion and garlic ingestion, and antioxidant drugs"
+  },
+  {
+    "title": "Ghost cells",
+    "detail": "• RBCs that have lysed in a hypotonic solution spilling out their hemoglobin contents\n• Still has the normal disk shape, and some hemoglobin remains, so looks very pale pink once stained"
+  },
+  {
+    "title": "Howell-Jolly bodies",
+    "detail": "• RBCs that didn’t entirely expel their nuclear DNA, which is visible as purple-blue basophilic, circular inclusions upon staining\n• Basophilic (blue-staining) nuclear remnants seen in young erythrocytes during response to anemia\n• Indicative of markedly decreased splenic function; associated w splenectomy, regenerative anemia, spleen disorders\n• Most cats and horses have 1% of their RBCs as Howell-Jolly bodies"
+  },
+  {
+    "title": "Heinz (Ehrlich) bodies",
+    "detail": "• Small inclusions of denatured hemoglobin found in RBCs\n• Viewed w Wright’s or Diff-Quick stains, as well as new methylene blue\n• Associated w toxic reactions, onion consumption, some oxidant drugs, lymphosarcoma, and hyperthyroidism\n• Frequent in cats, but abrupt increase in number may indicate DM"
+  },
+  {
+    "title": "nRBCs",
+    "detail": "• Younger, smaller RBCs that have retained their nucleus\n• Nucleus stains dark, cytoplasm is bluish-red\n• Significant if more than 5 in a 100 WBC count\n• Normally N/A in mammalian peripheral blood films; indicates serious bone marrow stress (e.g. hemolytic anemia, metastatic cancer)—represent early release of immature cells during anemia\n• Increased numbers indicate hyperproduction of RBCs, not allowing them to mature before releasing into the bloodstream\n• Normal in some species like birds, reptiles, fish, amphibians, which have well developed elliptical nRBCs"
+  },
+  {
+    "title": "Rouleaux",
+    "detail": "• RBCs gathered in chains or stacks\n• Cells aren’t free to absorb and carry oxygen\n• Precursor to many serious diseases\n• Indicates inflammation and pathology in dogs\n• Considered normal in horses, somewhat normal in cats and pigs (concerning if in large numbers)\n• Should be differentiated from agglutination, which is 3D clumping of variably sized RBCs, and would indicate IMHA in dogs"
+  },
+  {
+    "title": "Reticulocytes",
+    "detail": "• Immature RBCs\n• Contain organelles (ribosomes) that are lost as the cell matures; nonnucleated\n• Visible only when stained\n• Reticulocytes on a modified Wright stain (e.g., Diff-Quik) appear polychromatic—Wright’s stain gives bluish-gray color indicating presence of cytoplasmic RNA\n• New methylene blue makes ribosomal DNA directly visible, enabling easy counting of reticulocytes"
+  },
+  {
+    "title": "Reticulocyte production index (corrected reticulocyte count)",
+    "detail": "• Determines how rapidly reticulocytes are released into the bloodstream\n• Reticulocytes should constitute less than 1% of RBCs in most animals\n• Blood loss, RBC life shortened by disease, general anemia, low oxygen intake can cause increase in reticulocyte numbers (i.e. reticulocytosis)\n• In case of anemia, because RBC count is low, reticulocyte percentage will be artificially high—this is corrected by RPI or corrected reticulocyte count\nRPI = Reticulocyte Count x (Hematocrit ÷\nNormal Hematocrit (i.e. 35 to 40))\n• If RPI is 100,000 mm3 or higher, anemia is likely hyperproliferative (hemolytic or from blood loss); if below that anemia is likelu hypoproliferative (iron, B12, or folic deficiency, suppressed bone marrow)\n• Horses only discharge reticulocytes into circulation directly from bone marrow in case of severe chronic anemia, so the assessment isn’t used for horses"
+  },
+  {
+    "title": "Cat reticulocytes",
+    "detail": "• Cats have two forms of reticulocytes\n• Aggregate form contains large clumps of reticulum; similar to reticulocytes in other species\n• Punctate form is unique to cats; contains two to eight small, singular, basophilic granules\n• Only aggregate form is counted in reticulocyte count"
+  },
+  {
+    "title": "Staining for anemia",
+    "detail": "• Reticulocytes are evaluated when assessing anemia, so counts are performed using a blood film stained with new methylene blue"
+  },
+  {
+    "title": "RBCs in other species",
+    "detail": "• In llamas, RBCs are the predominant cell type; hemoglobin pigment may appear evenly disbursed throughout the cell or concentrated at each end of the oval, lacking a central pallor\n• Bird and reptile erythrocytes are oval and nucleated\n• Horse erythrocytes are round and anucleated"
+  },
+  {
+    "title": "Leukocytes (WBCs)",
+    "detail": "• Neutrophils: First responders—primary function is phagocytosis; continue to be present at the site as long as inflammation lasts; engulf microorganisms to destroy them, and signal other WBCs to the site (most common)\n• Eosinophils: Associated w mast cells, allergies, parasitic disease, fungal infections; larger than neutrophils and have segmented nuclei w eosinophilic cytoplasmic granules; cytoplasm stains red-purple\n• Lymphocytes: T and B cells that arrive a few days after inflammation starts; round nuclei of the size of an RBC (most common)\n• Monocytes: Phagocytic cells; when they migrate to tissues they mature and become macrophages; they remove damaged cells and microorganisms; found in peripheral blood; stains gray-blue cytoplasm (largest); have lobular nuclei\n• Basophils: Scarce normally, but increase due to allergic or parasitic response; never found in peripheral blood; cytoplasm stains blue or blue-black"
+  },
+  {
+    "title": "Eosinophils",
+    "detail": "• WBC w primary function of modulation of the immune system\n• Associated w mast cells, allergies, parasitic disease, fungal infections\n• Have segmented nuclei w eosinophilic cytoplasmic granules\n• Feline eosinophilic granules are rod shaped and small; dog, horse, and cow eosinophils have round to globoid granules\n• Increased numbers of eosinophils are common in patients w allergic reactions and parasite infections or infestations"
+  },
+  {
+    "title": "[[image:Lab Procedures Flashcards_Image05.png]]",
+    "detail": "[[image:Lab Procedures Flashcards_Image27.png]]"
+  },
+  {
+    "title": "Observing stained leukocytes",
+    "detail": "• Observed at the monolayer\n• Feathered edge not useful (WBC shapes distorted)"
+  },
+  {
+    "title": "Groups of leukocytes",
+    "detail": "• Polymorphnuclear: Aka granulocytes—stain reveals granules in the cytoplasm; include neutrophils, eosinophils, basophils\n• Mononuclear: Nongranular; include monocytes, lymphocytes"
+  },
+  {
+    "title": "Left shift",
+    "detail": "• Increase number of immature neutrophils (band cells)\n• Degenerative left shift occurs when the number of immature neutrophils exceeds the number of mature neutrophils and the total WBC is decreasing\n• Regenerative left shift occurs when the number of mature neutrophils exceeds the number of immature neutrophils and the total WBC is normal to increasing"
+  },
+  {
+    "title": "Leukocytosis",
+    "detail": "• Increased number of leukocytes"
+  },
+  {
+    "title": "Band cells",
+    "detail": "• Band neutrophils—immature neutrophils\n• Has a horseshoe- or S-shaped nucleus"
+  },
+  {
+    "title": "Lymphocytes",
+    "detail": "• B cells (plasma cells) produce antibodies (humoral immunity)\n• T cells manage immune responses and kill infected cells (cell-mediated immunity)\n• NK cells (innate immunity) target virus-infected or cancerous cells without prior sensitization"
+  },
+  {
+    "title": "WBC abnormalities",
+    "detail": "• Nuclear hyposegmentation (congenital Pelger-Huet anomaly)—all granulocyte nuclei\n• Nuclear hypersegmentation (attributable to aging)—neutrophils\n• Normal neutrophils contain 3-4 nuclear lobes; hypersegmented neutrophils contain six or more\n• Toxic change in neutrophils\n• Common in cats, not in dogs; indicate bacterial infection when severe\n• Include cytoplasmic basophilia, Dohle bodies (dark granules), vacuoles or foaminess, and toxic granulation (rare)"
+  },
+  {
+    "title": "Neutrophil nucleus",
+    "detail": "• Mammalian neutrophils have 3-5 nuclear lobes\n• Number of segments increases as it matures, after being released into the blood from the bone marrow\n• Hypersegmented neutrophils contain six or more lobes"
+  },
+  {
+    "title": "Platelets (thrombocytes)",
+    "detail": "• Disc-shaped fragments of megakaryocytes that assist w blood clotting\n• Production involves the thrombopoietin hormone (produced in the liver, but also in kidney) and additional cytokines\n• Appear smaller than RBCs, except in cats"
+  },
+  {
+    "title": "Thrombocytopenia vs. thrombocytosis",
+    "detail": "• Thrombocytopenia: Low platelet count; causes bleeding due to lack of adequate numbers of platelets to form a platelet plug\n• Leads to petechiae, ecchymoses, and anemia\n• Thrombocytosis: Elevated number of platelets"
+  },
+  {
+    "title": "Thrombopathia",
+    "detail": "• Abnormal platelet function"
+  },
+  {
+    "title": "EDTA",
+    "detail": "• Ethylenediaminetetraacetic acid\n• Coagulant of choice for CBC because it preserves cellular components, cell morphology and prevents platelet aggregation\n• Available as sodium or potassium salt; prevents clotting by forming an insoluble complex with calcium, which is necessary for clot formation\n• Must be inverted multiple times\n• Must be kept refrigerated"
+  },
+  {
+    "title": "Hematology tests Complete Blood Count (CBC) RBC count Hemoglobin (Hgb) Hematocrit / PCV WBC count Platelet count RBC Indices (used to classify anemia) MCV – mean cell volume (cell size) MCHC – mean cell hemoglobin concentration RDW – red cell size variation (anisocytosis) WBC Differential (evaluates immune response) Includes each WBC and assessment of left shift, toxic changes, leukocytosis/leukopenia Platelet Evaluation (assesses clotting potential) Platelet count Platelet estimate on smear Detection of clumping or giant platelets",
+    "detail": "• Blood Smear Evaluation\n• RBC morphology (anisocytosis, poikilocytosis)\n• WBC morphology\n• Platelet adequacy\n• Blood parasites (e.g., Babesia, Mycoplasma)\n• Reticulocyte Count (evaluates bone marrow response)\n• Packed Cell Volume (PCV)\n• Total Protein (TP) (helps interpret anemia and dehydration)\nSpecialized / Situational Hematology Tests\n• Coagulation Testing\n• PT\n• aPTT\n• ACT\n• Bleeding time\n• Bone Marrow Evaluation\n• Buffy Coat Examination"
+  },
+  {
+    "title": "Coagulation testing",
+    "detail": "• Blood should be collected into a blue-top tube; contains sodium citrate\n• Blood is centrifuged for 5 minutes, then plasma is removed and transferred to a clean tube w/out anticoagulant and kept frozen until analysis"
+  },
+  {
+    "title": "Sending out blood samples",
+    "detail": "• Samples should be labeled w patient name, client name, date, clinic name, test to be run\n• Corresponding form from the lab should include the same information plus the age, sex, and N/S status of patient, as well as doctor name and whether patient has been fasted"
+  },
+  {
+    "title": "Storing hematology samples",
+    "detail": "• CBC samples that are not tested within 1 hour should be refrigerated for cell preservation, and warmed to room temperature before analysis\n• Hematology samples, including plasma, serum, and whole blood, should be refrigerated until sent out to the lab; delivery should be made w ice packs\n• Coagulation testing samples should be kept in the freezer or sent out w/in half an hour\n• Serum can be frozen for chemistry testing (some tests require serum to be frozen)"
+  },
+  {
+    "title": "Hemolysis",
+    "detail": "• Rupture and destruction of RBCs\n• Usually due to improper specimen collection such as contamination, incorrect tube mixing or filling, incorrect needle size"
+  },
+  {
+    "title": "Hemolysin",
+    "detail": "• Type of bacterial toxin (exotoxin) that destroys RBCspl"
+  },
+  {
+    "title": "Plasma",
+    "detail": "• Yellowish fluid that contains the blood, proteins, and lipid particles in the bloodstream\n• Makes up of 55% of total blood volume\n• Made up of water (90%), and dissolved proteins, hormones, lipids, enzymes, salts, carbohydrates, vitamins, and waste\n• WBCs, RBCs, platelets are suspended in plasma\n• Anticoagulants can be added to plasma to prevent clotting\n• To obtain plasma sample, 3 mL of blood is placed in a green-top heparinized tube"
+  },
+  {
+    "title": "Anticoagulants",
+    "detail": "• Heparin is preferred for plasma samples due to low propensity to alter the chemical analysis [MOA: antithrombin]\n• EDTA is preferred for hematologic studies (like CBC) bc it doesn’t alter cell morphology [MOA: chelates calcium]\n• Citrate (sodium or lithium) is preferred for coagulation testing and transfusions [MOA: chelates calcium]\n• Sodium citrates interfere w sodium assays, as well as many blood chemistry tests\n• Oxalate (potassium, sodium, lithium) is preferred for coagulation testing [MOA: chelates calcium]\n• Potassium oxalate can’t be used w blood samples to be assayed for potassium\n• Fluorides (sodium) is preferred to preserve blood glucose [MOA: chelates calcium] but interferes w many enzyme tests"
+  },
+  {
+    "title": "Serum",
+    "detail": "• Plasma after coagulation has occurred; post-clotted liquid part of blood\n• Centrifugation removes clotted and solid materials\n• To obtain serum sample, 3 mL of blood is placed in a serum separator tube, allowed to clot, then spun in a centrifuge, drawn off the sample w/in an hour, and placed in a red-top tube\n• Prolonged exposure of serum to the blood cells before the serum is removed from the clot can result in increased phosphorus as phosphorus starts leaking out of the cells"
+  },
+  {
+    "title": "Plasma vs. serum",
+    "detail": "• Serum what is left over from plasma after clotting\n• Meaning plasma has fibrinogen and serum does not\n• Fibrinogen is a protein, so plasma will have higher protein levels that serum\n• Both serum and plasma can be used to measure electrolytes\n• Plasma and serum have the same color"
+  },
+  {
+    "title": "Serum abnormalities",
+    "detail": "• Hemolytic serum: Pink/reddish; indicates rupture of RBCs; tests performed on hemolytic serum may show higher levels of phosphorus, potassium, total protein, and aspartate aminotransferase\n• Icteric serum (jaundice): Yellowish; indicates liver disease, bile obstruction, or excessive hemolysis as in hemolytic anemia; tests tend to show high bilirubin readings\n• Lipemic serum: Murky, opaque, milky; high concentration of suspended fat; indicates high triglyceride or lipid levels due to poor diet; may cause inaccurate chemical analysis in some tests; fasting at least 12 hours will get better results (animals who recently ate may give lipemic samples)"
+  },
+  {
+    "title": "Separating serum from blood sample",
+    "detail": "• Sample must reach room temp\n• Blood should be left to clot for 20-30 min\n• A wooden stick is used to separate clot from sides of the tube\n• Sample is centrifuged for 10 min at 2,000-3,000 rpm (prolonged centrifugation can cause hemolysis)\n• Serum at the top of the tube is poured into another tube (a pipette can be used)"
+  },
+  {
+    "title": "Total serum protein",
+    "detail": "• Calculated based on the amount of albumin and globulin, the two primary proteins in the blood at a ratio close to 1:1\n• Gauged w a Goldberg refractometer, or\n• Measured using the Biuret method (automated or computer analyzer applies a total dye binding process to calculate serum proteins)\n• Heparin or EDTA can be used to collect samples (heparin results will be a little lower)\n• Sample shouldn’t be lipemic or hemolyzed"
+  },
+  {
+    "title": "Total serum protein variations",
+    "detail": "• Globulin levels tend to rise as albumin levels lower, meaning total serum protein will usually stay the same\n• Changes to total serum protein may be induced by shock\n• High albumin levels may be due to severe dehydration\n• Low albumin levels may be due to malnutrition, severe burns, some kidney and liver diseases, GI malabsorption, Hodgkin’s lymphoma, uncontrolled diabetes, hyperthyroidism, heart failure\n• Decreased albumin can be seen in liver failure but is not usually seen in chronic liver disease\n• High globulin levels may be due to blood diseases, autoimmune diseases, some kidney or liver diseases"
+  },
+  {
+    "title": "Serum albumin",
+    "detail": "• Albumin is the most abundant plasma protein; produced by the liver\n• Mainly responsible for maintaining colloidal oncotic pressure in the vascular space; also transports substances such as hormones, drugs, and electrolytes in the blood\n• Shock may increase albumin levels\n• Acute liver disease, starvation, undernourishment, malabsorption, enteritis, colitis, parasites, pregnancy, lactation, persistent fever, uncontrolled diabetes, shock, nephritis, ascites, blood loss/reduction may lower levels\n• Serum albumin levels can be calculated using the albumin dye binding technique"
+  },
+  {
+    "title": "Globulin",
+    "detail": "• Proteins mostly involved in the immune defense system\n• Level is determined by subtracting albumin from total protein\n• Antigenic stimulation, inflammation, infection, neoplasia, or abnormal immunoglobin production can increase levels"
+  },
+  {
+    "title": "Protein electrophoresis",
+    "detail": "• Specialized test that analyzes how much of each group of protein is present in the blood serum based on distinctive sizes and electrical charges\n• Performed on serum\n• Results are displayed on a special graph, and the pattern of the different proteins is used to help diagnose specific diseases"
+  },
+  {
+    "title": "Urea (carbamide)",
+    "detail": "• Urea is byproduct of protein breakdown\n• Liver converts ammonia to nontoxic urea; in mammals, nitrogen waste is excreted as urea (carbamide)\n• Helps produce countercurrent system in kidneys—as some urea is reabsorbed, osmolarity raises in the kidneys, leading to reabsorption of more water and essential ions—this leads to BP maintenance and proper plasma sodium concentration\n• 40% of the urea is ideally reabsorbed by the tubules, remainder is excreted in urine and sweat—kidneys excrete urea and ≤40% is reabsorbed by the tubules for re-excretion\n• Rate of reabsorption is inversely proportional to the amount of urine output, so excreted urea is a measure of health of the glomerular filtration system (urea evaluates both filtration and function)"
+  },
+  {
+    "title": "Urea nitrogen (serum urea nitrogen)",
+    "detail": "• Plasma samples w heparin or EDTA used to measure UN\n• Samples are taken w ammonium oxalate, which artificially increases BUN levels (vs. samples taken w fluoride, which artificially lowers BUN levels\n• Increased serum urea nitrogen may be due to dehydration, heart failure, increase in protein consumption, corticosteroids, fever, as well as renal issues\n• High-protein diets and strenuous exercise may cause an elevated BUN due to increased amino acid breakdown\n• Lower levels of urea excretion are expected in anorexia, liver disease, renal tubular damage"
+  },
+  {
+    "title": "BUN",
+    "detail": "• Blood urea nitrogen (BUN) is a laboratory test that evaluates kidney function\n• A breakdown product of protein that healthy, functioning kidneys remove"
+  },
+  {
+    "title": "Serum creatinine",
+    "detail": "• Creatinine is produced as a result of normal muscle metabolism—creatine phosphate is found in muscles and brain; it anaerobically generates ATP from ADP in cases of intense energy demands or low oxygen, producing creatinine as a byproduct (Normally, ATP will breakdown into ADP using oxygen, and energy will be released)\n• Creatinine is an indicator of GFR—glomeruli in kidneys filter almost all creatinine out of the blood, so high serum creatinine indicates low or non-functioning glomeruli\n• High creatinine may also mean dehydration or renal issues\n• Usually evaluated in conjunction w BUN and urine SG\n• Hemolytic serums and hyperbilirubinemia can lead to misleading results"
+  },
+  {
+    "title": "Serum alanine aminotransferase (serum glutamic pyruvate transaminase) (alanine transaminase)",
+    "detail": "• Enzymes of liver and muscle tissue, which are released into the bloodstream if either is injured\n• More than 90% of ALT/SGPT are found in hepatocytes in dogs, cats, rats, rabbits, and primates—so, elevated ALT levels usually indicate liver disease in these species\n• ALT/SGPT is more active in muscle tissue in birds, horses, pigs, and ruminants—so, elevated levels indicate muscle injury or necrosis\n• Measured in plasma or serum samples\n• Decreased levels bw two tests may indicate transient injury\n• Consistent high levels indicate serious disease\n• Meds may cause changes in dogs, but unlikely in cats"
+  },
+  {
+    "title": "Serum alkaline phosphatase",
+    "detail": "• Alkaline phosphatase (ALP) is an enzyme that catalyzes phosphoric acid and participates in construction of all body tissues\n• Produced mostly in the liver and the bone, and some in intestines and kidneys (also by placenta during pregnancy)\n• Usually low levels in serum\n• Elevated ALP (usually due to extra production of ALP by tissues) may indicate intrahepatic or post-hepatic cholestasis, med-induced liver damage, bone tumor, osteomalacia, parathyroid hormone overproduction\n• Corticosteroids and anticonvulsants will increase levels for 2 weeks\n• Elevated levels in the young may be normal due to bone growth, but in older animals indicates bone injury or liver disease"
+  },
+  {
+    "title": "Serum gamma-glutamyl transferase",
+    "detail": "• GGT is an enzyme found in the liver, pancreas, kidney\n• High serum levels indicate liver dysfunction, especially cholestasis and fatty liver, as well as some meds\n• High ALT and GGT levels together are cause for exploration of liver disease in small animals"
+  },
+  {
+    "title": "Serum aspartate aminotransferase (formerly serum glutamic oxaloacetic transaminase)",
+    "detail": "• Enzyme linked to cardiac muscle, diaphragmatic muscle, skeletal muscle, liver\n• Increased AST levels expected in case of injury to any of the tissues above\n• Can be measured in serum or plasma\n• Hemolyzed or lipemic samples may be misleading\n• Should be read w ALT tests; results of AST alone are not definitive"
+  },
+  {
+    "title": "Serum sodium",
+    "detail": "• Sodium is essential to sustaining osmotic pressure and fluid balance; key to extracellular positive ion attraction that primes the sodium-potassium-ATPase pump\n• Hypernatremia may be caused by dehydration\n• Hyponatremia may be due to kidney failure, V/D in ass w diuretics, disproportionate ADH, CHF, water toxicity\n• Serum sample should not be hemolyzed\n• Plasma samples can be used if lithium or ammonium heparin is used\n• Both serum and plasma samples must be centrifuged to remove cellular components from fluid"
+  },
+  {
+    "title": "Serum potassium",
+    "detail": "• Potassium is a cation (positive ion) that sustains fluid and electrolyte balance\n• Normal range in serum and plasma is 3.5 to 5.5. mEq/L\n• Hyperkalemia may be due to adrenal cortical hypofunction, acidosis, late-stage renal failure\n• Hyperkalemia is commonly associated w hypoadrenocorticism\n• Hypokalemia may be due to alkalosis, insulin therapy, fluid loss ass w diuretics or V/D\n• Plasma samples give better results; should be heparinized\n• Blood cells must be separated w/in 2 hours to avoid alteration of results; especially true for horses and cattle bc their cells release potassium over time"
+  },
+  {
+    "title": "Serum chloride",
+    "detail": "• Levels are controlled by kidneys\n• Hyperchloremia may be due to metabolic acidosis, renal tubular acidosis, overactive parathyroid glands\n• Hypochloremia may be due to vomiting, anorexia, malnutrition, diabetes insipidus"
+  },
+  {
+    "title": "Serum calcium",
+    "detail": "• 99% of calcium is found w/in bones, the rest helps move inorganic ions and fluids throughout the body\n• Calcium is needed in cell membrane functions, blood coagulation, muscle contraction, nerve impulse transmission, and activation of some enzymes\n• Calcium and phosphorus levels are controlled by parathyroid hormone, calcitonin, and vit D\n• Serum calcium should be assessed along w serum protein and albumin levels\n• Hypercalcemia may be due to pseudohyperparathyroidism, hyperparathyroidism, excessive vit D, cancerous bony metastases\n• Hypocalcemia may be due to malabsorption, eclampsia, pancreatic necrosis, hypoalbuminemia, hypoparathyroidism\n• Nonhemolyzed serum or heparinized plasma sample needed"
+  },
+  {
+    "title": "Serum phosphorus",
+    "detail": "• 80% is in the skeleton\n• Levels are regulated by parathyroid hormone (also calcium)\n• Has an inverse relation w calcium levels, so should be monitored together\n• Hyperphosphatemia may be due to kidney failure, anuria, hypoparathyroidism, excessive vit D, or ethylene glycol poisoning\n• Hypophosphatemia may be due to diet low in phosphorus, primary hyperparathyroidism, malabsorption, hyperinsulinism, D, lymphosarcoma, hyperadrenocorticism\n• Non-hemolyzed serum or heparinized plasma needed"
+  },
+  {
+    "title": "Blood glucose",
+    "detail": "• Insulin is responsible for moving glucose out of the blood and into the cells to be burned for energy\n• Insulin, glucagon, and somatostatin are secreted by pancreas\n• Hyperglycemia indicates DM—pancreas produces insufficient insulin, leading to high levels of blood glucose\n• Stress-induced hyperglycemia possible in cats\n• Prolonged contact of serum with RBCs will cause a false decrease in glucose bc RBCs will continue to consume glucose after collection\n• Dogs and cats should be fasted 16 to 24 hours\n• Ruminants don’t need to be fasted\n• Serum is preferred, but will test at 5% higher glucose level"
+  },
+  {
+    "title": "Bilirubin",
+    "detail": "• Byproduct of hemoglobin metabolism—hemoglobin is broken down to heme and globin by the mononuclear phagocytic system, heme is then broken into bilirubin and liver modifies it (and other byproducts) so it can be excreted\n• Bilirubin not yet modified is unconjugated/indirect bilirubin; conjugated/direct bilirubin is attached to a glucuronide (creating glucuronic acid) to be excreted in bile—total number of two is taken\n• Hyperbilirubinemia occurs if bilirubin is built up faster than can be metabolized by the liver; too high can make skin, mucus membranes, whites of eyes yellow (jaundice)\n• When levels are high, bilirubin may be excreted in urine instead of bile, passing thru bile ducts into intestines where direct bilirubin will be broken down by bacteria to urobilinogen, which gives stool its normal yellowish-brown color\n• Unconjugated bilirubin isn’t water soluble, so not found in urine\n• Small amounts of bilirubin are normal in dogs bc renal threshold for bilirubin is low"
+  },
+  {
+    "title": "Serum cholesterol",
+    "detail": "• Cholesterol is a steroid alcohol created thru liver synthesis\n• Hypothyroidism can result from high cholesterol levels; high levels may also indicate lipemia, DM, hyperadrenocorticism, nephrotic syndrome, certain liver diseases, bile duct obstruction, pregnancy complications\n• Other diagnostics should be run to diagnose liver disease\n• Fasting necessary to determine accurate base level\n• Nonhemolyzed serum or heparinized plasma needed"
+  },
+  {
+    "title": "Serum bile acid",
+    "detail": "• Bile is produced by the liver; synthesized from cholesterol; stored in the gall bladder (except in horses and rats)\n• Significant role in digestive processes—since bile is hydrophobic and hydrophilic at the same time, it can break down water-insoluble fats in water-saturated environments like the intestines\n• Low levels post-meal may indicate ileal dysfunction\n• High levels indicate liver disease and hepatocytic inability to filter bile\n• Paired serum samples are performed after 12 hours of fasting, and again 2 hours after animal eats—postprandial (after meal) serum bile acid concentrations are higher than fasting concentrations, and serum bile acid level is normally elevated after a meal because gallbladder has releases increased amounts of bile into the duodenum\n• Test reports the difference between the prefasted and postprandial levels\n• Inadequate fasting can increase fasting bile acid level\n• In horses, one sample is needed since they don’t store bile in the gallbladder"
+  },
+  {
+    "title": "Sorbitol dehydrogenase",
+    "detail": "• Enzyme produced in liver cells\n• Effective indicator of acute hepatocellular damage\n• Very sensitive to toxin, so early indicator of toxin- or drug-induced liver toxicity\n• Necrosis in liver can lead to high levels\n• Must be measured in large animals to diagnose liver disease—more appropriate than ALT testing\n• Sample must be analyzed asap since SDH enzyme is unstable"
+  },
+  {
+    "title": "Serum amylase",
+    "detail": "• Amylase is a digestive enzyme that breaks down carbohydrates and starches into sugars, first in saliva; also found in pancreas where it catabolizes glycogen into glucose\n• Increase in levels may be due to acute, chronic, or obstructive pancreatitis, hyperadrenocorticism, upper GI inflammation, digestive system obstructions, kidney failure\n• Serum should be diluted w a prescribed amount of normal saline to compensate for higher rate of amylase activity in animals compared to humans (test is originally for humans)\n• Nonlipemic serum or heparinized plasma needed\n• Hemolysis can cause artificially high results"
+  },
+  {
+    "title": "Serum lipase",
+    "detail": "• Lipase is the enzyme that digests long-chain fatty acids that constitute lipids, producing reduced fatty acids and alcohols\n• High levels may be due to acute or chronic pancreatitis, kidney failure, hyperadrenocorticism, dexamethasone treatment, bile tract disease\n• Non-hemolyzed and non-lipemic serum or heparinized plasma needed"
+  },
+  {
+    "title": "Serum trypsin-like immunoreactivity test",
+    "detail": "• Definitive test for exocrine pancreatic insufficiency, which causes a lack of digestive enzymes to properly digest food\n• Measures blood levels of trypsin, trypsinogen\n• Trypsin breaks down proteins; normally in the pancreas, only enters blood if pancreas is inflamed\n• Trypsinogen forerunner enzyme found very little in blood\n• 12-hour fasting necessary"
+  },
+  {
+    "title": "Testing for Cushing’s",
+    "detail": "• A good initial urinary screening test for suspected Cushing's disease is cortisol/creatinine ratio; tests adrenal function\n• Blood tests include endogenous ACTH, low-dose dexamethasone, and ACTH stimulation"
+  },
+  {
+    "title": "ACTH stimulation test",
+    "detail": "• Used to detect Cushing’s\n• Adrenocorticotropic hormone (ACTH) is produced by the pituitary gland and signals adrenal glands how much cortisol to produce—as cortisol levels in the blood increase, pituitary gland decreases ACTH production\n• The test consists of drawing a baseline blood cortisol, followed by an ACTH injection (IV), an hour after which a sample is taken to compare w the baseline\n• A dog w Cushing’s will have increased cortisol production in the hour after since body isn’t being alerted to slow cortisol production"
+  },
+  {
+    "title": "Low-dose dexamethasone suppression test",
+    "detail": "• Used to diagnose Cushing’s in dogs\n• The test consists of drawing a baseline blood cortisol, followed by a dexamethasone (synthetic cortisol) injection (IV), 4-8 hours after which a sample is taken to compare w the baseline—ACTH production should be lowered since cortisol levels in the blood increase w the injection\n• LDSS test can tell if Cushing’s is pituitary or adrenal in origin—if there is a pituitary tumor, cortisol will slightly decrease in the 4-8 hours; if there is an adrenal tumor, there will be no reduction"
+  },
+  {
+    "title": "Non-plasma specific enzyme testing",
+    "detail": "• Some enzyme should never be found in plasma/serum unless there is destruction of tissue cells, intensified tissue cell production, barriers in excretory paths, or poor circulation\n• Test kit will include substrates, coenzymes, cofactors"
+  },
+  {
+    "title": "Staining in clinical cytology",
+    "detail": "• 3 types of Romanowsky stains: Wright’s, Giemsa, Diff-Quik\n• Staining quality differs from one product to the other, so single type should be used for consistency of interpretations\n• Stains contain alcohol, which is highly flammable, so proper storage in a flammable safe cabinet and MSDS sheets necessary\n• New methylene blue is used to examine nuclei, mast cell granules, and most infectious organisms\n• Use only to examine nucleated cells, bacteria, fungi, mast cells\n• Core bone marrow samples are evaluated w hematoxylin and eosin stain, while bone marrow aspirates are assessed using Romanowsky stains"
+  },
+  {
+    "title": "Gram-negative and -positive bacteria",
+    "detail": "• Purple indicates gram-positive\n• Gram-positive bacteria contain preformed exotoxins, which they secrete into the surrounding medium\n• Pink indicates gram-negative\n• Gram-negative bacteria contain endotoxins in their cell walls, whereas"
+  },
+  {
+    "title": "Bacteria growth environments (pH)",
+    "detail": "• Most bacteria grow in a neutral pH (6.5–7.0)\n• Some thrive in acidic environments with a pH as low as 1.0 (e.g. lactic acid bacteria—large group of bacteria)\n• Very few that can thrive in alkaline environments (e.g. UTI-causing bacteria like Staphylococcus bacteria)"
+  },
+  {
+    "title": "Catalase test",
+    "detail": "• Performed on gram-positive cocci and small gram-positive bacilli\n• Tests for the enzyme catalase, which acts on hydrogen peroxide to produce water and oxygen\n• A small amount of a colony from blood agar is placed on a slide and a drop of catalase reagent (3% hydrogen peroxide) is added—if the colony is catalase positive, gas bubbles are produced; no bubble production indicates a negative result\n• Staphylococci is catalase-positive (can be used as control), streptococci is catalase-negative"
+  },
+  {
+    "title": "Fine needle aspiration",
+    "detail": "• 25-gauge needle and 10 mL syringe\n• Small amount of suction applied and needle redirected few times inside the mass while suctioning to get sample\n• Suction should be released without pulling out\n• Needle is removed, syringe is filled w air, and needle is replaced before pushing the plunger to express sample onto clean slide\n• Too much pressure will rupture cells\n• Sample is air dried and stained w modified Wright or rapid stain\n• Examined under 40x, immersion oil and 40x, and immersion oil and 100x\n• Highly cellular fluids can be smeared directly, but low-cellularity fluids should be centrifuged first to concentrate cells"
+  },
+  {
+    "title": "Impression smears",
+    "detail": "• Can be used for cutaneous and subcutaneous tissues\n• Surgically removed tissue can also be used\n• A slide is touched to the cut surface (fluid/blood blotted clean)\n• Best for epithelial cells, lymph nodes, splenic tissue, mast cell tumors, and other tissues that exfoliate cells easily"
+  },
+  {
+    "title": "Scraping",
+    "detail": "• Can be used for tissues that don’t readily exfoliate cells\n• A sterile scalpel blade is used to mildly scrape on a freshly cut tissue surface\n• Scraping is streaked on the slide and air-dried before staining"
+  },
+  {
+    "title": "Fluid aspiration",
+    "detail": "• Include abdominocentesis, thoracocentesis, cystocentesis, cerebrospinal fluid tap, arthrocentesis\n• Surgical scrub necessary\n• Fluid samples are examined for color, odor, turbidity (opaque qualities); total nucleated cell count and total protein should be noted\n• Types of fluids include:\n• Transudates (total protein less than 3 g/dL)\n• Exudates\n• Modified transudates (total protein count bw 2.5 and 7.4 g/dL w opaque or pink coloration—higher than 3 g/dL indicates inflammation)"
+  },
+  {
+    "title": "Scope of urinalysis",
+    "detail": "• A complete urinalysis has the following parts in the following order: (1) Gross examination; (2) Specific gravity; (3) Biochemical analysis; (4) Sediment examination"
+  },
+  {
+    "title": "Urinalysis samples",
+    "detail": "• Samples should be analyzed w/in 30 min or refrigerated up to 24 hours\n• Refrigeration acceptable for pH and specific gravity\n• If urine cytology needs to wait, 10% formalin should be added\n• Sample degradation may lead to rise in ammonia levels, hemolyzed RBCs, pH levels that allow bacterial growth, lower levels of bilirubin/glucose/ketones/WBCs/urobil, disappearance of casts, alteration in crystals, darker color, appearance of nitrites, harsher smell, change in protein concentration, muddy/opaque appearance\n• Exposure of urine to UV light would result in the deterioration of bilirubin, leading to false negatives"
+  },
+  {
+    "title": "Urine color",
+    "detail": "• Color is directly related to urochromes, which give the urine its yellow color\n• Specific gravity is the ratio of urine density as compared w water; it is responsible for intensity of urine color\n• Urine w low specific gravity will appear lighter\n• Urine’s specific gravity will increase w dehydration\n• Normal color is pale yellow to yellowish brown\n• Urine containing bile will be more greenish and froth when shaken\n• RBCs in urine will lead to reddish tint (hematuria)\n• Hemoglobin in urine will cause a reddish-brown tint (hemoglobinuria)\n• Brown-tint indicates myoglobinuria"
+  },
+  {
+    "title": "Urine transparency",
+    "detail": "• Urine can be clear, cloudy, or flocculent\n• Healthy urine is clear and transparent for most animals, except horse urine contains mucus and calcium carbonate crystals, and rabbit, hamster, and gerbil urine contains calcium salts, both leading to transparent but cloudy urine\n• Cloudy urine may be due to RBCs, WBCs, epithelial cells, crystals, bacteria, casts, mucus, semen, lipids\n• Flocculent appearance indicates pathology—easily visible particles, mucus, and other debris—often due to crystals and/or infection"
+  },
+  {
+    "title": "Urine volume",
+    "detail": "• Output is controlled by amount of water animal drinks, environmental temperature, physical activity, animal’s size, and genus/species\n• Pollakiuria: Frequent urination\n• Polyuria: Voiding excessive amounts of urine (often in DM)\n• Oliguria: Abnormally small amounts of urine (possible in case of shock, dehydration, kidney failure)\n• Anuria: Inability to urinate (renal shutdown or obstruction)"
+  },
+  {
+    "title": "Urine concentration",
+    "detail": "• Water deprivation/urine concentration test allows measuring endogenous antidiuretic hormone—animal is denied water over 3-5 days, which should lead to ADH release to increase renal absorption to conserve water, and result in a loss of 5% of body weight\n• Specific gravity for normal levels of ADH is 1.025\n• Lower concentrations may indicate insufficient ADH or tubular dysfunction\n• Azotemic animals (high serum urea) shouldn’t be given this test"
+  },
+  {
+    "title": "Urine odor",
+    "detail": "• May indicate bacterial infection, excess ammonia, presence of ketones (sweet, fruity smell)\n• Ammonia smell indicates bacteria\n• Ketones indicate DM, or pregnancy toxemia in sheep, or acetonemia in cows"
+  },
+  {
+    "title": "Urine chemistry",
+    "detail": "• Part of urinalysis; analyzes urine's chemical makeup to assess kidney/urinary health and detect systemic issues like diabetes, liver disease, or infections\n• Looks at parameters like pH, specific gravity, protein, glucose, ketones, and blood\n• Uses non-centrifuged, room temp urine sample"
+  },
+  {
+    "title": "Conditions concerning urine",
+    "detail": "• Dysuria is difficulty or painful urination\n• Proteinuria is protein in the urine\n• Common in glomerular disease due to leakage of large protein molecules through the glomerular filter\n• Hematuria is blood in the urine\n• Pyuria or leukocyturia is excessive number of WBCs in urine\n• Pyuria indicates inflammation in the urinary tract"
+  },
+  {
+    "title": "Mucus in urine",
+    "detail": "• Horses have a large number of mucous glands located within the renal pelvis, so normal equine urine may appear thick and mucoid"
+  },
+  {
+    "title": "Specific gravity",
+    "detail": "• Ratio of density of urine to density of distilled water\n• Measures of how efficiently kidneys concentrate urine\n• Uses non-centrifuged, room temp urine sample\n• Values depend on species:\n• Dogs: 1.001 to 1.060; average of 1.025\n• Cats: 1.001 to 1.080; average of 1.030\n• Horses: Average of 1.035\n• Cattle/Swine: Average of 1.015\n• Sheep: Average of 1.030\n• Too high means abnormal amounts of water are eliminated, caused by dehydration, shock, or acute renal disease\n• Too low may be due to large volume of water intake or renal disease"
+  },
+  {
+    "title": "Measuring specific gravity",
+    "detail": "• Refractometer, urinometer, or reagent test strips are used\n• Urinometer is placed inside the container holding urine to float w assistance of a weighted bulb; scale attached to the bulb is read when index stops moving\n• Reagent strips are the least reliable, but quick—results are inconsistent when above 1.030"
+  },
+  {
+    "title": "Isosthenuria",
+    "detail": "• When specific gravity of urine approaches that of glomerular filtrate (1.008–1.012)\n• Means the urine is neither diluted nor concentrated; represents kidney disease—65% kidney function must be lost before this reading is possible\n• Isosthenuria in the presence of azotemia (elevated BUN/crea) confirms kidney disease\n• Animals w chronic renal failure frequently produce isosthenuric urine\n• The closer the specific gravity is to isosthenuric, the greater the amount of lost kidney function"
+  },
+  {
+    "title": "Hypo- and hypersthenuria",
+    "detail": "• Isosthenuria is when urine SG approaches that of glomerular filtrate (1.008–1.012)\n• Hyposthenuria is anything below 1.008—indicates proper dilation of urine by tubules, which lowers specific gravity\n• Hypersthenuria (baruria) is above 1.012 or 1.013—indicates that tubules are concentrating urine to hold on to water"
+  },
+  {
+    "title": "Proteinuria",
+    "detail": "• Associated w urogenital system malfunctions\n• Protein should be absent or minimal in urine\n• Reagent strip is used to determine protein level (soaked strip is compared to color chart), but reacts more to albumin than globulin\n• Results inconsistent, and false results common; see if there is blood in urine, and examine microscopic residue"
+  },
+  {
+    "title": "Glucosuria",
+    "detail": "• Presence of glucose in urine (vs. glycosuria—presence of sugars in urine)\n• May indicate diabetes, inability of kidneys to reabsorb glucose in renal tubules, but can also be induced by anxiety, agitation, IV fluids containing glucose, etc.\n• Normal levels are 170-180 mg/dL\n• Reagent strips (Clinitest or Ames) can identify glucose, but reagent tablets can identify various forms of sugars"
+  },
+  {
+    "title": "Ketonuria",
+    "detail": "• Ketones are organic compounds like acetone, acetoacetic acid, and beta-hydroxybutyric acid, which are created during the metabolic processing of fats\n• Ketones are produced as a result of fatty acid breakdown—since diabetic patients can’t utilize glucose, they get energy from fatty acids, leading to excess ketone production and ketonuria\n• Occurs w metabolic diseases involving increased lipid or impaired carbohydrate metabolism, such as diabetic ketoacidosis in dogs and cats, starvation and ketosis in cattle (in the absence of sufficient carbohydrates, fat is used as energy source)\n• Also seen in dairy cattle in the 6 weeks following parturition (lactating cows)\n• Large amounts of ketones can be toxic—rapid fat metabolism can lead to ketonuria and lower carbohydrate metabolism\n• Reagent strips and tablets are used (Ketostix, Acetest, Ames)"
+  },
+  {
+    "title": "Hematuria",
+    "detail": "• Presence of intact RBCs in the urine\n• Reddish to black, cloudy tint\n• During centrifugation, as only intact RBCs settle, color of supernatant will change from red to clear\n• 5 or more RBCs per HPF may indicate trauma, calculi, UTI, neoplasia\n• Both reagent strips/tablets and microscopic examination\n• Leukocyte test pads not recommended bc of false-positives in cats and false-negatives in dogs"
+  },
+  {
+    "title": "Urine cytology – centrifugation and storage",
+    "detail": "• Cells tend to break down rapidly in urine, so should be centrifuged immediately; cells should then be removed from the supernatant\n• If the specimen cannot be centrifuged immediately, it should be refrigerated and not be allowed to sit at room temperature (bacteria can proliferate and cells will degrade)\n• Urine should never be frozen for cytological evaluation"
+  },
+  {
+    "title": "Urine sediment",
+    "detail": "• Examined microscopically\n• Specimen is blended to distribute contents and then centrifuged (conical tip) at 1,500-2,000 rpm for 3-5 min\n• 0.3 mL of residual supernatant is then removed, and sediment is dispersed w/in the residual liquid in suspension; 2-3 drops of liquid enough for exam\n• First observed under reduced illumination 10x (i.e. low power field objective) to see crystals, cats, squamous cells, all recorded as number per low power field (LPF)\n• Then observed under 40x (i.e. high power field objective) to examine smaller crystals, cells, sperm, bacteria, all recorded as number per high power field (LPF)"
+  },
+  {
+    "title": "RBCs and WBCs in urine sediment",
+    "detail": "• RBCs appear pale yellow, smaller than WBCs\n• More than 5 RBCs/HPF is abnormal\n• WBCs appear 1.5 larger than RBCs\n• Neutrophils most common (spherical, granulated)\n• More than 5 WBCs/HPF indicate inflammation and infection\n• Presence of more than 5-8/HPF leukocytes indicate pyuria (pus) and/or leukocyturia, may be due to active inflammatory disease in the urogenital tract\n• Any bacteria observed should be noted"
+  },
+  {
+    "title": "Urine concentration for analysis",
+    "detail": "• Morning samples are most concentrated and least affected by dietary factors, thereby increasing the chances of finding formed elements"
+  },
+  {
+    "title": "Epithelial cells in the urine sediment",
+    "detail": "• Squamous cells can be from epithelial membranes in the vagina, vulva, urethra—largest, flat, uneven shaped, sharp edges, small and round nucleus—not a clinical finding\n• Transitional epithelial cells derive from bladder, ureters, renal pelvis—varied diameter, eccentric nucleus, pear shaped, w granular cytoplasm—more than 1/HPF indicate inflammation and cystitis\n• Renal epithelial cells are from renal tubules; smallest cells in the sample—looks like but larger than WBCs, circular, w sizable nucleus—large quantities may indicate renal tubule disease"
+  },
+  {
+    "title": "Normal and abnormal components in a urine sediment",
+    "detail": "• Fat droplets, artifacts, epithelial cells, and contaminants may be seen\n• If more than a few erythrocytes, leukocytes, hyperplastic, and/or neoplastic cells are identified, it is considered abnormal and further diagnostic tests should be performed\n• Presence of WBCs indicates inflammation somewhere in the urogenital tract\n• Presence of RBCs indicates bleeding in the urogenital tract"
+  },
+  {
+    "title": "Casts",
+    "detail": "• Made up of protein; formed in distal renal tubules or distal nephron, embedding in itself any structure present at the time of its formation\n• May indicate renal degeneration, irritation, chronic nephritis\n• Casts dissolve in alkaline urine (including urine that has been standing)\n• A few hyaline or granular casts is normal\n• All casts are cylindric with parallel sides\n• Casts may be disrupted w high-speed centrifugation and rough sample handling"
+  },
+  {
+    "title": "Types of casts",
+    "detail": "• RBC casts—indicate bleeding w/in nephron\n• WBC casts—indicate inflammation of tubules\n• Hyaline casts—indicate renal irritation (not severe)\n• Granular casts—indicate renal disease if large numbers\n• Epithelial casts—indicate acute nephritis and renal tubule degeneration\n• Fatty casts—indicate DM in dogs, renal disease in cats\n• Waxy casts—indicate acute tubular degeneration"
+  },
+  {
+    "title": "Crystals",
+    "detail": "• Struvite crystals\n• Bilirubin crystals\n• Calcium carbonate crystals\n• Amorphous crystals\n• Calcium oxalate crystals"
+  },
+  {
+    "title": "Crystalluria",
+    "detail": "• Crystals in urine sediment is often of no clinical significance\n• Crystal formation is temperature dependent—if urine is allowed to cool, dissolved substances come out of solution\n• There may be a correlation bw crystalluria and presence of uroliths and other factors must be considered (pH, specific gravity, etc.)"
+  },
+  {
+    "title": "Struvite crystals [[image:Lab Procedures Flashcards_Image22.png]]",
+    "detail": "• Aka triple phosphate or magnesium ammonium phosphate crystals due to 3- or 6-sided prism shape\n• Look like coffin lids; no color\n• Common in healthy dog and cat urine—not related to struvite urolith (bladder stone) formation unless there is also a bacterial infection\n• Typically observed in alkaline urine, but may be found in modestly acidic samples too"
+  },
+  {
+    "title": "Bilirubin crystals [[image:Lab Procedures Flashcards_Image19.png]]",
+    "detail": "• Small, yellow, granular/needle-like appearance\n• Normal in dogs\n• Indicative of hepatic dysfunction in cats, equids, bovids, camelids"
+  },
+  {
+    "title": "Calcium carbonate crystals [[image:Lab Procedures Flashcards_Image13.png]]",
+    "detail": "• Circular or oval w radial markings\n• No color or yellowish\n• Look like bicycle wheels\n• Common in horses, rabbits, goats, cattle\n• N/A in dogs and cats"
+  },
+  {
+    "title": "Amorphous crystals [[image:Lab Procedures Flashcards_Image06.png]]",
+    "detail": "• Amorphous phosphates are found in alkaline samples\n• Amorphous urates are found in acidic samples\n• Both look like precipitation w grainy texture\n• Brownish/yellowish\n• Appear in clusters w/out a specific shape"
+  },
+  {
+    "title": "Calcium oxalate dihydrate and monohydrate crystals [[image:Lab Procedures Flashcards_Image01.png]]   [[image:Lab Procedures Flashcards_Image23.png]]",
+    "detail": "• May result in formation of calcium oxalate uroliths, especially if found in large numbers\n• Calcium oxalate urolithiasis has become common in cats\n• Calcium oxalate dihydrate crystals occur in normal urine of any pH; look like envelopes or pyramids\n• Calcium oxalate monohydrate crystals are normal in horses, but not in healthy dogs and cats; look like dumbbells\n• A different form that looks like colorless picket fence posts form in case of ethylene glycol toxicity (in neutral to acidic urine)"
+  },
+  {
+    "title": "Ammonium biurate crystals [[image:Lab Procedures Flashcards_Image16.png]]",
+    "detail": "• Seen in slightly acidic, neutral, or alkaline urine\n• Brown and round w long, irregular spicules (thorn apple)\n• Most common in animals w severe liver disease"
+  },
+  {
+    "title": "Urolithiasis",
+    "detail": "• Occurrence of uroliths are calculi/stones anywhere in the urinary tract\n• Prevention and prognosis depend on proper identification of the composition of uroliths\n• Common in male ruminants; usually composed of calcium, magnesium, ammonium carbonate (or ammonium phosphate)\n• Uroliths in dogs and cats are usually struvites; cystine and oxalate possible as well\n• Struvites are infection-induced; antibiotic administration may be needed for 2 to 3 months\n• Calcium oxalate urolithiasis has become common in cats\n• Dalmatians have most problems w uric acid stones (because they lack the enzyme uricase to break down the uric acid)"
+  },
+  {
+    "title": "Fecal samples",
+    "detail": "• Exam for parasite eggs should be done asap, but may be kept refrigerated up to a week\n• For giardia testing, samples should be obtained directly from the rectum for the SNAP test; fecal floatation should be run right away since trophozoites won’t survive storage\n• May be sent out as is, or mixed w 10% formalin at 1:3"
+  },
+  {
+    "title": "Direct smear of fecal samples",
+    "detail": "• Best fresh, near body temp, to make sure trophozoites are recognizable (much harder when they lose motility)\n• Lugol’s iodine or methylene blue may be used, but not necessary\n• Single drop of saline is placed on slide next to same amount of fecal sample and blended (stain applied at this point if to be used) and thinly spread\n• Parasite eggs are viewed under 10x, protozoal organisms are viewed under 40x"
+  },
+  {
+    "title": "Fecal floatation",
+    "detail": "• Used to find parasitic eggs\n• Floatation media: Sodium nitrate (most common; for eggs, larvae, oocysts), zinc sulfate (for protozoal infections), saturated salt, saturated sodium chloride (least desired)\n• Standard vial gravitation technique: 2-4 g of feces is placed in a paper cup filled w 60 mL of floatation medium and blended, poured into glass vial and filled to the top until surface is curving upward (positive meniscus), finally a coverslip is placed on top for 10 min—eggs/oocysts should float bc they have lower specific gravity than floatation medium\n• Exam under 10x"
+  },
+  {
+    "title": "Baermann technique",
+    "detail": "• Used to examine fecal matter for parasites, parasitic ova, and larva\n• Small mount of feces is placed in paper cup, Kimwipe or cellulose tissue is placed on top of the cup and held in place w elastic, a small hole is made under the cup before it is submerged (tissue/wipe side down) in a sedimentation jar filled halfway w water\n• After 12-18 hours, 3-4 samples are collected from the bottom of the sedimentation jar using a Pasteur pipette w bulb to be examined under a dissecting microscope for larval movement"
+  },
+  {
+    "title": "Prepatent period",
+    "detail": "• Time between a parasitic infection occurring and when parasite's reproductive forms (like eggs or oocysts) first become detectable in the host's body\n• Time of infestation to maturation\n• vs. incubation period—time bw infection and symptoms"
+  },
+  {
+    "title": "Strongylus vulgaris [[image:Lab Procedures Flashcards_Image09.png]]",
+    "detail": "• Equine intestinal worm\n• Resides in large intestine\n• Up to 25 mm long\n• Prepatent period of 6-12 months\n• Noninfective eggs are discharged in feces, and move from L(arvae) 1 stage to 2 remaining noninfective; larvae become infective at L3—larva sheds protective sheath upon ingestion, which allows it to migrate to and pierce the walls of the intestines at or below cecum and travel down to submucosa\n• Signs include colic, fever, diarrhea, weight loss, death\n• Sucks blood and causes verminous arteritis, thromboembolic colic, anemia, and debility\n• Small strongyles can cause severe enteritis and diarrhea (redworm infestation)\n• Diagnosed w fecal floatation"
+  },
+  {
+    "title": "Coccidiosis [[image:Lab Procedures Flashcards_Image07.png]]",
+    "detail": "• Intestinal parasites Isospora spp—spore-forming protozoan parasite that reproduces in small intestines of dogs and cats\n• Kittens are puppies susceptible until 6 mo; high-stress, immune-compromised adults also susceptible\n• Prepatent period of 4-12 days\n• Infection by consumption of parasite eggs—active eggs or oocysts found in feces from infected animals\n• Signs include frequent and excessive bowel movements of watery diarrhea, which may lead to dehydration or death\n• Diagnosed w fecal floatation"
+  },
+  {
+    "title": "Toxocara cati [[image:Lab Procedures Flashcards_Image02.png]]  [[image:Lab Procedures Flashcards_Image20.png]]",
+    "detail": "• Feline roundworm\n• Infection follows eating infected host (rodent, beetle, earthworm), eggs (via vomit or feces), or drinking infected maternal milk; eggs hatch in intestines, larvae enter circulation and enter pulmonary system to get coughed up and swallowed; they then mature, reproduce more eggs to be discharged in feces (already infective)\n• May be visible in vomit\n• Prepatent period of 8 weeks\n• Diagnosed by fecal floatation, but false-neg possible if eggs aren’t present in feces\n• Signs include hypereosinophilia, hepatosplenomegaly, pneumonitis, fever, hyperglobulinemia; can infect eye too\n• Zoonotic"
+  },
+  {
+    "title": "Toxocara canis [[image:Lab Procedures Flashcards_Image10.png]]",
+    "detail": "• Roundworm\n• Located in the small intestines\n• Infected by ingestion of infective egg\n• Diagnosed by fecal or centrifugal flotation\n• Clinical signs include emaciation, intestinal blockage, vomiting, diarrhea, death; cats usually show no symptoms\n• Treated w anthelmintics; deworming of puppies (at and every 2 weeks)\n• Remove feces from environment to control spread\n• Zoonotic potential—visceral larva migrans (VLM) and ocular larva migrans (OLM) in kids ingesting infested feces"
+  },
+  {
+    "title": "Trichuris vulpis [[image:Lab Procedures Flashcards_Image04.png]]",
+    "detail": "• Canine whipworm—type of nematode/roundworm\n• Resides in cecum and large intestines of dogs\n• Prepatent period is 3 mo\n• Infection by ingestion of eggs (can persist in env for 3 years); larvae develop in small intestine, adults live in cecum, attaches to and freed on blood from intestinal wall\n• Diagnosed by fecal floation\n• Signs include bloody diarrhea, dehydration, weight loss"
+  },
+  {
+    "title": "Giardia duodenalis [[image:Lab Procedures Flashcards_Image24.png]]",
+    "detail": "• Protozoa of dogs, cats, cattle, horses, sheep, goats, pigs\n• Transmitted via the fecal-oral route by ingestion of dormant cysts in contaminated food or water\n• Resides in the intestines; two life cycle states—active feeding stage as trophozoite (motile w flagellum) and nonmotile cystic stage\n• Prepatent period of 7-10 days\n• Diagnosed by fecal floatation or direct smear\n• Both cysts and trophozoites on direct fecal smear are diagnostic of Giardia\n• Trophozoite has piriform (pear/teardrop) shape\n• Signs include severe diarrhea"
+  },
+  {
+    "title": "Ancylostoma caninum [[image:Lab Procedures Flashcards_Image17.png]]",
+    "detail": "• Canine hookworm\n• Resides in the small intestine, feeding on blood from the intestinal wall\n• Infection by ingestion of eggs/larvae in contaminated food, water, soil, maternal milk, infected host, or by larval penetration thru the skin\n• Vertical transmission to fetus possible\n• Prepatent period of 2-3 weeks\n• Diagnes by fecal floatation\n• Signs include anemia, weakness, melena\n• Tx—fenbendazole, moxidectin, milbemycin, pyrantel"
+  },
+  {
+    "title": "Dipylidium caninum [[image:Lab Procedures Flashcards_Image14.png]]",
+    "detail": "• Common tapeworm of cats and dogs (double-pore tapeworm)\n• Resides in small intestines\n• Older segments (gravid proglottids) found on tip of body are discarded at maturation intervals to independently reproduce (all remain active as long as host warmth is retained); once passed in feces, they open to release eggs which are eaten by adult intermediate hosts\n• Infection occurs by ingesting intermediate hosts like fleas, lice, rodents, and ruminants containing larval cestodes\n• Prepatent period of 3 weeks\n• Often asymptomatic\n• Tx—anthelmintic like broad spectrum praziquantel PO/SC"
+  },
+  {
+    "title": "Intermediate forms of tapeworm",
+    "detail": "• An intermediate form of a tapeworm is its larval stage that develops in an intermediate host before becoming an adult in the intestines of the definitive host\n• Hydatid cyst is the largest intermediate form\n• Cysticercus, coenurus, and cysticercoid are smaller (in order from larger to smallest)"
+  },
+  {
+    "title": "Strongyloides spp",
+    "detail": "• Intestinal threadworms (S. stercoralis, tumafaciens, papillosus)\n• Nematodes (roundworm)\n• Larvae go thru a free-living stage in the environment before becoming infective L3 that can penetrate the skin and cause migratory damage in the host"
+  },
+  {
+    "title": "Skin scrapes",
+    "detail": "• 10 blade\n• Sample added to a drop of mineral oil, cover slip on top\n• Exam under 10x for parasites like Sarcoptes and Demodex"
+  },
+  {
+    "title": "Trichography",
+    "detail": "• Hair samples (including bulbs) are plucked w hemostats\n• 10-20 hairs placed on top of mineral oil for examination"
+  },
+  {
+    "title": "Skin digestion",
+    "detail": "• Used for scraping samples w significant amounts of scales, epidermal shards, and debris\n• Sample is placed in 15 mL conical centrifuge tube, 10 mL 4% NaOH (sodium hydroxide) solution is applied, and tube is placed in water bath and boiled for 5-10 min before being centrifuged at 1,000 rpm for 5 min\n• Supernatant is poured off and sediment is placed on slide to be examined under 10x"
+  },
+  {
+    "title": "Demodex canis [[image:Lab Procedures Flashcards_Image08.png]]",
+    "detail": "• Causes mange (demodicosis) in dogs\n• Demodex canis is a burrowing mite normally found in hair follicles and sebaceous glands, but numbers may increase when immune system is compromised\n• Localized mange affects dogs younger than 1; consists of 5 small lesions of alopecia, scaling, redness around face and forelimbs\n• May developed into juvenile onset generalized form due to hereditary immune abnormality\n• Adult onset generalized demodectic mange results from underlying disease affecting immune system\n• Diagnosed by skin scraping"
+  },
+  {
+    "title": "ELISA testing for blood parasites",
+    "detail": "• Detect antigens resulting from parasitic blood infestations\n• Especially useful in detecting Dirofilaria immitis\n• Cannot detect microfilariae\n• False negative can result from immature infections, infections w low numbers of female worms, and all-male infections\n• Kit contains a wand/membrane that has parasite-specific monoclonal antibodies bound to the surface, and additional antibody is labeled w an enzyme and this plus a color-producing agent are applied to sample—if antibodies specific to the parasite are present, antibody-enzyme complex will form and produce a color (indicator), otherwise it will wash away w no color change"
+  },
+  {
+    "title": "ELISA",
+    "detail": "• Enzyme-linked immunosorbent assay kits\n• Washing is a critical step in the methodology\n• Advantages are that they are rapid, easy to perform, sensitive, and specific\n• Disadvantage is that results are often positive or negative and does not detect changes in titer"
+  },
+  {
+    "title": "Cheyletiella [[image:Lab Procedures Flashcards_Image03.png]]",
+    "detail": "• Cheyletiellosis/mites can infect dogs, cats, rabbits\n• Called walking dandruff bc mites can carry skin scales\n• Entire life-cycle is on the host, but adult mite can live off the body 2-14 days\n• Infection most common thru direct (physical) contact, but can also infect from environment\n• Can cause pruritus, skin inflammation, crusts, swellings\n• Diagnosed by skin scrape, cellophane method, combing, microscopic exam"
+  },
+  {
+    "title": "Mites",
+    "detail": "• Arachnids\n• Some are intermediate hosts for cestodes (tapeworms)\n• Most are obligate parasites—produce mange\n• Mostly transmitted thru direct contact\n• Burrowing mites require deep skin scraping"
+  },
+  {
+    "title": "Sarcoptiform mites",
+    "detail": "• Sarcoptidae family burrow/tunnel w/in epidermis (aka burrowing mites); Psoroptidae reside on skin surface or ear canal (non-burrowing); Demodecidae lives deep in hair follicles and sebaceous glands (follicular burrowing)\n• Sarcoptidae include Sarcoptes scabiei, Notoedres cati (cats and rabbits), Knemidokoptes (birds); cause severe pruritus\n• Psoroptidae include Psoroptes, Chorioptes, Otodectes; cause pruritus\n• Demodecidae include Demodex; nonpruritic\n• Sarcoptic mange is characterized by loss of hair and intense pruritus\n• Host-specific; transient cross-species infestation may occur, but mites don’t reproduce on non-hosts"
+  },
+  {
+    "title": "Otodectes species",
+    "detail": "• Parasite that lives in ears\n• Otodectes cynotis, the ear mite, is an obligate parasite of the host but is not host specific\n• The life cycle is typically completed on a single host in about 3 weeks"
+  },
+  {
+    "title": "Ticks",
+    "detail": "• Blood sucking arachnids\n• Tick’s head (capitulum) is used for cutting and attachment; sucking organ is the hypostome\n• Two types:\n• Hard ticks (Ixodidae) are vectors of protozoal, bacterial, viral, rickettsial diseases\n• Soft ticks (Argasidae) lack scutum (chitinous covering); they are ectoparasites of birds\n• Larval stage has six legs\n• Ticks mate on animals, drop eggs to ground, which then hatch into larvae and climb on vegetation or small mammal host, once fed these molt into nymphs, crawl up vegetation and attach on a host, feed again, and drop back on ground to molt into adults, and use vegetation to get back on a host"
+  },
+  {
+    "title": "Tick paralysis",
+    "detail": "• Can be caused by saliva of females of some species\n• Include Dermacentor adersoni (Rocky Mountain spotted fever tick), Dermacentor accidentalis (Pacific coast tick), Ixodes holocylus (Australian paralysis tick), and Dermacentor variabilis (wood tick)"
+  },
+  {
+    "title": "Notable ticks",
+    "detail": "• Dermacentor variabilis is the American dog tick\n• Rhipicephalus sanguineus is the brown dog tick\n• Ixodes dammini is the deer tick\n• Dermacentor albipictus is the winter tick"
+  },
+  {
+    "title": "Common tick-borne diseases",
+    "detail": "• Lyme disease (dogs, humans, rare in cats)\n• Agent: Borrelia burgdorferi\n• Vector: Ixodes (deer tick)\n• Causes lameness, fever, lethargy, lymphadenopathy\n• Ehrlichiosis (dogs)\n• Agent: Ehrlichia canis (most common)\n• Vector: Brown dog tick (Rhipicephalus)\n• Causes fever, thrombocytopenia, bleeding\n• Anaplasmosis (dogs, humans)\n• Agent: Anaplasma phagocytophilum / A. platys\n• Vector: Ixodes, Rhipicephalus\n• Causes lameness, fever, thrombocytopenia\n• Babesiosis (dogs)\n• Agent: Babesia spp.\n• Vector: Varies\n• Causes hemolytic anemia, weakness, jaundice\n• Rocky Mountain Spotted Fever (dogs, humans—zoonotic)\n• Agent: Rickettsia rickettsii\n• Vector: Dermacentor ticks\n• Causes fever, petechiae, edema, neurologic signs\n6. Hepatozoonosis\nAgent: Hepatozoon canis\nTransmission: Ingestion of infected tick (not bite)\nSpecies: Dogs\nKey signs: Fever, muscle pain, weakness"
+  },
+  {
+    "title": "Acariasis",
+    "detail": "• Infestation by mites or ticks"
+  },
+  {
+    "title": "Pediculosis",
+    "detail": "• Infestation by lice"
+  },
+  {
+    "title": "Ctenocephalides spp. (felis & canis) [[image:Lab Procedures Flashcards_Image25.png]]",
+    "detail": "• Fleas—reddish brown-black in color\n• Lay eggs on host’s skin, which then fall in the environment, and, once hatched in 1-6 days, larvae live on organic debris and adult flea feces, mature and spin a cocoon to reside in, and come out as adults in 1-2 weeks once they sense a nearby host (pupa can remained in cocoon for 350 days waiting for a host)\n• Can cause allergy dermatitis—inflammation that appears red, is itchy or swollen"
+  },
+  {
+    "title": "Phthiraptera [[image:Lab Procedures Flashcards_Image18.png]]",
+    "detail": "• Lice\n• Lay eggs (aka nits) glued to hair shaft to remain w host\n• Transferred w physical contact\n• Can remain on host for entire life cycle\n• Suborder Anoplura is sucking lice, and suborder Mallophaga is chewing lice\n• Each have different species that infect each species of animal (some animals are susceptible to multiple)\n• May cause itchiness, scruffy, dry, brittle hair"
+  },
+  {
+    "title": "Dermatophytes [[image:Lab Procedures Flashcards_Image11.png]]",
+    "detail": "• Ringworm\n• Microsporum canis and gypseum, and Tricophyton mentagrophytes most common\n• Diagnosed w DTM (dermatophyte test medium) culture—dermatophytes metabolize the protein in the medium and release alkaline metabolites that turn the medium red\n• Microscopic exam is done after 2 weeks of keeping DTM in a dark place and checking daily under 40x w new methylene blue\n• Skin or hair samples may also be examined w/out culture"
+  },
+  {
+    "title": "Microsporum canis",
+    "detail": "• Genera of dermatophytes (ringworm)\n• Causes most infections in cats and dogs\n• If the fungus is at the right stage of development, (50% of cases), it will appear apple-green under Wood’s lamp"
+  },
+  {
+    "title": "Buffy coat method for blood parasites",
+    "detail": "• Buffy coat (middle layer after centrifugation) contains WBCs, platelets, and some parasites\n• Buffy coat exams help detect parasites ass w WBCs or free plasma (not those ass w RBCs)\n• A drop of saline and a drop of methylene blue is added on top of the buffy coat on the slide, a coverslip is applied, and sample is observed for microfilariae"
+  },
+  {
+    "title": "Modified Knott’s technique",
+    "detail": "• Used to identify and quantify parasites in the blood\n• Blood-borne parasites are classified as rickettsial (bacterial), protozoal, helminth (parasitic worms), viral\n• 1 mL EDTA blood and 9 mL of water or 2% formalin is mixed to cause hemolysis and centrifuged for 1,000 rpm for 5 min (or set aside for 1 hour); supernatant is decanted off and 2 drops of methylene blue is added on the undisturbed sediment; solution is mixed gently by aspirating w a pipette\n• Sample is observed under 10x to microfilariae or larva"
+  },
+  {
+    "title": "Dirofilaria immitis [[image:Lab Procedures Flashcards_Image26.png]]",
+    "detail": "• Canine heartworm—can infect dogs, cats, and other animals thru a mosquito or transplacental infection\n• Mosquito is both intermediate host and vector\n• Lifespan is much shorter (3 vs 7 years) in cats, and worm burden is much less too, so doesn’t cause severe disease\n• Prepatent period if 6-8 mo (so newborn will be 6 mo before it becomes detectable)\n• Signs include lethargy, exercise intolerance, cough, severe weight loss when chronic, can lead to CHF\n• Heavy infection or high activity levels lead to earlier signs\n• Adult worms release larvae into blood (L1), mosquito bites infected dog and ingests L1 larvae, which matures into L3 w/in mosquito, another bite transfers larvae to a dog to mature first into L4 and infest muscles and vessels, and then into an adult to infest pulmonary artery and heart\n• Modified Knott’s, or wet or Giemsa-stained smears used to test for microfilariae, but buffy coat is most accurate; SNAP test used for adult heartworm"
+  },
+  {
+    "title": "Babesia spp.",
+    "detail": "• Blood-borne parasitic protozoan that cause babesiosis in dogs, cattle, horses, sheep, goats, pigs\n• Transmitted by ticks\n• Parasites are found inside RBCs"
+  },
+  {
+    "title": "Botflies Gasterophilus Oestrus Hypoderma Cuterebra",
+    "detail": "• Adults don’t feed; leave eggs at entrance of animal burrows, which then hatch and penetrate the skin of host\n• Larvae develop in GI tract of horses (Gasterophilus/horse botfly), nasal passages of sheep (Oestrus), dorsal subcutis of cow (Hypoderma)\n• Cuterebra are found in rabbits, rodents, cats, dogs, and humans; form large pockets in SC tissue or live in air holes (aka warbles); female flies lay eggs along burrows and first-stage larvae hatch instantaneously and crawl into host’s fur, enter host thru natural openings and migrate to SC location\n• Can infect humans"
+  },
+  {
+    "title": "Prokaryotic vs. eukaryotic cells",
+    "detail": "• Prokaryotes are single-celled organisms w no nucleus or specialized organelles\n• Bacteria\n• Eukaryotes have a nucleus and specialized organelles; usually have an outer cell membrane, inner cytoplasm and a nucleus"
+  },
+  {
+    "title": "Organelles",
+    "detail": "• Cytoplasm contains cytosol and organelles\n• Organelles include:\n• Ribosomes\n• Mitochondria\n• Endoplasmic reticulum\n• Golgi bodies"
+  },
+  {
+    "title": "Ribosomes",
+    "detail": "• Manufacture proteins—read RNA produced by DNA and translate it into proteins\n• Free-floating in the cytoplasm in small clusters or attached to endoplasmic reticula"
+  },
+  {
+    "title": "Mitochondria",
+    "detail": "• Transform organic substances from foods into ATP\n• Make up 25% of the cytoplasm"
+  },
+  {
+    "title": "Endoplasmic reticulum",
+    "detail": "• Network of tubes that alters and transports proteins, produces macromolecules (i.e. glycogen and natural steroids), and sequesters calcium"
+  },
+  {
+    "title": "Golgi bodies",
+    "detail": "• Process cellular products, releasing them back into the cell or excreting as needed"
+  },
+  {
+    "title": "Viral replication",
+    "detail": "• A virion consists of genetic material (DNA/RNA) and a capsid, the protective protein shell surrounding the genetic material\n• Both RNA and DNA viruses require host for replication\n• Viral entry occurs at mucosal membranes (respiratory, GI, or urogenital tract) w virus fastening onto mucosal cells; it then uses the nucleic acid replication infrastructure of the cell to replicate its own genetic material and proteins\n• Release from cells occurs by lysis (upon death of host cell) or budding (cytopathic as opposed to cytolytic)\n• Viruses are obligate parasites; not free-living\n• They can only grow inside cells, so they are intracellular parasites"
+  },
+  {
+    "title": "Growth media",
+    "detail": "• Trypticase soy agar (TSA): Used to study bacterial hemolytic reactions; some are enriched w blood to propagate fastidious organisms\n• Blood agar: Similar medium w 5% sheep blood\n• Trypticase soy broth (TSE): Cultures most bacteria\n• MacConkey II Agar (MAC): For gram-neg bacteria; crystal violet and bile salts used to hinder gram-pos growth; also incorporates a neutral red indicator that changes to pink or purple in case of lactose fermentation to differentiate lactose-fermenting and non-lactose-fermenting bacteria; inhibits growth of Proteus species\n• Columbia Colistin-Nalidixic Agar (C-CAN): Combines the antibiotic colistin (against intestinal infections) w nalidixic acid; for gram-pos bacteria; contains 5% sheep blood\n• Salmonella-Shigella Agar (SS): Specific to salmonella and shigella; employs lactose fermentation-generated color changes and ferric citrate so that hydrogen sulfide producing bacteria causes black coloration\n• Campylobacter Agar w 5 Antimicrobics and 10% Sheep Blood (Campy BAP): Very sensitive; mostly used for developing Campylobacter spp"
+  },
+  {
+    "title": "Blood agar",
+    "detail": "• Type of culture media—enrichment medium and differential medium\n• Supports growth of most bacterial pathogens\n• Several types available, trypticase soy agar w sheep blood most common\n• Four types of hemolysis can be detected:\n• Alpha: Partial hemolysis that creates a narrow band of greenish or slimy discoloration around the colony\n• Beta: Complete hemolysis that creates a clear zone around the colony\n• Delta: Zone of hemolysis surrounded by narrow zone of hemolysis around the colony (aka double-zone hemolysis)\n• Gamma: No change in the medium, no hemolysis around the colony"
+  },
+  {
+    "title": "Colonies in blood agar",
+    "detail": "• Proteus sp. is often seen swarming without distinct colonies\n• Pseudomonas sp. appears as an irregular spreading w grayish colonies; has variable hemolysis and may show a metallic sheen on a blood agar plate\n• Staphylococcus sp. appears smooth and glistening, w pigmented colonies that are white to yellow\n• Escherichia coli will appear large and gray, w smooth mucoid colonies; hemolysis will be variable"
+  },
+  {
+    "title": "Mannitol salt agar",
+    "detail": "• Highly selective medium for staphylococci\n• Can be used to isolate Staphylococcus aureus\n• Not routinely used\n• Has a high salt content and pH indicator phenol red"
+  },
+  {
+    "title": "Gram staining",
+    "detail": "• Requires a primary stain, a mordant, a decolorizer, and a counterstain, so not considered a simple stain\n• Specimen retrieved from colony on plate\n• Following heat-fixing, slide is dipped into iodine for 1 min, rinsed, dipped into decolorizer for 10 sec, rinsed, and dipped into safranin counterstain for 30-50 sec, rinsed, and air-dried\n• Slide is viewed under oil immersion (100x)\n• Bacteria that look purple to dark blue are gram-positive\n• Bacteria that look pink are gram-negative\n• Gram-positive organisms retain crystal violet stain and appear purple, whereas gram-negative organisms do not retain crystal violet but counterstain with safranin, and appear pink\n• Iodine in Gram stain fixes the crystal violet to the bacterial cell wall of the gram-positive bacteria, and decolorizer removes the crystal violet from gram-negative bacteria"
+  },
+  {
+    "title": "Acid-fast staining (Ziehl-Neelsen stain)",
+    "detail": "• Used to detect acid-fast organisms Mycobacterium (tuberculosis) and Nocardia\n• Consist of primary stain (DMSO or carbol fuchsin), acid-alcohol decolorizer, and counterstain like methylene blue\n• Slide is air dried and heat fixed\n• Acid-fast organisms stain pink to red\n• Non-acid-fast organisms stain blue"
+  },
+  {
+    "title": "Diff-Quik",
+    "detail": "• A Romanowsky stain, so sample must be air-dried first\n• Bone marrow smears are much thicker than blood smears, so a longer period of staining time is necessary to identify adequately the cells (i.e. dip smear twice as long)"
+  },
+  {
+    "title": "Supravital stains",
+    "detail": "• Contain no fixatives\n• Include new methylene blue, brilliant cresyl blue\n• Reticulocytes (immature RBCs) need to be stained with these stains for identification\n• When reticulocytes are stained with a supravital stain, organelles clump into granules that are referred to as reticulum (chains of blue granules)"
+  },
+  {
+    "title": "Lactophenol cotton blue",
+    "detail": "• Used for the identification of fungal elements"
+  },
+  {
+    "title": "Innate immune system",
+    "detail": "• Nonspecific—involves physical and chemical barriers\n• Barriers include the skin; physical and biochemical components of nasopharynx, gut, lung, genitourinary tract; commensal bacteria\n• Natural killer (NK) cells, interferons, and complement system are components of innate immune system"
+  },
+  {
+    "title": "NK cells",
+    "detail": "• Natural killer cells\n• Subset of lymphocytes\n• Recognize and destroy host cells infected w microbes\n• Also activate phagocytes by releasing interferon-y\n• Interferons are cytokines that elicit other cellular reactions, and influence the actions of NK cells"
+  },
+  {
+    "title": "Complement system",
+    "detail": "• Integral to both innate and adaptive immune systems\n• A series of chemical reactions known as the complement cascade occurs when activated"
+  },
+  {
+    "title": "Adaptive immune system",
+    "detail": "• The system that goes against foreign bodies that invade the innate immune system\n• Mostly run by lymphocytes\n• Divided into two components: humoral immune system and cell-mediated immune system"
+  },
+  {
+    "title": "Humoral immune system",
+    "detail": "• Part of the adaptive immune system that uses B cells and antibodies to fight pathogens in the body's fluids (humors)\n• Lymphocytes that mature in the bone marrow (B cells) are concerned w production of immunoglobin (Ig) molecules, aka antibodies\n• Helper T cells produce cytokines that activate B cells"
+  },
+  {
+    "title": "[[image:Lab Procedures Flashcards_Image21.png]]",
+    "detail": "• IgM: First to antibody produced—high titer, low avidity (binding strength); abundant in early stages, less later; large, so unable to enter tissue; 5% of all immunoglobulin\n• IgG: Small and can enter tissue, can cross placenta; usually produced during secondary immune response; low-titer, high avidity; remains in circulation longest; most abundant at 75%\n• IgE: Similar to IgG, but found in very small amounts\n• IgA: 20%\n• IgD: Very low abundance if present"
+  },
+  {
+    "title": "Active vs. passive immunity",
+    "detail": "• Active immunity: Occurs when immune system develops antibodies to antigens such as viruses, yeast, or bacteria, to which the animal can be exposed via natural exposure or by injection with a noninfectious form of the antigen in a vaccine\n• Passive immunity: Occurs when animal receives antibodies from colostrum or synthesized antibodies (e.g. antitoxin administration, gamma globulin administration)\n• Globulin is obtained from a donor that is vaccinated w a pathogen; immunity is short-lived"
+  },
+  {
+    "title": "Hypersensitivity reactions",
+    "detail": "• Type 1 is an immediate hypersensitivity that occurs when chemical mediators are released from mast cells (e.g. allergies, anaphylactic shock, vaccine reactions); occurs when IgE antibodies are formed in response to previously encountered antigen\n• Type II is antibody-mediated diseases in which antibodies are directed to own cells (e.g. IMHA); mediated by IgG binding\n• Type III is immune-complex mediated diseases; occurs when antibodies and antigens form complexes that are deposited into blood vessels (e.g. systemic lupus)\n• Type IV is T-cell-mediated diseases caused by the reaction of T lymphocytes against self-antigens (e.g. contact sensitivity reactions like poison ivy)"
+  },
+  {
+    "title": "Role of IgE during type I hypersensitivity reactions",
+    "detail": "• Type I reactions are mediated by immunoglobulin E (IgE)\n• Principal cellular component is the mast cell or basophil\n• Reaction is amplified or modified by eosinophils, neutrophils, and platelets\n• Type I hypersensitivity reaction triggers release of histamine—mast cells and basophils normally produce a small quantity, but when IgE sensitizes them, they react abnormally, producing large quantities of histamines and other chemicals, which cause allergic attacks"
+  },
+  {
+    "title": "-penia vs. -philia/-cytosis",
+    "detail": "• -penia: Decrease in the number of blood cell type\n• -philia/-cytosis: Increased in the number of blood cell type"
+  },
+  {
+    "title": "Transmission of FIV",
+    "detail": "• FIV is found in saliva, so bite wounds serve as means of transmission\n• Mostly occur thru fighting"
+  },
+  {
+    "title": "Phagocytes",
+    "detail": "• Leukocytes that ingest foreign organisms and particles.\n• Specialized immune cells that engulf harmful bacteria, viruses, fungi, and cellular debris\n• Include neutrophils, macrophages, monocytes"
+  },
+  {
+    "title": "Combined immunodeficiency",
+    "detail": "• Absence or deficiency of immunoglobulins; failure to produce functional T or B cells\n• Occurs in early life, after serum levels of maternally derived antibodies decline\n• Occurs in 2-3% of Arabian foals and they often die from opportunistic infection"
+  },
+  {
+    "title": "Abnormal Urinalysis Results",
+    "detail": "• A trace amount of protein may be significant in a patient with chronic renal failure—in kidney disease, excessive amounts of protein enter the glomerular filtrate and are not reabsorbed, resulting in protein in the urine\n• Diabetes cases may have glucosuria and ketonuria\n• Hemolytic anemia cases have hematuria and bilirubinuria\n• If a patient is experiencing an acid-base imbalance, there will be a change in the pH of the urine"
+  },
+  {
+    "title": "Urine pH",
+    "detail": "• Factors that may decrease pH (and lead to acidic urine) include fever, starvation, high-protein diet, acidosis, excessive muscular activity, certain drug, diabetes, and prolonged diarrhea\n• Factors that may increase pH (and lead to alkaline urine) include alkalosis, high-fiber diets, UTI due to urease bacteria, certain drugs, and urine retention, such as that which occurs with urethral obstruction or bladder paralysis"
+  },
+  {
+    "title": "Fructosamine",
+    "detail": "• Glucose can bind a variety of structures, including proteins; when glucose concentrations are persistently elevated (DM), increased binding of glucose to proteins occurs\n• Fructosamine represents the irreversible reaction of glucose bound to albumin\n• Finding of increased fructosamine indicates hyperglycemia\n• Half-life of albumin in dogs and cats is 1 to 2 weeks, so fructosamine provides an indication of the average serum glucose throughout that period"
+  },
+  {
+    "title": "Hemocytometer",
+    "detail": "• Precision microscope slide that aids in manual cell count\n• Counting chamber used to determine number of cells per microliter of blood (µl or mm3)\n• Has two sets of grids of parallel and perpendicular etched lines called Neubauer rulings; each grid is divided into 9 squares with each of the 4 corners divided into 16 smaller squares and center divided into 400 very small squares—the area of each grid is designed to hold a specific amount of sample (0.9 µl)\n• Number of cells counted in each area is then converted into cells per unit volume"
+  },
+  {
+    "title": "Corrected leukocyte (WBC) count",
+    "detail": "• nRBCs are included in total WBC count by hemocytometers and electronic cell counters, resulting in falsely increased WBC counts\n• A correction is done using a formula:\nCorrected leukocyte count = (measured leukocyte count x 100)\n(100 + nRBC)"
+  },
+  {
+    "title": "Symptoms of parathyroidism",
+    "detail": "• Usually none\n• Diagnosed w serum chemistry"
+  },
+  {
+    "title": "Functions of the liver",
+    "detail": "• Metabolism of amino acids, carbohydrates, lipids\n• Synthesis of albumin, cholesterol, plasma proteins, clotting factors\n• Digestion/absorption of nutrients related to bile formation\n• Secretion of bilirubin and bile\n• Elimination via detoxification of toxins and catabolism of some drugs\n• All functions are controlled by enzymatic reactions\n• Gallbladder stores bile; functions closely w liver\n• Malfunctions in either leads to jaundice, hypoalbuminemia, hemostasis problems, hypoglycemia, hyperlipoproteinemia, hepatoencephalopathy"
+  },
+  {
+    "title": "Tests of liver function (hepatobiliary assays)",
+    "detail": "• Due to very wide range of its functions, there are many tests of liver function\n• Bile acids (preprandial and postprandial) are the function test of choice for liver function—evaluates the major anatomic component of the hepatobiliary system\n• Also include ammonia assay, bilirubin, and alanine aminotransferase, AST, AP, serum albumin, and dye excretion\n• Cholestatic enzymes, hepatocellular leakage enzymes, and total protein and albumin are all associated w liver function\n• In horses, gamma-glutamyl transferase and sorbitol dehydrogenase are measured to evaluate liver function"
+  },
+  {
+    "title": "Spleen",
+    "detail": "• Has both lymphatic and hematologic functions\n• Produces some blood alongside bone marrow\n• Acts as a reservoir for blood when the animal is at rest and does not need a large amount of oxygen and other substances to be delivered to the muscles\n• Has storage sinuses for blood until it is needed"
+  },
+  {
+    "title": "Cytokines",
+    "detail": "• Small proteins that act as chemical messengers\n• Enable immune cells to communicate, coordinate responses, and regulate inflammation, growth, differentiation, and infection fighting\n• Include interleukins, interferons, chemokines, and tumor necrosis factors"
+  },
+  {
+    "title": "Erythropoiesis",
+    "detail": "• Erythropoietin is the primary cytokine responsible for RBC production\n• Erythropoietin is mostly produced in the kidney in response to decreased oxygen in blood, and travels to bone marrow and binds to receptors on erythroid precursor cells, causing it to divide and mature\n• Precursor cells mature in the following order—rubriblast, rubricyte, reticulocyte, erythrocyte\n[[image:Lab Procedures Flashcards_Image15.png]]"
+  },
+  {
+    "title": "Nematodes vs. cestodes vs. trematodes",
+    "detail": "• Nematodes (roundworms)\n• Round, cylindrical; unsegmented body\n• Include ascarids, hookworms, whipworms; Toxocara canis, Ancylostoma caninum, Trichuris vulpis, Dirofilaria immitis\n• Mnemonic: NEMA = noodles\n• Cestodes (tapeworms)\n• Flat, ribbon-like; segmented (proglottids)\n• Include Taenia, Dipylidium; D. caninum\n• Trematodes (flukes)\n• Flat, leaf-shaped; unsegmented body\n• Include Fasciola species (inc. liver fluke), or Alaria (intestinal fluke), lung fluke like Paragonimus kellicotti"
+  },
+  {
+    "title": "Nosocomial vs. iatrogenic",
+    "detail": "• Nosocomial diseases originate in a hospital; hospital-acquired diseases\n• Infection acquired during surgery is nosocomial\n• Iatrogenic diseases result from the activity of the veterinarian or from any adverse condition in a patient that results from treatment by a veterinarian"
+  },
+  {
+    "title": "Scabies",
+    "detail": "• Aka sarcoptic mange\n• Disease caused by Sarcoptes scabei, which is a burrowing mite"
+  },
+  {
+    "title": "Capillary action (capillarity)",
+    "detail": "• Occurs when a liquid pushes against a solid and is caused to rise\n• Example is blood entering a hematocrit tube"
+  },
+  {
+    "title": "Cells produced in the bone marrow",
+    "detail": "• Erythrocytes\n• Leukocytes\n• Platelets\n• Bone marrow is the secondary location of lymphocyte production; they are produced in lymphoid organs and peripheral lymphoid tissue like thymus, lymph nodes, spleen, tonsils"
+  },
+  {
+    "title": "Staphylococcus spp.",
+    "detail": "• Both normal resident cutaneous microflora and opportunistic pathogens\n• Found in pyoderma in dogs and cats\n• Common pathogen in mastitis, skin wounds, and abscesses that is also found in the environment\n• Can wall itself off from treatment and still produce toxins that might kill the host"
+  },
+  {
+    "title": "Clotting at room temp",
+    "detail": "• A red-top Vacutainer tube should sit at room temperature for 30 min before centrifugation to allow a clot to form"
+  },
+  {
+    "title": "Blood collection for coagulation profile",
+    "detail": "• Blood should be collected via a single venipuncture to avoid cell damage and excessive activation of coagulation factors\n• Trauma during venipuncture interferes with the results of a coagulation profile by increasing the blood’s coagulability\n• Blue citrate-containing Vacutainer should be used for collection\n• It is not necessary to test the sample immediately"
+  },
+  {
+    "title": "Crossmatching",
+    "detail": "• Reduces possibility of transfusion reaction\n• Major crossmatching: Recipient serum is added to donor RBCs, incubated, centrifuged, and examined macroscopically and microscopically for hemolysis or agglutination (either indicates mismatch)\n• Minor crossmatching: Recipient RBCs are added to donor serum\n• Major crossmatch determines compatibility of donor’s RBCs w recipient’s serum; minor crossmatch determines compatibility of donor’s serum with recipient’s RBCs—both should be done for animals w unknown blood types"
+  },
+  {
+    "title": "Coombs test",
+    "detail": "• Detects presence of inappropriate antibodies (auto-antibodies)\n• Direct Coombs test: Sample is incubated w antisera, which reacts w immunoglobulins—if RBCs are coated w immunoglobulin (self-antibody), these will react w antisera and result in visible agglutination of RBCs\n• Detects antibodies already attached to RBCs\n• Used to diagnose immune-mediated hemolytic disease\n• Indirect Coombs test: Patient serum is mixed w test RBCs, then anti-globulin reagent is added—if antibodies are present, agglutination will occur\n• Detects free antibodies in the serum—looks for circulating antibodies that could bind RBCs\n• Used in blood typing and crossmatching, and detecting alloantibodies before transfusion"
+  },
+  {
+    "title": "Aspartate transaminase (AST) (aspartate aminotransferase)",
+    "detail": "• One of the enzymes released from damaged hepatocytes\n• Enzyme that catalyzes the transfer of an amino group from aspartic acid to alpha-ketoglutaric acid, thereby forming glutamic acid and oxaloacetic acid\n• Horses have higher normal AST values than other species"
+  },
+  {
+    "title": "Leakage enzymes",
+    "detail": "• Hepatocyte damage leads to leakage of liver enzymes into the blood, leading to rise in blood levels of enzymes associate w liver cells\n• Include:\n• Transferase enzymes alanine transaminase (ALT), aspartate transaminase (AST)\n• Dehydrogenase enzymes iditol dehydrogenase (ID), glutamate dehydrogenase (GLDH)"
+  },
+  {
+    "title": "Pemphigus",
+    "detail": "• Autoimmune skin disease that attacks the skin and mucosa"
+  },
+  {
+    "title": "Yersinia pestis",
+    "detail": "• Bacterium that causes the bubonic plague\n• Zoonotic\n• Transmitted via fleas\n• Rats are the reservoir host generally, but in western US it is prairie dogs"
+  },
+  {
+    "title": "Borrelia burgdorferi",
+    "detail": "• Lyme disease\n• Vector is Ixodex scapularis (deer tick)—doesn’t cause the disease itself, but serves as the vector and intermediate host for the bacteria that causes it"
+  },
+  {
+    "title": "Vector vs. intermediate host vs. paratenic host",
+    "detail": "• A vector is an organism (like a mosquito or tick) that transports a pathogen\n• Intermediate host is an organism where a parasite develops before moving to the final host for sexual reproduction\n• Paratenic host is an organism that carries a parasite to a new host w/out allowing it to develop or reproduce"
+  },
+  {
+    "title": "ACTH stimulation test",
+    "detail": "• Adrenocorticotropic hormone (ACTH) stimulates adrenocortical growth and secretion—cortisol is released, which in turn inhibits corticotropin-releasing factor and ACTH\n• ACTH stimulation test is used to distinguish iatrogenic and spontaneous hyperadrenocorticism, or to test efficacy of therapies\n• Test evaluates degree of adrenal gland response to administration of exogenous ACTH—degree of response should be in proportion to gland’s size and development (hyperplastic adrenal glands have exaggerated responses, hypoplastic glands have diminished responses)\n• Detects abnormalities, but not the cause"
+  },
+  {
+    "title": "Blood typing",
+    "detail": "• Methods include tube method (gold standard), immunochromatography assay, card/slide agglutination assay\n• Dog blood types: DEA 1 – 3 – 4 – 5 – 7\n• DEA: Dog erythrocyte antigen\n• Cat blood types: A – B – AB\n• 99% of domestic short and long-haired cats in US are A\n• Less than 1% of cats are AB\n• There is no universal cat blood donor, because cats have isoantibodies against other blood types\n• Large animals: Thousands, so blood typing not practical"
+  },
+  {
+    "title": "Cat vs. dog reactions to transfusions",
+    "detail": "• Transfusion reactions in cats are rare but much more severe than in dogs; may occur w first transfusion (not the case in dogs)\n• Cats have naturally occurring circulating alloantibodies to the blood type they do not have—Type B cats have high levels of type A antibodies, etc.\n• Transfusion of type A blood into a type B cat could result in severe, potentially fatal hemolytic transfusion reaction"
+  },
+  {
+    "title": "Lymphopoiesis",
+    "detail": "• Production of T cells, B cells, natural killer cells\n• Arises from the common lymphoid progenitor, proceeds thru lymphoblast and prolymphocyte stages, differentiated into B or T/NK precursor\n• B cells mature in bone marrow; they migrate to the gut-associated lymphoid tissue (GALT) where they greatly increase their numbers and achieve the diversification of their B-cell receptor\n• T cells mature in thymus\n• NK cells mature in bone marrow, thymus, and other lymphoid tissue"
+  },
+  {
+    "title": "Plasma cells",
+    "detail": "• Mass-produce antibodies\n• Terminally differentiated B cells; form after B cells are activated by antigen (often with T-cell help)\n• Function is to produce and secrete large quantities of antibodies"
+  },
+  {
+    "title": "Memory B cells",
+    "detail": "• Lymphocytes; initiate a secondary immune response—some antigen-stimulated B cells differentiate into memory cells for faster respond upon second exposure\n• Produced during initial exposure and remain to produce antibodies more quickly in case there is a second exposure"
+  },
+  {
+    "title": "Which stain is used for which purpose",
+    "detail": "• Sudan III or IV is used to stain fat—fat droplets float in and out of planes of focus, usually vary in size, and stain shades of iridescent orange\n• New methylene blue provides nuclear and nucleolar detail; effectively stains nuclei, mast cells, many infectious agents\n• Diff-Quik can be applied rapidly to smears of aspirated cells or exudate\n• Giemsa stain is used to detect spirochetes and rickettsiae, and to view the capsule of Bacillus anthracis and morphology of Dermatophilus congolensis"
+  },
+  {
+    "title": "Venous vs. arterial blood for testing",
+    "detail": "• Arterial blood is most commonly used to analyze blood gasses; arterial gas sample is the best source to evaluate blood CO2 levels\n• Venous blood is generally used for hematology, chemistry, and organ function tests"
+  },
+  {
+    "title": "Organisms found in normal dog intestines",
+    "detail": "• Streptococci, lactobacilli, and Bifidobacterium spp.\n• Several species of anaerobic bacteria are found in the duodenum and jejunum\n• Escherichia coli is present in the ileum"
+  },
+  {
+    "title": "Streptococcus spp.",
+    "detail": "• Opportunistic pathogens that normally reside in the upper respiratory, intestinal, lower urinary, and genital tracts\n• Can cause localized infection or septicemia in dogs of all ages\n• Streptococcus equi causes strangles in horses"
+  },
+  {
+    "title": "Fibrinogen",
+    "detail": "• Protein involved in blood coagulation\n• Most abundant coagulation factor in the body\n• Produced by the liver\n• Increases in inflammatory processes; detection is useful especially in ruminants\n• Plasma fibrinogen concentrations are measured using heat precipitation—EDTA blood is centrifuged, tube broken above buffy coat and dispensed in a hemocytometer prism to get the total protein number; second tube is heated in a water bath at 56C/132.8F for 3 min to precipitate fibrinogen, respun so it settles right above buffy coat, and total protein is measured\nFibrinogen concentration (mg/dL) = (TP1 – TP2) x 100"
+  },
+  {
+    "title": "Plasmin",
+    "detail": "• The enzyme that digests fibrin threads and other clotting products to cause clot lysis"
+  },
+  {
+    "title": "von Willebrand factor",
+    "detail": "• Serves to stabilize the platelet plug during the mechanical phase of blood coagulation\n• Required for platelet adhesion\n• Deficiencies in von Willebrand factor leads to prolonged bleeding time"
+  },
+  {
+    "title": "von Willebrand disease",
+    "detail": "• Most common inherited coagulation disorder of domestic animals (common in Dobermans, rabbits, pigs)\n• Results from decreased production of von Willebrand factor\n• Can be stimulated by hypothyroidism if a dog is already predisposed to it\n• It’s a disorder of primary hemostasis (i.e. coagulation cascade is normal), buccal mucosal bleeding time is the best screening test presurgery (ACT and APPT evaluate secondary hemostasis)\n• A vWF assay is performed when platelet function defects are evident"
+  },
+  {
+    "title": "Azotemia",
+    "detail": "• Excess of urea, creatinine, and other nitrogenous end products of protein and amino acid metabolism in the blood\n• Kidney disease results in accumulation of metabolic waste in the blood, i.e. azotemia\n• Indicates reduced excretion of waste products; leads to higher levels of BUN and creatinine"
+  },
+  {
+    "title": "Renal, prerenal, postrenal azotemia",
+    "detail": "• Azotemia = elevated BUN and creatinine due to decreased excretion\n• Azotemia as a localization problem: Where along the urine-production pathway things are going wrong\n• Prerenal: dehydration with normal kidneys → high SG\n• Renal: kidney dysfunction → low or inappropriate SG despite dehydration\n• Postrenal: obstruction or rupture → waste buildup due to inability to urinate"
+  },
+  {
+    "title": "Prerenal azotemia",
+    "detail": "• In cases of dehydration, kidneys conserve water by decreasing amount of urine produced and increasing urine concentration\n• BUN and serum creatinine must be interpreted in conjunction w hydration status and urine specific gravity to distinguish dehydration (prerenal azotemia) from impaired kidney function (renal azotemia)\n• If a dehydrated patient has healthy kidneys, increases in BUN and serum creatinine will be accompanied by high urine SG, indicating that kidneys are capable of concentrating urine to conserve water\n• Mechanism\n• Dehydration or poor perfusion\n• Kidneys themselves are structurally and functionally normal\n• Reduced blood flow → reduced filtration → ↑ BUN & creatinine\n• Elevated values + concentrated urine = kidneys responding appropriately"
+  },
+  {
+    "title": "Renal azotemia",
+    "detail": "• Kidneys fail to concentrate urine adequately, so SG is lower than expected (despite dehydration normally increasing SG—dehydration should increase SG; if it doesn’t the kidneys are failing)\n• Kidneys cannot concentrate urine\n• Urine remains dilute or inadequately concentrated\n• Waste products accumulate\n• Low SG in a dehydrated patient = failure to compensate → renal azotemia"
+  },
+  {
+    "title": "Postrenal azotemia",
+    "detail": "• Leads to an increase in BUN resulting from inability to urinate\n• Back pressure reduces GFR\n• Nitrogenous wastes accumulate\n• BUN and creatinine increase\n• Associated w urinary tract obstruction or perforation"
+  },
+  {
+    "title": "Bacillus spp.",
+    "detail": "• Bacillus spp. are among the most common laboratory contaminants\n• Bacillus anthracis is the causative agent of anthrax in animals and human beings"
+  },
+  {
+    "title": "Lipuria",
+    "detail": "• Fat in the urine\n• Seen to some degree in most cats—feline renal epithelial cells have a high fat content and fat droplets are released when these cells disintegrate"
+  },
+  {
+    "title": "Malassezia pachydermatis",
+    "detail": "• Yeast found in cats and dogs; on skin or ears (otitis externa or dermatitis)"
+  },
+  {
+    "title": "Candida",
+    "detail": "• Opportunistic fungal\n• Mostly associated w avian respiratory and GI tracts"
+  },
+  {
+    "title": "Cryptococcus",
+    "detail": "• Fungus mostly associated w feline nasal disease"
+  },
+  {
+    "title": "Microscopic movement of parasites in feces",
+    "detail": "• Tritrichomonas move actively w jerky movements (zippy motility)\n• Giardia trophozoites have a falling leaf movement"
+  },
+  {
+    "title": "Calcium phosphate ratio",
+    "detail": "• Calcium plays a role in bone development, transmission of nerve impulses, and muscle contraction\n• Calcium concentrations are inversely related to phosphorus concentrations\n• Ratio is altered by impaired kidney function—leads to increased output of parathormone (parathyroid hormone that signals bones to release calcium to increase low blood calcium levels), which results in resorption of bone in an effort to maintain blood calcium levels\n• Blood chemistry analysis measures levels of calcium and phosphorus"
+  },
+  {
+    "title": "Pancreatitis testing",
+    "detail": "• Amylase, lipase, and trypsin are produced and secreted by the pancreas\n• Serum chemistry tests for acute pancreatitis include amylase and lipase\n• Trypsin can be qualitatively measured in the feces as an assessment of chronic pancreatitis"
+  },
+  {
+    "title": "Titer testing",
+    "detail": "• Titer is a measure of antibody units per unit volume of serum\n• Titer testing is performed immediately after infection (acute phase) and 2 to 6 weeks after collection of the first serum sample (convalescent phase)\n• IgG and IgM titers are reported individually\n• A titer >1:256 for IgM is consistent with active infection in patients w clinical signs\n• For IgG titer, best to submit 2 samples collected 2 to 3 weeks apart; 4x or more increase in titer during that time is indicates active infection"
+  },
+  {
+    "title": "Laser-flow technology",
+    "detail": "• Used to determine blood cell concentrations, WBC differential, and other hematology parameters"
+  },
+  {
+    "title": "Hematopoiesis",
+    "detail": "• Production of blood cells and platelets"
+  },
+  {
+    "title": "Classification of anemia by bone marrow response",
+    "detail": "• Regenerative or nonregenerative anemia\n• Other than in horses, bone marrow responds to anemia by increasing erythrocyte production and releasing immature erythrocytes—bone marrow being able to respond means anemia is due to blood loos or destruction (hemolysis)\n• Immature RBCs are polychromatophilic RBCs or reticulocytes\n• Macrocytosis, increased polychromasia, and Howell-Jolly bodies will likely be present in blood cell film\n• Bone marrow samples will show erythroid hyperplasia (increased red cell production in the marrow)\n• In horses, bone marrow evaluation is needed to classify anemia—reticulocyte counts of more than 5% indicate regenerative response\n• Nonregenerative anemia means bone marrow is unable to respond to anemia—no reticulocytes, suggesting bone marrow dysfunction"
+  },
+  {
+    "title": "Classification of anemia by etiology",
+    "detail": "• Hemolytic, hemorrhagic, or resulting from decreased/defective RBC production\n• Hemolytic anemias result from RBC destruction in the blood; usually regenerative\n• May be caused by immune disorders, RBC parasites, bacterial or viral agents (FIV), toxic agents (zinc, onions, acetaminophen)\n• Liver disease and/or hemolytic anemia is suspected when jaundice is present\n• Hemorrhagic anemia is due to blood loss (acute or chronic)\n• Iron deficiency can also lead to anemia"
+  },
+  {
+    "title": "Moraxella bovis",
+    "detail": "• Gram-negative diplococcus that causes pinkeye in cattle"
+  },
+  {
+    "title": "Effects of various chemicals on different tests",
+    "detail": "• Increased ALT will result from acetaminophen, aflatoxin, benzimidazole anthelmintics, halogenated hydrocarbons (e.g., halothane, chloroform), hydrocarbon solvents, iron, melaleuca oil, mushrooms (Amanita spp.), phosphides, sago palm, xylitol, and zinc\n• Increased ammonia may be caused by ingestion of ammonium based fertilizers\n• Blood pH may change due to ingestion of alcohols, bread dough, and ethylene glycol\n• Calcium may increase due to ingestion of Calcipotriene, cholecalciferol rodenticide, diuretics, grapes/raisins, hops, or xylitol"
+  },
+  {
+    "title": "Bacterial endospores",
+    "detail": "• Survival capsules that allow the organisms to survive harsh environments\n• Resistant to heat, desiccation, chemicals, and radiation"
+  },
+  {
+    "title": "Bacterial cell shapes",
+    "detail": "• Coccus: Spherical (e.g. Staphylococcus aureus)\n• Bacillus: Shaped like rod/cylinder (e.g. Bacillus anthracis)\n• Spiral/spirochetes: Can be single or loose spirals (e.g. Borrelia anserine)\n• Coccobacillus: Small rod-shaped bacteria that stains in a polar fashion, looking like paired cocci (e.g. Escherichia coli)\n• Pleomorphic: Shapes that range from cocci to rods"
+  },
+  {
+    "title": "Bile acids",
+    "detail": "• Aid in the digestion of fats by converting fats and fatty acids into maltose\n• Tested to assess liver function"
+  },
+  {
+    "title": "Impedance",
+    "detail": "• Obstruction or opposition to passage or flow, as of an electric current or other form of energy\n• Used to test blood samples in an instrument that passes a current of light or electricity through the sample (e.g. electronic cell counters that use impedance to classify cells based on their size)"
+  },
+  {
+    "title": "Iohexol clearance test",
+    "detail": "• Used to estimate GFR (Glomerular Filtration Rate) in dogs and cats\n• Iohexol is a radiographic agent that is administered IV after a 12-hour fast w access to water\n• Serum samples are taken at 2, 3, 4 hours"
+  },
+  {
+    "title": "Urine sample collection",
+    "detail": "• Voided samples contain bacteria (not suitable for bacteriologic exam) and often WBCs; midstream sample is preferred\n• Bladder expression samples are not suitable for bacteriologic culturing; RBCs possible due to pressure\n• Catheterization is the preferred method to assess patency of the urethra—if urethra is not patent, urinary catheter won’t pass; can also be used to obtain sample for bacterial culture\n• Cystocentesis is the preferred method for obtaining a urine sample for bacterial culture; gets sterile samples"
+  },
+  {
+    "title": "Blood samples from anemic patients",
+    "detail": "• Increase the pusher slide angle to about 45 degrees—anemic blood is thinner in consistency and using the normal angle creates too long a smear (increasing the angle shortens the smear)"
+  },
+  {
+    "title": "Bordetella bronchiseptica",
+    "detail": "• Bacterial infection that is most commonly associated w infectious tracheobronchitis (kennel cough) in dogs"
+  },
+  {
+    "title": "Unique characteristic of Mycobacterium",
+    "detail": "• Survives phagocytosis\n• Require special staining (along w Nocardia) bc they are acid-fast bacteria w waxy cell walls caused by mycolic acid and wax, fatty acid, and lipid mixture that makes them not pick up standard stains\n• Must also be heat-fixed\n• Zoonotic"
+  },
+  {
+    "title": "Coggins test",
+    "detail": "• Blood test that determines if a horse is a carrier of Equine Infectious Anemia (viral disease)"
+  },
+  {
+    "title": "Fresh frozen plasma",
+    "detail": "• Liquid part of donated blood\n• Rich in clotting factors and proteins\n• Used to treat severe bleeding or clotting disorders\n• Administered IV as a blood transfusion\n• Frozen w/in 8 hours of donation to preserve coagulation factors\n• Retains coagulation factor efficacy for 12 months, then it has to be relabeled frozen plasma (lower clotting factor levels)"
+  },
+  {
+    "title": "Worms",
+    "detail": "• Spirocerca lupi: Esophageal worm; nematode that forms nodules in the esophagus\n• Physaloptera: Canine stomach worm\n• Filaroides: Canine lungworm\n• Metastrongylus: Lungworm"
+  },
+  {
+    "title": "Prothrombin time test",
+    "detail": "• One-stage test for detecting certain plasma coagulation defects caused by a deficiency of factors V, VII, X\n• Used to confirm a diagnosis of warfarin toxicity—it leads to prolonged clotting times and affects factors II, VII, IX, and X"
+  },
+  {
+    "title": "Magnification for blood smears",
+    "detail": "• Platelets are the smallest elements found in a peripheral blood smear so higher magnification is necessary to view them adequately (e.g. to estimate platelet numbers)\n• 10× objective lenses should be used to scan the feathered edge for rouleaux, RBC agglutination, and platelet clumping"
+  },
+  {
+    "title": "Smear preparation for cytology samples",
+    "detail": "• For solid masses:\n• Compression preparation (aka squash prep): Aspirate is expelled onto the slide, a second slide is placed perpendicular to form + shape, and slid across—best technique\n• Combination technique: Same as above but w 45° angle\n• Starfish smear: Aspirate is dragged w a needle\n• For fluid samples: Best done immediately and w EDTA\n• Line smear: When concentration w centrifugation isn’t an option or sample has low cellularity blood smear technique is used"
+  },
+  {
+    "title": "Bicarbonate",
+    "detail": "• Electrolyte in plasma\n• Primary function is maintaining blood pH through acid–base buffering"
+  },
+  {
+    "title": "Glucose tolerance test",
+    "detail": "• Directly challenge the pancreas w a glucose load, and measure insulin's effect by evaluating blood or urine glucose concentration\n• Prolonged hyperglycemia and glucosuria are consistent w DM\n• Healthy animals have sufficient insulin to drop the increased glucose load to normal levels in 2 hours; animals w DM typically show hyperglycemia and glucosuria in the same period"
+  },
+  {
+    "title": "Myasthenia gravis",
+    "detail": "• Autoimmune disorder; immune system attacks acetylcholine receptors at the neuromuscular junction, blocking nerve signals to muscles and causing weakness\n• Results in the esophageal muscle losing its normal tone (megaesophagus)\n• Often leads to death due to aspiration pneumonia when animal breathes in some of the frequently regurgitated food\n• Also causes exercise-related generalized muscle weakness that improves with rest"
+  },
+  {
+    "title": "-ologies",
+    "detail": "• Serology is the study of antibody–antigen reactions\n• Parasitology is the study of endoparasites and ectoparasites\n• Microbiology is the study of viruses or prions\n• Mycology is the study of fungi"
+  },
+  {
+    "title": "Hypothyroidism screening",
+    "detail": "• Thyroid hormone controls synthesis and destruction of cholesterol, so cholesterol levels are elevated in animals w hypothyroidism"
+  },
+  {
+    "title": "Primary vs. secondary hemostasis",
+    "detail": "• Primary hemostasis: Platelet plug formation\n• Evaluated by buccal mucosal bleeding time; detects abnormalities in platelet function\n• Secondary hemostasis: Formation of fibrin by coagulation factors\n• Evaluated by ACT, APPT, and one-step PT\n• Usually initiated simultaneously\n• Activated platelets promote fibrin formation and provide a physical scaffold on which fibrin formation proceeds\n• Thrombin generated by secondary hemostasis is a platelet agonist and also induces endothelial cells to release vWf"
+  },
+  {
+    "title": "Phagocytosis",
+    "detail": "• Innate immune process in which activated phagocytes migrate toward, bind, ingest, and destroy pathogens\n• Primary phagocytes are neutrophils and monocytes / macrophages\n• Stages of phagocytosis: Activation → Chemotaxis → Adherence → Ingestion → Destruction\n• Chemotaxis is moving towards the target\n• Opsonization is the process by which pathogens are coated w molecules (opsonins such as antibodies) that make them easier for phagocytes to recognize and ingest; occurs during adherence"
+  },
+  {
+    "title": "Findings for urine specimen collected free catch and left at room temperature",
+    "detail": "• Decreased glucose and bilirubin concentrations\n• Increased pH resulting from bacterial breakdown of urea to ammonia\n• Crystal formation w increased sample turbidity\n• Breakdown of casts and RBCs (especially in dilute or alkaline urine)\n• Bacterial proliferation leading to increased numbers of bacteria"
+  },
+  {
+    "title": "Common problems for blood chemistry samples",
+    "detail": "• Common interferences in clinical chemistries include bilirubin, hemolysis, and lipemia"
+  },
+  {
+    "title": "Measuring electrolytes",
+    "detail": "• Electrochemical and ion-specific methods are used most often\n• IDEXX VetLyte uses ion-specific electrodes to measure sodium, potassium, and chloride"
+  },
+  {
+    "title": "Fimbriae",
+    "detail": "• Hair-like appendages (aka common pili) on the surface of bacteria, particularly Gram-negative bacteria like E. coli\n• Bind bacteria to cell surfaces, allowing bacteria to attach to mucosal surfaces, colonize tissues, and form biofilms"
+  },
+  {
+    "title": "Lentivirus",
+    "detail": "• Genus of retroviruses characterized by slow, progressive disease with a long incubation period\n• Cause chronic, lifelong infections\n• Include\n• Equine lentiviruses (e.g. Equine infectious anemia virus)\n• Feline lentiviruses (e.g. Feline immunodeficiency virus)"
+  },
+  {
+    "title": "Mucin clot test",
+    "detail": "• Test performed w joint fluid\n• Synovial fluid mucin forms a clot when added to acetic acid, which reflects the quality and concentration of hyaluronic acid"
+  },
+  {
+    "title": "Anaplasma",
+    "detail": "• Diagnosed by examining blood sample—blood films made from buffy coat may aid in diagnosis, but immunologic testing better as organisms may not be seen\n• Disease may result in neutropenia, thrombocytopenia, and anemia\n• Chronically affected animals may be severely anemic, w marked leukopenia and thrombocytopenia, but sometimes the only hematologic abnormality is lymphocytosis\n• Total plasma protein level is usually increased"
+  },
+  {
+    "title": "Dioctophyma renale",
+    "detail": "• Giant kidney worm\n• Inhabits the walls of portions of the urinary system of both dogs and cats\n• Diagnosed by microscopic examination of urine"
+  },
+  {
+    "title": "Testing for suspected acetaminophen ingestion",
+    "detail": "• Plasma (from EDTA or heparin-preserved blood) or serum and urine are the preferred antemortem samples\n• Blood concentrations usually peak 4 to 6 hours after ingestion\n• Samples should be refrigerated if analyzed w/in 24 hours, otherwise be frozen\n• Blood smear should be examined for Heinz bodies"
+  },
+  {
+    "title": "Xylitol toxicity",
+    "detail": "• Artificial sweetener\n• Extremely toxic to dogs\n• Causes hyperphosphatemia or hypophosphatemia"
+  },
+  {
+    "title": "Pancytopenia",
+    "detail": "• Decrease in red blood cells, white blood cells, and platelets\n• Most commonly caused by bone marrow suppression"
+  },
+  {
+    "title": "Supernatant",
+    "detail": "• Clear liquid that remains on top of a mixture after solid particles have settled or been centrifuged"
+  },
+  {
+    "title": "Signs of calibration and/or quality control problems in equipment",
+    "detail": "• Flags on printed results on several values\n• Values not compatible w life\n• Hematocrit (HCT) that is 5 times the hemoglobin concentration\n• Another abnormal result or relationship bw 2 parameters"
+  },
+  {
+    "title": "Campylobacter spp. (campy)",
+    "detail": "• Gram-negative spirochete\n• Appears as two curved rods joined end to end; similar to a seagull\n• May not be visible on gram stain and need a culture\n• Zoonotic"
+  },
+  {
+    "title": "Cornified cells",
+    "detail": "• Keratinized cells w no blood supply\n• Indicates estrus if found on canine vaginal smear\n• Cornification begins forming a protective lining w/in the vagina during proestrus; epithelial cells continue to cornify during estrus, and shed during metestrus"
+  },
+  {
+    "title": "Limitations of lab equipment",
+    "detail": "• Species specificity\n• Susceptibility to inferences (e.g. microclots leading to lower platelet count)\n• Ability to distinguish between cell types"
+  },
+  {
+    "title": "Refractometers",
+    "detail": "• Used to measure urine specific gravity and plasma/serum protein concentration"
+  },
+  {
+    "title": "Timeline for bacterial culture plates",
+    "detail": "• No growth after 3 days indicates a negative result since bacteria should be visible on inoculated plates w/in 24 to 48 hours"
+  },
+  {
+    "title": "Controls",
+    "detail": "• Used to monitor a test’s performance and make sure it runs correctly\n• Should be used daily before running patient samples\n• Commercially available; normal-abnormal or low-normal-high depeding on equipment"
+  }
+]
