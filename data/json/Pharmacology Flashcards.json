@@ -661,7 +661,7 @@
   },
   {
     "title": "Rodenticide toxicity",
-    "detail": "Anticoagulant rodenticides\n• Rodenticides, like Warfarin, work by preventing recycling of vitamin K, which is used in the production of clotting factors II, VII, IX, and X\n• Tx w vitamin K supplementation\n• Should be continued until effects of rodenticide wear off\nNeurotoxic rodenticides\n• No treatment available"
+    "detail": "Anticoagulant rodenticides\n• Rodenticides, like Warfarin, work by preventing recycling of vitamin K, which is used in the production of clotting factors II, VII, IX, and X— Factor VII is depleted first, so Prothrombin time (PT) test can be diagnostic (rodenticide will cause elevation in PT)\n• Tx w vitamin K supplementation\n• Should be continued until effects of rodenticide wear off\nNeurotoxic rodenticides\n• No treatment available"
   },
   {
     "title": "Organophosphate toxicity",
@@ -1278,5 +1278,9 @@
   {
     "title": "Side effects of benzodiazepines in horses",
     "detail": "• Ataxia\n• Muscle fasciculations\n• Weakness\n• Used w secondary medications like alpha-2 agonists to avoid side effects"
+  },
+  {
+    "title": "Bismuth",
+    "detail": "• Coats the GI tract acting as a protectant\n• Has anti-inflammatory properties\n• Blocks prostaglandins that increase the absorption of fluids, which decreases fluid moving into the stool and decreases diarrhea\n• Decreases hypermotility of the stomach\n• Can cause salicylate toxicity in cats"
   }
 ]

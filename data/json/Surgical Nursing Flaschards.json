@@ -56,6 +56,10 @@
     "detail": "• Absorbable: Lose most of their breaking strength in 60 days; can be natural like catgut or collagen (absorbed by enzymes) or synthetic like polyglactin 90/Vicryl, PDS (absorbed by hydrolysis)\n• Location of the suture, suture material, and presence of an infection affects absorption time\n• Catgut is not good for internal use or skin closure because of its rapid absorption and short duration of tensile strength\n• Chromic catgut is produced by exposure to basic chromium salts, which increases strength, decreases absorption, reduces tissue reaction\n• Nonabsorbable: Natural like silk or stainless steel, or synthetic like nylon/polyamide or prolene\n• Avoid in urinary bladder and urethra because they promote calculi formation\n• Silk has high tissue reactivity (more likely to cause stitch granulomas); nylon and Prolene have low tissue reactivity\n• Synthetic suture (Vicryl, PDS, nylon) is more resistant to phagocytic activity; natural suture like catgut is rapidly removed from infected sites where it is exposed to digestive enzymes"
   },
   {
+    "title": "Cutting needle",
+    "detail": "• Needle of choice for suturing skin\n• Penetrates the skin w least amount of trauma"
+  },
+  {
     "title": "Suture sizes",
     "detail": "• USP (US Pharmacopeia) sizes sutures based on diameter size in mm from 11-0 to 0 (thinnest) to 7 (thickest)—greater the number of 0s, smaller the diameter\n• The larger the diameter of the suture, the greater its tensile strength"
   },
@@ -126,6 +130,10 @@
   {
     "title": "Wound contamination (clean to dirty)",
     "detail": "• Clean: Wound created under sterile conditions (e.g. surgical wound like ovariohysterectomy)\n• Clean-contaminated: Minimal contamination (e.g. surgical incision into the GI tract w/out spilling contents, traumatic wound after flushing and debridement)\n• Contaminated: Heavy contamination (e.g. leakage of intestinal contents or fresh traumatic wounds like road rash after hit-by-car)\n• Dirty: Old traumatic wounds, active infection w purulent exudate (e.g. unattended, infected laceration)"
+  },
+  {
+    "title": "Abscess",
+    "detail": "• A \"walled-off\" or circumscribed accumulation of pus"
   },
   {
     "title": "Pneumothorax",
@@ -422,5 +430,9 @@
   {
     "title": "Eviscerate",
     "detail": "• Protrusion of abdominal organs through the suture line\n• Happens if both the muscle layer and the skin sutures of an abdominal incision break down"
+  },
+  {
+    "title": "Pericardiocentesis",
+    "detail": "• Used to treat pericardial effusion\n• Performed on the right side of the chest to avoid damage to lungs and coronary arteries\n• Chest is shaved and surgically prepped from the 3rd to the 7th ribs"
   }
 ]

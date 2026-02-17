@@ -814,5 +814,9 @@
   {
     "title": "Chelonian anesthesia",
     "detail": "• Ketamine, tiletamine, propofol can be used (propofol most common)\n• Iso isn’t used bc they can go without breathing for long periods of time"
+  },
+  {
+    "title": "Drug metabolism, clearance, and excretion",
+    "detail": "• Liver handles metabolism and clearance of most anesthetic drugs\n• Kidneys primarily handle excretion of drugs\n• Lungs play a role in clearance for drugs such as inhalants and propofol"
   }
 ]
