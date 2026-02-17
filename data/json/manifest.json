@@ -1,335 +1,125 @@
 {
-  "generated_at": "2026-02-17T20:30:13.172471+00:00",
+  "generated_at": "2026-02-17T20:35:34.170253+00:00",
   "files": [
-    {
-      "path": "Anesthesia Flashcards.json",
-      "type": "json",
-      "source_docx": "Anesthesia Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.787800+00:00"
-    },
-    {
-      "path": "Anesthesia Flashcards_Image01.png",
-      "type": "image",
-      "source_docx": "Anesthesia Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.787800+00:00"
-    },
-    {
-      "path": "Anesthesia Flashcards_Image02.png",
-      "type": "image",
-      "source_docx": "Anesthesia Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.787800+00:00"
-    },
-    {
-      "path": "Anesthesia Flashcards_Image03.png",
-      "type": "image",
-      "source_docx": "Anesthesia Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.787800+00:00"
-    },
-    {
-      "path": "Anesthesia Flashcards_Image04.png",
-      "type": "image",
-      "source_docx": "Anesthesia Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.787800+00:00"
-    },
-    {
-      "path": "Anesthesia Flashcards_Image05.png",
-      "type": "image",
-      "source_docx": "Anesthesia Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.787800+00:00"
-    },
-    {
-      "path": "Anesthesia Flashcards_Image06.png",
-      "type": "image",
-      "source_docx": "Anesthesia Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.787800+00:00"
-    },
     {
       "path": "Animal Care and Nursing Flashcards.json",
       "type": "json",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image01.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image02.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image03.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image04.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image05.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image06.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image07.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image08.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image09.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image10.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image11.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image12.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image13.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image14.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image15.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
       "path": "Animal Care and Nursing Flashcards_Image16.png",
       "type": "image",
       "source_docx": "Animal Care and Nursing Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.920238+00:00"
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
-      "path": "Exotics Flashcards.json",
-      "type": "json",
-      "source_docx": "Exotics Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:12.944235+00:00"
-    },
-    {
-      "path": "Pharmacology Flashcards.json",
-      "type": "json",
-      "source_docx": "Pharmacology Flashcards.docx",
-      "parsed_at": "2026-02-17T20:30:13.107482+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards.json",
-      "type": "json",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image01.png",
+      "path": "Animal Care and Nursing Flashcards_Image17.png",
       "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
+      "source_docx": "Animal Care and Nursing Flashcards.docx",
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
-      "path": "Surgical Nursing Flaschards_Image02.png",
+      "path": "Animal Care and Nursing Flashcards_Image18.png",
       "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
+      "source_docx": "Animal Care and Nursing Flashcards.docx",
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     },
     {
-      "path": "Surgical Nursing Flaschards_Image03.png",
+      "path": "Animal Care and Nursing Flashcards_Image19.png",
       "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image04.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image05.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image06.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image07.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image08.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image09.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image10.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image11.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image12.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image13.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image14.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image15.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image16.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image17.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image18.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image19.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image20.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image21.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image22.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image23.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image24.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image25.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image26.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image27.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
-    },
-    {
-      "path": "Surgical Nursing Flaschards_Image28.png",
-      "type": "image",
-      "source_docx": "Surgical Nursing Flaschards.docx",
-      "parsed_at": "2026-02-17T20:30:13.172456+00:00"
+      "source_docx": "Animal Care and Nursing Flashcards.docx",
+      "parsed_at": "2026-02-17T20:35:34.170057+00:00"
     }
   ]
 }

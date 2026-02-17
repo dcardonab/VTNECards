@@ -4,6 +4,14 @@
     "detail": "• Long bones: Primarily grow thru lengthening of the diaphysis (shaft), which has two rounded ends (epiphyses) and a marrow/medullar cavity (e.g. radius, femur)\n• Short bones: No medullar cavity (e.g. carpal)\n• Flat bones: Thin horizontal bones formed from two layers of compact bone w a middle layer of cancellous bone (e.g. skull bones, pelvis, ribs, scapula)\n• Pneumatic bones: Have an air-filed cavity (e.g. sinuses)\n• Sesamoid bones: Small, short bones of an irregular spherical or sesame seed like shape that alleviate some of the stress caused by friction on joints or tendons (e.g. patella)\n• Irregular bones: Irregular shapes (e.g. hip bones, vertebrae)"
   },
   {
+    "title": "Diaphysis",
+    "detail": "• Shaft of the bone"
+  },
+  {
+    "title": "Epiphysis",
+    "detail": "• Round end of the bone"
+  },
+  {
     "title": "Classification of bone tissue",
     "detail": "• Compact bones: Provides structural strength, allows movement and weight bearing; composed of tightly grouped osteons (aka haversian systems)\n• Each osteon is comprised of a solid matrix of osseous lamellae surrounding a central canal containing blood vessels that nurture the bone\n• Osteocytes are bw the lamellar rings inside lacunae\n• Canaliculi (channels) extend from lacunae to the haversian canal—nutrition is brought in thru the canaliculi and was is removed out\n• Cancellous/spongy/trabecular bones: Protects bone marrow and provides internal structural support; found inside and at the end of rounded ends of long bones, pelvis, and breast bones\n• Honeycomb appearance w trabeculae (the bony ridges w/in honeycomb), which provides support against strength and can change shape as result of it; trabecular spaces filled w red marrow where blood is produced\n• Trabeculae is made up of bone or collagen (a connective tissue made up of fibrous proteins)\n• Nutrition received not thru haversian systems but thru canaliculi"
   },
@@ -13,7 +21,7 @@
   },
   {
     "title": "Periosteum Endosteum",
-    "detail": "• Periosteum: Membrane that covers the outer surface of bones except for their articular or joint surfaces\n• Endosteum: Lines the hollow interior surfaces bones; contains osteoblasts"
+    "detail": "• Periosteum: Membrane that covers the outer surface of bones except for their articular or joint surfaces\n• Rich in blood vessels and nerves\n• Important for bone healing\n• Pain-sensitive (fractures hurt partly because of this)\n• Endosteum: Lines the hollow interior surfaces bones; contains osteoblasts"
   },
   {
     "title": "Peritoneal Retroperitoneal",
@@ -28,8 +36,16 @@
     "detail": "• Connective tissue that forms the bone marrow within long bones\n• Also responsible for formation of blood"
   },
   {
+    "title": "Insulin vs. glucagon",
+    "detail": "• Insulin lowers blood glucose\n• Glucagon raises blood glucose\n• Both produced by the pancreas\n• Alpha cells → Add glucose to blood (produce glucagon)\n• Beta cells → Bring glucose down (produce insulin)"
+  },
+  {
     "title": "Gluco- vs. Glycogenesis",
-    "detail": "• Glycogenesis: Process of glucose absorbed from the GI tract stored in the liver as glycogen\n• Gluconeogenesis: Process of glucose being made in the liver from amino acids\n• Ketosis: Depleted amount of glycogen in the liver; a metabolic disorder common in dairy cows during early lactation, caused by an energy deficit that forces the body to break down fat, producing toxic ketone bodies"
+    "detail": "• Glycogenesis: Process of glucose absorbed from the GI tract stored in the liver as glycogen\n• Gluconeogenesis: Process of glucose being made in the liver from amino acids"
+  },
+  {
+    "title": "Ketosis",
+    "detail": "• Depletion of glycogen in the liver\n• A metabolic disorder caused by an energy deficit that forces the body to break down fat, producing toxic ketone bodies\n• Common in dairy cows during early lactation"
   },
   {
     "title": "Fatty acid synthesis",
@@ -97,11 +113,11 @@
   },
   {
     "title": "Hepatic portal vein",
-    "detail": "• The vein that drains blood from the stomach, intestine, and pancreas and flows directly to the liver\n• Takes blood straight from the digestive tract to the liver so that the product of digestion can be processed immediately\n• Liver also receives blood from the hepatic artery (branch of celiac artery)\n• Both veins go into the liver at the “triads”"
+    "detail": "• The vein that drains blood from the stomach, intestine, and pancreas and flows directly to the liver\n• Takes blood straight from the digestive tract to the liver so that the products of digestion can be processed immediately\n• Liver also receives blood from the hepatic artery (branch of celiac artery)\n• Both veins go into the liver at the “triads”"
   },
   {
     "title": "Vena cavas",
-    "detail": "[[image:Animal Care and Nursing Flashcards_Image11.png]]"
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image12.png]]"
   },
   {
     "title": "Blood pressure",
@@ -113,7 +129,7 @@
   },
   {
     "title": "Seminiferous tubules",
-    "detail": "• Site of sperm cell (spermatozoa) production (i.e. spermatogenesis)\n• Spermatozoa is later stored and mature in the epididymis, a flat ribbon-like structure that lies along the surface of the testes, connecting the efferent ducts of the testes with the vas deferens\n• Sperm cells travel through the vas deferens (ductus deferens), a tube-like structure that connects the tail of the epididymis with the pelvic portion of the urethra (VD propels spermatozoa and fluid from the epididymis to the urethra)\n+ Seminal vesicles are a pair of smooth-surfaced, pear-shaped glands located on either size of the bladder and considered an accessory gland for production of seminal fluid; dogs and cats do not have them"
+    "detail": "• Site of sperm cell (spermatozoa) production (i.e. spermatogenesis)\n• Spermatozoa are later stored and mature in the epididymis, a flat ribbon-like structure that lies along the surface of the testes, connecting the efferent ducts of the testes with the vas deferens\n• Sperm cells travel through the vas deferens (ductus deferens), a tube-like structure that connects the tail of the epididymis with the pelvic portion of the urethra (VD propels spermatozoa and fluid from the epididymis to the urethra)\n+ Seminal vesicles are a pair of smooth-surfaced, pear-shaped glands located on either size of the bladder and considered an accessory gland for production of seminal fluid; dogs and cats do not have them"
   },
   {
     "title": "Leukocytosis",
@@ -157,6 +173,10 @@
   },
   {
     "title": "Synovial joints",
+    "detail": "• Also called diarthrodial joints\n• Freely movable joints in which articulating bone surfaces are enclosed w/in a fluid-filled joint capsule and separated by a synovial cavity"
+  },
+  {
+    "title": "Types of synovial joints",
     "detail": "• Hinge (ginglymus) joints: One joint surface swivels around another; only flexion and extension possible (e.g. elbow)\n• Gliding (arthrodial) joints: Rocking; mainly flexion and extension (for most 4-legged animals), but also some abduction and adduction too (e.g. carpus)\n• Pivot (trochoid) joints: One bone rotates around the other; only movement is rotation—only atlantoaxial joint b/w 1st and 2nd cervical vertebrae\n• Ball and socket (spheroidal) joints: Most extensive movement (flexion, extension, abduction, adduction, rotation, circumduction) (e.g. shoulder and hip)"
   },
   {
@@ -241,7 +261,7 @@
   },
   {
     "title": "Senses",
-    "detail": "• Proprioception is part of the general senses; senses body position and movement\n• Taste, hearing, equilibrium, smell, and vision are special senses"
+    "detail": "• General senses: Widely distributed receptors throughout the body; include touch, pain (nociception), temperature, proprioception (position and movement), vibration\n• Special senses: Localized to specific organs in the head; vision, hearing, equilibrium (balance), taste, smell\n• Cranial nerves ass w/ senses:\nSmell—CN I (Olfactory)\nVision—CN II (Optic)\nHearing—CN VIII (Vestibulocochlear)\nEquilibrium—CN VIII\nTaste—CN VII (facial), IX (glossopharyngeal), X (vagus)"
   },
   {
     "title": "Chyle",
@@ -249,7 +269,7 @@
   },
   {
     "title": "Parts of the ear",
-    "detail": "• Outer ear: Pinna, Auditory canal, tympanic membrane\n• Middle ear: Ossicles (malleus, incus, stapes or hammer, anvil, stirrup)\n• Inner ear: Cochlea, semicircular canals\n• Liquid in inner ear helps w balance"
+    "detail": "• Outer ear: Pinna, auditory canal, tympanic membrane\n• Middle ear: Ossicles (malleus, incus, stapes or hammer, anvil, stirrup)\n• Inner ear: Cochlea, semicircular canals\n• Liquid in inner ear helps w balance"
   },
   {
     "title": "Sound",
@@ -284,35 +304,35 @@
     "detail": "• Includes all lumps, bumps, and other projections on a bone\n• Condyles are on the distal end of the humerus and femur and on the occipital bone of the skull\n• Heads are found on the proximal ends of humerus, femur, and ribs\n• Tuberosity is a rough projection on a bone (e.g. maxillary tuberosity)\n• Greater trochanter is a process on the lateral part of the proximal extremity of femur\n• Wing is a transverse process on the first cervical vertebrae"
   },
   {
-    "title": "[[image:Animal Care and Nursing Flashcards_Image09.png]]",
-    "detail": "[[image:Animal Care and Nursing Flashcards_Image04.png]]"
+    "title": "[[image:Animal Care and Nursing Flashcards_Image10.png]]",
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image05.png]]"
   },
   {
     "title": "[[image:Animal Care and Nursing Flashcards_Image01.png]]",
-    "detail": "[[image:Animal Care and Nursing Flashcards_Image15.png]]"
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image17.png]]"
   },
   {
-    "title": "[[image:Animal Care and Nursing Flashcards_Image13.png]]",
+    "title": "[[image:Animal Care and Nursing Flashcards_Image15.png]]",
     "detail": "• Equine hoof is divided into wall, sole, and frog\n• Wall: Convex, external portion divided into toe, quarters, and heels\n• Sole: Plantar surface; thin strip called white line is formed at the junction of sole and hoof wall\n• Frog: Insensitive; triangular and horny structure w point/apex facing the toe and a centraldepression known as central sulcus or cleft"
   },
   {
     "title": "Anatomical planes",
-    "detail": "[[image:Animal Care and Nursing Flashcards_Image10.png]]"
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image11.png]]"
   },
   {
     "title": "Anatomical planes (Planes of reference)",
-    "detail": "• Dorsal plane: Divides body into upper and lower halves (dorsal and ventral portions) (think as if animal is standing in water)\n• Sagittal plane: Runs the length of the body and divides it into left and right parts that aren’t necessarily equal\n• Median plane: A special kind of sagittal plane that divides the body longitudinally into symmetrical left and right halves\n• Transverse planes: Divides body into cranial and caudal portions or distal and proximal portions that aren’t necessarily equal"
+    "detail": "• Dorsal plane: Divides body into upper and lower halves (dorsal and ventral portions) (think as if animal is standing in water)\n• Sagittal plane: Runs the length of the body and divides it into left and right parts that aren’t necessarily equal\n• Median plane: A special kind of sagittal plane that divides the body longitudinally into symmetrical left and right halves\n• Transverse plane: Divides body into cranial and caudal portions or distal and proximal portions that aren’t necessarily equal"
   },
   {
     "title": "",
-    "detail": "[[image:Animal Care and Nursing Flashcards_Image05.png]]"
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image06.png]]"
   },
   {
     "title": "Skull bones (external bones of the cranium) [[image:Animal Care and Nursing Flashcards_Image02.png]]",
     "detail": "• Interparietal bones (2): Located on the dorsal midline b/w occipital bone and the parietal bones; visible in young animals, fuse together to parietal bones when older\n• Occipital bone: Forms the caudoventral portion (base) of the skull where spinal cord exits and skull articulates w the first cervical vertebra; most caudal skull bone\n• Parietal bones (2): Form the dorsolateral walls; relatively small in horses and cattle\n• Temporal bones (2): Below/ventral to parietal bones; form lateral walls of the cranium, contain the middle and inner ear structures, and form the TMJs with the mandible\n• Frontal bones: Form the forehead/rostrolateral portion; contains the the paranasal sinus, frontal sinus"
   },
   {
-    "title": "External (landmark) bones of the face [[image:Animal Care and Nursing Flashcards_Image16.png]]",
+    "title": "External (landmark) bones of the face [[image:Animal Care and Nursing Flashcards_Image18.png]]",
     "detail": "• Incisive (premaxillary) bones (2): Most rostral skull bones; house the upper incisors if animal has them\n• Nasal bones (2): Form the bridge of the nose; size depends on breed/species (e.g. whether brachy- or dolichocephalic)\n• Maxillary bones (2): Make up the upper jaw along w incisive bones; house upper canines, cheek teeth, and maxillary sinuses; form the hard palate along w palatine bones (roof of the mouth)\n• Lacrimal bones (2): Form part of the medial portion of eye’s orbit; houses lacrimal sac\n• Zygomatic (malar) bones (2): Form part of the orbit\n• Mandible: Lower jaw; only movable part of the skull; made up of 2 bones joined by a cartilaginous joint (mandibular symphysis) in dogs, cats, and cattle"
   },
   {
@@ -325,7 +345,7 @@
   },
   {
     "title": "Pleural space",
-    "detail": "• Space between visceral and parietal pleura"
+    "detail": "• Space between visceral and parietal pleura\n[[image:Animal Care and Nursing Flashcards_Image13.png]]"
   },
   {
     "title": "Synthesis reaction",
@@ -341,7 +361,7 @@
   },
   {
     "title": "Eye",
-    "detail": "[[image:Animal Care and Nursing Flashcards_Image12.png]]"
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image08.png]]"
   },
   {
     "title": "Tear production and draining",
@@ -408,16 +428,16 @@
     "detail": "• Space between the incisors and the cheek teeth (premolars) in rabbits, between the canine teeth and the first premolar of a horse"
   },
   {
-    "title": "[[image:Animal Care and Nursing Flashcards_Image06.png]]",
+    "title": "[[image:Animal Care and Nursing Flashcards_Image03.png]]",
     "detail": "• Interventricular septum: Stout wall separating the left and right ventricles; continuation of the atrioventricular septum\n• Interventricular groove (sulcus): The area of the interventricular septum visible on the outside of the heart; contains coronary blood vessels, filled w fat\n• Interatrial septum: Continuation of the myocardium that separates the right and left atria\n• Auricles: The flaps that lie on top of the heart on the outside of the atria (part of the atria)\n• AV valves: Located bw atria and ventricles; 3 cusps on the right (tricuspid valve), 2 cusps on the left (bicuspid valve)\n• Semilunar valves: Control blood flow out of the ventricles into arteries; right is pulmonary valve, left is aortic valve"
   },
   {
     "title": "Myocardium",
-    "detail": "• Middle and thickest layer of the heart wall; made up of cardiac muscle (epicardium/visceral is the outer layer, endocardium is the inner membrane\n• Ventricle walls (myocardium) are thicker than atrial walls because atria only needs to contract enough to push blood into ventricles but ventricles need to send it everywhere"
+    "detail": "• Middle and thickest layer of the heart wall; made up of cardiac muscle (epicardium/visceral is the outer layer, endocardium is the inner membrane)\n• Ventricle walls (myocardium) are thicker than atrial walls because atria only needs to contract enough to push blood into ventricles but ventricles need to send it everywhere"
   },
   {
     "title": "Skeleton",
-    "detail": "• Axial skeleton (bones of the head and trunk)\n• Appendicular skeleton (bones of the limbs)\n• Visceral skeleton\n[[image:Animal Care and Nursing Flashcards_Image03.png]]"
+    "detail": "• Axial skeleton (bones of the head and trunk)\n• Appendicular skeleton (bones of the limbs)\n• Visceral skeleton (portion of the skull that forms the bones of the face and jaws; also soft organ bones)\n[[image:Animal Care and Nursing Flashcards_Image16.png]]"
   },
   {
     "title": "Appendicular skeleton",
@@ -457,7 +477,7 @@
   },
   {
     "title": "CNS",
-    "detail": "• Brain and spinal cord\n• Also includes gray matter (neurons) and white matter (myelinated nerve fibers)\n[[image:Animal Care and Nursing Flashcards_Image14.png]]"
+    "detail": "• Brain and spinal cord\n• Also includes gray matter (neurons) and white matter (myelinated nerve fibers)\n[[image:Animal Care and Nursing Flashcards_Image09.png]]"
   },
   {
     "title": "Glial cells (neuroglia)",
@@ -497,7 +517,7 @@
   },
   {
     "title": "Estrous cycle intervals",
-    "detail": "• Polyestrous: Cycle continuously throughout the year with a new cycle starting immediately after another ends unless the animal is pregnant (e.g. cattle, swine)\n• Seasonally polyestrous: Cycle is continuous through specific times of the year (e.g. horses, sheep, cats)\n• Diestrous: Two cycles per year (e.g. dogs)\n• Monoestrous: One cycle a year (e.g. foxes, mink)"
+    "detail": "• Polyestrous: Cycles continuously throughout the year with a new cycle starting immediately after another ends unless the animal is pregnant (e.g. cattle, swine)\n• Seasonally polyestrous: Cycle is continuous through specific times of the year (e.g. horses, sheep, cats)\n• Diestrous: Two cycles per year (e.g. dogs)\n• Monoestrous: One cycle a year (e.g. foxes, mink)"
   },
   {
     "title": "Gizzard",
@@ -524,7 +544,7 @@
     "detail": "• Cardiac cycle: One cycle of atrial and ventricular contraction and relaxation; produces one heartbeat\n• Structures of the primary cardiac conduction system are:\n• SA node: Impulse comes from the sinoatrial node in the right atrium; called pacemaker\n• AV node: Next stop; causes contraction w minor delay so that atria can contract before ventricles so ventricles can fill; located in the atrioventricular septum\n• Bundle of His: Fibers of boH travel down the septum to the apex, delivering impulse\n• Purkinje fiber system: Carries impulse up into left and right ventricular myocardium; located in the septum (wall)\n• Impulse from SA node leads to depolarization, which causes the myocardium to contract (repolarization causes it to relax)"
   },
   {
-    "title": "Electrocardiogram [[image:Animal Care and Nursing Flashcards_Image08.png]]",
+    "title": "Electrocardiogram [[image:Animal Care and Nursing Flashcards_Image04.png]]",
     "detail": "• P wave: Time it takes the wave of depolarization (contractions) to travel from SA node to the atria; corresponds to the mechanical activity of atrial contractions\n• QRS complex: Time of ventricular depolarization (contraction); corresponds to the mechanical activity of ventricular contraction; composed of 3 waves:\n• Q wave corresponds to depolarization of the interventricular septum\n• R wave corresponds to depolarization of the main mass of ventricles (so it’s the largest)\n• S wave corresponds to final part of depolarization of the ventricles at the base of the heart\n• T wave: Time of ventricular repolarization (relaxation); corresponds to the time taken by ventricles to get ready for the next contraction by filling with blood from the atria"
   },
   {
@@ -537,7 +557,7 @@
   },
   {
     "title": "Waste-product removal",
-    "detail": "• Urinary system is the most important route of waste-product removal—it removes nearly all the soluble waste products from blood and transports them out of the body, and it is the major route of elimination of excess water\n• Digestive system removes waste products through stools but it is not the most important removal system\n• Respiratory system removes carbon dioxide, but is not considered a waste-product removal system"
+    "detail": "• Urinary system is the most important route of waste-product removal—it removes nearly all the soluble waste products from blood and transports them out of the body, and it is the major route of elimination of excess water\n• Digestive system removes waste products through stool but it is not the most important removal system\n• Respiratory system removes carbon dioxide, but is not considered a waste-product removal system"
   },
   {
     "title": "RNA",
@@ -553,7 +573,7 @@
   },
   {
     "title": "Common tumor types",
-    "detail": "• Lymphoma: Cancer of the immune system cells; common presentation is enlarged lymph nodes in middle aged dogs, and subacute to chronic weight loss 12-14 yo cats\n• Mast cell tumor: Most common malignant skin tumor of dogs; commonly on the face in cats\n• Osteosarcoma: Occurs most commonly in middle-aged large dogs and primarily affects bones of the appendicular skeleton, usually presenting w lameness\n• Oral tumors: Most common oral tumor is melanoma in dogs and squamous Cell Carcinoma (SCC) in cats, usually under the tongue\n• Hemangiosarcoma: Occurs most commonly in middle/old-aged large dogs, mostly in the heart, liver, and spleen, causing acute collapse and abdominal swelling (ER cases)"
+    "detail": "• Lymphoma: Cancer of the immune system cells; common presentation is enlarged lymph nodes in middle aged dogs, and subacute to chronic weight loss 12-14 yo cats\n• Mast cell tumor: Most common malignant skin tumor of dogs; commonly on the face in cats\n• Osteosarcoma: Occurs most commonly in middle-aged large dogs and primarily affects bones of the appendicular skeleton, usually presenting w lameness\n• Oral tumors: Most common oral tumor is melanoma in dogs and squamous cell carcinoma in cats, usually under the tongue\n• Hemangiosarcoma: Occurs most commonly in middle/old-aged large dogs, mostly in the heart, liver, and spleen, causing acute collapse and abdominal swelling (ER cases)"
   },
   {
     "title": "Dysphagia Aphagia Polyphagia",
@@ -576,11 +596,11 @@
     "detail": "• Growth or formation; used to describe cellular multiplication and development (e.g. hyperplasia is an increase in the number of cells, amyoplasia is lack of muscle formation or development)"
   },
   {
-    "title": "-sarc",
+    "title": "Sarc-",
     "detail": "• Flesh"
   },
   {
-    "title": "-lapar",
+    "title": "Lapar-",
     "detail": "• Flank"
   },
   {
@@ -593,7 +613,7 @@
   },
   {
     "title": "Excoriation",
-    "detail": "• Erosion or ulceration caused by scratching, biting or rubbing\n• Erosion: Shallow epidermal defect that does not penetrate basal laminar zone\n• Ulcer: break in continuity of epidermis w exposure of underlying dermis"
+    "detail": "• Erosion or ulceration caused by scratching, biting or rubbing\n• Erosion: Shallow epidermal defect that does not penetrate basal laminar zone\n• Ulcer: Break in continuity of epidermis w exposure of underlying dermis"
   },
   {
     "title": "Micturition",
@@ -617,15 +637,15 @@
   },
   {
     "title": "Hypercapnia Hypoxemia Hypoxia",
-    "detail": "• Hypercapnia: Increased amount of carbon dioxide in the blood\n• Hypoxemia: Low blood-oxygen levels\n• Hypoxia: Low tissue-oxygen levels"
+    "detail": "• Hypercapnia: Increased amount of carbon dioxide in the blood\n• Normal PaCO₂ is ~35–45 mmHg in dogs and cats; hypercapnia is >45 mmHg\n• Hypoxemia: Low blood-oxygen levels\n• Hypoxia: Low tissue-oxygen levels"
   },
   {
     "title": "Refeeding syndrome",
-    "detail": "• A condition that may occur following the reintroduction of nutrition after prolonged starvation\n• When nutrition is reintroduced via oral, enteral or parenteral feeding, animals can exhibit fluid and electrolyte shifts\n• Hypokalemia is the most commonly detected electrolyte disturbance when providing nutritional support to a patient suffering from refeeding syndrome; glucose is absorbed, insulin is secreted, and cells along with glucose take up potassium\n• Hypomagnesemia is more commonly seen in starvation patients"
+    "detail": "• A condition that may occur following the reintroduction of nutrition after prolonged starvation\n• When nutrition is reintroduced via oral, enteral or parenteral feeding, animals can exhibit fluid and electrolyte shifts\n• Hypokalemia is the most commonly detected electrolyte disturbance when providing nutritional support to a patient suffering from refeeding syndrome; glucose is absorbed, insulin is secreted, and cells take up potassium along w glucose\n• Leads to generalized muscle weakness\n• Hypomagnesemia is more commonly seen in starvation patients"
   },
   {
     "title": "Elimination of oral medications",
-    "detail": "• Orally administered drugs travel through the GI tract and most are absorbed in the small intestine\n• After absorption across the intestinal wall, they enter the hepatic portal circulation and are routed directly to the liver\n• Liver removes potentially toxic substances before they reach the systemic blood circulation, meaning drugs may be partially or completely broken down because of this mechanism (first-pass effect)\n• Small intestine is after the stomach, so drugs do not enter the stomach\n• Some drugs may be eliminated in the urine or feces, but liver is more common"
+    "detail": "• Orally administered drugs travel through the GI tract and most are absorbed in the small intestine (not from the stomach)\n• After absorption across the intestinal wall, they enter the hepatic portal circulation and are routed directly to the liver\n• Liver removes potentially toxic substances before they reach the systemic blood circulation, meaning drugs may be partially or completely broken down because of this mechanism (first-pass effect)\n• Liver metabolizes drugs, kidney eliminates them—some drugs are eliminated in bile (feces) or by lungs, but most are eliminated in urine via the kidneys"
   },
   {
     "title": "Taurine",
@@ -701,7 +721,7 @@
   },
   {
     "title": "Vitamins",
-    "detail": "• Function as enzymes, coenzymes, and enzyme precursors\n• Can be water-soluble or fat-soluble—B complex and C are water-soluble and not stored in the body, A-D-E-K are fat-soluble and stored in fat or liver, so excess may be toxic\n• Levels of vitamin E and other antioxidant nutrients (Vitamins A, C, and beta carotene) given to pets should be appropriate to the levels of polyunsaturated fatty acids, trace minerals, and oxidants in the food\n• Vitamin C is the only vitamin that can be synthesized from glucose by dogs and cats\n• Dogs and cats must receive vitamins A, B6, and K in their diets, cats require niacin (B3) as well\n• Vit D deficiency rickets (weak bones); Vit A or E deficiency causes reproductive failure; vit K deficiency causes increased clotting time"
+    "detail": "• Function as enzymes, coenzymes, and enzyme precursors\n• Can be water-soluble or fat-soluble—B complex and C are water-soluble and not stored in the body, A-D-E-K are fat-soluble and stored in fat or liver, so excess may be toxic\n• Levels of vitamin E and other antioxidant nutrients (Vitamins A, C, and beta carotene) given to pets should be appropriate to the levels of polyunsaturated fatty acids, trace minerals, and oxidants in the food\n• Vitamin C is the only vitamin that can be synthesized from glucose by dogs and cats\n• Dogs and cats must receive vitamins A, B6, and K in their diets, cats require niacin (B3) as well\n• Vit D deficiency causes rickets (weak bones); Vit A or E deficiency causes reproductive failure; vit K deficiency causes increased clotting time"
   },
   {
     "title": "Hormones of the pituitary gland-anterior lobe Corticotropin (adrenocorticotropic hormone): Stimulates production and secretion of hormones by the adrenal cortex Growth hormone (somatotropin): Promotes growth, influences the metabolism of proteins, carbohydrates, and lipids Follicle-stimulating hormone: Stimulates growth of follicles in the ovaries, induces formation of sperm in the testes Luteinizing hormone: Stimulates ovulation and development of the corpus luteum, as well as production of testosterone by the testes Prolactin: Stimulates the mammary glands to produce and secrete milk Thyroid-stimulating hormone: Stimulates the production and secretion of thyroid hormones by the thyroid gland",
@@ -721,7 +741,7 @@
   },
   {
     "title": "Semen collection",
-    "detail": "• First (pre-sperm) fraction comes out before ejaculation of sperm; contains a thing fluid that cleanses the urethra\n• Second fraction is sperm-rich and milky; contains spermatozoa\n• Third (gel) fraction helps flush out remaining sperm in the urethra; gelatinous"
+    "detail": "• First (pre-sperm) fraction comes out before ejaculation of sperm; contains a thin fluid that cleanses the urethra\n• Second fraction is sperm-rich and milky; contains spermatozoa\n• Third (gel) fraction helps flush out remaining sperm in the urethra; gelatinous"
   },
   {
     "title": "Stomach, small intestines, and colon",
@@ -730,6 +750,10 @@
   {
     "title": "Intestines",
     "detail": "Small intestine: Major site of digestion and absorption; produces digestive enzymes; divided into 3 regions: duodenum, jejunum, ileum\n• Duodenum is the shortest segment; gallbladder and pancreas attach to it (digestive enzymes produced by the pancreas and liver pass through the pancreas to mix w food in the duodenum)\n• Jejunum is the longest portion, where most nutrient absorption occurs through the villi (tiny fingerlike projections)\n• Ileum is also short, leads to the cecum\nLarge intestine: Absorbs water to maintain hydration and some electrolytes (esp sodium), stores waste for defecation; divided into ascending colon, transverse colon, descending colon\n• Begins at the ileocecocolic valve, continues as the cecum, ascending, transverse, and descending colon, rectum, and anus\n• Has no villi, circular folds, or secreted enzymes (unlike small intestine); large number of goblet cells secrete mucus\n• Absorbs vitamins B-K, propels waste toward rectum"
+  },
+  {
+    "title": "[[image:Animal Care and Nursing Flashcards_Image19.png]]",
+    "detail": "[[image:Animal Care and Nursing Flashcards_Image14.png]]"
   },
   {
     "title": "Diarrhea",
@@ -797,7 +821,7 @@
   },
   {
     "title": "Distributive shock",
-    "detail": "• Results from maldistribution of blood flow, from inappropriate vasodilation leading to blood pooling\n• Seen w anaphylaxis, sepsis, hear stroke, envenomation\n• Signs include weak or bounding pulses, pink MM\n• Fluid therapy needed; vasopressors used to restore normal vascular tone"
+    "detail": "• Results from maldistribution of blood flow, from inappropriate vasodilation leading to blood pooling\n• Seen w anaphylaxis, sepsis, heat stroke, envenomation\n• Signs include weak or bounding pulses, pink MM\n• Fluid therapy needed; vasopressors used to restore normal vascular tone"
   },
   {
     "title": "Obstructive shock",
@@ -812,6 +836,14 @@
     "detail": "• Occurs after severe infections like pneumonia, parvovirus, gastric or intestinal perforation, infected bite wound, or due to tissue damage resulting from heat stroke or pancreatitis\n• Inflammatory response to sepsis causes increased vasodilation, so bright red MM and bounding pulses are common, fever common\n• Hypotension worsens as shock progresses, pale and weaker impulses take over\n• Hypoglycemia occurs because inflammatory mediators, hypotension, and hypovolemia combine to cause a decreased intake, decreased production, and increased use of glucose\n• Treated by treating source of infection, w fluid therapy, and broad-spectrum antibiotics"
   },
   {
+    "title": "Hypovolemic shock: Loss of blood or fluids causes decreased circulating volume and cardiac output; treated w rapid IV crystalloids Septic shock: Systemic infection triggers inflammatory vasodilation and poor perfusion; treated w IV fluids, broad-spectrum antibiotics, and vasopressors Anaphylactic shock: Acute hypersensitivity reaction leads to massive vasodilation and airway compromise; treated w epinephrine, IV fluids, oxygen Neurogenic shock: Loss of sympathetic tone (usually from spinal injury) causes hypotension and bradycardia; treated w IV fluids and atropine",
+    "detail": "• Cardiogenic shock: Heart pump failure leads to inadequate cardiac output and hypotension; treated w oxygen and inotropes; avoid aggressive fluid therapy\n• Obstructive shock: Physical obstruction to blood flow (e.g., GDV, pericardial effusion) reduces cardiac output; treated by relieving obstruction and providing supportive care\n• Hypoxemic shock: Severe respiratory compromise results in inadequate oxygen delivery to tissues; treated w oxygen therapy and correction of underlying cause"
+  },
+  {
+    "title": "Shock signs",
+    "detail": ""
+  },
+  {
     "title": "Bacteria vs. Virus",
     "detail": "• Bacteria living, single-celled organisms that can reproduce on their own\n• Viruses are non-living particles made of genetic material that need a host cell to replicate"
   },
@@ -824,7 +856,7 @@
     "detail": "• Spread of a disease from mother to offspring before or after parturition, either transplacentally or through breastmilk"
   },
   {
-    "title": "",
+    "title": "Disease transmission, origination",
     "detail": "• Endemic: A disease that is constantly present in a particular geographic area or population group, existing at a predictable or baseline level\n• Nosocomial: Originating in a hospital\n• Iatrogenic: Disease resulting from the activity of the veterinarian, or from any adverse condition in a patient that results from treatment"
   },
   {
@@ -856,16 +888,12 @@
     "detail": "• Open wound: Injury that has an external break in the tissue\n• Abrasion: Open wound w a loss of the epidermis plus some of the dermis\n• Avulsion: Open wound that is a result of the tissues being torn from their attachments\n• Incision: Open wound caused by a sharp tool (surgery)\n• Laceration: Open wound caused by tearing, which creates superficial and deeper tissue damage\n• Puncture: Open wound created by a sharp object (tooth); high risk of infection and severe tissue damage\n• Closed wound: Injury resulting from damage beneath the skin’s surface\n• Contusions/blunt force trauma: Close wound that damages (but doesn’t break) the skin and the tissue underneath\n• Crushing injuries: Close wounds caused by excess force over a time"
   },
   {
-    "title": "Wound healing",
-    "detail": "• Inflammatory phase: Initial phase following injury; ass. w appearance of scabs (formed from blood, serum, pus) that protect the wound\n• Debridement phase: Starts 6 hours after injury; neutrophils and monocytes remove foreign material, bacteria, necrotic tissue\n• Repair phase: Starts 3-5 days after, if foreign material has been extracted\n• Maturation phase: Can take up to years; complete wound recovery is achieved by refashioning collagen fibers and other fibrous tissue; includes scar lightening\n• Multiple phases can operate simultaneously"
+    "title": "Phases of wound healing",
+    "detail": "• Inflammatory phase (0–3 days): Hemostasis (vasoconstriction and clot formation); platelets release growth factors, macrophages clean debris and bacteria (debridement phase); edema, heat, redness, pain\n• Proliferative phase (3–21 days): Fibroblasts lay down collagen (type III first); granulation tissue forms, angiogenesis (new capillaries), wound contraction (myofibroblasts), and epithelialization—purpose is to fill the wound and rebuild tissue\n• Maturation/remodeling phase (weeks–months): Collagen reorganizes, tensile strength increases, scar tissue forms\n• Multiple phases can operate simultaneously"
   },
   {
-    "title": "Wound repair",
-    "detail": "• First intention healing: Occurs in tissues where wound edges are held in close apposition to one another (e.g. sutured wounds, superficial scratches); little to no granulation tissue is formed, scarring is minimal\n• Second intention healing: Occurs in tissues where edges are separated and granulation tissue is needed to close the gap, resulting in scarring; epithelialization, fibrosis, and contraction are part of the healing process"
-  },
-  {
-    "title": "Tissue healing",
-    "detail": "• Inflammatory phase: Acute vascular response and cellular infiltration\n• Proliferative phase: Fibroblasts proliferate to repair damaged tissue; granulation occurs (aka reparative or fibroblastic phase)\n• Maturation phase: Collagen fibers form crosslinks to become stable"
+    "title": "Closing of wounds",
+    "detail": "• First intention healing (primary closure): Occurs in tissues where wound edges are held in close apposition to one another (e.g. sutured wounds, superficial scratches); little to no granulation tissue is formed, scarring is minimal\n• Second intention healing (secondary closure): Occurs in tissues where edges are separated and granulation tissue is needed to close the gap, resulting in scarring; epithelialization, fibrosis, and contraction are part of the healing process"
   },
   {
     "title": "Keloid",
@@ -897,19 +925,23 @@
   },
   {
     "title": "Routes of fluid administration",
-    "detail": "• SC: Warmed sterile isotonic fluids given SC useful when IV access is difficult, but absorption is very slow so should be avoided in severely dehydrated animals\n• IP: Warmed sterile hypotonic or isotonic fluids may be administered (aseptically) into the peritoneal cavity; more efficient than SC due to its absorptive capacity\n• IO: Administration of fluids into the medullary cavity of a long bone like the proximal femur or tibia; esp. useful in exotic species, neonates, and trauma patients where venous access compromised; absorption is as rapid as IV\n• IV: Sterile warmed fluids are administered into the cephalic or saphenous vein; most rapid and effective way, so good for severely dehydrated patients"
+    "detail": "• SC: Warmed sterile isotonic fluids; useful when IV access is difficult, but absorption is very slow so should be avoided in severely dehydrated animals\n• IP: Warmed sterile hypotonic or isotonic fluids may be administered (aseptically) into the peritoneal cavity; more efficient than SC due to its absorptive capacity\n• IO: Administration of fluids into the medullary cavity of a long bone like the proximal femur or tibia; esp. useful in exotic species, neonates, and trauma patients where venous access compromised; absorption is as rapid as IV\n• IV: Sterile warmed fluids are administered into the cephalic or saphenous vein; most rapid and effective way, so good for severely dehydrated patients"
   },
   {
     "title": "Crystalloids",
-    "detail": "• Good for rehydrating extravascular spaces since crystalloids can cross the vascular wall due to their small size\n• Also useful in correcting acid-base imbalances\n• Hypotonic (D5W, 0.45% sodium chloride, Normasol M, Plasmalyte 56)\n• D5W is oxidized to CO2 and H2O, providing free water; should be used in case of free-water deficit or hypernatremia, not for shock\n• Isotonic (Plasmalyte 148, Normasol R, LRS)\n• Plasma-Lyte 48 provides rapid intravascular volume expansion"
+    "detail": "• Good for rehydrating extravascular spaces since crystalloids can cross the vascular wall due to their small size\n• Also useful in correcting acid-base imbalances\n• Hypotonic (D5W, 0.45% sodium chloride, Normasol M, Plasmalyte 56)\n• D5W is oxidized to CO2 and H2O, providing free water; should be used in case of free-water deficit or hypernatremia, not for shock\n• Isotonic (Plasmalyte 148, Normasol R, LRS)\n• Plasma-Lyte 48 provides rapid intravascular volume expansion\n• Normal saline is 0.9% NaCl"
   },
   {
     "title": "Colloids",
-    "detail": "• Remain in the blood vessel due to larger size (unable to cross vascular wall), allowing them to improve BP by holding fluid in the intravascular space\n• May contain proteins like albumin or synthetic molecules like Hetastarch, making them suitable or patients w low plasma protein levels or in cardiovascular shock\n• Hypertonic saline (a hypertonic crystalloid) and Hetastarch (colloid) expand vascular volume; useful in patients that won’t tolerate a large volume of fluids (head trauma, heart failure)"
+    "detail": "• Remain in the blood vessel due to larger size (unable to cross vascular wall), allowing them to improve BP by holding fluid in the intravascular space\n• May contain proteins like albumin or synthetic molecules like Hetastarch, making them suitable for patients w low plasma protein levels or in cardiovascular shock\n• Hypertonic saline (a hypertonic crystalloid; commonly 7%–7.5% NaCl) and Hetastarch (colloid) expand vascular volume; useful in patients that won’t tolerate a large volume of fluids (head trauma, heart failure)"
   },
   {
     "title": "Osmolality",
-    "detail": "• Concentration of dissolved particles in a fluid\n• Normal osmolality of blood is bw 280 – 310 mOsms/L\n• Isotonic fluids have the same osmolality as blood\n• Hypotonic fluids have osmolality less than 280 mOsms/L\n• Hypertonic fluids have osmolality more than 310 mOsms/L\n• Peripheral catheters are used for fluids w osmolality of up to 600 mOsms/L; any higher can cause phlebitis"
+    "detail": "• Concentration of dissolved particles in a fluid\n• Normal osmolality of blood is bw 280 – 310 mOsms/L\n• Isotonic fluids have the same osmolality as blood\n• Hypotonic fluids have osmolality less than 280 mOsms/L\n• Hypertonic fluids have osmolality more than 310 mOsms/L\n• Peripheral catheters are used for fluids w osmolality of up to 600 mOsms/L; any higher can cause phlebitis\n• If Fluid A has higher osmolality than Fluid B, water moves from B → A (in order to dilute it)"
+  },
+  {
+    "title": "Osmolality vs. Osmolarity",
+    "detail": "• Osmolality: Number of osmotically active particles per kilogram of solvent (mOsm/kg)\n• Mass-based\n• Osmolarity: Number of osmotically active particles per liter of solution (mOsm/L)\n• Volume-based"
   },
   {
     "title": "Fluid replacement and maintenance volumes",
@@ -937,7 +969,7 @@
   },
   {
     "title": "Rx for controlled substances",
-    "detail": "• A prescription for a controlled substance must be written and dated in ink, in indelible pencil, or printed, and manually signed, and must include:\n• Patient’s (owner’s) full name and address\n• Practitioner’s full name and address\n• Practitioner’s DEA number\n• Drug name, drug strength, dosage form\n• Quantity prescribed\n• Directions for use\n• Number of refills authorized\n• Drug manufacturer info is not required"
+    "detail": "• A prescription for a controlled substance must be written and dated in ink, in indelible pencil, or printed, and manually signed, and must include:\n• Patient’s (owner’s) full name and address\n• Practitioner’s full name and address\n• Practitioner’s DEA number\n• Drug name, drug strength, dosage form\n• Quantity prescribed\n• Directions for use\n• Number of refills authorized"
   },
   {
     "title": "Sterilization",
@@ -949,7 +981,7 @@
   },
   {
     "title": "Heart murmur",
-    "detail": "• Abnormal sound caused by turbulent blood flow, typically sounds like swishing\n• Described by intensity, when they occur in the cardiac cycle (systolic-diastolic-continuous), and where they are heard the loudest (aka point of maximal intensity) (midsternum, left parasternum)\n• Intensity grading:\n• I: Very low intensity, murmur heard in quiet area\n• II: Murmur of soft intensity, can be heard immediately\n• III: Murmur of moderate intensity\n• IV: Loud murmur\n• V: Loud murmur w palpable thrill on body wall\n• VI: Loud murmur that can be heard w stethoscope help some distance from thoracic wall"
+    "detail": "• Abnormal sound caused by turbulent blood flow, typically sounds like swishing\n• Described by intensity, when they occur in the cardiac cycle (systolic-diastolic-continuous), and where they are heard the loudest (aka point of maximal intensity) (midsternum, left parasternum)\n• Intensity grading:\n• I: Very low intensity, murmur heard in quiet area\n• II: Murmur of soft intensity, can be heard immediately\n• III: Murmur of moderate intensity\n• IV: Loud murmur\n• V: Loud murmur w palpable thrill on body wall\n• VI: Loud murmur that can be heard w stethoscope held some distance from thoracic wall"
   },
   {
     "title": "pH",
@@ -1009,11 +1041,11 @@
   },
   {
     "title": "Food labeling terms",
-    "detail": "• Unqualified use of the term fish in a product name requires that fish ingredients be at least 95% of the total weight of all ingredients other than of water used in processing, but in no case <70% of the total product\n• Use of the term fish with a qualifier (fish dinner, fish entree, fish formula) requires that fish ingredients be at least 25% of the total weight of all ingredients other than water used in processing, but in no case <10% of the total product\n• The term with fish requires that fish ingredients be at least 3% of the total product\n• Fish flavor indicates that fish is <3% of the total product. Fish flavor doesn’t stipulate a minimum, only that it is detectable by the pet.\n• Ingredient that provides the characterizing flavor (fish digest, fish byproducts) may be <1% of the total product"
+    "detail": "• Unqualified use of the term fish in product name requires fish ingredients be at least 95% of the total weight other than water used in processing, but in no case <70% of the total product\n• Use of the term fish with a qualifier (fish dinner, fish entree, fish formula) requires that fish ingredients be at least 25% of the total weight of all ingredients other than water used in processing, but in no case <10% of the total product\n• The term ‘with fish’ requires that fish ingredients be at least 3% of the total product\n• Fish flavor indicates that fish is <3% of the total product; enough for it to be detectable by the pet\n• Ingredient that provides the characterizing flavor (fish digest, fish byproducts) may be <1% of the total product"
   },
   {
     "title": "Food and nutrition terms",
-    "detail": "• Digestibility: A measure of a diet’s quality; proportion of nutrients in the food that are available for absorption into the body; not required by AAFCO to provide digestibility levels on food labels\n• Dry-matter basis: Amount of nutrient in a food after the moisture has been removed\n• Energy density: Percentage of a nutrient multiplied by the modified Atwater factor for that nutrient\n• Hydrolyzation: A process that reduces proteins to small peptides and amino acids\n• Specific-purpose diets: Certain life stages or medical conditions (kidney disease); prescribed and monitored by animal health professionals\n• All-purpose diets: For feeding healthy animals of any age; complete and balanced—AAFCO has feeding trial guidelines for diets labeled as complete and balanced for adult maintenance, growth, and gestation/lactation (none for senior diets)"
+    "detail": "• Digestibility: A measure of a diet’s quality; proportion of nutrients in the food that are available for absorption into the body; not required by AAFCO to provide digestibility levels on food labels\n• Dry-matter basis: Amount of nutrient in food after moisture is removed\n• Energy density: Percentage of a nutrient multiplied by the modified Atwater factor for that nutrient\n• Hydrolyzation: A process that reduces proteins to small peptides and amino acids\n• Specific-purpose diets: Certain life stages or medical conditions (kidney disease); prescribed and monitored by animal health professionals\n• All-purpose diets: For feeding healthy animals of any age; complete and balanced—AAFCO has feeding trial guidelines for diets labeled as complete and balanced for adult maintenance, growth, and gestation/lactation (none for senior diets)"
   },
   {
     "title": "Cachexia",
@@ -1049,7 +1081,7 @@
   },
   {
     "title": "Massage techniques",
-    "detail": "• Petrissage: Roll, squeeze, compress, and kneading the skin and muscles to increase circulation, which increases supply of oxygen and nutrients to the tissues and encourages muscle relaxation; used to encourage breakdown and mobilization of adhesions in damaged tissues, to soften fascia, and to prevent injury.\n• Effleurage: Gentle use of palm of the hand, stroking toward the heart, which encourages lymphatic and venous return, and distal to proximal limb; used before others to familiarize animal to touch; 10 minutes\n• Percussion: Gentle tapping the skin with the palm or the side of the hand; increases blood supply to tissues, aids muscle relaxation\n• Vibration: A group of muscles is slowly moved in a to-and-fro movement or by holding the paw to stimulate the whole limb; useful at the end to relax muscles\n• Friction: Common over tendons in tendonitis, break up scar tissue and adhesions; promotes circulation\n• Tapotement: Tapping of hands or fingers to stimulate nerve endings in shorter time, or if used longer, to sedate; incl. coupage to loosen phlegm"
+    "detail": "• Petrissage: Roll, squeeze, compress, and kneading the skin and muscles to increase circulation, which increases supply of oxygen and nutrients to the tissues and encourages muscle relaxation; used to encourage breakdown and mobilization of adhesions in damaged tissues, to soften fascia, and to prevent injury\n• Effleurage: Gentle use of palm of the hand, stroking toward the heart, which encourages lymphatic and venous return, and distal to proximal limb; used before others to familiarize animal to touch; 10 minutes\n• Percussion: Gentle tapping the skin with the palm or the side of the hand; increases blood supply to tissues, aids muscle relaxation\n• Vibration: A group of muscles is slowly moved in a to-and-fro movement or by holding the paw to stimulate the whole limb; useful at the end to relax muscles\n• Friction: Common over tendons in tendonitis, break up scar tissue and adhesions; promotes circulation\n• Tapotement: Tapping of hands or fingers to stimulate nerve endings in shorter time, or if used longer, to sedate; incl. coupage to loosen phlegm"
   },
   {
     "title": "Panosteitis",
@@ -1069,7 +1101,7 @@
   },
   {
     "title": "Myoclonus",
-    "detail": "• Brief twitches of a muscle or muscle groups."
+    "detail": "• Brief twitches of a muscle or muscle groups"
   },
   {
     "title": "Figure-of-eight bandaging",
@@ -1117,6 +1149,6 @@
   },
   {
     "title": "Extrinsic vs. intrinsic muscles",
-    "detail": "• Intrinsic muscles are responsible for moving the lips, cheeks, nostrils, eyelids, and external ears\n• Extrinsic muscles run from one region of the body to another and alter the position of the whole part"
+    "detail": "• Extrinsic muscles attach the limb to the body\n• Run from one region of the body to another and alter the position of the whole part\n• Intrinsic muscles originate and insert on the limb; responsible for moving lips, cheeks, nostrils, eyelids, external ears"
   }
 ]
